@@ -235,13 +235,16 @@ class MusicDataFetcher:
             return {}
 
     def get_genre_releases(self, genre_keywords):
-        """Get new releases for a specific genre"""
+        """Get new releases for a specific genre with proper filtering"""
         # Get US market new releases - these are already curated by Spotify
         all_releases = self.get_new_releases(limit=50)
 
-        # Simple filtering: just date and popularity, no strict genre matching
+        # Filter by genre, date, and popularity
         filtered = []
-        cutoff_date = datetime.now() - timedelta(days=30)
+        cutoff_date = datetime.now() - timedelta(days=60)  # 60-day window
+
+        print(f"🔍 Filtering for genres: {genre_keywords}")
+        print(f"   Looking for albums from last 60 days...")
 
         for album in all_releases:
             # Parse release date
@@ -256,18 +259,52 @@ class MusicDataFetcher:
             except:
                 continue
 
-            # Only include albums from the last 30 days
-            if album_date >= cutoff_date:
-                filtered.append(album)
+            # Check if within date range
+            if album_date < cutoff_date:
+                continue
 
-        # Sort by popularity and return top 10
+            # Get artist genre info
+            artists = album.get('artists', [])
+            if not artists:
+                continue
+
+            try:
+                artist_id = artists[0]['id']
+                artist_info = self.get_artist_info(artist_id)
+                artist_genres = artist_info.get('genres', [])
+
+                if artist_genres:
+                    genres_str = ' '.join(artist_genres).lower()
+                    # Check if any of our genre keywords match
+                    genre_keywords_list = [kw.strip().lower() for kw in genre_keywords.split(',')]
+                    genre_match = any(
+                        keyword in genres_str
+                        for keyword in genre_keywords_list
+                    )
+
+                    if genre_match:
+                        popularity = album.get('popularity', 0)
+                        print(f"   ✅ Matched: {album.get('name', 'Unknown')} (Pop: {popularity}) - Genres: {artist_genres}")
+                        filtered.append(album)
+                    else:
+                        print(f"   ❌ Skipped: {album.get('name', 'Unknown')} - Genres: {artist_genres}")
+                else:
+                    # No genres available - skip it for cleaner results
+                    print(f"   ⚠️  No genres for: {album.get('name', 'Unknown')} - Skipping")
+
+                time.sleep(0.1)  # Rate limiting
+            except Exception as e:
+                print(f"   ⚠️  Error checking {album.get('name', 'Unknown')}: {e}")
+                continue
+
+        # Sort by popularity and return top 25
         filtered.sort(key=lambda x: x.get('popularity', 0), reverse=True)
 
-        print(f"✅ Found {len(filtered)} recent albums, returning top 10 by popularity")
+        print(f"✅ Found {len(filtered)} matching albums, returning top 25 by popularity")
         if filtered:
             print(f"   Top: {filtered[0].get('name', 'Unknown')} (Pop: {filtered[0].get('popularity', 0)})")
 
-        return filtered[:10]
+        return filtered[:25]
 
     def get_album_details(self, album):
         """Extract relevant album details"""
@@ -399,13 +436,31 @@ def main():
         print("\n" + "-"*60)
         print("Fetching Hip Hop releases...")
         print("-"*60)
-        hiphop_albums = fetcher.get_genre_releases('hip hop rap')
+        # Comprehensive hip-hop/rap genre keywords
+        hiphop_genres = (
+            "hip hop, rap, trap, southern hip hop, gangsta rap, "
+            "east coast hip hop, west coast rap, conscious hip hop, "
+            "underground hip hop, pop rap, cloud rap, drill, grime, "
+            "uk hip hop, alternative hip hop, experimental hip hop, "
+            "emo rap, melodic rap, atlanta hip hop, chicago rap, "
+            "detroit hip hop, phonk, rage"
+        )
+        hiphop_albums = fetcher.get_genre_releases(hiphop_genres)
         hiphop_data = [fetcher.get_album_details(album) for album in hiphop_albums]
 
         print("\n" + "-"*60)
         print("Fetching Alternative Rock releases...")
         print("-"*60)
-        rock_albums = fetcher.get_genre_releases('alternative rock indie')
+        # Comprehensive alternative/indie rock genre keywords
+        rock_genres = (
+            "alternative rock, indie rock, indie pop, alternative, "
+            "modern rock, rock, garage rock, post-punk, new wave, "
+            "shoegaze, dream pop, psychedelic rock, art rock, "
+            "noise rock, math rock, post-rock, emo, pop punk, "
+            "punk rock, indie folk, folk rock, indietronica, "
+            "bedroom pop, lo-fi"
+        )
+        rock_albums = fetcher.get_genre_releases(rock_genres)
         rock_data = [fetcher.get_album_details(album) for album in rock_albums]
 
         print("\n" + "-"*60)

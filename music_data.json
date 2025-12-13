@@ -1,37 +1,87 @@
 {
-  "hiphop": [
-    {
-      "name": "Sample Hip Hop Album",
-      "artists": "Demo Artist",
-      "release_date": "2024-12-06",
-      "image": "https://via.placeholder.com/300?text=Hip+Hop+Album",
-      "spotify_url": "#",
-      "apple_music_url": "https://music.apple.com/us/search?term=sample+album",
-      "total_tracks": 12,
-      "album_type": "album"
-    }
-  ],
-  "rock": [
-    {
-      "name": "Sample Rock Album",
-      "artists": "Demo Rock Band",
-      "release_date": "2024-12-06",
-      "image": "https://via.placeholder.com/300?text=Rock+Album",
-      "spotify_url": "#",
-      "apple_music_url": "https://music.apple.com/us/search?term=sample+rock+album",
-      "total_tracks": 10,
-      "album_type": "album"
-    }
-  ],
+  "hiphop": [],
+  "rock": [],
   "news": [
     {
-      "title": "Welcome to Your Music Updates Site!",
-      "link": "#",
-      "source": "Demo",
+      "title": "Best AirPods Deals for the Holidays",
+      "link": "https://consequence.net/2025/12/best-holiday-airpods-deals-2025/",
+      "source": "Consequence",
       "category": "general",
-      "published": "2024-12-12 12:00",
-      "summary": "This is sample data. Once you set up your Spotify API credentials, you'll see real music releases and news here. Follow the setup instructions in README.md to get started!"
+      "published": "2025-12-12 21:08",
+      "summary": "<p>Discounts include the lowest price yet for AirPods Pro 3 and a great deal on AirPods 4 with Noise Cancellation.</p>\n<p><a href=\"https://consequence.net/2025/12/best-holiday-airpods-deals-2025/\" rel..."
+    },
+    {
+      "title": "Milwaukee Metal Fest 2026 Lineup: Acid Bath, Killswitch Engage, and Ministry",
+      "link": "https://consequence.net/2025/12/milwaukee-metal-fest-2026-lineup/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2025-12-12 21:08",
+      "summary": "<p>Dozens of band will play the three-day festival in June.</p>\n<p><a href=\"https://consequence.net/2025/12/milwaukee-metal-fest-2026-lineup/\" rel=\"nofollow\">Milwaukee Metal Fest 2026 Lineup: Acid Bat..."
+    },
+    {
+      "title": "Prime Video Pulls AI Show Recaps After Fans Spot Fallout Errors",
+      "link": "https://consequence.net/2025/12/prime-video-removes-ai-recaps-fallout-errors/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2025-12-12 20:58",
+      "summary": "<p>The video made multiple incorrect claims about the details of the show's first season.</p>\n<p><a href=\"https://consequence.net/2025/12/prime-video-removes-ai-recaps-fallout-errors/\" rel=\"nofollow\">..."
+    },
+    {
+      "title": "A Bunch of Famous Rockers Played the Most Ridiculous Corporate Holiday Party",
+      "link": "https://consequence.net/2025/12/corporate-holiday-party-slash-eddie-vedder-eldridge-industries/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2025-12-12 19:43",
+      "summary": "<p>Headliner Slash was joined by Eddie Vedder, Anthony Kiedis, YUNGBLUD, Brandi Carlile, and Bruno Mars at the Eldridge Industries holiday party.</p>\n<p><a href=\"https://consequence.net/2025/12/corpor..."
+    },
+    {
+      "title": "Stand by Me Cast to Reunite Live on 40th Anniversary Tour",
+      "link": "https://consequence.net/2025/12/stand-by-me-40th-anniversary-tour-dates/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2025-12-12 19:38",
+      "summary": "<p>This spring, Corey Feldman, Jerry O'Connell, and Wil Wheaton will appear live in person to remember making the classic Stephen King adaptation. </p>\n<p><a href=\"https://consequence.net/2025/12/stan..."
+    },
+    {
+      "title": "Alabama Shakes Set Spring 2026 Tour Dates",
+      "link": "https://pitchfork.com/news/alabama-shakes-set-spring-2026-tour-dates/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2025-12-12 17:56",
+      "summary": "Brittany Howard and the band extend their return to the stage..."
+    },
+    {
+      "title": "Pooh Shiesty Drops First Single Since Prison Release",
+      "link": "https://pitchfork.com/news/pooh-shiesty-drops-first-single-since-prison-release/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2025-12-12 16:06",
+      "summary": "\u201cFDO\u201d arrives with a homecoming music video..."
+    },
+    {
+      "title": "8 New Albums You Should Listen to Now: 21 Savage, This Is Lorelei, and More",
+      "link": "https://pitchfork.com/news/8-new-albums-you-should-listen-to-now-21-savage-this-is-lorelei/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2025-12-12 16:04",
+      "summary": "Stream new releases from 21 Savage, This Is Lorelei, Fred Again.., Nas & DJ Premier, Conway the Machine, Hercules & Love Affair, Leif, and Fucked Up..."
+    },
+    {
+      "title": "London Venue Apologizes After Primal Scream Display Star of David Entwined With Swastika",
+      "link": "https://pitchfork.com/news/london-venue-apologizes-after-primal-scream-display-star-of-david-entwined-with-swastika/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2025-12-12 14:25",
+      "summary": "The band said its film is \u201cmeant to provoke debate, not hate\u201d..."
+    },
+    {
+      "title": "Brian Eno, Neneh Cherry, and More Release Palestine Benefit Single",
+      "link": "https://pitchfork.com/news/brian-eno-neneh-cherry-and-more-release-palestine-benefit-single-listen/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2025-12-12 05:03",
+      "summary": "The Together for Palestine ensemble\u2014also featuring Nadine Shah, Mabel, Celeste, and more\u2014collaborated on \u201cLullaby\u201d..."
     }
   ],
-  "last_updated": "2024-12-12T12:00:00"
+  "last_updated": "2025-12-13T02:58:36.489764"
 }

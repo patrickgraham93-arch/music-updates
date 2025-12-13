@@ -47,6 +47,36 @@ class MusicDataFetcher:
             print(f"❌ Error getting Spotify token: {e}")
             return None
 
+    def get_full_album_details(self, album_id):
+        """Get full album details including popularity"""
+        if not self.spotify_token:
+            return None
+
+        headers = {"Authorization": f"Bearer {self.spotify_token}"}
+        url = f"https://api.spotify.com/v1/albums/{album_id}"
+
+        try:
+            response = requests.get(url, headers=headers)
+            response.raise_for_status()
+            return response.json()
+        except:
+            return None
+
+    def enrich_albums_with_popularity(self, albums):
+        """Fetch full details for albums to get popularity scores"""
+        enriched = []
+        print(f"   Fetching popularity scores for {len(albums)} albums...")
+
+        for album in albums:
+            full_album = self.get_full_album_details(album['id'])
+            if full_album:
+                # Merge the full album data with the simplified version
+                album['popularity'] = full_album.get('popularity', 0)
+                enriched.append(album)
+                time.sleep(0.1)  # Rate limiting
+
+        return enriched
+
     def get_new_releases(self, limit=50):
         """Get new album releases from Spotify"""
         if not self.spotify_token:
@@ -61,6 +91,10 @@ class MusicDataFetcher:
             response.raise_for_status()
             albums = response.json()['albums']['items']
             print(f"✅ Found {len(albums)} new releases from Spotify")
+
+            # Enrich with popularity data
+            albums = self.enrich_albums_with_popularity(albums)
+
             return albums
         except Exception as e:
             print(f"❌ Error fetching new releases: {e}")
@@ -87,6 +121,10 @@ class MusicDataFetcher:
             response.raise_for_status()
             albums = response.json()['albums']['items']
             print(f"✅ Found {len(albums)} {genre} albums from search")
+
+            # Enrich with popularity data
+            albums = self.enrich_albums_with_popularity(albums)
+
             return albums
         except Exception as e:
             print(f"❌ Error searching {genre} releases: {e}")

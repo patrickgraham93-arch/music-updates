@@ -2,8 +2,8 @@ name: Update Music Data
 
 on:
   schedule:
-    - cron: '0 5 * * 5'
-    - cron: '0 16 * * *'
+    - cron: '0 6 * * 5'  # Fridays at 1:00 AM EST (6:00 AM UTC)
+    - cron: '0 17 * * *'  # Daily at 12:00 PM EST (5:00 PM UTC)
   workflow_dispatch:
 
 permissions:

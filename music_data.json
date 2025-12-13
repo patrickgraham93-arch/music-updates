@@ -1,6 +1,28 @@
 {
-  "hiphop": [],
-  "rock": [],
+  "hiphop": [
+    {
+      "name": "Sample Hip Hop Album",
+      "artists": "Demo Artist",
+      "release_date": "2025-12-06",
+      "image": "https://via.placeholder.com/300?text=Hip+Hop+Album",
+      "spotify_url": "#",
+      "apple_music_url": "https://music.apple.com/us/search?term=sample+album",
+      "total_tracks": 12,
+      "album_type": "album"
+    }
+  ],
+  "rock": [
+    {
+      "name": "Sample Rock Album",
+      "artists": "Demo Rock Band",
+      "release_date": "2025-12-06",
+      "image": "https://via.placeholder.com/300?text=Rock+Album",
+      "spotify_url": "#",
+      "apple_music_url": "https://music.apple.com/us/search?term=sample+rock+album",
+      "total_tracks": 10,
+      "album_type": "album"
+    }
+  ],
   "news": [
     {
       "title": "Best AirPods Deals for the Holidays",
@@ -79,9 +101,9 @@
       "link": "https://pitchfork.com/news/brian-eno-neneh-cherry-and-more-release-palestine-benefit-single-listen/",
       "source": "Pitchfork",
       "category": "general",
-      "published": "2025-12-12 05:03",
-      "summary": "The Together for Palestine ensemble\u2014also featuring Nadine Shah, Mabel, Celeste, and more\u2014collaborated on \u201cLullaby\u201d..."
+      "published": "2025-12-13 12:00",
+      "summary": "This is sample data. Once you set up your Spotify API credentials, you'll see real music releases and news here. Follow the setup instructions in README.md to get started!"
     }
   ],
-  "last_updated": "2025-12-13T02:58:36.489764"
+  "last_updated": "2025-12-13T12:00:00"
 }

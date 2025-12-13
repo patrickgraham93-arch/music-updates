@@ -10,322 +10,591 @@
             padding: 0;
             box-sizing: border-box;
         }
-        
+
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #0a0a0a;
             min-height: 100vh;
             padding: 20px;
-            color: #333;
+            color: #fff;
+            position: relative;
+            overflow-x: hidden;
         }
-        
+
+        /* Animated gradient background */
+        body::before {
+            content: '';
+            position: fixed;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background:
+                radial-gradient(circle at 20% 50%, rgba(120, 119, 198, 0.3), transparent 50%),
+                radial-gradient(circle at 80% 80%, rgba(138, 43, 226, 0.3), transparent 50%),
+                radial-gradient(circle at 40% 20%, rgba(75, 0, 130, 0.2), transparent 50%);
+            animation: gradientShift 15s ease infinite;
+            z-index: -1;
+        }
+
+        @keyframes gradientShift {
+            0%, 100% { transform: translate(0, 0) rotate(0deg); }
+            33% { transform: translate(5%, -5%) rotate(120deg); }
+            66% { transform: translate(-5%, 5%) rotate(240deg); }
+        }
+
+        /* Floating music notes animation */
+        .music-note {
+            position: fixed;
+            font-size: 2em;
+            opacity: 0.1;
+            animation: float 20s infinite;
+            z-index: -1;
+        }
+
+        .music-note:nth-child(1) { left: 10%; animation-delay: 0s; }
+        .music-note:nth-child(2) { left: 30%; animation-delay: 5s; }
+        .music-note:nth-child(3) { left: 50%; animation-delay: 10s; }
+        .music-note:nth-child(4) { left: 70%; animation-delay: 15s; }
+        .music-note:nth-child(5) { left: 90%; animation-delay: 7s; }
+
+        @keyframes float {
+            0% {
+                transform: translateY(100vh) rotate(0deg);
+                opacity: 0;
+            }
+            10% { opacity: 0.1; }
+            90% { opacity: 0.1; }
+            100% {
+                transform: translateY(-100px) rotate(360deg);
+                opacity: 0;
+            }
+        }
+
         .container {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
+            position: relative;
+            z-index: 1;
         }
-        
+
         header {
             text-align: center;
-            margin-bottom: 40px;
-            color: white;
+            margin-bottom: 50px;
+            animation: fadeInDown 0.8s ease;
         }
-        
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
         header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            font-size: 4em;
+            margin-bottom: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-weight: 900;
+            letter-spacing: -2px;
+            text-shadow: 0 0 30px rgba(102, 126, 234, 0.5);
+            animation: glow 3s ease-in-out infinite;
         }
-        
+
+        @keyframes glow {
+            0%, 100% { filter: drop-shadow(0 0 10px rgba(102, 126, 234, 0.5)); }
+            50% { filter: drop-shadow(0 0 20px rgba(138, 43, 226, 0.8)); }
+        }
+
         header p {
-            font-size: 1.1em;
-            opacity: 0.9;
+            font-size: 1.3em;
+            color: #a0a0a0;
+            font-weight: 300;
         }
-        
+
         .last-updated {
-            background: rgba(255,255,255,0.2);
-            padding: 10px 20px;
-            border-radius: 20px;
+            background: rgba(255,255,255,0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.1);
+            padding: 12px 25px;
+            border-radius: 25px;
             display: inline-block;
-            margin-top: 15px;
+            margin-top: 20px;
             font-size: 0.9em;
+            color: #b0b0b0;
+            transition: all 0.3s ease;
         }
-        
+
+        .last-updated:hover {
+            background: rgba(255,255,255,0.1);
+            border-color: rgba(102, 126, 234, 0.5);
+            transform: translateY(-2px);
+        }
+
         .section {
-            background: white;
-            border-radius: 15px;
-            padding: 30px;
-            margin-bottom: 30px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            animation: fadeInUp 0.8s ease;
+            animation-fill-mode: both;
+            transition: all 0.3s ease;
         }
-        
+
+        .section:hover {
+            border-color: rgba(102, 126, 234, 0.3);
+            box-shadow: 0 20px 80px rgba(102, 126, 234, 0.2);
+        }
+
+        .section:nth-child(2) { animation-delay: 0.1s; }
+        .section:nth-child(3) { animation-delay: 0.2s; }
+        .section:nth-child(4) { animation-delay: 0.3s; }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
         .section h2 {
-            font-size: 1.8em;
-            margin-bottom: 20px;
-            color: #667eea;
-            border-bottom: 3px solid #667eea;
-            padding-bottom: 10px;
+            font-size: 2.2em;
+            margin-bottom: 30px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-weight: 800;
+            position: relative;
+            padding-bottom: 15px;
         }
-        
+
+        .section h2::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 80px;
+            height: 4px;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            border-radius: 2px;
+        }
+
         .albums-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 25px;
-            margin-top: 20px;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 30px;
         }
-        
+
         .album-card {
-            background: #f8f9fa;
-            border-radius: 12px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 16px;
             overflow: hidden;
-            transition: transform 0.3s, box-shadow 0.3s;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
             cursor: pointer;
+            position: relative;
         }
-        
+
+        .album-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
+            opacity: 0;
+            transition: opacity 0.4s ease;
+        }
+
         .album-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+            transform: translateY(-10px) scale(1.02);
+            box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);
+            border-color: rgba(102, 126, 234, 0.5);
         }
-        
+
+        .album-card:hover::before {
+            opacity: 1;
+        }
+
         .album-image {
             width: 100%;
-            height: 280px;
+            height: 300px;
             object-fit: cover;
-            background: #e9ecef;
+            background: linear-gradient(135deg, #1a1a1a, #2d2d2d);
+            transition: transform 0.4s ease;
         }
-        
+
+        .album-card:hover .album-image {
+            transform: scale(1.05);
+        }
+
         .album-info {
-            padding: 15px;
+            padding: 20px;
+            position: relative;
+            z-index: 1;
         }
-        
+
         .album-name {
-            font-size: 1.1em;
-            font-weight: bold;
-            margin-bottom: 5px;
-            color: #2d3748;
-        }
-        
-        .album-artist {
-            color: #718096;
+            font-size: 1.2em;
+            font-weight: 700;
             margin-bottom: 8px;
-            font-size: 0.95em;
+            color: #fff;
+            line-height: 1.3;
         }
-        
+
+        .album-artist {
+            color: #a0a0a0;
+            margin-bottom: 12px;
+            font-size: 1em;
+            font-weight: 400;
+        }
+
         .album-meta {
             display: flex;
             justify-content: space-between;
             font-size: 0.85em;
-            color: #a0aec0;
-            margin-bottom: 12px;
+            color: #707070;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+            gap: 8px;
         }
-        
+
+        .album-meta span {
+            background: rgba(255,255,255,0.05);
+            padding: 4px 10px;
+            border-radius: 8px;
+        }
+
         .album-links {
             display: flex;
-            gap: 10px;
+            gap: 12px;
         }
-        
+
         .btn {
             flex: 1;
-            padding: 8px 15px;
-            border-radius: 6px;
+            padding: 12px 20px;
+            border-radius: 10px;
             text-decoration: none;
             text-align: center;
             font-size: 0.9em;
-            font-weight: 600;
-            transition: all 0.3s;
+            font-weight: 700;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            position: relative;
+            overflow: hidden;
         }
-        
-        .btn-apple {
-            background: #fc3c44;
-            color: white;
+
+        .btn::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.2);
+            transform: translate(-50%, -50%);
+            transition: width 0.6s, height 0.6s;
         }
-        
-        .btn-apple:hover {
-            background: #d62d35;
+
+        .btn:hover::before {
+            width: 300px;
+            height: 300px;
         }
-        
+
+        .btn span {
+            position: relative;
+            z-index: 1;
+        }
+
         .btn-spotify {
-            background: #1DB954;
+            background: linear-gradient(135deg, #1DB954, #1ed760);
             color: white;
+            box-shadow: 0 4px 15px rgba(29, 185, 84, 0.3);
         }
-        
+
         .btn-spotify:hover {
-            background: #1aa34a;
+            box-shadow: 0 6px 25px rgba(29, 185, 84, 0.5);
+            transform: translateY(-2px);
         }
-        
+
+        .btn-apple {
+            background: linear-gradient(135deg, #fc3c44, #ff5e62);
+            color: white;
+            box-shadow: 0 4px 15px rgba(252, 60, 68, 0.3);
+        }
+
+        .btn-apple:hover {
+            box-shadow: 0 6px 25px rgba(252, 60, 68, 0.5);
+            transform: translateY(-2px);
+        }
+
         .news-grid {
             display: grid;
-            gap: 20px;
+            gap: 25px;
         }
-        
+
         .news-item {
-            background: #f8f9fa;
+            background: rgba(255, 255, 255, 0.05);
             border-left: 4px solid #667eea;
-            padding: 20px;
-            border-radius: 8px;
-            transition: all 0.3s;
+            padding: 25px;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
         }
-        
+
+        .news-item::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: linear-gradient(180deg, #667eea, #764ba2);
+            transition: width 0.3s ease;
+        }
+
         .news-item:hover {
-            background: #e9ecef;
-            border-left-color: #764ba2;
+            background: rgba(255, 255, 255, 0.08);
+            transform: translateX(5px);
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.2);
         }
-        
+
+        .news-item:hover::before {
+            width: 100%;
+            opacity: 0.1;
+        }
+
         .news-header {
             display: flex;
             justify-content: space-between;
             align-items: start;
-            margin-bottom: 10px;
+            margin-bottom: 12px;
             flex-wrap: wrap;
             gap: 10px;
         }
-        
+
         .news-title {
-            font-size: 1.2em;
-            font-weight: bold;
-            color: #2d3748;
+            font-size: 1.3em;
+            font-weight: 700;
+            color: #fff;
             flex: 1;
+            line-height: 1.4;
         }
-        
+
         .news-title a {
-            color: #2d3748;
+            color: #fff;
             text-decoration: none;
+            transition: color 0.3s ease;
         }
-        
+
         .news-title a:hover {
             color: #667eea;
         }
-        
+
         .news-meta {
             display: flex;
             gap: 15px;
             font-size: 0.85em;
-            color: #718096;
-            margin-bottom: 10px;
+            color: #808080;
+            margin-bottom: 12px;
+            flex-wrap: wrap;
         }
-        
+
         .news-source {
-            font-weight: 600;
+            font-weight: 700;
             color: #667eea;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
-        
+
         .news-category {
-            background: #e9ecef;
-            padding: 2px 8px;
-            border-radius: 4px;
+            background: rgba(102, 126, 234, 0.2);
+            padding: 3px 10px;
+            border-radius: 6px;
             text-transform: uppercase;
             font-size: 0.75em;
+            font-weight: 700;
+            letter-spacing: 0.5px;
         }
-        
+
         .news-summary {
-            color: #4a5568;
-            line-height: 1.6;
+            color: #b0b0b0;
+            line-height: 1.7;
         }
-        
+
         .empty-state {
             text-align: center;
-            padding: 40px;
-            color: #718096;
+            padding: 60px 20px;
+            color: #707070;
         }
-        
+
         .empty-state-icon {
-            font-size: 3em;
-            margin-bottom: 15px;
+            font-size: 4em;
+            margin-bottom: 20px;
+            opacity: 0.3;
+            animation: pulse 2s ease-in-out infinite;
         }
-        
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); opacity: 0.3; }
+            50% { transform: scale(1.1); opacity: 0.5; }
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: #808080;
+            font-size: 1.2em;
+        }
+
+        .loading::after {
+            content: '...';
+            animation: dots 1.5s steps(4, end) infinite;
+        }
+
+        @keyframes dots {
+            0%, 20% { content: '.'; }
+            40% { content: '..'; }
+            60%, 100% { content: '...'; }
+        }
+
+        /* Genre badges */
+        h3 {
+            margin: 30px 0 20px 0;
+            color: #fff;
+            font-size: 1.5em;
+            font-weight: 700;
+            position: relative;
+            padding-left: 20px;
+        }
+
+        h3::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            box-shadow: 0 0 10px rgba(102, 126, 234, 0.8);
+        }
+
         @media (max-width: 768px) {
             header h1 {
-                font-size: 2em;
+                font-size: 2.5em;
             }
-            
+
             .section {
-                padding: 20px;
+                padding: 25px;
             }
-            
+
             .albums-grid {
                 grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-                gap: 15px;
+                gap: 20px;
             }
-            
+
             .album-image {
                 height: 150px;
             }
-            
+
             .album-info {
-                padding: 10px;
+                padding: 15px;
             }
-            
+
             .album-name {
-                font-size: 0.95em;
+                font-size: 1em;
             }
-            
+
             .btn {
-                font-size: 0.8em;
-                padding: 6px 10px;
+                font-size: 0.75em;
+                padding: 10px 15px;
             }
-        }
-        
-        .loading {
-            text-align: center;
-            padding: 40px;
-            color: white;
-            font-size: 1.2em;
         }
     </style>
 </head>
 <body>
+    <!-- Floating music notes -->
+    <div class="music-note">♪</div>
+    <div class="music-note">♫</div>
+    <div class="music-note">♪</div>
+    <div class="music-note">♫</div>
+    <div class="music-note">♪</div>
+
     <div class="container">
         <header>
-            <h1>🎵 Music Updates</h1>
+            <h1>🎵 MUSIC UPDATES</h1>
             <p>Your weekly source for hip hop & alternative rock releases</p>
             <div class="last-updated" id="lastUpdated">Loading...</div>
         </header>
-        
+
         <div class="section">
             <h2>🎤 New Hip Hop Releases</h2>
             <div class="albums-grid" id="hiphopAlbums">
-                <div class="loading">Loading hip hop releases...</div>
+                <div class="loading">Loading hip hop releases</div>
             </div>
         </div>
-        
+
         <div class="section">
             <h2>🎸 New Alternative Rock Releases</h2>
             <div class="albums-grid" id="rockAlbums">
-                <div class="loading">Loading rock releases...</div>
+                <div class="loading">Loading rock releases</div>
             </div>
         </div>
-        
+
         <div class="section">
             <h2>📰 Music News</h2>
             <div class="news-grid" id="newsItems">
-                <div class="loading">Loading music news...</div>
+                <div class="loading">Loading music news</div>
             </div>
         </div>
     </div>
-    
+
     <script>
         async function loadMusicData() {
             try {
                 const response = await fetch('music_data.json');
                 const data = await response.json();
-                
+
                 const lastUpdated = new Date(data.last_updated);
-                document.getElementById('lastUpdated').textContent = 
+                document.getElementById('lastUpdated').textContent =
                     `Last updated: ${lastUpdated.toLocaleString()}`;
-                
+
                 displayAlbums(data.hiphop, 'hiphopAlbums');
                 displayAlbums(data.rock, 'rockAlbums');
                 displayNews(data.news);
-                
+
             } catch (error) {
                 console.error('Error loading music data:', error);
-                document.getElementById('hiphopAlbums').innerHTML = 
+                document.getElementById('hiphopAlbums').innerHTML =
                     '<div class="empty-state"><div class="empty-state-icon">⚠️</div><p>Error loading data. Please try again later.</p></div>';
             }
         }
-        
+
         function displayAlbums(albums, containerId) {
             const container = document.getElementById(containerId);
-            
+
             if (!albums || albums.length === 0) {
                 container.innerHTML = `
                     <div class="empty-state">
@@ -335,10 +604,10 @@
                 `;
                 return;
             }
-            
+
             container.innerHTML = albums.map(album => `
                 <div class="album-card">
-                    <img src="${album.image}" alt="${album.name}" class="album-image" 
+                    <img src="${album.image}" alt="${album.name}" class="album-image"
                          onerror="this.src='https://via.placeholder.com/300?text=No+Image'">
                     <div class="album-info">
                         <div class="album-name">${album.name}</div>
@@ -349,21 +618,21 @@
                             <span>${formatDate(album.release_date)}</span>
                         </div>
                         <div class="album-links">
-                            <a href="${album.apple_music_url}" target="_blank" class="btn btn-apple">
-                                Apple Music
-                            </a>
                             <a href="${album.spotify_url}" target="_blank" class="btn btn-spotify">
-                                Spotify
+                                <span>Spotify</span>
+                            </a>
+                            <a href="${album.apple_music_url}" target="_blank" class="btn btn-apple">
+                                <span>Apple</span>
                             </a>
                         </div>
                     </div>
                 </div>
             `).join('');
         }
-        
+
         function displayNews(newsItems) {
             const container = document.getElementById('newsItems');
-            
+
             if (!newsItems || newsItems.length === 0) {
                 container.innerHTML = `
                     <div class="empty-state">
@@ -373,31 +642,31 @@
                 `;
                 return;
             }
-            
+
             const hiphopNews = newsItems.filter(item => item.category === 'hiphop');
             const rockNews = newsItems.filter(item => item.category === 'rock');
             const generalNews = newsItems.filter(item => item.category === 'general');
-            
+
             let html = '';
-            
+
             if (hiphopNews.length > 0) {
-                html += '<h3 style="margin: 20px 0 15px 0; color: #667eea;">Hip Hop News</h3>';
+                html += '<h3>Hip Hop News</h3>';
                 html += renderNewsItems(hiphopNews);
             }
-            
+
             if (rockNews.length > 0) {
-                html += '<h3 style="margin: 20px 0 15px 0; color: #667eea;">Alternative Rock News</h3>';
+                html += '<h3>Alternative Rock News</h3>';
                 html += renderNewsItems(rockNews);
             }
-            
+
             if (generalNews.length > 0) {
-                html += '<h3 style="margin: 20px 0 15px 0; color: #667eea;">General Music News</h3>';
+                html += '<h3>General Music News</h3>';
                 html += renderNewsItems(generalNews);
             }
-            
+
             container.innerHTML = html;
         }
-        
+
         function renderNewsItems(items) {
             return items.map(item => `
                 <div class="news-item">
@@ -415,20 +684,24 @@
                 </div>
             `).join('');
         }
-        
+
         function formatDate(dateString) {
             const date = new Date(dateString);
             const now = new Date();
             const diffDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));
-            
+
             if (diffDays === 0) return 'Today';
             if (diffDays === 1) return 'Yesterday';
             if (diffDays < 7) return `${diffDays} days ago`;
-            
+            if (diffDays < 0) return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+
             return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
         }
-        
+
+        // Load data on page load
         loadMusicData();
+
+        // Refresh data every 5 minutes
         setInterval(loadMusicData, 5 * 60 * 1000);
     </script>
 </body>

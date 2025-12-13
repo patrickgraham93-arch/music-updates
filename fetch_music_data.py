@@ -83,10 +83,10 @@ class MusicDataFetcher:
             return []
 
         headers = {"Authorization": f"Bearer {self.spotify_token}"}
-        url = f"https://api.spotify.com/v1/browse/new-releases?limit={limit}"
+        url = f"https://api.spotify.com/v1/browse/new-releases?limit={limit}&market=US"
 
         try:
-            print(f"📀 Fetching new releases from Spotify...")
+            print(f"📀 Fetching new releases from Spotify (US market)...")
             response = requests.get(url, headers=headers)
             response.raise_for_status()
             albums = response.json()['albums']['items']
@@ -130,14 +130,15 @@ class MusicDataFetcher:
             print(f"❌ Error searching {genre} releases: {e}")
             return []
 
-    def filter_by_genre_and_recency(self, albums, genre_keywords, days=30, trust_source=False, min_popularity=40):
+    def filter_by_genre_and_recency(self, albums, genre_keywords, days=30, trust_source=False, min_popularity=0):
         """Filter albums by genre, release date, and popularity"""
         filtered = []
         cutoff_date = datetime.now() - timedelta(days=days)
 
         print(f"🔍 Filtering for {genre_keywords} albums from last {days} days...")
         print(f"   Trust source: {trust_source}")
-        print(f"   Minimum popularity: {min_popularity}")
+        if min_popularity > 0:
+            print(f"   Minimum popularity: {min_popularity}")
 
         for album in albums:
             # Parse release date

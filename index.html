@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Updates - Hip Hop & Alternative Rock</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            color: white;
+        }
+        
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .last-updated {
+            background: rgba(255,255,255,0.2);
+            padding: 10px 20px;
+            border-radius: 20px;
+            display: inline-block;
+            margin-top: 15px;
+            font-size: 0.9em;
+        }
+        
+        .section {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        .section h2 {
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            color: #667eea;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .albums-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 25px;
+            margin-top: 20px;
+        }
+        
+        .album-card {
+            background: #f8f9fa;
+            border-radius: 12px;
+            overflow: hidden;
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+        }
+        
+        .album-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+        }
+        
+        .album-image {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            background: #e9ecef;
+        }
+        
+        .album-info {
+            padding: 15px;
+        }
+        
+        .album-name {
+            font-size: 1.1em;
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: #2d3748;
+        }
+        
+        .album-artist {
+            color: #718096;
+            margin-bottom: 8px;
+            font-size: 0.95em;
+        }
+        
+        .album-meta {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.85em;
+            color: #a0aec0;
+            margin-bottom: 12px;
+        }
+        
+        .album-links {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .btn {
+            flex: 1;
+            padding: 8px 15px;
+            border-radius: 6px;
+            text-decoration: none;
+            text-align: center;
+            font-size: 0.9em;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+        
+        .btn-apple {
+            background: #fc3c44;
+            color: white;
+        }
+        
+        .btn-apple:hover {
+            background: #d62d35;
+        }
+        
+        .btn-spotify {
+            background: #1DB954;
+            color: white;
+        }
+        
+        .btn-spotify:hover {
+            background: #1aa34a;
+        }
+        
+        .news-grid {
+            display: grid;
+            gap: 20px;
+        }
+        
+        .news-item {
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            padding: 20px;
+            border-radius: 8px;
+            transition: all 0.3s;
+        }
+        
+        .news-item:hover {
+            background: #e9ecef;
+            border-left-color: #764ba2;
+        }
+        
+        .news-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .news-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #2d3748;
+            flex: 1;
+        }
+        
+        .news-title a {
+            color: #2d3748;
+            text-decoration: none;
+        }
+        
+        .news-title a:hover {
+            color: #667eea;
+        }
+        
+        .news-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.85em;
+            color: #718096;
+            margin-bottom: 10px;
+        }
+        
+        .news-source {
+            font-weight: 600;
+            color: #667eea;
+        }
+        
+        .news-category {
+            background: #e9ecef;
+            padding: 2px 8px;
+            border-radius: 4px;
+            text-transform: uppercase;
+            font-size: 0.75em;
+        }
+        
+        .news-summary {
+            color: #4a5568;
+            line-height: 1.6;
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 40px;
+            color: #718096;
+        }
+        
+        .empty-state-icon {
+            font-size: 3em;
+            margin-bottom: 15px;
+        }
+        
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+            
+            .section {
+                padding: 20px;
+            }
+            
+            .albums-grid {
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+                gap: 15px;
+            }
+            
+            .album-image {
+                height: 150px;
+            }
+            
+            .album-info {
+                padding: 10px;
+            }
+            
+            .album-name {
+                font-size: 0.95em;
+            }
+            
+            .btn {
+                font-size: 0.8em;
+                padding: 6px 10px;
+            }
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: white;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎵 Music Updates</h1>
+            <p>Your weekly source for hip hop & alternative rock releases</p>
+            <div class="last-updated" id="lastUpdated">Loading...</div>
+        </header>
+        
+        <div class="section">
+            <h2>🎤 New Hip Hop Releases</h2>
+            <div class="albums-grid" id="hiphopAlbums">
+                <div class="loading">Loading hip hop releases...</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>🎸 New Alternative Rock Releases</h2>
+            <div class="albums-grid" id="rockAlbums">
+                <div class="loading">Loading rock releases...</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>📰 Music News</h2>
+            <div class="news-grid" id="newsItems">
+                <div class="loading">Loading music news...</div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        async function loadMusicData() {
+            try {
+                const response = await fetch('music_data.json');
+                const data = await response.json();
+                
+                const lastUpdated = new Date(data.last_updated);
+                document.getElementById('lastUpdated').textContent = 
+                    `Last updated: ${lastUpdated.toLocaleString()}`;
+                
+                displayAlbums(data.hiphop, 'hiphopAlbums');
+                displayAlbums(data.rock, 'rockAlbums');
+                displayNews(data.news);
+                
+            } catch (error) {
+                console.error('Error loading music data:', error);
+                document.getElementById('hiphopAlbums').innerHTML = 
+                    '<div class="empty-state"><div class="empty-state-icon">⚠️</div><p>Error loading data. Please try again later.</p></div>';
+            }
+        }
+        
+        function displayAlbums(albums, containerId) {
+            const container = document.getElementById(containerId);
+            
+            if (!albums || albums.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">🎵</div>
+                        <p>No new releases this week. Check back Friday!</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = albums.map(album => `
+                <div class="album-card">
+                    <img src="${album.image}" alt="${album.name}" class="album-image" 
+                         onerror="this.src='https://via.placeholder.com/300?text=No+Image'">
+                    <div class="album-info">
+                        <div class="album-name">${album.name}</div>
+                        <div class="album-artist">${album.artists}</div>
+                        <div class="album-meta">
+                            <span>${album.album_type}</span>
+                            <span>${album.total_tracks} tracks</span>
+                            <span>${formatDate(album.release_date)}</span>
+                        </div>
+                        <div class="album-links">
+                            <a href="${album.apple_music_url}" target="_blank" class="btn btn-apple">
+                                Apple Music
+                            </a>
+                            <a href="${album.spotify_url}" target="_blank" class="btn btn-spotify">
+                                Spotify
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+        
+        function displayNews(newsItems) {
+            const container = document.getElementById('newsItems');
+            
+            if (!newsItems || newsItems.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">📰</div>
+                        <p>No recent news articles. Check back tomorrow!</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            const hiphopNews = newsItems.filter(item => item.category === 'hiphop');
+            const rockNews = newsItems.filter(item => item.category === 'rock');
+            const generalNews = newsItems.filter(item => item.category === 'general');
+            
+            let html = '';
+            
+            if (hiphopNews.length > 0) {
+                html += '<h3 style="margin: 20px 0 15px 0; color: #667eea;">Hip Hop News</h3>';
+                html += renderNewsItems(hiphopNews);
+            }
+            
+            if (rockNews.length > 0) {
+                html += '<h3 style="margin: 20px 0 15px 0; color: #667eea;">Alternative Rock News</h3>';
+                html += renderNewsItems(rockNews);
+            }
+            
+            if (generalNews.length > 0) {
+                html += '<h3 style="margin: 20px 0 15px 0; color: #667eea;">General Music News</h3>';
+                html += renderNewsItems(generalNews);
+            }
+            
+            container.innerHTML = html;
+        }
+        
+        function renderNewsItems(items) {
+            return items.map(item => `
+                <div class="news-item">
+                    <div class="news-header">
+                        <div class="news-title">
+                            <a href="${item.link}" target="_blank">${item.title}</a>
+                        </div>
+                    </div>
+                    <div class="news-meta">
+                        <span class="news-source">${item.source}</span>
+                        <span>${item.published}</span>
+                        <span class="news-category">${item.category}</span>
+                    </div>
+                    <div class="news-summary">${item.summary}</div>
+                </div>
+            `).join('');
+        }
+        
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            const now = new Date();
+            const diffDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));
+            
+            if (diffDays === 0) return 'Today';
+            if (diffDays === 1) return 'Yesterday';
+            if (diffDays < 7) return `${diffDays} days ago`;
+            
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        }
+        
+        loadMusicData();
+        setInterval(loadMusicData, 5 * 60 * 1000);
+    </script>
+</body>
+</html>

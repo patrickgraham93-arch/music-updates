@@ -111,17 +111,24 @@ class MusicDataFetcher:
                 else:  # Full date
                     album_date = datetime.strptime(release_date_str, "%Y-%m-%d")
 
-                # Check if within date range
-                if album_date < cutoff_date:
-                    continue
-
             except Exception as e:
                 print(f"⚠️  Date parsing error for {album.get('name', 'Unknown')}: {e}")
                 continue
 
-            # If we trust the source (genre search), just use date filtering
+            # If we trust the source (genre search), skip strict date filtering
             if trust_source:
-                filtered.append(album)
+                # Only check if it's from this year
+                current_year = datetime.now().year
+                if album_date.year == current_year:
+                    album_info = f"{album.get('name', 'Unknown')} - Released: {release_date_str}"
+                    print(f"   ✅ Including from search: {album_info}")
+                    filtered.append(album)
+                else:
+                    print(f"   ⚠️  Skipping old album from {album_date.year}: {album.get('name', 'Unknown')}")
+                continue
+
+            # For new-releases, check if within date range
+            if album_date < cutoff_date:
                 continue
 
             # For new-releases, check artist genres

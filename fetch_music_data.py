@@ -234,23 +234,23 @@ class MusicDataFetcher:
         except:
             return {}
 
-    def get_genre_releases(self, genre_keywords, min_popularity=25):
+    def get_genre_releases(self, genre_keywords, min_popularity=0):
         """Get new releases for a specific genre with proper filtering
 
         Args:
             genre_keywords: Comma-separated genre keywords to match
             min_popularity: Minimum Spotify popularity score (0-100) to include.
-                          Default 25 filters out extremely obscure releases while
-                          keeping relevant indie/underground content.
+                          Default 0 to show all relevant content.
         """
-        # Use genre search for more targeted results
-        # Extract first genre keyword for the search query
-        primary_genre = genre_keywords.split(',')[0].strip()
-        all_releases = self.search_releases_by_genre(primary_genre, limit=50)
+        # Get new releases from US market
+        all_releases = self.get_new_releases(limit=50)
 
-        # Filter by genre, date, and popularity
+        # Filter by checking artist genres, date, and popularity
         filtered = []
         cutoff_date = datetime.now() - timedelta(days=60)  # 60-day window
+
+        # Split genre keywords for matching
+        genre_keywords_list = [kw.strip().lower() for kw in genre_keywords.split(',')]
 
         print(f"🔍 Filtering for genres: {genre_keywords}")
         print(f"   Looking for albums from last 60 days (since {cutoff_date.strftime('%Y-%m-%d')})...")
@@ -274,18 +274,39 @@ class MusicDataFetcher:
 
             # Check if within date range
             if album_date < cutoff_date:
-                print(f"   ⏰ Too old ({release_date_str}): {album_name}")
                 continue
 
             # Check popularity threshold
             popularity = album.get('popularity', 0)
             if popularity < min_popularity:
-                print(f"   ⚠️  Too obscure (Pop: {popularity}): {album_name}")
                 continue
 
-            # Genre search already filtered by genre, so we can add it directly
-            print(f"   ✅ Matched: {album_name} (Pop: {popularity}) - Released: {release_date_str}")
-            filtered.append(album)
+            # Get artist info to check genres
+            artists = album.get('artists', [])
+            if not artists:
+                continue
+
+            try:
+                artist_id = artists[0]['id']
+                artist_info = self.get_artist_info(artist_id)
+                artist_genres = artist_info.get('genres', [])
+
+                if artist_genres:
+                    genres_str = ' '.join(artist_genres).lower()
+                    # Check if any of our genre keywords match
+                    genre_match = any(
+                        keyword in genres_str
+                        for keyword in genre_keywords_list
+                    )
+
+                    if genre_match:
+                        print(f"   ✅ Matched: {album_name} (Pop: {popularity}) - Genres: {artist_genres[:3]}")
+                        filtered.append(album)
+
+                time.sleep(0.1)  # Rate limiting
+            except Exception as e:
+                print(f"   ⚠️  Error checking {album_name}: {e}")
+                continue
 
         # Sort by popularity (highest first) but return ALL matching albums
         filtered.sort(key=lambda x: x.get('popularity', 0), reverse=True)
@@ -293,7 +314,8 @@ class MusicDataFetcher:
         print(f"✅ Found {len(filtered)} matching albums with popularity >= {min_popularity}")
         if filtered:
             print(f"   Most popular: {filtered[0].get('name', 'Unknown')} (Pop: {filtered[0].get('popularity', 0)})")
-            print(f"   Least popular: {filtered[-1].get('name', 'Unknown')} (Pop: {filtered[-1].get('popularity', 0)})")
+            if len(filtered) > 1:
+                print(f"   Least popular: {filtered[-1].get('name', 'Unknown')} (Pop: {filtered[-1].get('popularity', 0)})")
 
         return filtered
 

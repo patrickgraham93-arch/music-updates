@@ -1,6 +1,108 @@
 {
-  "hiphop": [],
-  "rock": [],
+  "hiphop": [
+    {
+      "name": "GENRE LESSONS: HIP-HOP (ALTERNATE VERSIONS) [Alternate Version]",
+      "artists": "DJ Lil Bones",
+      "release_date": "2025-09-14",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ec4880ad55ed3edebbc0bfd",
+      "spotify_url": "https://open.spotify.com/album/6ya2D2G9ynMCXZAKio3bGQ",
+      "apple_music_url": "https://music.apple.com/us/search?term=GENRE+LESSONS:+HIP-HOP+(ALTERNATE+VERSIONS)+[Alternate+Version]+DJ+Lil+Bones",
+      "total_tracks": 17,
+      "album_type": "album"
+    },
+    {
+      "name": "GENRE LESSONS: HIP-HOP",
+      "artists": "DJ Lil Bones",
+      "release_date": "2025-09-07",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735a85b6c653f50ba8484ac1d2",
+      "spotify_url": "https://open.spotify.com/album/73oUvJL0NsCNRdWxVwjbIU",
+      "apple_music_url": "https://music.apple.com/us/search?term=GENRE+LESSONS:+HIP-HOP+DJ+Lil+Bones",
+      "total_tracks": 17,
+      "album_type": "album"
+    },
+    {
+      "name": "Beyond The Dawn",
+      "artists": "Genre.Zone",
+      "release_date": "2025-02-15",
+      "image": "https://i.scdn.co/image/ab67616d0000b273812d525f34531826524c3f8b",
+      "spotify_url": "https://open.spotify.com/album/3YIVw2qiNv89bXhsQHEVH4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Beyond+The+Dawn+Genre.Zone",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Growing Pains",
+      "artists": "Genre.Zone",
+      "release_date": "2025-01-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735890b01081bd6ab14d979e1a",
+      "spotify_url": "https://open.spotify.com/album/7Bm7cM0IDzE03yh27Z8USm",
+      "apple_music_url": "https://music.apple.com/us/search?term=Growing+Pains+Genre.Zone",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Jesus We Need You Now (Hip-Hop)",
+      "artists": "12genresJesus",
+      "release_date": "2025-10-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d659a696c8739252922263bb",
+      "spotify_url": "https://open.spotify.com/album/4xsOF0pKxTjtpPTBrzeYT4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Jesus+We+Need+You+Now+(Hip-Hop)+12genresJesus",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Ladybug",
+      "artists": "Genre.Zone",
+      "release_date": "2025-02-16",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ccb08a012572b141b92432ae",
+      "spotify_url": "https://open.spotify.com/album/69odkf4KPHLylZi7UscMLV",
+      "apple_music_url": "https://music.apple.com/us/search?term=Ladybug+Genre.Zone",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Acid Hip Hop (Genre Genesis)",
+      "artists": "MH Music",
+      "release_date": "2025-04-27",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ab58cd90d496f65f8d3d74d8",
+      "spotify_url": "https://open.spotify.com/album/5mV844uGFlAvG6uM463gZ7",
+      "apple_music_url": "https://music.apple.com/us/search?term=Acid+Hip+Hop+(Genre+Genesis)+MH+Music",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Lesser Love (Hip Hop Version)",
+      "artists": "Project Genre",
+      "release_date": "2025-10-24",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e161dbd92d1a234881135b21",
+      "spotify_url": "https://open.spotify.com/album/5oEq1Fpqr4HF9YSI0qGrpQ",
+      "apple_music_url": "https://music.apple.com/us/search?term=Lesser+Love+(Hip+Hop+Version)+Project+Genre",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "A I",
+      "artists": "Genre.Zone",
+      "release_date": "2025-04-25",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4a49eeca022bfc7d5491e10",
+      "spotify_url": "https://open.spotify.com/album/2o6HOXE56VElBq79Vw49Nl",
+      "apple_music_url": "https://music.apple.com/us/search?term=A+I+Genre.Zone",
+      "total_tracks": 1,
+      "album_type": "single"
+    }
+  ],
+  "rock": [
+    {
+      "name": "Silence in his Soul",
+      "artists": "Fragments of you",
+      "release_date": "2025-09-02",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730f72bef996a0a426155d6362",
+      "spotify_url": "https://open.spotify.com/album/6nCC13AdiiZAQAUuOwhHJ0",
+      "apple_music_url": "https://music.apple.com/us/search?term=Silence+in+his+Soul+Fragments+of+you",
+      "total_tracks": 1,
+      "album_type": "single"
+    }
+  ],
   "news": [
     {
       "title": "Best AirPods Deals for the Holidays",
@@ -83,5 +185,5 @@
       "summary": "The Together for Palestine ensemble\u2014also featuring Nadine Shah, Mabel, Celeste, and more\u2014collaborated on \u201cLullaby\u201d..."
     }
   ],
-  "last_updated": "2025-12-13T13:38:57.934446"
+  "last_updated": "2025-12-13T13:43:36.763204"
 }

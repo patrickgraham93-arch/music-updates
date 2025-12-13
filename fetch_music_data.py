@@ -244,13 +244,29 @@ class MusicDataFetcher:
             min_popularity: Minimum Spotify popularity score (0-100) to include.
                           Default 0 to show all relevant content.
         """
-        # HYBRID APPROACH: Combine new releases + genre search for better coverage
+        # HYBRID APPROACH: Combine new releases + multiple genre searches
         # 1. Get new releases (last 2 weeks typically)
         new_releases = self.get_new_releases(limit=50)
 
-        # 2. Also search by primary genre to get more results from the full year
-        primary_genre = genre_keywords.split(',')[0].strip()
-        search_results = self.search_releases_by_genre(primary_genre, limit=50)
+        # 2. Search with multiple genre terms for better coverage
+        # For hip-hop: search "rap", "hip hop", "trap"
+        # For rock: search "rock", "indie", "alternative"
+        search_terms = []
+        genre_lower = genre_keywords.lower()
+
+        if 'hip hop' in genre_lower or 'rap' in genre_lower:
+            search_terms = ['rap', 'hip hop', 'trap']
+        elif 'rock' in genre_lower or 'indie' in genre_lower or 'alternative' in genre_lower:
+            search_terms = ['rock', 'indie', 'alternative']
+        else:
+            # Fallback: use first keyword
+            search_terms = [genre_keywords.split(',')[0].strip()]
+
+        # Execute multiple searches
+        search_results = []
+        for term in search_terms:
+            results = self.search_releases_by_genre(term, limit=50)
+            search_results.extend(results)
 
         # 3. Combine and deduplicate by album ID
         seen_ids = set()

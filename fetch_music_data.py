@@ -92,12 +92,13 @@ class MusicDataFetcher:
             print(f"❌ Error searching {genre} releases: {e}")
             return []
 
-    def filter_by_genre_and_recency(self, albums, genre_keywords, days=30):
+    def filter_by_genre_and_recency(self, albums, genre_keywords, days=30, trust_source=False):
         """Filter albums by genre and release date"""
         filtered = []
         cutoff_date = datetime.now() - timedelta(days=days)
 
         print(f"🔍 Filtering for {genre_keywords} albums from last {days} days...")
+        print(f"   Trust source: {trust_source}")
 
         for album in albums:
             # Parse release date
@@ -118,29 +119,42 @@ class MusicDataFetcher:
                 print(f"⚠️  Date parsing error for {album.get('name', 'Unknown')}: {e}")
                 continue
 
-            # Check genre in album info
+            # If we trust the source (genre search), just use date filtering
+            if trust_source:
+                filtered.append(album)
+                continue
+
+            # For new-releases, check artist genres
             artists = album.get('artists', [])
-            album_name = album.get('name', '').lower()
+            if not artists:
+                continue
 
-            # Simple genre matching (you could enhance this)
-            genre_match = any(keyword.lower() in album_name for keyword in genre_keywords.split())
+            # Get artist genre info (only for new-releases)
+            try:
+                artist_id = artists[0]['id']
+                artist_info = self.get_artist_info(artist_id)
+                artist_genres = artist_info.get('genres', [])
 
-            # If we don't find genre in name, get artist details
-            if not genre_match and artists:
-                try:
-                    artist_id = artists[0]['id']
-                    artist_info = self.get_artist_info(artist_id)
-                    artist_genres = artist_info.get('genres', [])
-
-                    # Check if any genre keyword matches artist genres
+                if artist_genres:
+                    genres_str = ' '.join(artist_genres).lower()
+                    # More flexible matching - any keyword matches
                     genre_match = any(
-                        keyword.lower() in ' '.join(artist_genres).lower()
+                        keyword.lower() in genres_str
                         for keyword in genre_keywords.split()
                     )
-                except:
-                    pass
 
-            if genre_match or not genre_keywords:  # Include all if no genre specified
+                    if genre_match:
+                        print(f"   ✅ Matched: {album.get('name', 'Unknown')} by {artists[0].get('name', 'Unknown')} - Genres: {artist_genres}")
+                        filtered.append(album)
+                    else:
+                        print(f"   ❌ Skipped: {album.get('name', 'Unknown')} - Genres: {artist_genres}")
+                else:
+                    # No genres available, include it anyway
+                    print(f"   ⚠️  No genres for: {album.get('name', 'Unknown')} - Including anyway")
+                    filtered.append(album)
+            except Exception as e:
+                print(f"   ⚠️  Error checking {album.get('name', 'Unknown')}: {e}")
+                # If we can't check, include it
                 filtered.append(album)
 
         print(f"✅ Found {len(filtered)} matching albums")
@@ -166,14 +180,15 @@ class MusicDataFetcher:
         # First try the new releases endpoint
         all_releases = self.get_new_releases(limit=50)
 
-        # Filter by genre
-        genre_albums = self.filter_by_genre_and_recency(all_releases, genre_keywords, days=30)
+        # Filter by genre (check artist genres since new-releases isn't genre-specific)
+        genre_albums = self.filter_by_genre_and_recency(all_releases, genre_keywords, days=30, trust_source=False)
 
         # If we don't have enough, try genre search
         if len(genre_albums) < 5:
             print(f"⚠️  Only found {len(genre_albums)} from new releases, trying genre search...")
             search_results = self.search_releases_by_genre(genre_keywords.split()[0], limit=50)
-            search_filtered = self.filter_by_genre_and_recency(search_results, genre_keywords, days=30)
+            # Trust the genre search results since Spotify already filtered by genre
+            search_filtered = self.filter_by_genre_and_recency(search_results, genre_keywords, days=30, trust_source=True)
 
             # Combine and deduplicate
             all_albums = genre_albums + search_filtered

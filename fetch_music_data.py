@@ -234,8 +234,15 @@ class MusicDataFetcher:
         except:
             return {}
 
-    def get_genre_releases(self, genre_keywords):
-        """Get new releases for a specific genre with proper filtering"""
+    def get_genre_releases(self, genre_keywords, min_popularity=25):
+        """Get new releases for a specific genre with proper filtering
+
+        Args:
+            genre_keywords: Comma-separated genre keywords to match
+            min_popularity: Minimum Spotify popularity score (0-100) to include.
+                          Default 25 filters out extremely obscure releases while
+                          keeping relevant indie/underground content.
+        """
         # Get US market new releases - these are already curated by Spotify
         all_releases = self.get_new_releases(limit=50)
 
@@ -245,6 +252,7 @@ class MusicDataFetcher:
 
         print(f"🔍 Filtering for genres: {genre_keywords}")
         print(f"   Looking for albums from last 60 days...")
+        print(f"   Minimum popularity threshold: {min_popularity}")
 
         for album in all_releases:
             # Parse release date
@@ -261,6 +269,12 @@ class MusicDataFetcher:
 
             # Check if within date range
             if album_date < cutoff_date:
+                continue
+
+            # Check popularity threshold first (before making API calls)
+            popularity = album.get('popularity', 0)
+            if popularity < min_popularity:
+                print(f"   ⚠️  Too obscure (Pop: {popularity}): {album.get('name', 'Unknown')}")
                 continue
 
             # Get artist genre info
@@ -283,7 +297,6 @@ class MusicDataFetcher:
                     )
 
                     if genre_match:
-                        popularity = album.get('popularity', 0)
                         print(f"   ✅ Matched: {album.get('name', 'Unknown')} (Pop: {popularity}) - Genres: {artist_genres}")
                         filtered.append(album)
                     else:
@@ -297,14 +310,15 @@ class MusicDataFetcher:
                 print(f"   ⚠️  Error checking {album.get('name', 'Unknown')}: {e}")
                 continue
 
-        # Sort by popularity and return top 25
+        # Sort by popularity (highest first) but return ALL matching albums
         filtered.sort(key=lambda x: x.get('popularity', 0), reverse=True)
 
-        print(f"✅ Found {len(filtered)} matching albums, returning top 25 by popularity")
+        print(f"✅ Found {len(filtered)} matching albums with popularity >= {min_popularity}")
         if filtered:
-            print(f"   Top: {filtered[0].get('name', 'Unknown')} (Pop: {filtered[0].get('popularity', 0)})")
+            print(f"   Most popular: {filtered[0].get('name', 'Unknown')} (Pop: {filtered[0].get('popularity', 0)})")
+            print(f"   Least popular: {filtered[-1].get('name', 'Unknown')} (Pop: {filtered[-1].get('popularity', 0)})")
 
-        return filtered[:25]
+        return filtered
 
     def get_album_details(self, album):
         """Extract relevant album details"""

@@ -574,7 +574,8 @@
     <script>
         async function loadMusicData() {
             try {
-                const response = await fetch('music_data.json');
+                // Add timestamp to prevent caching and always get fresh data
+                const response = await fetch(`music_data.json?t=${Date.now()}`);
                 const data = await response.json();
 
                 const lastUpdated = new Date(data.last_updated);

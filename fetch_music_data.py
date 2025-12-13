@@ -236,31 +236,38 @@ class MusicDataFetcher:
 
     def get_genre_releases(self, genre_keywords):
         """Get new releases for a specific genre"""
-        # First try the new releases endpoint
+        # Get US market new releases - these are already curated by Spotify
         all_releases = self.get_new_releases(limit=50)
 
-        # Filter by genre (check artist genres since new-releases isn't genre-specific)
-        genre_albums = self.filter_by_genre_and_recency(all_releases, genre_keywords, days=30, trust_source=False)
+        # Simple filtering: just date and popularity, no strict genre matching
+        filtered = []
+        cutoff_date = datetime.now() - timedelta(days=30)
 
-        # If we don't have enough, try genre search
-        if len(genre_albums) < 5:
-            print(f"⚠️  Only found {len(genre_albums)} from new releases, trying genre search...")
-            search_results = self.search_releases_by_genre(genre_keywords.split()[0], limit=50)
-            # Trust the genre search results since Spotify already filtered by genre
-            search_filtered = self.filter_by_genre_and_recency(search_results, genre_keywords, days=30, trust_source=True)
+        for album in all_releases:
+            # Parse release date
+            release_date_str = album.get('release_date', '')
+            try:
+                if len(release_date_str) == 4:
+                    album_date = datetime(int(release_date_str), 1, 1)
+                elif len(release_date_str) == 7:
+                    album_date = datetime.strptime(release_date_str, "%Y-%m")
+                else:
+                    album_date = datetime.strptime(release_date_str, "%Y-%m-%d")
+            except:
+                continue
 
-            # Combine and deduplicate
-            all_albums = genre_albums + search_filtered
-            seen_ids = set()
-            unique_albums = []
-            for album in all_albums:
-                if album['id'] not in seen_ids:
-                    seen_ids.add(album['id'])
-                    unique_albums.append(album)
+            # Only include albums from the last 30 days
+            if album_date >= cutoff_date:
+                filtered.append(album)
 
-            genre_albums = unique_albums[:10]
+        # Sort by popularity and return top 10
+        filtered.sort(key=lambda x: x.get('popularity', 0), reverse=True)
 
-        return genre_albums
+        print(f"✅ Found {len(filtered)} recent albums, returning top 10 by popularity")
+        if filtered:
+            print(f"   Top: {filtered[0].get('name', 'Unknown')} (Pop: {filtered[0].get('popularity', 0)})")
+
+        return filtered[:10]
 
     def get_album_details(self, album):
         """Extract relevant album details"""

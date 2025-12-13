@@ -101,29 +101,31 @@ class MusicDataFetcher:
             return []
 
     def search_releases_by_genre(self, genre, limit=50):
-        """Search for releases by genre as fallback"""
+        """Search for releases by searching for the genre term directly"""
         if not self.spotify_token:
             return []
 
         headers = {"Authorization": f"Bearer {self.spotify_token}"}
 
-        # Get current year and last year for better results
+        # Get current year
         today = datetime.now()
         current_year = today.year
 
-        # Try current year first
-        search_query = f"genre:\"{genre}\" year:{current_year}"
+        # Search for albums with year filter - NO genre: prefix (not supported)
+        # Just search for the genre term itself
+        search_query = f"{genre} year:{current_year}"
         url = f"https://api.spotify.com/v1/search?q={search_query}&type=album&limit={limit}"
 
         try:
-            print(f"🔍 Searching for {genre} releases in {current_year}...")
+            print(f"🔍 Searching for '{genre}' albums in {current_year}...")
             response = requests.get(url, headers=headers)
             response.raise_for_status()
             albums = response.json()['albums']['items']
-            print(f"✅ Found {len(albums)} {genre} albums from search")
+            print(f"✅ Found {len(albums)} albums from search (before filtering)")
 
             # Enrich with popularity data
-            albums = self.enrich_albums_with_popularity(albums)
+            if albums:
+                albums = self.enrich_albums_with_popularity(albums)
 
             return albums
         except Exception as e:
@@ -242,17 +244,35 @@ class MusicDataFetcher:
             min_popularity: Minimum Spotify popularity score (0-100) to include.
                           Default 0 to show all relevant content.
         """
-        # Get new releases from US market
-        all_releases = self.get_new_releases(limit=50)
+        # HYBRID APPROACH: Combine new releases + genre search for better coverage
+        # 1. Get new releases (last 2 weeks typically)
+        new_releases = self.get_new_releases(limit=50)
+
+        # 2. Also search by primary genre to get more results from the full year
+        primary_genre = genre_keywords.split(',')[0].strip()
+        search_results = self.search_releases_by_genre(primary_genre, limit=50)
+
+        # 3. Combine and deduplicate by album ID
+        seen_ids = set()
+        all_releases = []
+        for album in new_releases + search_results:
+            album_id = album.get('id')
+            if album_id and album_id not in seen_ids:
+                seen_ids.add(album_id)
+                all_releases.append(album)
+
+        print(f"📦 Total unique albums to filter: {len(all_releases)}")
 
         # Filter by checking artist genres, date, and popularity
         filtered = []
         cutoff_date = datetime.now() - timedelta(days=60)  # 60-day window
+        today = datetime.now()
 
         # Split genre keywords for matching
         genre_keywords_list = [kw.strip().lower() for kw in genre_keywords.split(',')]
 
         print(f"🔍 Filtering for genres: {genre_keywords}")
+        print(f"   Today: {today.strftime('%Y-%m-%d')}")
         print(f"   Looking for albums from last 60 days (since {cutoff_date.strftime('%Y-%m-%d')})...")
         print(f"   Minimum popularity threshold: {min_popularity}")
 

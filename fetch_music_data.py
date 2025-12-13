@@ -92,13 +92,14 @@ class MusicDataFetcher:
             print(f"❌ Error searching {genre} releases: {e}")
             return []
 
-    def filter_by_genre_and_recency(self, albums, genre_keywords, days=30, trust_source=False):
-        """Filter albums by genre and release date"""
+    def filter_by_genre_and_recency(self, albums, genre_keywords, days=30, trust_source=False, min_popularity=40):
+        """Filter albums by genre, release date, and popularity"""
         filtered = []
         cutoff_date = datetime.now() - timedelta(days=days)
 
         print(f"🔍 Filtering for {genre_keywords} albums from last {days} days...")
         print(f"   Trust source: {trust_source}")
+        print(f"   Minimum popularity: {min_popularity}")
 
         for album in albums:
             # Parse release date
@@ -115,12 +116,18 @@ class MusicDataFetcher:
                 print(f"⚠️  Date parsing error for {album.get('name', 'Unknown')}: {e}")
                 continue
 
+            # Check popularity score
+            popularity = album.get('popularity', 0)
+            if popularity < min_popularity:
+                print(f"   ⚠️  Low popularity ({popularity}): {album.get('name', 'Unknown')}")
+                continue
+
             # If we trust the source (genre search), skip strict date filtering
             if trust_source:
                 # Only check if it's from this year
                 current_year = datetime.now().year
                 if album_date.year == current_year:
-                    album_info = f"{album.get('name', 'Unknown')} - Released: {release_date_str}"
+                    album_info = f"{album.get('name', 'Unknown')} (Pop: {popularity}) - Released: {release_date_str}"
                     print(f"   ✅ Including from search: {album_info}")
                     filtered.append(album)
                 else:
@@ -151,20 +158,26 @@ class MusicDataFetcher:
                     )
 
                     if genre_match:
-                        print(f"   ✅ Matched: {album.get('name', 'Unknown')} by {artists[0].get('name', 'Unknown')} - Genres: {artist_genres}")
+                        print(f"   ✅ Matched: {album.get('name', 'Unknown')} (Pop: {popularity}) by {artists[0].get('name', 'Unknown')} - Genres: {artist_genres}")
                         filtered.append(album)
                     else:
                         print(f"   ❌ Skipped: {album.get('name', 'Unknown')} - Genres: {artist_genres}")
                 else:
                     # No genres available, include it anyway
-                    print(f"   ⚠️  No genres for: {album.get('name', 'Unknown')} - Including anyway")
+                    print(f"   ⚠️  No genres for: {album.get('name', 'Unknown')} (Pop: {popularity}) - Including anyway")
                     filtered.append(album)
             except Exception as e:
                 print(f"   ⚠️  Error checking {album.get('name', 'Unknown')}: {e}")
                 # If we can't check, include it
                 filtered.append(album)
 
-        print(f"✅ Found {len(filtered)} matching albums")
+        # Sort by popularity (highest first)
+        filtered.sort(key=lambda x: x.get('popularity', 0), reverse=True)
+
+        print(f"✅ Found {len(filtered)} matching albums (sorted by popularity)")
+        if filtered:
+            print(f"   Top album: {filtered[0].get('name', 'Unknown')} (Pop: {filtered[0].get('popularity', 0)})")
+
         return filtered[:10]  # Return top 10
 
     def get_artist_info(self, artist_id):

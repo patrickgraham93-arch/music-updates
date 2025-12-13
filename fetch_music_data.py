@@ -243,18 +243,22 @@ class MusicDataFetcher:
                           Default 25 filters out extremely obscure releases while
                           keeping relevant indie/underground content.
         """
-        # Get US market new releases - these are already curated by Spotify
-        all_releases = self.get_new_releases(limit=50)
+        # Use genre search for more targeted results
+        # Extract first genre keyword for the search query
+        primary_genre = genre_keywords.split(',')[0].strip()
+        all_releases = self.search_releases_by_genre(primary_genre, limit=50)
 
         # Filter by genre, date, and popularity
         filtered = []
         cutoff_date = datetime.now() - timedelta(days=60)  # 60-day window
 
         print(f"🔍 Filtering for genres: {genre_keywords}")
-        print(f"   Looking for albums from last 60 days...")
+        print(f"   Looking for albums from last 60 days (since {cutoff_date.strftime('%Y-%m-%d')})...")
         print(f"   Minimum popularity threshold: {min_popularity}")
 
         for album in all_releases:
+            album_name = album.get('name', 'Unknown')
+
             # Parse release date
             release_date_str = album.get('release_date', '')
             try:
@@ -264,51 +268,24 @@ class MusicDataFetcher:
                     album_date = datetime.strptime(release_date_str, "%Y-%m")
                 else:
                     album_date = datetime.strptime(release_date_str, "%Y-%m-%d")
-            except:
+            except Exception as e:
+                print(f"   ⚠️  Date parse error for '{album_name}': {release_date_str}")
                 continue
 
             # Check if within date range
             if album_date < cutoff_date:
+                print(f"   ⏰ Too old ({release_date_str}): {album_name}")
                 continue
 
-            # Check popularity threshold first (before making API calls)
+            # Check popularity threshold
             popularity = album.get('popularity', 0)
             if popularity < min_popularity:
-                print(f"   ⚠️  Too obscure (Pop: {popularity}): {album.get('name', 'Unknown')}")
+                print(f"   ⚠️  Too obscure (Pop: {popularity}): {album_name}")
                 continue
 
-            # Get artist genre info
-            artists = album.get('artists', [])
-            if not artists:
-                continue
-
-            try:
-                artist_id = artists[0]['id']
-                artist_info = self.get_artist_info(artist_id)
-                artist_genres = artist_info.get('genres', [])
-
-                if artist_genres:
-                    genres_str = ' '.join(artist_genres).lower()
-                    # Check if any of our genre keywords match
-                    genre_keywords_list = [kw.strip().lower() for kw in genre_keywords.split(',')]
-                    genre_match = any(
-                        keyword in genres_str
-                        for keyword in genre_keywords_list
-                    )
-
-                    if genre_match:
-                        print(f"   ✅ Matched: {album.get('name', 'Unknown')} (Pop: {popularity}) - Genres: {artist_genres}")
-                        filtered.append(album)
-                    else:
-                        print(f"   ❌ Skipped: {album.get('name', 'Unknown')} - Genres: {artist_genres}")
-                else:
-                    # No genres available - skip it for cleaner results
-                    print(f"   ⚠️  No genres for: {album.get('name', 'Unknown')} - Skipping")
-
-                time.sleep(0.1)  # Rate limiting
-            except Exception as e:
-                print(f"   ⚠️  Error checking {album.get('name', 'Unknown')}: {e}")
-                continue
+            # Genre search already filtered by genre, so we can add it directly
+            print(f"   ✅ Matched: {album_name} (Pop: {popularity}) - Released: {release_date_str}")
+            filtered.append(album)
 
         # Sort by popularity (highest first) but return ALL matching albums
         filtered.sort(key=lambda x: x.get('popularity', 0), reverse=True)

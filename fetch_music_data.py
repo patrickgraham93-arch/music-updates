@@ -472,12 +472,53 @@ class MusicDataFetcher:
 
         return filtered
 
+    def search_itunes_for_album(self, album_name, artist_name):
+        """Search iTunes API for direct Apple Music album link"""
+        try:
+            # Construct search query
+            search_query = f"{album_name} {artist_name}"
+            url = f"https://itunes.apple.com/search"
+            params = {
+                'term': search_query,
+                'entity': 'album',
+                'limit': 1,
+                'country': 'US'
+            }
+
+            response = requests.get(url, params=params, timeout=5)
+            response.raise_for_status()
+            data = response.json()
+
+            # Check if we got results
+            if data.get('resultCount', 0) > 0:
+                result = data['results'][0]
+                # Return the collection view URL (Apple Music link)
+                apple_music_url = result.get('collectionViewUrl', None)
+                # Add small delay to respect rate limits
+                time.sleep(0.2)
+                return apple_music_url
+
+            time.sleep(0.2)
+            return None
+        except Exception as e:
+            print(f"   ⚠️  iTunes API error for '{album_name}': {e}")
+            time.sleep(0.2)
+            return None
+
     def get_album_details(self, album):
         """Extract relevant album details"""
         artists = ", ".join([artist['name'] for artist in album['artists']])
 
-        search_term = f"{album['name']} {artists}"
-        apple_music_url = f"https://music.apple.com/us/search?term={quote(search_term)}"
+        # Try to get direct Apple Music link from iTunes API
+        apple_music_url = self.search_itunes_for_album(album['name'], artists)
+
+        # Fallback to search URL if iTunes API fails
+        if not apple_music_url:
+            search_term = f"{album['name']} {artists}"
+            apple_music_url = f"https://music.apple.com/us/search?term={quote(search_term)}"
+            print(f"   ⚠️  Using search fallback for: {album['name']}")
+        else:
+            print(f"   ✅ Got Apple Music link for: {album['name']}")
 
         return {
             'name': album['name'],

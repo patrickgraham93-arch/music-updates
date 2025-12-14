@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 import base64
 import feedparser
 import time
+from urllib.parse import quote
 
 class MusicDataFetcher:
     def __init__(self):
@@ -235,6 +236,122 @@ class MusicDataFetcher:
             return response.json()
         except:
             return {}
+
+    def search_artist_by_name(self, artist_name):
+        """Search for an artist by name to get their Spotify ID"""
+        if not self.spotify_token:
+            return None
+
+        headers = {"Authorization": f"Bearer {self.spotify_token}"}
+        query = quote(artist_name)
+        url = f"https://api.spotify.com/v1/search?q={query}&type=artist&limit=1"
+
+        try:
+            response = requests.get(url, headers=headers)
+            response.raise_for_status()
+            artists = response.json()['artists']['items']
+            if artists:
+                return artists[0]['id']
+            return None
+        except:
+            return None
+
+    def get_artist_albums(self, artist_id, limit=50):
+        """Get albums for a specific artist"""
+        if not self.spotify_token:
+            return []
+
+        headers = {"Authorization": f"Bearer {self.spotify_token}"}
+        url = f"https://api.spotify.com/v1/artists/{artist_id}/albums?include_groups=album,single&limit={limit}"
+
+        try:
+            response = requests.get(url, headers=headers)
+            response.raise_for_status()
+            albums = response.json()['items']
+            return albums
+        except:
+            return []
+
+    def get_releases_from_artist_database(self, genre_category, min_popularity=0):
+        """Get releases from curated artist database instead of genre search"""
+        # Load artist database
+        try:
+            with open('artists.json', 'r') as f:
+                artist_db = json.load(f)
+        except:
+            print("❌ Could not load artists.json, falling back to genre search")
+            return []
+
+        artist_names = artist_db.get(genre_category, [])
+        if not artist_names:
+            print(f"❌ No artists found for category: {genre_category}")
+            return []
+
+        print(f"🎤 Fetching releases from {len(artist_names)} {genre_category} artists...")
+
+        all_albums = []
+        cutoff_date = datetime.now() - timedelta(days=60)
+        today = datetime.now()
+
+        print(f"   Today: {today.strftime('%Y-%m-%d')}")
+        print(f"   Looking for albums from last 60 days (since {cutoff_date.strftime('%Y-%m-%d')})...")
+
+        for artist_name in artist_names:
+            # Search for artist ID
+            artist_id = self.search_artist_by_name(artist_name)
+            if not artist_id:
+                continue
+
+            # Get artist's albums
+            albums = self.get_artist_albums(artist_id, limit=20)
+
+            for album in albums:
+                # Parse release date
+                release_date_str = album.get('release_date', '')
+                try:
+                    if len(release_date_str) == 4:
+                        album_date = datetime(int(release_date_str), 1, 1)
+                    elif len(release_date_str) == 7:
+                        album_date = datetime.strptime(release_date_str, "%Y-%m")
+                    else:
+                        album_date = datetime.strptime(release_date_str, "%Y-%m-%d")
+                except:
+                    continue
+
+                # Check if within 60-day window
+                if album_date < cutoff_date:
+                    continue
+
+                # Add to results
+                all_albums.append(album)
+
+            time.sleep(0.05)  # Rate limiting
+
+        # Enrich with popularity data
+        print(f"   Enriching {len(all_albums)} albums with popularity scores...")
+        if all_albums:
+            all_albums = self.enrich_albums_with_popularity(all_albums)
+
+        # Filter by popularity
+        filtered = [a for a in all_albums if a.get('popularity', 0) >= min_popularity]
+
+        # Deduplicate by album ID
+        seen_ids = set()
+        unique_albums = []
+        for album in filtered:
+            album_id = album.get('id')
+            if album_id and album_id not in seen_ids:
+                seen_ids.add(album_id)
+                unique_albums.append(album)
+
+        # Sort by release date (newest first), then by popularity
+        unique_albums.sort(key=lambda x: (x.get('release_date', ''), x.get('popularity', 0)), reverse=True)
+
+        print(f"✅ Found {len(unique_albums)} albums from artist database")
+        if unique_albums:
+            print(f"   Most recent: {unique_albums[0].get('name', 'Unknown')} by {unique_albums[0].get('artists', [{}])[0].get('name', 'Unknown')}")
+
+        return unique_albums
 
     def get_genre_releases(self, genre_keywords, min_popularity=0):
         """Get new releases for a specific genre with proper filtering
@@ -483,33 +600,17 @@ def main():
 
     if token:
         print("\n" + "-"*60)
-        print("Fetching Hip Hop releases...")
+        print("Fetching Hip Hop releases from artist database...")
         print("-"*60)
-        # Comprehensive hip-hop/rap genre keywords
-        hiphop_genres = (
-            "hip hop, rap, trap, southern hip hop, gangsta rap, "
-            "east coast hip hop, west coast rap, conscious hip hop, "
-            "underground hip hop, pop rap, cloud rap, drill, grime, "
-            "uk hip hop, alternative hip hop, experimental hip hop, "
-            "emo rap, melodic rap, atlanta hip hop, chicago rap, "
-            "detroit hip hop, phonk, rage"
-        )
-        hiphop_albums = fetcher.get_genre_releases(hiphop_genres)
+        # Use curated artist database for hip-hop
+        hiphop_albums = fetcher.get_releases_from_artist_database('hiphop', min_popularity=0)
         hiphop_data = [fetcher.get_album_details(album) for album in hiphop_albums]
 
         print("\n" + "-"*60)
-        print("Fetching Alternative Rock releases...")
+        print("Fetching Alternative releases from artist database...")
         print("-"*60)
-        # Comprehensive alternative/indie rock genre keywords
-        rock_genres = (
-            "alternative rock, indie rock, indie pop, alternative, "
-            "modern rock, rock, garage rock, post-punk, new wave, "
-            "shoegaze, dream pop, psychedelic rock, art rock, "
-            "noise rock, math rock, post-rock, emo, pop punk, "
-            "punk rock, indie folk, folk rock, indietronica, "
-            "bedroom pop, lo-fi"
-        )
-        rock_albums = fetcher.get_genre_releases(rock_genres)
+        # Use curated artist database for alternative
+        rock_albums = fetcher.get_releases_from_artist_database('alternative', min_popularity=0)
         rock_data = [fetcher.get_album_details(album) for album in rock_albums]
 
         print("\n" + "-"*60)

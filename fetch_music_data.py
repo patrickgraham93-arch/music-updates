@@ -607,10 +607,10 @@ def main():
         hiphop_data = [fetcher.get_album_details(album) for album in hiphop_albums]
 
         print("\n" + "-"*60)
-        print("Fetching Alternative Rock releases from artist database...")
+        print("Fetching Alternative releases from artist database...")
         print("-"*60)
-        # Use curated artist database for rock
-        rock_albums = fetcher.get_releases_from_artist_database('rock', min_popularity=0)
+        # Use curated artist database for alternative
+        rock_albums = fetcher.get_releases_from_artist_database('alternative', min_popularity=0)
         rock_data = [fetcher.get_album_details(album) for album in rock_albums]
 
         print("\n" + "-"*60)

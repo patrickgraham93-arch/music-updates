@@ -347,6 +347,59 @@
             transform: translateY(-2px);
         }
 
+        .see-more-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+            padding-top: 20px;
+        }
+
+        .btn-see-more {
+            padding: 15px 40px;
+            border-radius: 12px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: 2px solid rgba(102, 126, 234, 0.3);
+            font-size: 1em;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn-see-more::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.2);
+            transform: translate(-50%, -50%);
+            transition: width 0.6s, height 0.6s;
+        }
+
+        .btn-see-more:hover::before {
+            width: 300px;
+            height: 300px;
+        }
+
+        .btn-see-more:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 25px rgba(102, 126, 234, 0.5);
+            border-color: rgba(102, 126, 234, 0.6);
+        }
+
+        .btn-see-more span {
+            position: relative;
+            z-index: 1;
+        }
+
         .news-grid {
             display: grid;
             gap: 25px;
@@ -593,8 +646,15 @@
             }
         }
 
+        // Track expanded state for each section
+        const expandedSections = {
+            hiphopAlbums: false,
+            rockAlbums: false
+        };
+
         function displayAlbums(albums, containerId) {
             const container = document.getElementById(containerId);
+            const INITIAL_DISPLAY_COUNT = 15;
 
             if (!albums || albums.length === 0) {
                 container.innerHTML = `
@@ -606,7 +666,13 @@
                 return;
             }
 
-            container.innerHTML = albums.map(album => `
+            // Determine how many albums to show
+            const isExpanded = expandedSections[containerId];
+            const albumsToShow = isExpanded ? albums : albums.slice(0, INITIAL_DISPLAY_COUNT);
+            const hasMore = albums.length > INITIAL_DISPLAY_COUNT;
+
+            // Generate album cards HTML
+            const albumsHTML = albumsToShow.map(album => `
                 <div class="album-card">
                     <img src="${album.image}" alt="${album.name}" class="album-image"
                          onerror="this.src='https://via.placeholder.com/300?text=No+Image'">
@@ -629,6 +695,33 @@
                     </div>
                 </div>
             `).join('');
+
+            // Generate "See More" button if needed
+            let seeMoreButton = '';
+            if (hasMore) {
+                const remainingCount = albums.length - INITIAL_DISPLAY_COUNT;
+                const buttonText = isExpanded
+                    ? 'Show Less'
+                    : `See More (${remainingCount} more)`;
+
+                seeMoreButton = `
+                    <div class="see-more-container">
+                        <button class="btn-see-more" onclick="toggleSection('${containerId}')">
+                            <span>${buttonText}</span>
+                        </button>
+                    </div>
+                `;
+            }
+
+            container.innerHTML = albumsHTML + seeMoreButton;
+        }
+
+        function toggleSection(containerId) {
+            // Toggle the expanded state
+            expandedSections[containerId] = !expandedSections[containerId];
+
+            // Reload the data to refresh the display
+            loadMusicData();
         }
 
         function displayNews(newsItems) {

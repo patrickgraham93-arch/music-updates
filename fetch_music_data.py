@@ -472,34 +472,107 @@ class MusicDataFetcher:
 
         return filtered
 
+    def normalize_string(self, s):
+        """Normalize string for comparison by removing special chars and lowercasing"""
+        import re
+        # Convert to lowercase
+        s = s.lower()
+        # Replace hyphens with spaces before removing special chars
+        s = s.replace('-', ' ')
+        # Remove special characters, keep alphanumeric and spaces
+        s = re.sub(r'[^\w\s]', '', s)
+        # Collapse multiple spaces
+        s = re.sub(r'\s+', ' ', s).strip()
+        return s
+
+    def strings_match(self, str1, str2, threshold=0.7):
+        """Check if two strings match with fuzzy matching"""
+        norm1 = self.normalize_string(str1)
+        norm2 = self.normalize_string(str2)
+
+        # Exact match after normalization
+        if norm1 == norm2:
+            return True
+
+        # Check if one contains the other
+        if norm1 in norm2 or norm2 in norm1:
+            return True
+
+        # Check word overlap
+        words1 = set(norm1.split())
+        words2 = set(norm2.split())
+
+        if not words1 or not words2:
+            return False
+
+        # Calculate overlap percentage
+        overlap = len(words1 & words2)
+        total = min(len(words1), len(words2))
+
+        return (overlap / total) >= threshold if total > 0 else False
+
     def search_itunes_for_album(self, album_name, artist_name):
-        """Search iTunes API for direct Apple Music album link"""
+        """Search iTunes API for direct Apple Music album link with validation"""
         try:
-            # Construct search query
-            search_query = f"{album_name} {artist_name}"
-            url = f"https://itunes.apple.com/search"
-            params = {
-                'term': search_query,
-                'entity': 'album',
-                'limit': 1,
-                'country': 'US'
-            }
+            # Get primary artist (first one before comma)
+            primary_artist = artist_name.split(',')[0].strip()
 
-            response = requests.get(url, params=params, timeout=5)
-            response.raise_for_status()
-            data = response.json()
+            # Try multiple search strategies
+            search_attempts = [
+                # Strategy 1: Full album + primary artist
+                f"{album_name} {primary_artist}",
+                # Strategy 2: Just album name
+                f"{album_name}",
+                # Strategy 3: Album + all artists
+                f"{album_name} {artist_name}"
+            ]
 
-            # Check if we got results
-            if data.get('resultCount', 0) > 0:
-                result = data['results'][0]
-                # Return the collection view URL (Apple Music link)
-                apple_music_url = result.get('collectionViewUrl', None)
-                # Add small delay to respect rate limits
+            url = "https://itunes.apple.com/search"
+
+            for attempt_num, search_query in enumerate(search_attempts, 1):
+                params = {
+                    'term': search_query,
+                    'entity': 'album',
+                    'limit': 5,  # Get top 5 to find best match
+                    'country': 'US'
+                }
+
+                response = requests.get(url, params=params, timeout=5)
+                response.raise_for_status()
+                data = response.json()
+
+                # Check if we got results
+                if data.get('resultCount', 0) > 0:
+                    # Try to find the best match from results
+                    for result in data['results']:
+                        result_album = result.get('collectionName', '')
+                        result_artist = result.get('artistName', '')
+
+                        # Validate album name match
+                        album_matches = self.strings_match(album_name, result_album)
+                        # Validate artist match (check if any of our artists match)
+                        artist_list = [a.strip() for a in artist_name.split(',')]
+                        artist_matches = any(
+                            self.strings_match(a, result_artist)
+                            for a in artist_list
+                        )
+
+                        if album_matches and artist_matches:
+                            apple_music_url = result.get('collectionViewUrl', None)
+                            if apple_music_url:
+                                print(f"   ✅ iTunes match (attempt {attempt_num}): {result_album} - {result_artist}")
+                                time.sleep(0.2)
+                                return apple_music_url
+
+                    # If no validated match found in this attempt, try next strategy
+                    print(f"   ⚠️  No validated match in attempt {attempt_num} for: {album_name}")
+
                 time.sleep(0.2)
-                return apple_music_url
 
-            time.sleep(0.2)
+            # All strategies failed
+            print(f"   ❌ No iTunes match found after {len(search_attempts)} attempts for: {album_name}")
             return None
+
         except Exception as e:
             print(f"   ⚠️  iTunes API error for '{album_name}': {e}")
             time.sleep(0.2)

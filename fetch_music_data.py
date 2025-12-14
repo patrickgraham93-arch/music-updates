@@ -476,8 +476,8 @@ class MusicDataFetcher:
         """Extract relevant album details"""
         artists = ", ".join([artist['name'] for artist in album['artists']])
 
-        search_term = f"{album['name']} {artists}".replace(' ', '+')
-        apple_music_url = f"https://music.apple.com/us/search?term={search_term}"
+        search_term = f"{album['name']} {artists}"
+        apple_music_url = f"https://music.apple.com/us/search?term={quote(search_term)}"
 
         return {
             'name': album['name'],

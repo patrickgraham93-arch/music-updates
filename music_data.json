@@ -1,6 +1,26 @@
 {
   "hiphop": [
     {
+      "name": "Chances",
+      "artists": "Polo G",
+      "release_date": "2025-12-16",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb8a819eb36fa80404834129",
+      "spotify_url": "https://open.spotify.com/album/75l6j1ydC8HHZBmS6qiCAS",
+      "apple_music_url": "https://music.apple.com/us/search?term=Chances%20Polo%20G",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "OUTTA MIND. FT. T-PAIN & BIGGA RANKIN.",
+      "artists": "YFN Lucci, T-Pain, Bigga Rankin",
+      "release_date": "2025-12-15",
+      "image": "https://i.scdn.co/image/ab67616d0000b273294ac57cf53fc9283be1cec4",
+      "spotify_url": "https://open.spotify.com/album/6z6z6gBguRQgPRQoitdyTD",
+      "apple_music_url": "https://music.apple.com/us/search?term=OUTTA%20MIND.%20FT.%20T-PAIN%20%26%20BIGGA%20RANKIN.%20YFN%20Lucci%2C%20T-Pain%2C%20Bigga%20Rankin",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "WHAT HAPPENED TO THE STREETS?",
       "artists": "21 Savage",
       "release_date": "2025-12-12",
@@ -74,7 +94,7 @@
       "name": "On The Low, Pt. 2",
       "artists": "Tiwa Savage, Skepta, The Ironix",
       "release_date": "2025-12-11",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735c10b15f8831288bf00772bc",
+      "image": "https://i.scdn.co/image/ab67616d0000b273535bc9b0d71798bbe45e973e",
       "spotify_url": "https://open.spotify.com/album/3zs0MKZN7AoaruoKS2aWQU",
       "apple_music_url": "https://music.apple.com/us/search?term=On%20The%20Low%2C%20Pt.%202%20Tiwa%20Savage%2C%20Skepta%2C%20The%20Ironix",
       "total_tracks": 1,
@@ -151,22 +171,22 @@
       "album_type": "single"
     },
     {
-      "name": "Hit Different",
-      "artists": "Swerve Strickland, Raekwon, Monteasy",
-      "release_date": "2025-12-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fdaf4e56345a79d12b16a25c",
-      "spotify_url": "https://open.spotify.com/album/1AkBOJUf0dKKIcJXS1hssL",
-      "apple_music_url": "https://music.apple.com/us/search?term=Hit%20Different%20Swerve%20Strickland%2C%20Raekwon%2C%20Monteasy",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "POP IT",
       "artists": "21 Savage, Latto",
       "release_date": "2025-12-10",
       "image": "https://i.scdn.co/image/ab67616d0000b27393b6c5c966459a583527fc37",
       "spotify_url": "https://open.spotify.com/album/1vY8s5LHtAOXVisTyVa5uo",
       "apple_music_url": "https://music.apple.com/us/search?term=POP%20IT%2021%20Savage%2C%20Latto",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Hit Different",
+      "artists": "Swerve Strickland, Raekwon, Monteasy",
+      "release_date": "2025-12-10",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fdaf4e56345a79d12b16a25c",
+      "spotify_url": "https://open.spotify.com/album/1AkBOJUf0dKKIcJXS1hssL",
+      "apple_music_url": "https://music.apple.com/us/search?term=Hit%20Different%20Swerve%20Strickland%2C%20Raekwon%2C%20Monteasy",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -241,22 +261,22 @@
       "album_type": "album"
     },
     {
-      "name": "MARCH",
-      "artists": "GloRilla",
-      "release_date": "2025-12-05",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cede034bd5675f01a7d2494e",
-      "spotify_url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE",
-      "apple_music_url": "https://music.apple.com/us/search?term=MARCH%20GloRilla",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "700 CLUB",
       "artists": "Logic, Wiz Khalifa",
       "release_date": "2025-12-05",
       "image": "https://i.scdn.co/image/ab67616d0000b273f46bfa948fca98c55e89735a",
       "spotify_url": "https://open.spotify.com/album/4nw9TlcaIoNpw2nE53nXJz",
       "apple_music_url": "https://music.apple.com/us/search?term=700%20CLUB%20Logic%2C%20Wiz%20Khalifa",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "MARCH",
+      "artists": "GloRilla",
+      "release_date": "2025-12-05",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cede034bd5675f01a7d2494e",
+      "spotify_url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE",
+      "apple_music_url": "https://music.apple.com/us/search?term=MARCH%20GloRilla",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -326,7 +346,7 @@
       "release_date": "2025-12-04",
       "image": "https://i.scdn.co/image/ab67616d0000b27359448efebee01f11062e6b84",
       "spotify_url": "https://open.spotify.com/album/4Ki7E4d6KY3ZjEHvMZli8B",
-      "apple_music_url": "https://music.apple.com/us/search?term=Special%20GloRilla",
+      "apple_music_url": "https://music.apple.com/us/album/special-single/1857753517?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -781,16 +801,6 @@
       "album_type": "album"
     },
     {
-      "name": "AM I THE DRAMA? (The Snow Mix)",
-      "artists": "Cardi B",
-      "release_date": "2025-11-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737c420153aec233035fe078a8",
-      "spotify_url": "https://open.spotify.com/album/10qfFDGG3ldB86EXuh8hUR",
-      "apple_music_url": "https://music.apple.com/us/search?term=AM%20I%20THE%20DRAMA%3F%20%28The%20Snow%20Mix%29%20Cardi%20B",
-      "total_tracks": 27,
-      "album_type": "album"
-    },
-    {
       "name": "Otha Boy",
       "artists": "Lil Baby",
       "release_date": "2025-11-12",
@@ -799,6 +809,16 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Otha%20Boy%20Lil%20Baby",
       "total_tracks": 2,
       "album_type": "single"
+    },
+    {
+      "name": "AM I THE DRAMA? (The Snow Mix)",
+      "artists": "Cardi B",
+      "release_date": "2025-11-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737c420153aec233035fe078a8",
+      "spotify_url": "https://open.spotify.com/album/10qfFDGG3ldB86EXuh8hUR",
+      "apple_music_url": "https://music.apple.com/us/album/am-i-the-drama/1822584947?uo=4",
+      "total_tracks": 27,
+      "album_type": "album"
     },
     {
       "name": "ErrTime (feat. Jeezy & Latto)",
@@ -1209,136 +1229,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=BIG%20FLEX%20-%20Les%20Ultimes%20Marches%20de%20l%27Empereur%20%232%20Alkpote%2C%20Quavo",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "TYCOON",
-      "artists": "Ty Dolla $ign",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dcb7677617e1d7c4d5a136d7",
-      "spotify_url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK",
-      "apple_music_url": "https://music.apple.com/us/search?term=TYCOON%20Ty%20Dolla%20%24ign",
-      "total_tracks": 15,
-      "album_type": "album"
-    },
-    {
-      "name": "Episodes",
-      "artists": "Gucci Mane",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738440506e68fc24eeedea7396",
-      "spotify_url": "https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox",
-      "apple_music_url": "https://music.apple.com/us/search?term=Episodes%20Gucci%20Mane",
-      "total_tracks": 23,
-      "album_type": "album"
-    },
-    {
-      "name": "Rich Sinners (feat. Lil Yachty)",
-      "artists": "Skrilla, Lil Yachty",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b27339b8203a1d6acf51e995b266",
-      "spotify_url": "https://open.spotify.com/album/4IyuZSKWzmu9vZ9ZzoX9AG",
-      "apple_music_url": "https://music.apple.com/us/search?term=Rich%20Sinners%20%28feat.%20Lil%20Yachty%29%20Skrilla%2C%20Lil%20Yachty",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Club Husband",
-      "artists": "T-Pain",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b273659e0af92624ccd5e6eeb07e",
-      "spotify_url": "https://open.spotify.com/album/4RBedmc8bF4DEio4BO4dlD",
-      "apple_music_url": "https://music.apple.com/us/search?term=Club%20Husband%20T-Pain",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
-      "artists": "Chris Brown, Bryson Tiller, USHER",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f4345dc54d4ade65121a4e39",
-      "spotify_url": "https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7",
-      "apple_music_url": "https://music.apple.com/us/search?term=It%20Depends%20%28The%20Remix%29%20%28feat.%20Bryson%20Tiller%20%26%20USHER%29%20Chris%20Brown%2C%20Bryson%20Tiller%2C%20USHER",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "coke nails",
-      "artists": "Lil Peep",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ca837e33423ac7efadf0a674",
-      "spotify_url": "https://open.spotify.com/album/1NN4DryQ01CVQSDD07on94",
-      "apple_music_url": "https://music.apple.com/us/search?term=coke%20nails%20Lil%20Peep",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Letter To My Block",
-      "artists": "Lil Tjay",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d2c2f60a1f5edc933534d231",
-      "spotify_url": "https://open.spotify.com/album/4sEo0V4bfSD5iV3ZOowPlz",
-      "apple_music_url": "https://music.apple.com/us/search?term=Letter%20To%20My%20Block%20Lil%20Tjay",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "In Ya City",
-      "artists": "ZEDDY WILL, DaBaby",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d71d484ba97f13a1f9901ad1",
-      "spotify_url": "https://open.spotify.com/album/3pdLfvMrPzYhTmzOVriPBr",
-      "apple_music_url": "https://music.apple.com/us/search?term=In%20Ya%20City%20ZEDDY%20WILL%2C%20DaBaby",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "STAY THE SAME",
-      "artists": "Trippie Redd",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b27323144fdc29e10ac1ffd2e1c1",
-      "spotify_url": "https://open.spotify.com/album/7BTxpWVSCgP0rXJGC5osQU",
-      "apple_music_url": "https://music.apple.com/us/search?term=STAY%20THE%20SAME%20Trippie%20Redd",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Manic!",
-      "artists": "JPEGMAFIA",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732c44428ca69a7f8695b90d41",
-      "spotify_url": "https://open.spotify.com/album/7p31map2bDTgILZnFa9F2W",
-      "apple_music_url": "https://music.apple.com/us/search?term=Manic%21%20JPEGMAFIA",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Ski Ga Ski (\u9699\u304c\u597d\u304d)",
-      "artists": "\u5343\u8449\u96c4\u559c, Big Sean",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b27345dda3c845f0ec03ee0465e0",
-      "spotify_url": "https://open.spotify.com/album/6d9GgeqYFK8JYqhS6U8mwL",
-      "apple_music_url": "https://music.apple.com/us/search?term=Ski%20Ga%20Ski%20%28%E9%9A%99%E3%81%8C%E5%A5%BD%E3%81%8D%29%20%E5%8D%83%E8%91%89%E9%9B%84%E5%96%9C%2C%20Big%20Sean",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Corporate Thuggin'",
-      "artists": "Joey Fatts, Vince Staples",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f8cec1ae5ab9800750402abe",
-      "spotify_url": "https://open.spotify.com/album/65SRU7xvsisxhixUY6ZCaS",
-      "apple_music_url": "https://music.apple.com/us/album/corporate-thuggin-single/1845589173?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "No Syringe",
-      "artists": "Loose Threads, Umair, Smino, Kenny Mason",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737de1e72734bc14fe04631d34",
-      "spotify_url": "https://open.spotify.com/album/3EOLcQjLKbkIStmt4UqtCF",
-      "apple_music_url": "https://music.apple.com/us/search?term=No%20Syringe%20Loose%20Threads%2C%20Umair%2C%20Smino%2C%20Kenny%20Mason",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -1348,7 +1238,7 @@
       "release_date": "2025-11-19",
       "image": "https://i.scdn.co/image/ab67616d0000b273789657ec664daa222cab1e5a",
       "spotify_url": "https://open.spotify.com/album/10p4597ekqFOqMbttkxggC",
-      "apple_music_url": "https://music.apple.com/us/album/xx-deluxe/1849107580?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=xx%20%28Deluxe%29%20The%20xx",
       "total_tracks": 16,
       "album_type": "album"
     },
@@ -1358,7 +1248,7 @@
       "release_date": "2025-11-14",
       "image": "https://i.scdn.co/image/ab67616d0000b273c020ef666dab40650242501c",
       "spotify_url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf",
-      "apple_music_url": "https://music.apple.com/us/album/this-is-the-world-i-made-it-for-you-nice-day-single/1851221191?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=This%20Is%20The%20World%20%28I%20Made%20It%20For%20You%29%20/%20Nice%20Day%20Magdalena%20Bay",
       "total_tracks": 2,
       "album_type": "single"
     },
@@ -1371,58 +1261,72 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Unoriginal%20/%20Black-Eyed%20Susan%20Climb%20Magdalena%20Bay",
       "total_tracks": 2,
       "album_type": "single"
-    },
-    {
-      "name": "Human Happens / Paint Me A Picture",
-      "artists": "Magdalena Bay",
-      "release_date": "2025-10-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737a21a301aa0eafc2ec9e8582",
-      "spotify_url": "https://open.spotify.com/album/4cvjkU5iJWhAJUWELB05l1",
-      "apple_music_url": "https://music.apple.com/us/album/human-happens-paint-me-a-picture-single/1842451427?uo=4",
-      "total_tracks": 2,
-      "album_type": "single"
     }
   ],
   "news": [
     {
-      "title": "GWAR Announce Spring 2026 US Tour with Soulfly and King Parrot",
-      "link": "https://consequence.net/2025/12/gwar-spring-2026-us-tour/",
+      "title": "John Corabi Announces Debut Solo Album, Unveils Title Track \u201cNew Day\u201d: Stream",
+      "link": "https://consequence.net/2025/12/john-corabi-debut-solo-album-new-day-stream/",
       "source": "Consequence",
       "category": "general",
-      "published": "2025-12-15 17:45",
-      "summary": "<p>The \"Gor Gor Strikes Back\" tour launches in March.</p>\n<p><a href=\"https://consequence.net/2025/12/gwar-spring-2026-us-tour/\" rel=\"nofollow\">GWAR Announce Spring 2026 US Tour with Soulfly and King ..."
+      "published": "2025-12-16 17:42",
+      "summary": "<p>The former M\u00f6tley Cr\u00fce singer's first studio album is out April 24th. </p>\n<p><a href=\"https://consequence.net/2025/12/john-corabi-debut-solo-album-new-day-stream/\" rel=\"nofollow\">John Corabi Annou..."
     },
     {
-      "title": "Rosal\u00eda Unveils Video for \u201cLa Perla\u201d: Watch",
-      "link": "https://consequence.net/2025/12/rosalia-la-perla-video-watch/",
+      "title": "Queens of the Stone Age\u2019s Alive in the Catacombs Concert Film Now Streaming on YouTube",
+      "link": "https://consequence.net/2025/12/queens-of-the-stone-age-alive-in-the-catacombs-film-youtube/",
       "source": "Consequence",
       "category": "general",
-      "published": "2025-12-15 17:18",
-      "summary": "<p>Rosal\u00eda drives a Lambo, skates on an ice rink, and dons a fencing fit in the visual for \"La Perla.\"</p>\n<p><a href=\"https://consequence.net/2025/12/rosalia-la-perla-video-watch/\" rel=\"nofollow\">Ros..."
+      "published": "2025-12-16 17:41",
+      "summary": "<p>The stirring concert film captures QOTSA performing an intimate set deep within the Parisian Catacombs.</p>\n<p><a href=\"https://consequence.net/2025/12/queens-of-the-stone-age-alive-in-the-catacomb..."
     },
     {
-      "title": "Rob Reiner\u2019s Charlie Kirk Comments Go Viral Following His Death",
-      "link": "https://consequence.net/2025/12/rob-reiner-charlie-kirk-assassination-comments/",
+      "title": "Gene Simmons and Josh Homme to Join Dean Delray for Bon Scott-Era AC/DC Tribute Show",
+      "link": "https://consequence.net/2025/12/dean-delray-bon-scott-era-ac-dc-tribute-show-2026/",
       "source": "Consequence",
       "category": "general",
-      "published": "2025-12-15 16:47",
-      "summary": "<p>Reiner said Kirk's assassination was \"an absolute horror.\"</p>\n<p><a href=\"https://consequence.net/2025/12/rob-reiner-charlie-kirk-assassination-comments/\" rel=\"nofollow\">Rob Reiner&#8217;s Charlie..."
+      "published": "2025-12-16 16:48",
+      "summary": "<p>The February 3rd show will mark the comedian's 60th birthday and the final edition of his Bon Scott tribute show.</p>\n<p><a href=\"https://consequence.net/2025/12/dean-delray-bon-scott-era-ac-dc-tri..."
     },
     {
-      "title": "Bret Michaels Biopic and Book Coming in 2026",
-      "link": "https://consequence.net/2025/12/bret-michaels-biopic-book-2026/",
+      "title": "The Rolling Stones Scrap Planned 2026 Tour as Keith Richards Unable to Commit to Rigorous Schedule",
+      "link": "https://consequence.net/2025/12/rolling-stones-cancel-2026-tour/",
       "source": "Consequence",
       "category": "general",
-      "published": "2025-12-15 15:58",
-      "summary": "<p>Michaels has titled the biopic and book Unbroken: Then, Now and Forever.</p>\n<p><a href=\"https://consequence.net/2025/12/bret-michaels-biopic-book-2026/\" rel=\"nofollow\">Bret Michaels Biopic and Boo..."
+      "published": "2025-12-16 16:37",
+      "summary": "<p>Richards, who turns 82 this week, has been open about battle with arthritis in recent years.</p>\n<p><a href=\"https://consequence.net/2025/12/rolling-stones-cancel-2026-tour/\" rel=\"nofollow\">The Rol..."
     },
     {
-      "title": "Donald Trump Mocks Rob Reiner\u2019s Murder",
-      "link": "https://consequence.net/2025/12/donald-trump-mocks-rob-reiner-murder/",
+      "title": "The Pitt Season 2 Trailer Promises New Emergencies, New Drama, and No Breaks: Watch",
+      "link": "https://consequence.net/2025/12/the-pitt-season-2-trailer-noah-wyle-hbo-max/",
       "source": "Consequence",
       "category": "general",
-      "published": "2025-12-15 15:53",
-      "summary": "<p>The remarks stand in stark contrast to the grace Reiner showed after the killing of Charlie Kirk.</p>\n<p><a href=\"https://consequence.net/2025/12/donald-trump-mocks-rob-reiner-murder/\" rel=\"nofollo..."
+      "published": "2025-12-16 16:33",
+      "summary": "<p>Noah Wyle stars in the Emmy-winning HBO Max medical drama, returning on January 9th, 2026. </p>\n<p><a href=\"https://consequence.net/2025/12/the-pitt-season-2-trailer-noah-wyle-hbo-max/\" rel=\"nofoll..."
+    },
+    {
+      "title": "Joe Ely, Staple of Texas\u2019 1970s Progressive Country Scene, Dies at 78",
+      "link": "https://pitchfork.com/news/joe-ely-staple-of-texas-1970s-progressive-country-scene-dies-at-78/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2025-12-16 05:54",
+      "summary": "The Grammy-winning singer-songwriter played in the Flatlanders and Los Super Seven, and hopped on songs by the Clash, Uncle Tupelo, and the Chieftans..."
+    },
+    {
+      "title": "\u201cAll I Want for Christmas Is You\u201d Is Now the Longest-Running No. 1 Song in History",
+      "link": "https://pitchfork.com/news/all-i-want-for-christmas-is-you-longest-running-no-1-in-history/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2025-12-15 18:47",
+      "summary": "Mariah Carey\u2019s holiday classic achieved a record-breaking 20th week at the top..."
+    },
+    {
+      "title": "Rosal\u00eda Tries Her Hand at Fencing and Ice Skating in \u201cLa Perla\u201d Video",
+      "link": "https://pitchfork.com/news/rosalia-tries-her-hand-at-fencing-and-ice-skating-in-la-perla-video/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2025-12-15 18:03",
+      "summary": "Here is what happens when you give Rosal\u00eda a sword, an ice rink, a cigarette, a Lamborghini, and two dogs..."
     },
     {
       "title": "Ice Spice, Leif and More: This Week\u2019s Pitchfork Selects Playlist",
@@ -1439,31 +1343,7 @@
       "category": "general",
       "published": "2025-12-15 14:58",
       "summary": "\u201cLonely City,\u201d\u00a0the latest song from My Days of 58, comes with a montage video shot by street photographer Daniel Arnold..."
-    },
-    {
-      "title": "Joseph Byrd, United States of America Bandleader, Dies at 87",
-      "link": "https://pitchfork.com/news/joseph-byrd-united-states-of-america-bandleader-dies-at-87/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2025-12-15 05:35",
-      "summary": "The experimental composer brought electronic sound and radical ideas into the psych-rock genre..."
-    },
-    {
-      "title": "Watch Lily Allen Perform \u201cSleepwalking,\u201d Bring Out Dakota Johnson for \u201cMadeline\u201d on Saturday Night Live",
-      "link": "https://pitchfork.com/news/watch-lily-allen-perform-sleepwalking-bring-out-dakota-johnson-for-madeline-on-saturday-night-live/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2025-12-14 20:19",
-      "summary": "The British pop star appeared as herself in a sketch themed around the title track from her new album, West End Girl..."
-    },
-    {
-      "title": "Alabama Shakes Set Spring 2026 Tour Dates",
-      "link": "https://pitchfork.com/news/alabama-shakes-set-spring-2026-tour-dates/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2025-12-12 17:56",
-      "summary": "Brittany Howard and the band extend their return to the stage..."
     }
   ],
-  "last_updated": "2025-12-15T17:52:20.832784"
+  "last_updated": "2025-12-16T17:52:32.870576"
 }

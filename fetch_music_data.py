@@ -636,6 +636,25 @@ class MusicDataFetcher:
             time.sleep(0.2)
             return None
 
+    def clean_for_apple_music_search(self, text):
+        """Clean text specifically for Apple Music search queries"""
+        import re
+
+        # Remove featured artist notation - Apple Music doesn't need it
+        text = re.sub(r'\(feat\..*?\)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'\[feat\..*?\]', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'feat\..*$', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'featuring.*$', '', text, flags=re.IGNORECASE)
+
+        # Remove pt/part notation for singles (not helpful in search)
+        text = re.sub(r',?\s*pt\.?\s*\d+', '', text, flags=re.IGNORECASE)
+        text = re.sub(r',?\s*part\s*\d+', '', text, flags=re.IGNORECASE)
+
+        # Clean up extra spaces
+        text = re.sub(r'\s+', ' ', text).strip()
+
+        return text
+
     def get_album_details(self, album):
         """Extract relevant album details with hybrid iTunes API / search approach"""
         artists = ", ".join([artist['name'] for artist in album['artists']])
@@ -675,6 +694,9 @@ class MusicDataFetcher:
             # Get primary artist for cleaner search
             primary_artist = artists.split(',')[0].strip()
 
+            # Clean the album name (remove feat., pt., etc.)
+            clean_album_name = self.clean_for_apple_music_search(album['name'])
+
             # Construct optimized search term
             # For singles, just use track name + artist
             # For albums, include year for disambiguation
@@ -683,10 +705,10 @@ class MusicDataFetcher:
 
             if album_type == 'single':
                 # Singles: just name + artist (no year clutter)
-                search_term = f"{album['name']} {primary_artist}"
+                search_term = f"{clean_album_name} {primary_artist}"
             else:
                 # Albums: include year for better matching
-                search_term = f"{album['name']} {primary_artist}"
+                search_term = f"{clean_album_name} {primary_artist}"
                 if release_year:
                     search_term += f" {release_year}"
 

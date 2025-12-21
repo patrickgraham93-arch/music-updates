@@ -511,7 +511,7 @@ class MusicDataFetcher:
 
         return (overlap / total) >= threshold if total > 0 else False
 
-    def search_itunes_for_album(self, album_name, artist_name):
+    def search_itunes_for_album(self, album_name, artist_name, release_date=None):
         """Search iTunes API for direct Apple Music album link with validation"""
         try:
             # Get primary artist (first one before comma)
@@ -528,6 +528,8 @@ class MusicDataFetcher:
             ]
 
             url = "https://itunes.apple.com/search"
+            best_match = None
+            best_match_score = 0
 
             for attempt_num, search_query in enumerate(search_attempts, 1):
                 params = {
@@ -547,6 +549,17 @@ class MusicDataFetcher:
                     for result in data['results']:
                         result_album = result.get('collectionName', '')
                         result_artist = result.get('artistName', '')
+                        result_type = result.get('collectionType', '')
+                        result_track_count = result.get('trackCount', 0)
+                        result_release = result.get('releaseDate', '')[:10]  # YYYY-MM-DD
+
+                        # Skip if it's not an album/EP/single collection
+                        if result_type not in ['Album', 'EP', 'Single', '']:
+                            continue
+
+                        # Skip if track count is 0 (invalid result)
+                        if result_track_count == 0:
+                            continue
 
                         # Validate album name match
                         album_matches = self.strings_match(album_name, result_album)
@@ -558,14 +571,51 @@ class MusicDataFetcher:
                         )
 
                         if album_matches and artist_matches:
-                            apple_music_url = result.get('collectionViewUrl', None)
-                            if apple_music_url:
-                                print(f"   ✅ iTunes match (attempt {attempt_num}): {result_album} - {result_artist}")
-                                time.sleep(0.2)
-                                return apple_music_url
+                            # Calculate match score (higher is better)
+                            score = 0
 
-                    # If no validated match found in this attempt, try next strategy
-                    print(f"   ⚠️  No validated match in attempt {attempt_num} for: {album_name}")
+                            # Perfect album name match = +100
+                            if self.normalize_string(album_name) == self.normalize_string(result_album):
+                                score += 100
+                            elif album_matches:
+                                score += 50
+
+                            # Perfect artist match = +100
+                            if any(self.normalize_string(a) == self.normalize_string(result_artist) for a in artist_list):
+                                score += 100
+                            elif artist_matches:
+                                score += 50
+
+                            # Release date proximity = +50
+                            if release_date and result_release:
+                                if release_date == result_release:
+                                    score += 50
+                                elif abs((datetime.strptime(release_date, '%Y-%m-%d') -
+                                         datetime.strptime(result_release, '%Y-%m-%d')).days) <= 7:
+                                    score += 25
+
+                            apple_music_url = result.get('collectionViewUrl', None)
+                            if apple_music_url and score > best_match_score:
+                                best_match = {
+                                    'url': apple_music_url,
+                                    'album': result_album,
+                                    'artist': result_artist,
+                                    'type': result_type,
+                                    'tracks': result_track_count,
+                                    'release': result_release,
+                                    'score': score,
+                                    'attempt': attempt_num
+                                }
+                                best_match_score = score
+
+                    # If we found a match in this attempt and it's very good, return it
+                    if best_match and best_match_score >= 150:  # At least partial matches on both
+                        print(f"   ✅ iTunes match (attempt {best_match['attempt']}, score {best_match_score}): {best_match['album']} - {best_match['artist']} [{best_match['type']}, {best_match['tracks']} tracks]")
+                        time.sleep(0.2)
+                        return best_match['url']
+
+                    # If no strong match, continue to next strategy
+                    print(f"   ⚠️  No strong match in attempt {attempt_num} (best score: {best_match_score}) for: {album_name}")
 
                 time.sleep(0.2)
 

@@ -646,9 +646,25 @@ class MusicDataFetcher:
         text = re.sub(r'feat\..*$', '', text, flags=re.IGNORECASE)
         text = re.sub(r'featuring.*$', '', text, flags=re.IGNORECASE)
 
+        # Remove volume/vol notation (too specific for search)
+        text = re.sub(r',?\s*vol\.?\s*\d+', '', text, flags=re.IGNORECASE)
+        text = re.sub(r',?\s*volume\s*\d+', '', text, flags=re.IGNORECASE)
+
         # Remove pt/part notation for singles (not helpful in search)
         text = re.sub(r',?\s*pt\.?\s*\d+', '', text, flags=re.IGNORECASE)
         text = re.sub(r',?\s*part\s*\d+', '', text, flags=re.IGNORECASE)
+
+        # Remove edition markers that make search too specific
+        text = re.sub(r'\(.*?edition\)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'\[.*?edition\]', '', text, flags=re.IGNORECASE)
+        # Remove common edition suffixes: "Deluxe Edition", "Black Heart Edition", etc.
+        text = re.sub(r'\s+(deluxe|expanded|special|limited|ultimate|extended|remaster|black\s+heart|errtime)\s+edition$', '', text, flags=re.IGNORECASE)
+
+        # Remove remix indicators (keep them simple)
+        text = re.sub(r'\s*-\s*.*?remix$', ' Remix', text, flags=re.IGNORECASE)
+
+        # Remove trailing commas and clean up punctuation
+        text = re.sub(r',\s*$', '', text)
 
         # Clean up extra spaces
         text = re.sub(r'\s+', ' ', text).strip()
@@ -677,23 +693,12 @@ class MusicDataFetcher:
             # Get primary artist for cleaner search
             primary_artist = artists.split(',')[0].strip()
 
-            # Clean the album name (remove feat., pt., etc.)
+            # Clean the album name (remove feat., Vol., pt., etc.)
             clean_album_name = self.clean_for_apple_music_search(album['name'])
 
-            # Construct optimized search term
-            # For singles, just use track name + artist
-            # For albums, include year for disambiguation
-            album_type = album.get('album_type', 'album')
-            release_year = release_date.split('-')[0] if release_date else ''
-
-            if album_type == 'single':
-                # Singles: just name + artist (no year clutter)
-                search_term = f"{clean_album_name} {primary_artist}"
-            else:
-                # Albums: include year for better matching
-                search_term = f"{clean_album_name} {primary_artist}"
-                if release_year:
-                    search_term += f" {release_year}"
+            # For new releases, keep search simple: just clean album name + artist
+            # Apple Music search works best with simple, broad terms
+            search_term = f"{clean_album_name} {primary_artist}"
 
             apple_music_url = f"https://music.apple.com/us/search?term={quote(search_term)}"
             print(f"   ⚠️  Using search URL fallback for: {album['name']}")

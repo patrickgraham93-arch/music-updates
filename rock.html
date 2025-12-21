@@ -13,359 +13,196 @@
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: #0a0a0a;
+            background: #ffffff;
             min-height: 100vh;
-            padding: 20px;
-            color: #fff;
-            position: relative;
-            overflow-x: hidden;
-        }
-
-        /* Animated gradient background */
-        body::before {
-            content: '';
-            position: fixed;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background:
-                radial-gradient(circle at 20% 50%, rgba(120, 119, 198, 0.3), transparent 50%),
-                radial-gradient(circle at 80% 80%, rgba(138, 43, 226, 0.3), transparent 50%),
-                radial-gradient(circle at 40% 20%, rgba(75, 0, 130, 0.2), transparent 50%);
-            animation: gradientShift 15s ease infinite;
-            z-index: -1;
-        }
-
-        @keyframes gradientShift {
-            0%, 100% { transform: translate(0, 0) rotate(0deg); }
-            33% { transform: translate(5%, -5%) rotate(120deg); }
-            66% { transform: translate(-5%, 5%) rotate(240deg); }
-        }
-
-        /* Floating music notes animation */
-        .music-note {
-            position: fixed;
-            font-size: 2em;
-            opacity: 0.1;
-            animation: float 20s infinite;
-            z-index: -1;
-        }
-
-        .music-note:nth-child(1) { left: 10%; animation-delay: 0s; }
-        .music-note:nth-child(2) { left: 30%; animation-delay: 5s; }
-        .music-note:nth-child(3) { left: 50%; animation-delay: 10s; }
-        .music-note:nth-child(4) { left: 70%; animation-delay: 15s; }
-        .music-note:nth-child(5) { left: 90%; animation-delay: 7s; }
-
-        @keyframes float {
-            0% {
-                transform: translateY(100vh) rotate(0deg);
-                opacity: 0;
-            }
-            10% { opacity: 0.1; }
-            90% { opacity: 0.1; }
-            100% {
-                transform: translateY(-100px) rotate(360deg);
-                opacity: 0;
-            }
+            padding: 40px 20px;
+            color: #007C3F;
+            line-height: 1.6;
         }
 
         .container {
-            max-width: 1400px;
+            max-width: 1200px;
             margin: 0 auto;
-            position: relative;
-            z-index: 1;
-        }
-
-        header {
-            text-align: center;
-            margin-bottom: 40px;
-            animation: fadeInDown 0.8s ease;
-        }
-
-        @keyframes fadeInDown {
-            from {
-                opacity: 0;
-                transform: translateY(-30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        header h1 {
-            font-size: 3.5em;
-            margin-bottom: 15px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            font-weight: 900;
-            letter-spacing: -2px;
-            animation: glow 3s ease-in-out infinite;
-        }
-
-        @keyframes glow {
-            0%, 100% { filter: drop-shadow(0 0 10px rgba(102, 126, 234, 0.5)); }
-            50% { filter: drop-shadow(0 0 20px rgba(138, 43, 226, 0.8)); }
         }
 
         .back-button {
             display: inline-block;
             margin-bottom: 30px;
-            padding: 12px 30px;
-            background: rgba(255, 255, 255, 0.05);
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: 12px;
-            color: #fff;
+            padding: 10px 20px;
+            background: #ffffff;
+            border: 1px solid #007C3F;
+            color: #007C3F;
             text-decoration: none;
-            font-weight: 700;
+            font-weight: 600;
             transition: all 0.3s ease;
-            text-transform: uppercase;
-            letter-spacing: 1px;
             font-size: 0.9em;
         }
 
         .back-button:hover {
-            background: rgba(102, 126, 234, 0.2);
-            border-color: rgba(102, 126, 234, 0.5);
-            transform: translateX(-5px);
+            background: #007C3F;
+            color: #ffffff;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 60px;
+            padding-bottom: 30px;
+            border-bottom: 1px solid rgba(0, 124, 63, 0.15);
+        }
+
+        header h1 {
+            font-size: 3em;
+            color: #007C3F;
+            font-weight: 700;
+            letter-spacing: -1px;
         }
 
         .section {
-            background: rgba(255, 255, 255, 0.03);
-            backdrop-filter: blur(20px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: 20px;
-            padding: 40px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-            animation: fadeInUp 0.8s ease;
-        }
-
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        .section:hover {
-            border-color: rgba(102, 126, 234, 0.3);
-            box-shadow: 0 20px 80px rgba(102, 126, 234, 0.2);
+            margin-bottom: 60px;
         }
 
         .albums-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 30px;
-            margin-top: 30px;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 24px;
         }
 
         .album-card {
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: 16px;
+            background: #ffffff;
+            border: 1px solid rgba(0, 124, 63, 0.15);
             overflow: hidden;
-            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-            cursor: pointer;
-            position: relative;
-        }
-
-        .album-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
-            opacity: 0;
-            transition: opacity 0.4s ease;
+            transition: all 0.3s ease;
         }
 
         .album-card:hover {
-            transform: translateY(-10px) scale(1.02);
-            box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);
-            border-color: rgba(102, 126, 234, 0.5);
-        }
-
-        .album-card:hover::before {
-            opacity: 1;
+            border-color: rgba(0, 124, 63, 0.4);
+            box-shadow: 0 4px 12px rgba(0, 124, 63, 0.1);
         }
 
         .album-image {
             width: 100%;
-            height: 300px;
+            height: 280px;
             object-fit: cover;
-            background: linear-gradient(135deg, #1a1a1a, #2d2d2d);
-            transition: transform 0.4s ease;
-        }
-
-        .album-card:hover .album-image {
-            transform: scale(1.05);
+            background: #f5f5f5;
+            display: block;
         }
 
         .album-info {
             padding: 20px;
-            position: relative;
-            z-index: 1;
         }
 
         .album-name {
-            font-size: 1.2em;
-            font-weight: 700;
-            margin-bottom: 8px;
-            color: #fff;
+            font-size: 1.1em;
+            font-weight: 600;
+            margin-bottom: 6px;
+            color: #007C3F;
             line-height: 1.3;
         }
 
         .album-artist {
-            color: #a0a0a0;
+            color: #007C3F;
+            opacity: 0.7;
             margin-bottom: 12px;
-            font-size: 1em;
+            font-size: 0.95em;
             font-weight: 400;
         }
 
         .album-meta {
             display: flex;
             justify-content: space-between;
-            font-size: 0.85em;
-            color: #707070;
-            margin-bottom: 15px;
+            font-size: 0.8em;
+            color: #007C3F;
+            opacity: 0.6;
+            margin-bottom: 16px;
             flex-wrap: wrap;
             gap: 8px;
         }
 
-        .album-meta span {
-            background: rgba(255,255,255,0.05);
-            padding: 4px 10px;
-            border-radius: 8px;
-        }
-
         .album-links {
             display: flex;
-            gap: 12px;
+            gap: 10px;
         }
 
         .btn {
             flex: 1;
-            padding: 12px 20px;
-            border-radius: 10px;
+            padding: 10px 16px;
             text-decoration: none;
             text-align: center;
-            font-size: 0.9em;
-            font-weight: 700;
+            font-size: 0.85em;
+            font-weight: 600;
             transition: all 0.3s ease;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .btn::before {
-            content: '';
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 0;
-            height: 0;
-            border-radius: 50%;
-            background: rgba(255,255,255,0.2);
-            transform: translate(-50%, -50%);
-            transition: width 0.6s, height 0.6s;
-        }
-
-        .btn:hover::before {
-            width: 300px;
-            height: 300px;
+            border: 1px solid #007C3F;
         }
 
         .btn span {
-            position: relative;
-            z-index: 1;
+            color: #007C3F;
         }
 
         .btn-spotify {
-            background: linear-gradient(135deg, #1DB954, #1ed760);
-            color: white;
-            box-shadow: 0 4px 15px rgba(29, 185, 84, 0.3);
+            background: #ffffff;
+            border-color: #007C3F;
         }
 
         .btn-spotify:hover {
-            box-shadow: 0 6px 25px rgba(29, 185, 84, 0.5);
-            transform: translateY(-2px);
+            background: #007C3F;
+        }
+
+        .btn-spotify:hover span {
+            color: #ffffff;
         }
 
         .btn-apple {
-            background: linear-gradient(135deg, #fc3c44, #ff5e62);
-            color: white;
-            box-shadow: 0 4px 15px rgba(252, 60, 68, 0.3);
+            background: #007C3F;
+        }
+
+        .btn-apple span {
+            color: #ffffff;
         }
 
         .btn-apple:hover {
-            box-shadow: 0 6px 25px rgba(252, 60, 68, 0.5);
-            transform: translateY(-2px);
+            background: #006332;
         }
 
         .empty-state {
             text-align: center;
             padding: 60px 20px;
-            color: #707070;
+            color: #007C3F;
+            opacity: 0.6;
         }
 
         .empty-state-icon {
-            font-size: 4em;
+            font-size: 3em;
             margin-bottom: 20px;
-            opacity: 0.3;
-            animation: pulse 2s ease-in-out infinite;
-        }
-
-        @keyframes pulse {
-            0%, 100% { transform: scale(1); opacity: 0.3; }
-            50% { transform: scale(1.1); opacity: 0.5; }
         }
 
         .loading {
             text-align: center;
             padding: 60px;
-            color: #808080;
-            font-size: 1.2em;
-        }
-
-        .loading::after {
-            content: '...';
-            animation: dots 1.5s steps(4, end) infinite;
-        }
-
-        @keyframes dots {
-            0%, 20% { content: '.'; }
-            40% { content: '..'; }
-            60%, 100% { content: '...'; }
+            color: #007C3F;
+            opacity: 0.6;
+            font-size: 1em;
         }
 
         @media (max-width: 768px) {
-            header h1 {
-                font-size: 2.5em;
+            body {
+                padding: 20px 15px;
             }
 
-            .section {
-                padding: 25px;
+            header h1 {
+                font-size: 2.2em;
+            }
+
+            header {
+                margin-bottom: 40px;
             }
 
             .albums-grid {
-                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-                gap: 20px;
+                grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+                gap: 16px;
             }
 
             .album-image {
-                height: 150px;
+                height: 160px;
             }
 
             .album-info {
@@ -373,29 +210,22 @@
             }
 
             .album-name {
-                font-size: 1em;
+                font-size: 0.95em;
             }
 
             .btn {
                 font-size: 0.75em;
-                padding: 10px 15px;
+                padding: 8px 12px;
             }
         }
     </style>
 </head>
 <body>
-    <!-- Floating music notes -->
-    <div class="music-note">♪</div>
-    <div class="music-note">♫</div>
-    <div class="music-note">♪</div>
-    <div class="music-note">♫</div>
-    <div class="music-note">♪</div>
-
     <div class="container">
         <a href="index.html" class="back-button">← Back to Home</a>
 
         <header>
-            <h1>🎸 Alternative Rock Releases</h1>
+            <h1>Alternative Rock Releases</h1>
         </header>
 
         <div class="section">

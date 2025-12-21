@@ -696,12 +696,15 @@ class MusicDataFetcher:
             # Clean the album name (remove feat., Vol., pt., etc.)
             clean_album_name = self.clean_for_apple_music_search(album['name'])
 
-            # For new releases, keep search simple: just clean album name + artist
-            # Apple Music search works best with simple, broad terms
+            # For new releases, use iTunes Store search which redirects to Apple Music
+            # Format: https://music.apple.com/us/search?term=query
+            # But encode properly and keep it simple
             search_term = f"{clean_album_name} {primary_artist}"
 
+            # Use the web Apple Music search format
             apple_music_url = f"https://music.apple.com/us/search?term={quote(search_term)}"
             print(f"   ⚠️  Using search URL fallback for: {album['name']}")
+            print(f"      Search term: {search_term}")
 
         return {
             'name': album['name'],

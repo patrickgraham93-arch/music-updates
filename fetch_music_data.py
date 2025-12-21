@@ -609,7 +609,7 @@ class MusicDataFetcher:
                                 best_match_score = score
 
                     # If we found a match in this attempt and it's very good, return it
-                    if best_match and best_match_score >= 150:  # At least partial matches on both
+                    if best_match and best_match_score >= 100:  # Lowered threshold for better matching
                         print(f"   ✅ iTunes match (attempt {best_match['attempt']}, score {best_match_score}): {best_match['album']} - {best_match['artist']} [{best_match['type']}, {best_match['tracks']} tracks]")
                         time.sleep(0.2)
                         return best_match['url']
@@ -619,8 +619,8 @@ class MusicDataFetcher:
 
                 time.sleep(0.2)
 
-            # Return best match if we found any valid match at all
-            if best_match and best_match_score >= 100:  # Lowered threshold - at least one perfect match
+            # Return best match if we found any reasonable match at all
+            if best_match and best_match_score >= 75:  # Accept even partial matches
                 print(f"   ✅ iTunes best match (score {best_match_score}): {best_match['album']} - {best_match['artist']} [{best_match['type']}]")
                 return best_match['url']
 
@@ -656,40 +656,23 @@ class MusicDataFetcher:
         return text
 
     def get_album_details(self, album):
-        """Extract relevant album details with hybrid iTunes API / search approach"""
+        """Extract relevant album details with iTunes API for direct Apple Music links"""
         artists = ", ".join([artist['name'] for artist in album['artists']])
         release_date = album.get('release_date', '')
 
-        # Determine if this is a very new release
-        is_new_release = False
-        days_old = None
-
-        try:
-            if release_date:
-                rel_date = datetime.strptime(release_date, '%Y-%m-%d')
-                days_old = (datetime.now() - rel_date).days
-                is_new_release = days_old <= 7
-        except:
-            pass
-
         apple_music_url = None
 
-        # HYBRID APPROACH: Only use iTunes API for releases older than 7 days
-        if not is_new_release:
-            # Try iTunes API for older releases
-            apple_music_url = self.search_itunes_for_album(
-                album['name'],
-                artists,
-                release_date=release_date
-            )
+        # ALWAYS try iTunes API first for all releases
+        apple_music_url = self.search_itunes_for_album(
+            album['name'],
+            artists,
+            release_date=release_date
+        )
 
-            if apple_music_url:
-                print(f"   ✅ Got iTunes API link for: {album['name']}")
-        else:
-            # Skip iTunes API for very new releases
-            print(f"   ⚠️  Skipping iTunes API for new release ({days_old} days old): {album['name']}")
+        if apple_music_url:
+            print(f"   ✅ Got direct iTunes link for: {album['name']}")
 
-        # Fallback to optimized search URL
+        # Fallback to optimized search URL only if iTunes API fails
         if not apple_music_url:
             # Get primary artist for cleaner search
             primary_artist = artists.split(',')[0].strip()
@@ -713,11 +696,7 @@ class MusicDataFetcher:
                     search_term += f" {release_year}"
 
             apple_music_url = f"https://music.apple.com/us/search?term={quote(search_term)}"
-
-            if is_new_release:
-                print(f"   📱 Using search URL for new release: {album['name']}")
-            else:
-                print(f"   ⚠️  Using search URL fallback for: {album['name']}")
+            print(f"   ⚠️  Using search URL fallback for: {album['name']}")
 
         return {
             'name': album['name'],

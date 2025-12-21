@@ -637,45 +637,65 @@ class MusicDataFetcher:
             return None
 
     def get_album_details(self, album):
-        """Extract relevant album details"""
+        """Extract relevant album details with hybrid iTunes API / search approach"""
         artists = ", ".join([artist['name'] for artist in album['artists']])
+        release_date = album.get('release_date', '')
 
-        # Try to get direct Apple Music link from iTunes API
-        apple_music_url = self.search_itunes_for_album(
-            album['name'],
-            artists,
-            release_date=album.get('release_date')
-        )
+        # Determine if this is a very new release
+        is_new_release = False
+        days_old = None
 
-        # Fallback to search URL if iTunes API fails
+        try:
+            if release_date:
+                rel_date = datetime.strptime(release_date, '%Y-%m-%d')
+                days_old = (datetime.now() - rel_date).days
+                is_new_release = days_old <= 7
+        except:
+            pass
+
+        apple_music_url = None
+
+        # HYBRID APPROACH: Only use iTunes API for releases older than 7 days
+        if not is_new_release:
+            # Try iTunes API for older releases
+            apple_music_url = self.search_itunes_for_album(
+                album['name'],
+                artists,
+                release_date=release_date
+            )
+
+            if apple_music_url:
+                print(f"   ✅ Got iTunes API link for: {album['name']}")
+        else:
+            # Skip iTunes API for very new releases
+            print(f"   ⚠️  Skipping iTunes API for new release ({days_old} days old): {album['name']}")
+
+        # Fallback to optimized search URL
         if not apple_music_url:
-            # For very new releases (within 7 days), iTunes might not have indexed them yet
-            # Add release year to search for better results
-            release_date = album.get('release_date', '')
+            # Get primary artist for cleaner search
+            primary_artist = artists.split(',')[0].strip()
+
+            # Construct optimized search term
+            # For singles, just use track name + artist
+            # For albums, include year for disambiguation
+            album_type = album.get('album_type', 'album')
             release_year = release_date.split('-')[0] if release_date else ''
 
-            search_term = f"{album['name']} {artists}"
-            if release_year:
-                search_term += f" {release_year}"
+            if album_type == 'single':
+                # Singles: just name + artist (no year clutter)
+                search_term = f"{album['name']} {primary_artist}"
+            else:
+                # Albums: include year for better matching
+                search_term = f"{album['name']} {primary_artist}"
+                if release_year:
+                    search_term += f" {release_year}"
 
             apple_music_url = f"https://music.apple.com/us/search?term={quote(search_term)}"
 
-            # Check if this is a very new release
-            try:
-                if release_date:
-                    from datetime import datetime, timedelta
-                    rel_date = datetime.strptime(release_date, '%Y-%m-%d')
-                    days_old = (datetime.now() - rel_date).days
-                    if days_old <= 7:
-                        print(f"   ⚠️  Very new release ({days_old} days old) - iTunes may not have indexed yet: {album['name']}")
-                    else:
-                        print(f"   ⚠️  Using search fallback for: {album['name']}")
-                else:
-                    print(f"   ⚠️  Using search fallback for: {album['name']}")
-            except:
-                print(f"   ⚠️  Using search fallback for: {album['name']}")
-        else:
-            print(f"   ✅ Got Apple Music link for: {album['name']}")
+            if is_new_release:
+                print(f"   📱 Using search URL for new release: {album['name']}")
+            else:
+                print(f"   ⚠️  Using search URL fallback for: {album['name']}")
 
         return {
             'name': album['name'],

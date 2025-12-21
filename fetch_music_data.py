@@ -619,8 +619,16 @@ class MusicDataFetcher:
 
                 time.sleep(0.2)
 
-            # All strategies failed
-            print(f"   ❌ No iTunes match found after {len(search_attempts)} attempts for: {album_name}")
+            # Return best match if we found any valid match at all
+            if best_match and best_match_score >= 100:  # Lowered threshold - at least one perfect match
+                print(f"   ✅ iTunes best match (score {best_match_score}): {best_match['album']} - {best_match['artist']} [{best_match['type']}]")
+                return best_match['url']
+
+            # All strategies failed or score too low
+            if best_match:
+                print(f"   ❌ Best match score too low ({best_match_score}) for: {album_name} -> {best_match['album']}")
+            else:
+                print(f"   ❌ No iTunes match found after {len(search_attempts)} attempts for: {album_name}")
             return None
 
         except Exception as e:
@@ -633,13 +641,39 @@ class MusicDataFetcher:
         artists = ", ".join([artist['name'] for artist in album['artists']])
 
         # Try to get direct Apple Music link from iTunes API
-        apple_music_url = self.search_itunes_for_album(album['name'], artists)
+        apple_music_url = self.search_itunes_for_album(
+            album['name'],
+            artists,
+            release_date=album.get('release_date')
+        )
 
         # Fallback to search URL if iTunes API fails
         if not apple_music_url:
+            # For very new releases (within 7 days), iTunes might not have indexed them yet
+            # Add release year to search for better results
+            release_date = album.get('release_date', '')
+            release_year = release_date.split('-')[0] if release_date else ''
+
             search_term = f"{album['name']} {artists}"
+            if release_year:
+                search_term += f" {release_year}"
+
             apple_music_url = f"https://music.apple.com/us/search?term={quote(search_term)}"
-            print(f"   ⚠️  Using search fallback for: {album['name']}")
+
+            # Check if this is a very new release
+            try:
+                if release_date:
+                    from datetime import datetime, timedelta
+                    rel_date = datetime.strptime(release_date, '%Y-%m-%d')
+                    days_old = (datetime.now() - rel_date).days
+                    if days_old <= 7:
+                        print(f"   ⚠️  Very new release ({days_old} days old) - iTunes may not have indexed yet: {album['name']}")
+                    else:
+                        print(f"   ⚠️  Using search fallback for: {album['name']}")
+                else:
+                    print(f"   ⚠️  Using search fallback for: {album['name']}")
+            except:
+                print(f"   ⚠️  Using search fallback for: {album['name']}")
         else:
             print(f"   ✅ Got Apple Music link for: {album['name']}")
 

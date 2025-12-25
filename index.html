@@ -194,11 +194,11 @@
         .btn-see-more {
             display: inline-block;
             padding: 12px 32px;
-            background: #4CBB17;
+            background: #007C3F;
             color: #ffffff;
             border: none;
             border-radius: 6px;
-            font-size: 0.9em;
+            font-size: 0.95em;
             font-weight: 600;
             cursor: pointer;
             transition: all 0.3s ease;
@@ -206,9 +206,9 @@
         }
 
         .btn-see-more:hover {
-            background: #3da614;
+            background: #006633;
             transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(76, 187, 23, 0.3);
+            box-shadow: 0 4px 8px rgba(0, 124, 63, 0.3);
         }
 
         .btn-see-more span {
@@ -461,21 +461,28 @@
                 </div>
             `).join('');
 
-            // Generate "See More" link if needed
-            let seeMoreButton = '';
+            // Set album cards inside the grid
+            container.innerHTML = albumsHTML;
+
+            // Remove any existing see-more button
+            const existingButton = container.nextElementSibling;
+            if (existingButton && existingButton.classList.contains('see-more-container')) {
+                existingButton.remove();
+            }
+
+            // Generate "See More" button outside the grid if needed
             if (hasMore) {
                 const remainingCount = albums.length - INITIAL_DISPLAY_COUNT;
-
-                seeMoreButton = `
+                const seeMoreButton = `
                     <div class="see-more-container">
                         <a href="${pageUrl}" class="btn-see-more">
                             <span>See More (${remainingCount} more)</span>
                         </a>
                     </div>
                 `;
+                // Insert button after the albums grid
+                container.insertAdjacentHTML('afterend', seeMoreButton);
             }
-
-            container.innerHTML = albumsHTML + seeMoreButton;
         }
 
         function displayNews(newsItems) {

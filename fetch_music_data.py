@@ -785,7 +785,7 @@ class MusicDataFetcher:
                 'url': 'https://www.reddit.com/r/hiphopheads/.rss',
                 'category': 'hiphop',
                 'is_reddit': True,
-                'min_upvotes': 100  # Only show posts with 100+ upvotes
+                'min_upvotes': 25  # Only show posts with 25+ upvotes
             },
 
             # Rock/Alternative Sources
@@ -830,7 +830,7 @@ class MusicDataFetcher:
                         title = entry.title
 
                         # Try to extract upvotes from content or title
-                        upvotes = 0
+                        upvotes = None
                         content = entry.get('content', [{}])[0].get('value', '') if entry.get('content') else ''
 
                         # Look for upvote count in content
@@ -838,16 +838,24 @@ class MusicDataFetcher:
                         if upvote_match:
                             upvotes = int(upvote_match.group(1))
 
-                        # Skip if below minimum upvotes
+                        # Also try to find in summary
+                        if not upvotes:
+                            summary = entry.get('summary', '')
+                            upvote_match = re.search(r'(\d+)\s+points?', summary)
+                            if upvote_match:
+                                upvotes = int(upvote_match.group(1))
+
+                        # Skip if below minimum upvotes (only if we found upvotes)
                         min_upvotes = source.get('min_upvotes', 0)
-                        if upvotes < min_upvotes:
+                        if upvotes is not None and upvotes < min_upvotes:
                             continue
 
                         # Clean up Reddit title (remove subreddit prefix)
                         title = re.sub(r'^\[.*?\]\s*', '', title)
 
-                        # Add upvote count to title
-                        title = f"{title} ({upvotes} upvotes)"
+                        # Add upvote count to title if available
+                        if upvotes is not None:
+                            title = f"{title} ({upvotes} upvotes)"
 
                     # Handle YouTube videos
                     elif source.get('is_youtube'):

@@ -150,6 +150,59 @@
             border-bottom: 1px solid rgba(0, 124, 63, 0.15);
         }
 
+        .filters-container {
+            margin-bottom: 40px;
+            padding: 20px;
+            background: rgba(0, 124, 63, 0.03);
+            border: 1px solid rgba(0, 124, 63, 0.15);
+        }
+
+        .filter-section {
+            margin-bottom: 20px;
+        }
+
+        .filter-section:last-child {
+            margin-bottom: 0;
+        }
+
+        .filter-label {
+            font-size: 0.9em;
+            font-weight: 600;
+            color: #007C3F;
+            margin-bottom: 10px;
+            display: block;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .filter-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .filter-btn {
+            padding: 8px 16px;
+            background: #ffffff;
+            border: 1px solid rgba(0, 124, 63, 0.3);
+            color: #007C3F;
+            font-size: 0.85em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-family: 'Ojuju', sans-serif;
+        }
+
+        .filter-btn:hover {
+            background: rgba(0, 124, 63, 0.1);
+        }
+
+        .filter-btn.active {
+            background: #007C3F;
+            color: #ffffff;
+            border-color: #007C3F;
+        }
+
         .empty-state {
             text-align: center;
             padding: 60px 20px;
@@ -197,6 +250,24 @@
             <h1>Music News</h1>
         </header>
 
+        <div class="filters-container">
+            <div class="filter-section">
+                <span class="filter-label">Category</span>
+                <div class="filter-buttons" id="categoryFilters">
+                    <button class="filter-btn active" data-category="all">All</button>
+                    <button class="filter-btn" data-category="general">General Music</button>
+                    <button class="filter-btn" data-category="hiphop">Hip Hop</button>
+                    <button class="filter-btn" data-category="rock">Rock/Alternative</button>
+                </div>
+            </div>
+            <div class="filter-section">
+                <span class="filter-label">Source</span>
+                <div class="filter-buttons" id="sourceFilters">
+                    <button class="filter-btn active" data-source="all">All Sources</button>
+                </div>
+            </div>
+        </div>
+
         <div class="section">
             <div class="news-grid" id="newsItems">
                 <div class="loading">Loading music news</div>
@@ -205,11 +276,21 @@
     </div>
 
     <script>
+        let allNewsItems = [];
+        let currentCategoryFilter = 'all';
+        let currentSourceFilter = 'all';
+
         async function loadMusicData() {
             try {
                 const response = await fetch(`music_data.json?t=${Date.now()}`);
                 const data = await response.json();
-                displayNews(data.news);
+                allNewsItems = data.news || [];
+
+                // Populate source filters
+                populateSourceFilters(allNewsItems);
+
+                // Display news with initial filters
+                displayFilteredNews();
             } catch (error) {
                 console.error('Error loading music data:', error);
                 document.getElementById('newsItems').innerHTML =
@@ -217,10 +298,52 @@
             }
         }
 
-        function displayNews(newsItems) {
+        function populateSourceFilters(newsItems) {
+            // Get unique sources
+            const sources = [...new Set(newsItems.map(item => item.source))].sort();
+
+            const sourceFiltersContainer = document.getElementById('sourceFilters');
+
+            // Keep the "All Sources" button and add individual source buttons
+            const sourceButtons = sources.map(source =>
+                `<button class="filter-btn" data-source="${source}">${source}</button>`
+            ).join('');
+
+            // Add source buttons after "All Sources"
+            const allButton = sourceFiltersContainer.querySelector('[data-source="all"]');
+            allButton.insertAdjacentHTML('afterend', sourceButtons);
+
+            // Add event listeners to all source filter buttons
+            sourceFiltersContainer.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    // Remove active class from all source buttons
+                    sourceFiltersContainer.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    // Add active class to clicked button
+                    btn.classList.add('active');
+                    // Update filter and display
+                    currentSourceFilter = btn.dataset.source;
+                    displayFilteredNews();
+                });
+            });
+        }
+
+        // Add event listeners to category filters
+        document.getElementById('categoryFilters').querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                // Remove active class from all category buttons
+                document.getElementById('categoryFilters').querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                // Add active class to clicked button
+                btn.classList.add('active');
+                // Update filter and display
+                currentCategoryFilter = btn.dataset.category;
+                displayFilteredNews();
+            });
+        });
+
+        function displayFilteredNews() {
             const container = document.getElementById('newsItems');
 
-            if (!newsItems || newsItems.length === 0) {
+            if (!allNewsItems || allNewsItems.length === 0) {
                 container.innerHTML = `
                     <div class="empty-state">
                         <div class="empty-state-icon">📰</div>
@@ -230,9 +353,31 @@
                 return;
             }
 
-            const hiphopNews = newsItems.filter(item => item.category === 'hiphop');
-            const rockNews = newsItems.filter(item => item.category === 'rock');
-            const generalNews = newsItems.filter(item => item.category === 'general');
+            // Filter by category
+            let filteredItems = allNewsItems;
+            if (currentCategoryFilter !== 'all') {
+                filteredItems = filteredItems.filter(item => item.category === currentCategoryFilter);
+            }
+
+            // Filter by source
+            if (currentSourceFilter !== 'all') {
+                filteredItems = filteredItems.filter(item => item.source === currentSourceFilter);
+            }
+
+            if (filteredItems.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">🔍</div>
+                        <p>No articles match the selected filters.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            // Group by category
+            const hiphopNews = filteredItems.filter(item => item.category === 'hiphop');
+            const rockNews = filteredItems.filter(item => item.category === 'rock');
+            const generalNews = filteredItems.filter(item => item.category === 'general');
 
             let html = '';
 

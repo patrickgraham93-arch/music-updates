@@ -715,17 +715,13 @@ class MusicDataFetcher:
         }
 
     def fetch_music_news(self):
-        """Fetch music news from various RSS feeds"""
+        """Fetch music news from various RSS feeds including Reddit and YouTube"""
         news_sources = [
+            # General Music News
             {
                 'name': 'Pitchfork',
                 'url': 'https://pitchfork.com/rss/news/',
                 'category': 'general'
-            },
-            {
-                'name': 'HipHopDX',
-                'url': 'https://hiphopdx.com/feed',
-                'category': 'hiphop'
             },
             {
                 'name': 'Consequence',
@@ -733,9 +729,88 @@ class MusicDataFetcher:
                 'category': 'general'
             },
             {
+                'name': 'Rolling Stone',
+                'url': 'https://www.rollingstone.com/music/music-news/feed/',
+                'category': 'general'
+            },
+            {
+                'name': 'NME',
+                'url': 'https://www.nme.com/news/music/feed',
+                'category': 'general'
+            },
+            {
+                'name': 'Billboard',
+                'url': 'https://www.billboard.com/feed/',
+                'category': 'general'
+            },
+            {
+                'name': 'Brooklyn Vegan',
+                'url': 'https://www.brooklynvegan.com/rss',
+                'category': 'general'
+            },
+
+            # Hip Hop Sources
+            {
+                'name': 'HipHopDX',
+                'url': 'https://hiphopdx.com/feed',
+                'category': 'hiphop'
+            },
+            {
+                'name': 'Complex Music',
+                'url': 'https://www.complex.com/music/rss',
+                'category': 'hiphop'
+            },
+            {
+                'name': 'The FADER',
+                'url': 'https://www.thefader.com/feed',
+                'category': 'hiphop'
+            },
+            {
+                'name': 'HotNewHipHop',
+                'url': 'https://www.hotnewhiphop.com/rss',
+                'category': 'hiphop'
+            },
+            {
+                'name': 'XXL Mag',
+                'url': 'https://www.xxlmag.com/feed/',
+                'category': 'hiphop'
+            },
+            {
+                'name': 'Rap-Up',
+                'url': 'https://www.rap-up.com/feed/',
+                'category': 'hiphop'
+            },
+            {
+                'name': 'Reddit r/hiphopheads',
+                'url': 'https://www.reddit.com/r/hiphopheads/.rss',
+                'category': 'hiphop',
+                'is_reddit': True,
+                'min_upvotes': 100  # Only show posts with 100+ upvotes
+            },
+
+            # Rock/Alternative Sources
+            {
                 'name': 'Stereogum',
                 'url': 'https://www.stereogum.com/feed/',
                 'category': 'rock'
+            },
+            {
+                'name': 'Alternative Press',
+                'url': 'https://www.altpress.com/feed/',
+                'category': 'rock'
+            },
+            {
+                'name': 'Loudwire',
+                'url': 'https://loudwire.com/feed/',
+                'category': 'rock'
+            },
+
+            # YouTube - The Needle Drop
+            {
+                'name': 'The Needle Drop',
+                'url': 'https://www.youtube.com/feeds/videos.xml?channel_id=UCt7fwAhXDy3oNFTAzF2o8Pw',
+                'category': 'general',
+                'is_youtube': True
             }
         ]
 
@@ -745,22 +820,66 @@ class MusicDataFetcher:
         for source in news_sources:
             try:
                 feed = feedparser.parse(source['url'])
-                for entry in feed.entries[:5]:
+
+                # Get more articles per source (15 instead of 5)
+                for entry in feed.entries[:15]:
+                    # Handle Reddit posts with upvote filtering
+                    if source.get('is_reddit'):
+                        # Extract upvotes from Reddit RSS (it's in the title like "[FRESH] Title (123 points)")
+                        import re
+                        title = entry.title
+
+                        # Try to extract upvotes from content or title
+                        upvotes = 0
+                        content = entry.get('content', [{}])[0].get('value', '') if entry.get('content') else ''
+
+                        # Look for upvote count in content
+                        upvote_match = re.search(r'(\d+)\s+points?', content)
+                        if upvote_match:
+                            upvotes = int(upvote_match.group(1))
+
+                        # Skip if below minimum upvotes
+                        min_upvotes = source.get('min_upvotes', 0)
+                        if upvotes < min_upvotes:
+                            continue
+
+                        # Clean up Reddit title (remove subreddit prefix)
+                        title = re.sub(r'^\[.*?\]\s*', '', title)
+
+                        # Add upvote count to title
+                        title = f"{title} ({upvotes} upvotes)"
+
+                    # Handle YouTube videos
+                    elif source.get('is_youtube'):
+                        title = entry.title
+                        # YouTube RSS includes "published" field
+                    else:
+                        title = entry.title
+
                     pub_date = entry.get('published_parsed') or entry.get('updated_parsed')
                     if pub_date:
                         pub_date = datetime(*pub_date[:6])
                     else:
                         pub_date = datetime.now()
 
-                    # Changed to 3 days for more results
-                    if datetime.now() - pub_date <= timedelta(days=3):
+                    # Increased to 7 days for more results
+                    if datetime.now() - pub_date <= timedelta(days=7):
+                        summary = entry.get('summary', '')
+
+                        # Clean up summary (remove HTML tags if present)
+                        import re
+                        summary = re.sub(r'<[^>]+>', '', summary)
+                        summary = summary[:200] + '...' if len(summary) > 200 else summary
+                        if not summary:
+                            summary = 'Click to read more.'
+
                         all_news.append({
-                            'title': entry.title,
+                            'title': title,
                             'link': entry.link,
                             'source': source['name'],
                             'category': source['category'],
                             'published': pub_date.strftime('%Y-%m-%d %H:%M'),
-                            'summary': entry.get('summary', '')[:200] + '...' if entry.get('summary') else 'Click to read more.'
+                            'summary': summary
                         })
 
                 time.sleep(0.5)
@@ -769,8 +888,8 @@ class MusicDataFetcher:
                 continue
 
         all_news.sort(key=lambda x: x['published'], reverse=True)
-        print(f"✅ Found {len(all_news[:20])} news articles")
-        return all_news[:20]
+        print(f"✅ Found {len(all_news[:50])} news articles from {len(news_sources)} sources")
+        return all_news[:50]  # Return top 50 articles instead of 20
 
     def generate_demo_data(self):
         """Generate demo data when API credentials aren't available"""

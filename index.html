@@ -323,6 +323,46 @@
             border-bottom: 1px solid rgba(0, 124, 63, 0.15);
         }
 
+        .tabs {
+            display: flex;
+            gap: 0;
+            margin-bottom: 40px;
+            border-bottom: 2px solid rgba(0, 124, 63, 0.15);
+            justify-content: center;
+        }
+
+        .tab-button {
+            background: none;
+            border: none;
+            padding: 15px 40px;
+            font-size: 1.1em;
+            font-weight: 600;
+            color: #007C3F;
+            opacity: 0.5;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-family: 'Ojuju', sans-serif;
+            border-bottom: 3px solid transparent;
+            margin-bottom: -2px;
+        }
+
+        .tab-button:hover {
+            opacity: 0.8;
+        }
+
+        .tab-button.active {
+            opacity: 1;
+            border-bottom-color: #007C3F;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
         @media (max-width: 768px) {
             body {
                 padding: 20px 15px;
@@ -361,6 +401,24 @@
                 font-size: 0.75em;
                 padding: 8px 12px;
             }
+
+            .tabs {
+                flex-direction: column;
+                gap: 10px;
+                border-bottom: none;
+            }
+
+            .tab-button {
+                padding: 12px 20px;
+                border: 1px solid rgba(0, 124, 63, 0.15);
+                border-bottom: 1px solid rgba(0, 124, 63, 0.15);
+                margin-bottom: 0;
+            }
+
+            .tab-button.active {
+                border-color: #007C3F;
+                background: rgba(0, 124, 63, 0.05);
+            }
         }
     </style>
 </head>
@@ -371,29 +429,52 @@
             <div class="last-updated" id="lastUpdated">Loading...</div>
         </header>
 
-        <div class="section">
-            <h2>New Hip Hop Releases</h2>
-            <div class="albums-grid" id="hiphopAlbums">
-                <div class="loading">Loading hip hop releases</div>
+        <div class="tabs">
+            <button class="tab-button active" onclick="switchTab('music')">Music Updates</button>
+            <button class="tab-button" onclick="switchTab('news')">News</button>
+        </div>
+
+        <div id="music-tab" class="tab-content active">
+            <div class="section">
+                <h2>New Hip Hop Releases</h2>
+                <div class="albums-grid" id="hiphopAlbums">
+                    <div class="loading">Loading hip hop releases</div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>New Alternative Rock Releases</h2>
+                <div class="albums-grid" id="rockAlbums">
+                    <div class="loading">Loading rock releases</div>
+                </div>
             </div>
         </div>
 
-        <div class="section">
-            <h2>New Alternative Rock Releases</h2>
-            <div class="albums-grid" id="rockAlbums">
-                <div class="loading">Loading rock releases</div>
-            </div>
-        </div>
-
-        <div class="section">
-            <h2>Music News</h2>
-            <div class="news-grid" id="newsItems">
-                <div class="loading">Loading music news</div>
+        <div id="news-tab" class="tab-content">
+            <div class="section">
+                <h2>Music News</h2>
+                <div class="news-grid" id="newsItems">
+                    <div class="loading">Loading music news</div>
+                </div>
             </div>
         </div>
     </div>
 
     <script>
+        function switchTab(tabName) {
+            // Remove active class from all tabs and buttons
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            document.querySelectorAll('.tab-button').forEach(button => {
+                button.classList.remove('active');
+            });
+
+            // Add active class to selected tab and button
+            document.getElementById(tabName + '-tab').classList.add('active');
+            event.target.classList.add('active');
+        }
+
         async function loadMusicData() {
             try {
                 // Add timestamp to prevent caching and always get fresh data

@@ -1,10 +1,50 @@
 {
   "hiphop": [
     {
+      "name": "PBJT",
+      "artists": "DaBaby",
+      "release_date": "2026-01-02",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d1f5ca2420ce873e96a86fb",
+      "spotify_url": "https://open.spotify.com/album/1P0k7UuJGuwhIUHd8f7gEf",
+      "apple_music_url": "https://music.apple.com/us/album/pbjt-single/1862944219?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Don't Insult Me (Ft. Twin)",
+      "artists": "DaBaby",
+      "release_date": "2026-01-02",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e402da7b0a31fdf15551eda6",
+      "spotify_url": "https://open.spotify.com/album/0TGlyGLvtfBiLinxVVYzKc",
+      "apple_music_url": "https://music.apple.com/us/album/dont-insult-me-ft-twin-single/1862354800?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Girls",
+      "artists": "Kyle Hume",
+      "release_date": "2026-01-02",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e6c7e300aa75a34fdf9cf9c",
+      "spotify_url": "https://open.spotify.com/album/54B6UmBUsthY9RM2JMIE0G",
+      "apple_music_url": "https://music.apple.com/us/album/girls-single/1861539527?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "times of my life",
+      "artists": "mgk",
+      "release_date": "2026-01-02",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ffd7937e8f9e4fcf20f9c87d",
+      "spotify_url": "https://open.spotify.com/album/7ho5lLjKCYZuVACE9hAPmu",
+      "apple_music_url": "https://music.apple.com/us/album/times-of-my-life-single/1861670009?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "stop the car",
       "artists": "Lil Peep",
       "release_date": "2026-01-01",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d9dbd50608da7a7e9e95e59c",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a41ac40e4d1630c750fa91ec",
       "spotify_url": "https://open.spotify.com/album/63KElV2GjzkICoG9RHNuHE",
       "apple_music_url": "https://music.apple.com/us/search?term=stop%20the%20car%20Lil%20Peep",
       "total_tracks": 1,
@@ -326,7 +366,7 @@
       "release_date": "2025-12-10",
       "image": "https://i.scdn.co/image/ab67616d0000b273fdaf4e56345a79d12b16a25c",
       "spotify_url": "https://open.spotify.com/album/1AkBOJUf0dKKIcJXS1hssL",
-      "apple_music_url": "https://music.apple.com/us/album/hit-different-single/1858404647?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Hit%20Different%20Swerve%20Strickland",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -396,7 +436,7 @@
       "release_date": "2025-12-05",
       "image": "https://i.scdn.co/image/ab67616d0000b273cede034bd5675f01a7d2494e",
       "spotify_url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE",
-      "apple_music_url": "https://music.apple.com/us/search?term=MARCH%20GloRilla",
+      "apple_music_url": "https://music.apple.com/us/album/march-single/1855653116?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -446,7 +486,7 @@
       "release_date": "2025-12-05",
       "image": "https://i.scdn.co/image/ab67616d0000b273dc13064829d7feeba61ddb92",
       "spotify_url": "https://open.spotify.com/album/1Kd1W0uSpaJuRUrbBvoa2D",
-      "apple_music_url": "https://music.apple.com/us/search?term=44%20Bars%20Ludacris",
+      "apple_music_url": "https://music.apple.com/us/album/44-bars-single/1854252776?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -526,7 +566,7 @@
       "release_date": "2025-12-03",
       "image": "https://i.scdn.co/image/ab67616d0000b2737644af592e4c543caa07ba6d",
       "spotify_url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1",
-      "apple_music_url": "https://music.apple.com/us/search?term=The%20Leaks%20Lil%20Baby",
+      "apple_music_url": "https://music.apple.com/us/album/the-leaks/1862603341?uo=4",
       "total_tracks": 15,
       "album_type": "album"
     },
@@ -1155,12 +1195,180 @@
   ],
   "news": [
     {
-      "title": "P!nk Reveals Why She Spent New Year\u2019s Eve in a Hospital Bed: \u2018This Year Was a\u00a0Doozy\u2019",
-      "link": "https://www.billboard.com/music/music-news/pink-new-years-eve-hospital-bed-photo-1236148077/",
+      "title": "Olivia Dean Starts 2026 With an Australian Chart\u00a0Double",
+      "link": "https://www.billboard.com/music/chart-beat/olivia-dean-2026-australian-chart-double-1236148173/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-01-01 17:24",
-      "summary": "The singer shared a selfie of herself in a hospital gown and bandages on Dec. 31."
+      "published": "2026-01-02 06:45",
+      "summary": "Dean\u2019s sophomore album \"The Art Of Loving\" leads the ARIA Albums Chart for a fifth non-consecutive week, while \u201cMan I Need\u201d rules the national singles tally for a seventh week."
+    },
+    {
+      "title": "Watch Dom Dolla\u2019s Banging New Year\u00a0Countdown",
+      "link": "https://www.billboard.com/music/music-news/dom-dolla-banging-new-year-countdown-1236148162/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-02 04:40",
+      "summary": "The EDM superstar had countdown honors for the 10th anniversary edition of Beyond The Valley."
+    },
+    {
+      "title": "Robyn\u2019s Dopamine-Dipped New Year\u2019s Eve at Brooklyn Paramount",
+      "link": "https://consequence.net/2026/01/robyn-nye-concert-brooklyn-paramount/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-02 02:48",
+      "summary": "The Swedish pop singer's NYE gig was reminder that live music still delivers the purest kind of dopamine money can't buy.\nRobyn&#8217;s Dopamine-Dipped New Year&#8217;s Eve at Brooklyn Paramount\nAmand..."
+    },
+    {
+      "title": "Este Haim Marries Jonathan Levin in New Year\u2019s Eve\u00a0Ceremony",
+      "link": "https://www.billboard.com/music/music-news/este-haim-married-jonathan-levin-1236148150/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-02 02:15",
+      "summary": "Taylor Swift and Stevie Nicks were among the wedding guests."
+    },
+    {
+      "title": "Drake, Adin Ross Used Online Casino Money for Artificial Streams, Lawsuit Claims",
+      "link": "https://www.rollingstone.com/music/music-news/drake-adin-ross-online-casino-stake-lawsuit-1235493062/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-02 00:23",
+      "summary": "New class-action lawsuit alleges a racketeering conspiracy that preyed on consumers"
+    },
+    {
+      "title": "Kelsea Ballerini & Chase Stokes Are Back\u00a0Together",
+      "link": "https://www.billboard.com/music/music-news/kelsea-ballerini-chase-stokes-dating-2026-1236148128/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-01 23:25",
+      "summary": "The couple split in the fall. On New Year's Eve, they confirmed they're on again through a pair of updates on social media."
+    },
+    {
+      "title": "How to Watch \u2018Second Chance Love,\u2019 the New Reality Dating Series Hosted by TLC\u2019s Chilli and Real-Life Partner Matthew\u00a0Lawrence",
+      "link": "https://www.billboard.com/culture/product-recommendations/watch-second-chance-love-dating-show-chilli-matthew-lawrence-1236148126/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-01 22:43",
+      "summary": "If you had a second chance at love, would you take it?"
+    },
+    {
+      "title": "Coney Island New Year\u2019s Day Polar Bear Plunge 2026 in pics",
+      "link": "https://www.brooklynvegan.com/coney-island-new-years-day-polar-bear-plunge-2026-in-pics/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-01 22:22",
+      "summary": "After a few years of milder temperatures on New Year&#8217;s Day, 2026 began with frigid cold, bitter winds, and a dusting of snow over the streets and sidewalks of NYC, but none of that could stop th..."
+    },
+    {
+      "title": "Este Haim Tied the Knot on New Year\u2019s Eve at a Star-Studded Ceremony",
+      "link": "https://www.rollingstone.com/music/music-news/este-haim-jonathan-levin-married-1235493232/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-01 22:18",
+      "summary": "Singer says goodbye to Single-Girl Summer, yes to the dress"
+    },
+    {
+      "title": "Yungblud Announces Darker \u2018Zombie\u2019 Collaboration With Smashing Pumpkins: Here\u2019s When It\u00a0Arrives",
+      "link": "https://www.billboard.com/music/rock/yungblud-smashing-pumpkins-zombie-collaboration-1236148115/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-01 21:28",
+      "summary": "The song and accompanying music video will drop Jan. 2."
+    },
+    {
+      "title": "Lucy Dacus Performs \u2018Bread and Roses\u2019 at NYC Mayor Zohran Mamdani\u2019s Inauguration",
+      "link": "https://www.rollingstone.com/music/music-news/lucy-dacus-bread-and-roses-zohran-mamdani-inauguration-1235493211/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-01 20:58",
+      "summary": "The  political anthem was originally a 1911 poem by James Oppenheim inspired by the women\u2019s suffrage and labor movements in the United States"
+    },
+    {
+      "title": "Diana Ross Gives a Supreme Send Off to 2025 on \u2018New Year\u2019s Rockin\u2019 Eve\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/diana-ross-new-years-rockin-eve-performance-1235491816/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-01 20:49",
+      "summary": "Star played \"I'm Coming Out\" and \"Upside Down\" during the performance"
+    },
+    {
+      "title": "Robyn debuted new songs at New Year\u2019s Eve Brooklyn Paramount show, adds Friday show (pics, video, setlist)",
+      "link": "https://www.brooklynvegan.com/robyn-debuted-new-songs-at-new-years-eve-brooklyn-paramount-show-adds-friday-show-pics-video-setlist/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-01 20:20",
+      "summary": "She also played CNN&#8217;s broadcast with Andy Cohen and Anderson Cooper in Times Square."
+    },
+    {
+      "title": "MTV shuts down final music-only channels with \u2018Video Killed The Radio Star\u2019",
+      "link": "https://www.nme.com/news/music/mtv-shuts-down-final-music-only-channels-with-video-killed-the-radio-star-3920577?utm_source=rss&utm_medium=rss&utm_campaign=mtv-shuts-down-final-music-only-channels-with-video-killed-the-radio-star",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-01 20:16",
+      "summary": "\nBuggles' classic video was also the first one to ever play on MTV when it launched in 1981\nThe post MTV shuts down final music-only channels with \u2018Video Killed The Radio Star\u2019 appeared first on NME."
+    },
+    {
+      "title": "Nardwuar Receives One of Canada\u2019s Highest Honors: \u2018I Am in\u00a0Awe!\u2019",
+      "link": "https://www.billboard.com/music/music-news/nardwuar-order-of-canada-appointment-1236148106/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-01 20:09",
+      "summary": "The flannel-clad interview icon was among 80 appointees announced on Dec. 31."
+    },
+    {
+      "title": "BTS Is Dropping New Music in March \u2014 and Heading Out on Tour",
+      "link": "https://www.rollingstone.com/music/music-news/bts-announces-new-album-in-march-followed-by-world-tour-1235493202/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-01 20:01",
+      "summary": "This marks the K-pop band's first studio album since 2020\u2019s Be"
+    },
+    {
+      "title": "\u2018Georgia on My Mind,\u2019 \u2018Dream a Little Dream of Me\u2019 Among Songs to Enter Public Domain in 2026",
+      "link": "https://www.rollingstone.com/music/music-news/pubic-domain-songs-2026-1235493187/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-01 19:12",
+      "summary": "Several Gershwin classics, plus cartoons like Betty Boop and Blondie, have reached the U.S. copyright maximum"
+    },
+    {
+      "title": "Nick Jonas Rings in New Year With Emotionally Charged \u2018Gut Punch\u2019 Single:\u00a0Listen",
+      "link": "https://www.billboard.com/music/music-news/nick-jonas-gut-punch-single-lyric-video-1236148088/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-01 18:57",
+      "summary": "\"Here\u2019s to being kinder to ourselves in 2026,\" the singer wrote in a post."
+    },
+    {
+      "title": "Rose Bowl 2026: How to Watch the Alabama vs. Indiana Game Online for\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/rose-bowl-2026-how-to-watch-alabama-vs-indiana-game-online-1236148086/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-01 18:48",
+      "summary": "The Rose Bowl kicks off on Jan. 1 at 4 p.m. ET."
+    },
+    {
+      "title": "Kennedy Center Dismisses 2025 Honors Ratings Comparisons as \u201cEvidence of Far-Left Bias\u201d",
+      "link": "https://consequence.net/2026/01/kennedy-center-ratings-left-wing-bias/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-01 18:22",
+      "summary": "A spokesperson for the Trump-Kennedy Center blamed the low ratings on \"industry and timing disadvantages\"\nKennedy Center Dismisses 2025 Honors Ratings Comparisons as &#8220;Evidence of Far-Left Bias&#..."
+    },
+    {
+      "title": "College Football Playoffs 2026: How to Watch Every NCAA Bowl Game Online\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/ncaa-college-football-playoffs-how-to-watch-online-1236139285/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-01 18:14",
+      "summary": "Tune in to watch the Orange Bowl, Rose Bowl and Sugar Bowl on Jan. 1, starting at 12 p.m ET."
+    },
+    {
+      "title": "Robyn Unveils New Songs During New Year\u2019s Eve Performances",
+      "link": "https://www.rollingstone.com/music/music-news/robyn-new-song-debuts-1235493178/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-01 18:03",
+      "summary": "The singer shared \"Talk To Me\u201d and \u201cSexistential\u201d while taking the stage at the Brooklyn Paramount"
     },
     {
       "title": "Foals tease new album: \u201c2026\u2026The Year of The Fire Horse\u201d",
@@ -1184,7 +1392,7 @@
       "source": "Pitchfork",
       "category": "general",
       "published": "2026-01-01 16:27",
-      "summary": "Led by hosts Ryan Seacrest and Rita Ora, the multi-city celebration helped ring in 2026"
+      "summary": "Ringing in 2026 on Dick Clark\u2019s New Year\u2019s Rockin\u2019 Eve and Anderson Cooper and Andy Cohen\u2019s CNN special"
     },
     {
       "title": "BTS Announce New Album for March 20th, Along with World Tour",
@@ -1195,28 +1403,12 @@
       "summary": "The group's first new album in nearly four years.\nBTS Announce New Album for March 20th, Along with World Tour\nScoop Harrison"
     },
     {
-      "title": "What New Year\u2019s Resolutions Should Our Greatest Pop Stars Have for\u00a02026?",
-      "link": "https://www.billboard.com/music/pop/greatest-pop-stars-podcast-new-years-resolutions-2026-1236148073/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-01 16:04",
-      "summary": "On this Greatest Pop Stars podcast episode, we project some resolutions for the next 12 months onto Beyonc\u00e9, Sabrina Carpenter, Adele and many more of our pop favorites."
-    },
-    {
       "title": "Kneecap say UK government is appealing ruling that threw out terror case against Mo Chara",
       "link": "https://www.nme.com/news/music/kneecap-say-uk-government-is-appealing-ruling-that-threw-out-terror-case-against-mo-chara-3920570?utm_source=rss&utm_medium=rss&utm_campaign=kneecap-say-uk-government-is-appealing-ruling-that-threw-out-terror-case-against-mo-chara",
       "source": "NME",
       "category": "general",
       "published": "2026-01-01 16:01",
       "summary": "\n\u201cIt is the view of our legal team that there is not an iota of logic for this\"\nThe post Kneecap say UK government is appealing ruling that threw out terror case against Mo Chara appeared first on NME..."
-    },
-    {
-      "title": "Here\u2019s How to Watch Season 18 of \u2018RuPaul\u2019s Drag Race\u2019\u00a0Online Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/rupauls-drag-race-season-18-how-to-watch-online-free-1236147604/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-01 15:00",
-      "summary": "All new drag queens will enter the werk room to fight for the title of America's Next Drag Superstar."
     },
     {
       "title": "Anderson Cooper Performs a Dramatic Reading of Taylor Swift\u2019s \u201cWood\u201d on New Year\u2019s Eve",
@@ -1259,36 +1451,12 @@
       "summary": "Theo Wargo / Unique Nicole / Scott Legato, Getty Images"
     },
     {
-      "title": "Matt Corby Performs Emotional NYE Tribute to Sydney Shooting\u00a0Victims",
-      "link": "https://www.billboard.com/music/music-news/matt-corby-emotional-nye-tribute-sydney-shooting-victims-1236148060/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-01 09:41",
-      "summary": "Corby covered INXS\u2019 classic song \u201cNever Tear Us Apart\u201d for the New Year\u2019s Eve 2025 concert."
-    },
-    {
       "title": "Watch Mariah Carey, Huntr/X and Post Malone bring in 2026 on \u2018New Year\u2019s Rockin\u2019 Eve\u2019 show in New York",
       "link": "https://www.nme.com/news/music/watch-mariah-carey-huntr-x-and-post-malone-bring-in-2026-on-new-years-rockin-eve-show-in-new-york-3920564?utm_source=rss&utm_medium=rss&utm_campaign=watch-mariah-carey-huntr-x-and-post-malone-bring-in-2026-on-new-years-rockin-eve-show-in-new-york",
       "source": "NME",
       "category": "general",
       "published": "2026-01-01 07:45",
       "summary": "\nLE SSERAFIM, 50 Cent, Jess Glynne, Pitbull and Demi Lovato were also on hand for the annual extravaganza\nThe post Watch Mariah Carey, Huntr/X and Post Malone bring in 2026 on \u2018New Year\u2019s Rockin\u2019 Eve\u2019..."
-    },
-    {
-      "title": "BTS Confirms March 2026\u00a0Comeback",
-      "link": "https://www.billboard.com/music/pop/bts-confirms-march-2026-return-1236148052/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-01 07:28",
-      "summary": "A release date has been confirmed, ending a nearly four-year BTS drought."
-    },
-    {
-      "title": "CBS\u2019s \u2018New Year\u2019s Eve Live: Nashville\u2019s Big\u00a0Bash\u2019 Briefly Switched to\u00a0\u2018Matlock\u2019",
-      "link": "https://www.billboard.com/music/country/cbss-new-years-eve-live-nashvilles-big-bash-matlock-switch-1236148037/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-01 06:50",
-      "summary": "The televised event Wednesday night, Dec. 31 went offline for roughly 12 minutes, according to various reports and scores of comments on social media."
     },
     {
       "title": "Stranger Things Ends with a Whimper",
@@ -1307,14 +1475,6 @@
       "summary": "The track recently received Grammy nods for Record of the Year and Best Pop Solo Performance"
     },
     {
-      "title": "Melanie C Performs Spice Girls Medley For Sydney\u2019s New Year\u2019s Eve Party:\u00a0Watch",
-      "link": "https://www.billboard.com/music/pop/melanie-c-spice-girls-medley-sydney-new-years-eve-party-1236148027/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-01 05:50",
-      "summary": "\u201cI thought it would be very rude of me to come all this way and not sing a Spice Girls song,\u201d she told the crowds gathered at Sydney Opera House."
-    },
-    {
       "title": "The Top 50 Nu-Metal Albums of All Time (Ranked)",
       "link": "https://loudwire.com/top-50-nu-metal-albums-of-all-time/",
       "source": "Loudwire",
@@ -1323,76 +1483,12 @@
       "summary": "DreamWorks Records / Flip/Interscope / Immortal/Epic / Warner Bros. / Columbia"
     },
     {
-      "title": "\u2018KPop Demon Hunters\u2019 Singers Deliver \u2018Golden\u2019 Performance at \u2018New Year\u2019s Rockin\u2019 Eve\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/kpop-demon-hunters-huntrx-perform-golden-new-years-eve-1235492310/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-01 05:00",
-      "summary": "The sendoff capped a stunning year for the voices behind Huntr/x"
-    },
-    {
-      "title": "4 Non Blondes Ignite \u2018Rockin\u2019 Eve\u2019 With Cathartic Anthem \u2018What\u2019s Up?\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/4-non-blondes-new-years-rockin-eve-performance-whats-up-1235492719/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-01 03:38",
-      "summary": "Linda Perry belted out the Nineties hit track during the band's New Year's Eve performance"
-    },
-    {
       "title": "Stranger Things Season 5 Soundtrack: A Guide to Every Needle Drop",
       "link": "https://consequence.net/2025/12/stranger-things-season-5-soundtrack-every-song/",
       "source": "Consequence",
       "category": "general",
       "published": "2026-01-01 03:31",
       "summary": "The new season features tracks by Prince, Fleetwood Mac, David Bowie, Diana Ross, ABBA, and (of course) Kate Bush.\nStranger Things Season 5 Soundtrack: A Guide to Every Needle Drop\nLiz Shannon Miller"
-    },
-    {
-      "title": "Mariah Carey Brings Heat for New Year\u2019s Eve With Stellar \u2018Rockin\u201d Performance",
-      "link": "https://www.rollingstone.com/music/music-news/mariah-carey-new-years-eve-rockin-performance-obsessed-song-1235491736/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-01 02:47",
-      "summary": "Singer brought her holiday magic and 2009's \"Obsessed\" to the last night of the year"
-    },
-    {
-      "title": "Zach Bryan Marries Samantha Leonard in Spain:\u00a0Report",
-      "link": "https://www.billboard.com/music/music-news/zach-bryan-married-samantha-leonard-wedding-1236148013/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-01 02:42",
-      "summary": "The country hitmaker and his girlfriend reportedly tied the knot just before the new year."
-    },
-    {
-      "title": "Post Malone Declares \u2018That\u2019s My Story\u2019 in Nashville for \u2018New Year\u2019s Rockin\u2019 Eve\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/post-malone-thats-my-story-nashville-new-years-rockin-eve-1235492679/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-01 02:28",
-      "summary": "Malone paid tribute to Collin Raye's country track during his New Year's Eve performance"
-    },
-    {
-      "title": "Zach Bryan Marries Girlfriend Samantha Leonard in Private Ceremony",
-      "link": "https://www.rollingstone.com/music/music-news/zach-bryan-marries-girlfriend-samantha-leonard-1235493063/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-01 00:49",
-      "summary": "The musician tied the knot just over a year after parting ways with his ex, Brianna \u201cChickenfry\u201d LaPaglia"
-    },
-    {
-      "title": "Saweetie Talks Makeup Pet Peeves, Getting Stage Ready & \u2018Scrumptious\u2019 Jelly Job Lip Gloss from NYX \u2013 Shop\u00a0Here",
-      "link": "https://www.billboard.com/culture/product-recommendations/saweetie-nyx-lip-gloss-buy-online-interview-1236147715/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-01 00:12",
-      "summary": "Saweetie serves as the face of the juicy lip product."
-    },
-    {
-      "title": "Stephen Wilson Jr. Recaps His 2025 Career Surge in New Video: \u2018A Lot Can Happen in a\u00a0Year\u2019",
-      "link": "https://www.billboard.com/music/country/stephen-wilson-jr-2025-recap-video-1236147830/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2025-12-31 23:11",
-      "summary": "Stephen Wilson Jr. gave fans a look at his whirlwind year of career milestones."
     },
     {
       "title": "The Ophelias\u2019 Spencer Peppet tells us about her favorite albums of 2025",
@@ -1409,22 +1505,6 @@
       "category": "hiphop",
       "published": "2025-12-31 21:06",
       "summary": "Caylo Seals/Getty Images"
-    },
-    {
-      "title": "Dolly Parton Wishes Fans \u2018More Blessings Than You Can Count\u2019 in New Year\u2019s Eve Message",
-      "link": "https://www.rollingstone.com/music/music-news/dolly-parton-happy-new-year-message-fans-1235493025/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2025-12-31 20:59",
-      "summary": "The country legend said she hoped 2026 would be the \"most wonderful year yet\""
-    },
-    {
-      "title": "Chappell Roan Reflects on \u2018Hardest Year,\u2019 Says She Nearly Canceled U.S. Tour Leg",
-      "link": "https://www.rollingstone.com/music/music-news/chappell-roan-reflects-on-2025-nearly-canceling-tour-1235492978/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2025-12-31 20:46",
-      "summary": "Star looked back with gratitude and said she'll focus on \"taking care of myself and others\" in 2026"
     },
     {
       "title": "Friendship tell us about their favorite albums of 2025",
@@ -1513,47 +1593,7 @@
       "category": "general",
       "published": "2025-12-31 14:23",
       "summary": "As of today (December 31st), MTV's remaining 24-hour music channels worldwide are going dark.\nMTV&#8217;s 24-Hour Music Channels Shut Down Across the Globe\nScoop Harrison"
-    },
-    {
-      "title": "Dream Theater's Mike Portnoy Reveals His Top 10 Albums of 2025",
-      "link": "https://loudwire.com/dream-theater-mike-portnoy-top-10-albums-2025/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2025-12-31 13:52",
-      "summary": "Century Media / Metal Blade / Mighty Jam Music Group"
-    },
-    {
-      "title": "The 25 Most Played Songs on Rock Radio in 2025",
-      "link": "https://loudwire.com/most-played-songs-rock-radio-2025/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2025-12-31 13:07",
-      "summary": "Epitaph / Warner / Mother Culture / Netflix Music / Atlantic / Better Noise / Noize Records"
-    },
-    {
-      "title": "Canadian musician\u2019s show cancelled after AI wrongly labels him a sex offender",
-      "link": "https://www.nme.com/news/music/canadian-musicians-show-cancelled-after-ai-wrongly-labels-him-a-sex-offender-3920542?utm_source=rss&utm_medium=rss&utm_campaign=canadian-musicians-show-cancelled-after-ai-wrongly-labels-him-a-sex-offender",
-      "source": "NME",
-      "category": "general",
-      "published": "2025-12-31 12:52",
-      "summary": "\nJuno Award-winning singer-songwriter Ashley MacIsaac is considering suing Google for defamation\nThe post Canadian musician&#8217;s show cancelled after AI wrongly labels him a sex offender appeared f..."
-    },
-    {
-      "title": "Jessie J reflects on 2025 after breast cancer surgery: \u201cOne of the hardest but most magical years\u201d",
-      "link": "https://www.nme.com/news/music/jessie-j-reflects-on-2025-after-breast-cancer-surgery-one-of-the-hardest-but-most-magical-years-3920538?utm_source=rss&utm_medium=rss&utm_campaign=jessie-j-reflects-on-2025-after-breast-cancer-surgery-one-of-the-hardest-but-most-magical-years",
-      "source": "NME",
-      "category": "general",
-      "published": "2025-12-31 12:06",
-      "summary": "\n\u201cSending love to anyone feeling this way too right now\nThe post Jessie J reflects on 2025 after breast cancer surgery: &#8220;One of the hardest but most magical years&#8221; appeared first on NME."
-    },
-    {
-      "title": "Homegrown artists help UK recorded music market grow for 11th consecutive year",
-      "link": "https://www.nme.com/news/music/homegrown-artists-help-uk-recorded-music-market-grow-for-11th-consecutive-year-3920534?utm_source=rss&utm_medium=rss&utm_campaign=homegrown-artists-help-uk-recorded-music-market-grow-for-11th-consecutive-year",
-      "source": "NME",
-      "category": "general",
-      "published": "2025-12-31 11:22",
-      "summary": "\nThe breakout success of Olivia Dean and Lola Young has contributed to a 4.9 per cent rise in sales and streaming throughout the year\nThe post Homegrown artists help UK recorded music market grow for ..."
     }
   ],
-  "last_updated": "2026-01-01T17:45:13.207802"
+  "last_updated": "2026-01-02T07:04:19.105567"
 }

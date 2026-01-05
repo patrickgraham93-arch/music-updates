@@ -256,7 +256,7 @@
       "release_date": "2025-12-12",
       "image": "https://i.scdn.co/image/ab67616d0000b2736bebcb12cb11ff76d9cc45ef",
       "spotify_url": "https://open.spotify.com/album/30uCWTjeGVO5eGoLO5K1tu",
-      "apple_music_url": "https://music.apple.com/us/search?term=Letter%20To%20My%20YN%20DaBaby",
+      "apple_music_url": "https://music.apple.com/us/album/letter-to-my-yn-single/1858742257?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -486,7 +486,7 @@
       "release_date": "2025-12-05",
       "image": "https://i.scdn.co/image/ab67616d0000b273dc13064829d7feeba61ddb92",
       "spotify_url": "https://open.spotify.com/album/1Kd1W0uSpaJuRUrbBvoa2D",
-      "apple_music_url": "https://music.apple.com/us/search?term=44%20Bars%20Ludacris",
+      "apple_music_url": "https://music.apple.com/us/album/44-bars-single/1854252776?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1139,16 +1139,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Brooklyn%20Battery%20Tunnel%20%28Remix%29%20BK%20Gudda",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "California Games (feat. Earl Sweatshirt)",
-      "artists": "Armand Hammer, The Alchemist, Earl Sweatshirt",
-      "release_date": "2025-11-06",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ae5c27befe5bfdd9cd31ef0a",
-      "spotify_url": "https://open.spotify.com/album/2xFiOEI88LQHRso6Z0H8UI",
-      "apple_music_url": "https://music.apple.com/us/search?term=California%20Games%20Armand%20Hammer",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -1158,7 +1148,7 @@
       "release_date": "2025-11-19",
       "image": "https://i.scdn.co/image/ab67616d0000b273789657ec664daa222cab1e5a",
       "spotify_url": "https://open.spotify.com/album/10p4597ekqFOqMbttkxggC",
-      "apple_music_url": "https://music.apple.com/us/search?term=xx%20%28Deluxe%29%20The%20xx",
+      "apple_music_url": "https://music.apple.com/us/album/xx-deluxe/1849107580?uo=4",
       "total_tracks": 16,
       "album_type": "album"
     },
@@ -1168,19 +1158,363 @@
       "release_date": "2025-11-14",
       "image": "https://i.scdn.co/image/ab67616d0000b273c020ef666dab40650242501c",
       "spotify_url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf",
-      "apple_music_url": "https://music.apple.com/us/search?term=This%20Is%20The%20World%20%28I%20Made%20It%20For%20You%29%20/%20Nice%20Day%20Magdalena%20Bay",
+      "apple_music_url": "https://music.apple.com/us/album/this-is-the-world-i-made-it-for-you-nice-day-single/1851221191?uo=4",
       "total_tracks": 2,
       "album_type": "single"
     }
   ],
   "news": [
     {
-      "title": "Little Mix\u2019s Jesy Nelson says baby daughters may \u201cnever be able to walk\u201d due to rare muscular condition",
-      "link": "https://www.nme.com/news/music/little-mixs-jesy-nelson-says-baby-daughters-may-never-be-able-to-walk-due-to-rare-muscular-condition-3920892?utm_source=rss&utm_medium=rss&utm_campaign=little-mixs-jesy-nelson-says-baby-daughters-may-never-be-able-to-walk-due-to-rare-muscular-condition",
+      "title": "Harry Styles, AI & Grammy Contenders: Inside the U.K. Music Industry\u2019s Hot Topics for\u00a02026",
+      "link": "https://www.billboard.com/lists/uk-music-industry-2026-preview-harry-styles-ai-grammys/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-05 17:49",
+      "summary": "After a strong 2025, there's more opportunities ahead in the coming 12 months."
+    },
+    {
+      "title": "Kennedy Center: An Updated List of Every Artist Who\u2019s Canceled",
+      "link": "https://consequence.net/2026/01/kennedy-center-every-artist-concert-canceled/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-05 17:40",
+      "summary": "More than 10 major artists have opted against playing at the prestigious Washington, DC, venue since Trump assumed control.\nKennedy Center: An Updated List of Every Artist Who&#8217;s Canceled\nConsequ..."
+    },
+    {
+      "title": "R&B/Hip-Hop Fresh Picks of the Week: Doechii, Jill Scott, Lil Uzi Vert &\u00a0More",
+      "link": "https://www.billboard.com/lists/best-new-rb-hip-hop-doechii-sza-jill-scott-uzi-dababy/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-05 17:40",
+      "summary": "Listen to new must-hear songs from emerging R&#38;B/hip-hop artists like Fetty P Franklin and Trim."
+    },
+    {
+      "title": "Bj\u00f6rk Sends Supportive Message to Greenlanders Amid Latest Trump Threat of Annexation: \u2018I Burst With\u00a0Sympathy\u2019",
+      "link": "https://www.billboard.com/music/music-news/bjork-message-support-greenland-trump-talk-annexation-maduro-1236148841/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-05 17:33",
+      "summary": "The singer's comments came after the president once again mused about annexing Greenland following the U.S. abduction of Venezuelan president Nicol\u00e1s Maduro over the weekend."
+    },
+    {
+      "title": "Bj\u00f6rk shares message of support with Greenland after Donald Trump annexation threat: \u201cColonialism has repeatedly given me horror chills up my back\u201d",
+      "link": "https://www.nme.com/news/music/bjork-shares-message-of-support-with-greenland-after-donald-trump-annexation-threat-colonialism-has-repeatedly-given-me-horror-chills-up-my-back-3921159?utm_source=rss&utm_medium=rss&utm_campaign=bjork-shares-message-of-support-with-greenland-after-donald-trump-annexation-threat-colonialism-has-repeatedly-given-me-horror-chills-up-my-back",
       "source": "NME",
       "category": "general",
-      "published": "2026-01-04 16:47",
-      "summary": "\nHer twin daughters, born in May last year, have been diagnosed with Spinal Muscular Atrophy\nThe post Little Mix\u2019s Jesy Nelson says baby daughters may \u201cnever be able to walk\u201d due to rare muscular cond..."
+      "published": "2026-01-05 17:24",
+      "summary": "\n\u201cThe chance that my fellow Greenlanders might go from one cruel coloniser to another is too brutal to even imagine\u201d\nThe post Bj\u00f6rk shares message of support with Greenland after Donald Trump annexati..."
+    },
+    {
+      "title": "The 55 Most Anticipated Albums of 2026",
+      "link": "https://pitchfork.com/features/the-most-anticipated-albums-of-2026/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-01-05 17:21",
+      "summary": "From Bj\u00f6rk to Beyonc\u00e9"
+    },
+    {
+      "title": "Miley Cyrus Is \u2018So In\u2019 to Do a Song for \u2018Heated Rivalry\u2019: Here\u2019s What One of the Show\u2019s Stars\u00a0Thinks",
+      "link": "https://www.billboard.com/culture/tv-film/heated-rivalry-star-reacts-miley-cyrus-song-season-2-1236148893/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-05 17:14",
+      "summary": "Fran\u00e7ois Arnaud is hopeful the pop star will take the gig for a \"discount.\""
+    },
+    {
+      "title": "Yungblud Talks His Grammy Nominations, Working With Aerosmith & Remembering Ozzy Osbourne | Takes Us\u00a0Out",
+      "link": "https://www.billboard.com/video/yungblud-grammy-nominations-aerosmith-ozzy-osbourne/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-05 17:05",
+      "summary": "English rockstar Yungblud talks about how he feels about receiving his Grammy nominations, what it was like to collaborate with Aerosmith&#8217;s Steven Tyler and Joe Perry to create the One More Time..."
+    },
+    {
+      "title": "John Legend, Chaka Khan & Miles Caton to Perform at Spotify and The Hollywood Reporter\u2019s Pre-Golden Globes\u00a0Party",
+      "link": "https://www.billboard.com/pro/john-legend-chaka-khan-spotify-pre-golden-globes-party-2026/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-05 17:00",
+      "summary": "Mark Ronson was previously announced as the headlining DJ for the event, set to be held Jan. 8."
+    },
+    {
+      "title": "5 Must-Hear New Country Songs: Josh Weathers, Abbey Cone, Parker Graye &\u00a0More",
+      "link": "https://www.billboard.com/music/country/best-new-country-songs-josh-weathers-abbey-cone-1236148211/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-05 16:49",
+      "summary": "This week's crop of new country tunes also includes music from Katlin Owen and Trevor Martin."
+    },
+    {
+      "title": "Megan Thee Stallion Opens Her First Franchise Restaurant: \u2018I\u2019m So Excited, So\u00a0Proud\u2019",
+      "link": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-opens-popeyes-restaurant-1236148843/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-05 16:48",
+      "summary": "The Florida storefront opened its doors on New Year's Eve."
+    },
+    {
+      "title": "Viral Drummer Kristina Rybalchenko Plays The Who\u2019s \u201cBaba O\u2019Riley\u201d as She Hears It for the First Time: Watch",
+      "link": "https://consequence.net/2026/01/drumeo-kristina-rybalchenko-the-who-baba-oriley/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-05 16:47",
+      "summary": "The social media sensation goes full Keith Moon.\nViral Drummer Kristina Rybalchenko Plays The Who&#8217;s &#8220;Baba O&#8217;Riley&#8221; as She Hears It for the First Time: Watch\nJon Hadusek"
+    },
+    {
+      "title": "Start Off the New Year Livestreaming Concerts for a Whopping 50% Off With\u00a0Nugs",
+      "link": "https://www.billboard.com/culture/product-recommendations/best-nugs-deals-livestream-music-concerts-online-1235997929/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-05 16:38",
+      "summary": "Get a full year of access to the livestream service for only $99.99."
+    },
+    {
+      "title": "94 Albums We\u2019re Anticipating in 2026",
+      "link": "https://www.brooklynvegan.com/94-albums-were-anticipating-in-2026/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-05 16:33",
+      "summary": "Bj\u00f6rk, Courtney Barnett, Death Grips, Fcukers, Heavenly, Massive Attack, Olivia Rodrigo, Shudder to Think, Speed, Spoon, Tigers Jaw, Zach Bryan &#038; more albums we&#8217;re anticipating in 2026."
+    },
+    {
+      "title": "Judge Rejects Royel Otis Member\u2019s Effort to Unmask Reddit Users Behind Misconduct Claims",
+      "link": "https://www.rollingstone.com/music/music-news/royel-otis-judge-rejects-request-reddit-allegations-1235494056/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-05 16:31",
+      "summary": "Royel Maddell, of the band Royel Otis, sought identifying info of users who accused him of having a sexual relationship with a minor, who was also his music student"
+    },
+    {
+      "title": "NYC Winter Jazzfest 2026 is this week (lineup, tickets)",
+      "link": "https://www.brooklynvegan.com/nyc-winter-jazzfest-2026-is-this-week-lineup-tickets/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-05 16:29",
+      "summary": "NYC Winter Jazzfest runs January 8-13 and the lineup features Meshell Ndegeocello, Kassa Overall, a tribute to Miles Davis&#8217; &#8216;Bitches Brew,&#8217; and lots more."
+    },
+    {
+      "title": "Petition Calling to Deport Nicki Minaj Amasses Tens of Thousands of\u00a0Signatures",
+      "link": "https://www.billboard.com/music/music-news/nicki-minaj-petition-deport-rapper-signed-thousands-1236148807/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-05 16:27",
+      "summary": "The backlash comes after the rapper appeared at a Turning Point USA event alongside Erika Kirk."
+    },
+    {
+      "title": "People are comparing the \u2018Stranger Things\u2019 finale to Linkin Park\u2019s \u2018In The End\u2019 video",
+      "link": "https://www.nme.com/news/tv/people-are-comparing-the-stranger-things-finale-to-linkin-parks-in-the-end-video-3921145?utm_source=rss&utm_medium=rss&utm_campaign=people-are-comparing-the-stranger-things-finale-to-linkin-parks-in-the-end-video",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-05 16:12",
+      "summary": "\n\u201cMy favourite part of the finale was how they had the final fight in the same place Linkin Park shot a music video\u201d\nThe post People are comparing the &#8216;Stranger Things&#8217; finale to Linkin Pa..."
+    },
+    {
+      "title": "Depeche Mode\u2019s M Concert Film to Stream on Netflix Beginning on January 9th",
+      "link": "https://consequence.net/2026/01/depeche-mode-m-concert-film-netflix/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-05 16:09",
+      "summary": "The new concert film and documentary captures the group's performances in Mexico City during their 2023 \"Memento Mori Tour.\"\nDepeche Mode&#8217;s M Concert Film to Stream on Netflix Beginning on Janua..."
+    },
+    {
+      "title": "The Pitt Confirms It\u2019s One of Today\u2019s Best Shows with Intense, Empathetic Season 2: Review",
+      "link": "https://consequence.net/2026/01/the-pitt-season-2-review-hbo-max/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-05 16:00",
+      "summary": "New episodes of the Noah Wyle HBO Max medical drama will premiere weekly starting January 8th.  \nThe Pitt Confirms It&#8217;s One of Today&#8217;s Best Shows with Intense, Empathetic Season 2: Review\n..."
+    },
+    {
+      "title": "YUNGBLUD and the Smashing Pumpkins team up for reimagined version of \u201cZombie\u201d",
+      "link": "https://www.altpress.com/yungblud-the-smashing-pumpkins-zombie-video-watch/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-01-05 16:00",
+      "summary": "The track marks the first-ever collaboration for the Smashing Pumpkins."
+    },
+    {
+      "title": "Ted Nugent Praises \u201cIdiot\u201d Jack White\u2019s NFL Halftime Performance: \u201cReal Rock \u2018n\u2019 Roll\u201d",
+      "link": "https://consequence.net/2026/01/ted-nugent-jack-whites-halftime-performance/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-05 15:35",
+      "summary": "The veteran guitarist also shares thoughts on Tom Morello, Green Day, and Yungblud.\nTed Nugent Praises &#8220;Idiot&#8221; Jack White&#8217;s NFL Halftime Performance: &#8220;Real Rock &#8216;n&#8217;..."
+    },
+    {
+      "title": "Bj\u00f6rk Calls for Greenland Independence as Trump Revives Takeover Threats",
+      "link": "https://www.rollingstone.com/music/music-news/bjork-greenland-independence-trump-takeover-1235493989/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-05 15:28",
+      "summary": "\u201cThe chance that my fellow Greenlanders might go from one cruel colonizer to another is too brutal to even imagine,\u201d the Icelandic musician wrote on Instagram"
+    },
+    {
+      "title": "Kanye West\u2019s team respond to speculation that new album \u2018BULLY\u2019 will feature AI as release date and tracklist revealed",
+      "link": "https://www.nme.com/news/music/kanye-wests-team-respond-to-speculation-that-new-album-bully-will-feature-ai-as-release-date-and-tracklist-revealed-3921116?utm_source=rss&utm_medium=rss&utm_campaign=kanye-wests-team-respond-to-speculation-that-new-album-bully-will-feature-ai-as-release-date-and-tracklist-revealed",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-05 15:11",
+      "summary": "\nThe record is expected to be released later this month\nThe post Kanye West&#8217;s team respond to speculation that new album &#8216;BULLY&#8217; will feature AI as release date and tracklist reveale..."
+    },
+    {
+      "title": "Percy Jackson\u2019s Walker Scobell on Season 2, Growing Up on Camera, and Laughing at Kate McKinnon: Podcast",
+      "link": "https://consequence.net/2026/01/percy-jackson-walker-scobell-interview/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-05 15:06",
+      "summary": "The actor takes us inside the land of the gods and what\u2019s yet to come.\nPercy Jackson&#8217;s Walker Scobell on Season 2, Growing Up on Camera, and Laughing at Kate McKinnon: Podcast\nKyle Meredith"
+    },
+    {
+      "title": "9 Songs You Should Listen to Now: This Week\u2019s Pitchfork Selects Playlist",
+      "link": "https://pitchfork.com/news/peter-gabriel-redda-che-this-weeks-pitchfork-selects-playlist/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-01-05 15:01",
+      "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat"
+    },
+    {
+      "title": "Ted Nugent Slams \u2018Good Friend\u2019 Tom Morello + Green Day \u2018Idiots\u2019",
+      "link": "https://loudwire.com/ted-nugent-slams-good-friend-tom-morello-idiots-green-day/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-05 14:52",
+      "summary": "Kevin Winter / Chip Somodevilla / Matt Winkelmeyer, Getty Images"
+    },
+    {
+      "title": "Peter Gabriel announces new album \u2018o\\i\u2019: hear \u201cBeen Undone\u201d",
+      "link": "https://www.brooklynvegan.com/peter-gabriel-announces-new-album-oi-hear-been-undone/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-05 14:50",
+      "summary": "Like his 2023 album &#8216;i/o,&#8217; new songs will be out every month."
+    },
+    {
+      "title": "Daniel Caesar Returns to NPR Tiny Desk With 12-Piece Choir",
+      "link": "https://www.rollingstone.com/music/music-news/daniel-caesar-npr-tiny-desk-choir-performance-1235493971/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-05 14:28",
+      "summary": "The singer previously appeared on the concert series in 2018 for a set that has since amassed more than 34 million views"
+    },
+    {
+      "title": "Bj\u00f6rk Calls on Greenland to Declare Independence Amid Threats of US Takeover",
+      "link": "https://consequence.net/2026/01/bjork-greenland-independence/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-05 14:27",
+      "summary": "The Icelandic singer is urging citizens of Greenland to declare independence amid renewed threats from Donald Trump over a possible US takeover.\nBj\u00f6rk Calls on Greenland to Declare Independence Amid T..."
+    },
+    {
+      "title": "Tributes paid to The Ray Summers\u2019 frontman Andrew Ure, who died during Hogmanay hike, age 41",
+      "link": "https://www.nme.com/news/music/tributes-paid-to-the-ray-summers-frontman-andrew-ure-who-died-during-hogmanay-hike-age-41-3921108?utm_source=rss&utm_medium=rss&utm_campaign=tributes-paid-to-the-ray-summers-frontman-andrew-ure-who-died-during-hogmanay-hike-age-41",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-05 13:47",
+      "summary": "\n\u201cAndrew was an incredible force on stage and great company off it,\u201d one person wrote\nThe post Tributes paid to The Ray Summers&#8217; frontman Andrew Ure, who died during Hogmanay hike, age 41 appear..."
+    },
+    {
+      "title": "Janet Jackson teases that \u201ceveryone is in for a treat in 2026\u201d",
+      "link": "https://www.nme.com/news/music/janet-jackson-teases-that-everyone-is-in-for-a-treat-in-2026-3921094?utm_source=rss&utm_medium=rss&utm_campaign=janet-jackson-teases-that-everyone-is-in-for-a-treat-in-2026",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-05 13:45",
+      "summary": "\nFans are hoping it could mean a long-awaited new album is on the way, which would mark her first in over a decade \nThe post Janet Jackson teases that &#8220;everyone is in for a treat in 2026&#8221; ..."
+    },
+    {
+      "title": "The Molotovs share song \u201cto all you hateful bastards\u201d with \u201cpretty angry\u201d new single \u2018Get A Life\u2019",
+      "link": "https://www.nme.com/news/music/the-molotovs-share-song-to-all-you-hateful-bastards-with-pretty-angry-new-single-get-a-life-3921095?utm_source=rss&utm_medium=rss&utm_campaign=the-molotovs-share-song-to-all-you-hateful-bastards-with-pretty-angry-new-single-get-a-life",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-05 13:09",
+      "summary": "\n\u201cIt\u2019s one of those tracks where as soon as the opening riffs come in, the whole room goes mad\u201d\nThe post The Molotovs share song &#8220;to all you hateful bastards&#8221; with &#8220;pretty angry&#822..."
+    },
+    {
+      "title": "The 11 Best Prog Metal Concept Albums of All Time (Ranked)",
+      "link": "https://loudwire.com/best-prog-metal-concept-albums/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-05 12:53",
+      "summary": "EMI / Elektra / Peaceville / Canva"
+    },
+    {
+      "title": "Running order revealed for this weekend\u2019s massive Merch Market London, by Tim Burgess",
+      "link": "https://www.nme.com/news/music/running-order-revealed-for-this-weekends-massive-merch-market-london-by-tim-burgess-3921082?utm_source=rss&utm_medium=rss&utm_campaign=running-order-revealed-for-this-weekends-massive-merch-market-london-by-tim-burgess",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-05 12:19",
+      "summary": "\nThis year\u2019s instalment features appearances from Sprints, Gurriers, Blur\u2018s Dave Rowntree, Dry Cleaning, and many more\nThe post Running order revealed for this weekend&#8217;s massive Merch Market Lon..."
+    },
+    {
+      "title": "Win a Trip to Los Angeles to Attend THEE Music Awards Show",
+      "link": "https://www.xxlmag.com/music-awards-2026/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-01-05 12:00",
+      "summary": "Canva"
+    },
+    {
+      "title": "Win a Trip to Los Angeles to Attend THEE Music Awards Show",
+      "link": "https://loudwire.com/music-awards-2026/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-05 12:00",
+      "summary": "Canva"
+    },
+    {
+      "title": "System Of A Down\u2019s Daron Malakian on filling in for Metallica\u2019s James Hetfield: \u201cI\u2019ll never forget it. It still brings goosebumps\u201d",
+      "link": "https://www.nme.com/news/music/system-of-a-downs-daron-malakian-on-filling-in-for-metallicas-james-hetfield-ill-never-forget-it-it-still-brings-goosebumps-3921060?utm_source=rss&utm_medium=rss&utm_campaign=system-of-a-downs-daron-malakian-on-filling-in-for-metallicas-james-hetfield-ill-never-forget-it-it-still-brings-goosebumps",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-05 11:55",
+      "summary": "\n\"I'm playing Metallica with Metallica, in front of an audience where I would've been in the fucking cheap seats just three years ago\"\nThe post System Of A Down&#8217;s Daron Malakian on filling in fo..."
+    },
+    {
+      "title": "Lily Allen talks returning to UK as single mum after whirlwind year with \u2018West End Girl\u2019: \u201cIt\u2019s a lot\u201d",
+      "link": "https://www.nme.com/news/music/lily-allen-talks-returning-to-uk-as-single-mum-after-whirlwind-year-with-west-end-girl-its-a-lot-3921045?utm_source=rss&utm_medium=rss&utm_campaign=lily-allen-talks-returning-to-uk-as-single-mum-after-whirlwind-year-with-west-end-girl-its-a-lot",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-05 11:12",
+      "summary": "\nShe explained that her children are \"discovering who they are\" at the same time as \"grappling with some new ideas in terms of who I am\"\nThe post Lily Allen talks returning to UK as single mum after w..."
+    },
+    {
+      "title": "Paris Jackson celebrates six years of sobriety: \u201cI had to learn to live life on life\u2019s terms\u201d",
+      "link": "https://www.nme.com/news/music/paris-jackson-celebrates-six-years-of-sobriety-3921061?utm_source=rss&utm_medium=rss&utm_campaign=paris-jackson-celebrates-six-years-of-sobriety",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-05 11:10",
+      "summary": "\n\u201cGetting sober ain't always the indication that life is perfect\u201d\nThe post Paris Jackson celebrates six years of sobriety: &#8220;I had to learn to live life on life&#8217;s terms&#8221; appeared firs..."
+    },
+    {
+      "title": "Ariana Grande Teases Upcoming \u2018Eternal Sunshine\u2019 Tour: \u2018It\u2019s in a Good Place\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/ariana-grande-eternal-sunshine-tour-tease-critics-choice-1235493962/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-05 09:15",
+      "summary": "The pop star\u2019s final trek for a \u201clong time\u201d kicks off in Oakland in June"
+    },
+    {
+      "title": "BTS Unveil Release Date for New Album, Tease 2026 Tour",
+      "link": "https://pitchfork.com/news/bts-unveil-release-date-for-new-album-tease-2026-tour/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-01-05 00:20",
+      "summary": "The K-pop juggernauts will drop their fifth studio album in March"
+    },
+    {
+      "title": "Billy Joel Plays First Show Since Brain Disorder Diagnosis",
+      "link": "https://pitchfork.com/news/billy-joel-plays-first-show-since-brain-disorder-diagnosis/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-01-04 20:11",
+      "summary": "He joined the Billy Joel cover band Turnstiles for two songs at their Wellington, Florida, concert on Friday"
+    },
+    {
+      "title": "Fans Compare \u2018Stranger Things\u2019 Finale to This Linkin Park Video",
+      "link": "https://loudwire.com/stranger-things-finale-linkin-park/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-04 17:49",
+      "summary": "YouTube: Linkin Park / YouTube: AJ_Media / Canva"
     },
     {
       "title": "Faith No More's Roddy Bottum Calls 1992 Tour With GNR 'Offensive'",
@@ -1188,7 +1522,7 @@
       "source": "Loudwire",
       "category": "rock",
       "published": "2026-01-04 15:57",
-      "summary": "YouTube: Mercury Studios / YouTube: Star Crush / Geffen Records / UMe / Uzi Suicide"
+      "summary": "YouTube: Mercury Studios / YouTube: Star Crush / Geffen Records / UMe / Uzi Suicide / Canva"
     },
     {
       "title": "Evangeline Lilly Suffers Brain Damage After Falling in Hawaii",
@@ -1199,100 +1533,12 @@
       "summary": "The actress says that brain scans confirmed that \"almost every area in my brain is functioning at a decreased capacity.\"\nEvangeline Lilly Suffers Brain Damage After Falling in Hawaii\nScoop Harrison"
     },
     {
-      "title": "Miley Cyrus criticises awards season: \u201cWe\u2019re meant to be a community, not opponents\u201d",
-      "link": "https://www.nme.com/news/music/miley-cyrus-criticises-awards-season-were-meant-to-be-a-community-not-opponents-3920857?utm_source=rss&utm_medium=rss&utm_campaign=miley-cyrus-criticises-awards-season-were-meant-to-be-a-community-not-opponents",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-04 10:26",
-      "summary": "\n\"There is no single best, it\u2019s only our personal best work\"\nThe post Miley Cyrus criticises awards season: &#8220;We\u2019re meant to be a community, not opponents\u201d appeared first on NME."
-    },
-    {
-      "title": "Dove Cameron and M\u00e5neskin\u2019s Damiano David announce engagement",
-      "link": "https://www.nme.com/news/music/dove-cameron-and-maneskins-damiano-david-announce-engagement-3920840?utm_source=rss&utm_medium=rss&utm_campaign=dove-cameron-and-maneskins-damiano-david-announce-engagement",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-04 08:57",
-      "summary": "\n\"My favourite part of being alive,\" Cameron wrote of their relationship\nThe post Dove Cameron and M\u00e5neskin\u2019s Damiano David announce engagement appeared first on NME."
-    },
-    {
-      "title": "Barry Manilow shares health update after lung cancer diagnosis",
-      "link": "https://www.nme.com/news/music/barry-manilow-shares-health-update-after-lung-cancer-diagnosis-3920839?utm_source=rss&utm_medium=rss&utm_campaign=barry-manilow-shares-health-update-after-lung-cancer-diagnosis",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-04 08:38",
-      "summary": "\nThe musician recently revealed he would be having surgery and would be forced to cancel concerts this month\nThe post Barry Manilow shares health update after lung cancer diagnosis appeared first on N..."
-    },
-    {
-      "title": "Kid Cudi Says He\u2019s \u2018Planting the Seeds\u2019 for Australia\u00a0Tour",
-      "link": "https://www.billboard.com/music/rb-hip-hop/kid-cudi-australia-tour-wildlands-1236148535/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-04 08:27",
-      "summary": "\u201cThis whole trip, New Zealand, Australia \u2014 this whole little tour was f\u2014ing epic,\u201d Cudi said in an Instagram Story."
-    },
-    {
-      "title": "Morrissey Scraps California Shows Due to Medication\u00a0Reaction",
-      "link": "https://www.billboard.com/music/concerts/morrissey-cancels-first-shows-2026-1236148536/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-04 05:28",
-      "summary": "According to the listing, the decision was made due to \u201can adverse reaction to a prescription medication.\u201d"
-    },
-    {
-      "title": "\u2018The Muppet Show\u2019 Returns: Sabrina Carpenter Guest Stars Opposite Miss Piggy in Disney+\u00a0Trailer",
-      "link": "https://www.billboard.com/culture/tv-film/sabrina-carpenter-muppet-show-trailer-disney-1236148501/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-03 23:37",
-      "summary": "Disney+ has released a first look at its Muppet Show special event, debuting on the streamer and ABC on Feb. 4."
-    },
-    {
-      "title": "Carlos Baute, Danny Ocean, Ricardo Montaner & More React to U.S. Capture of Nicol\u00e1s Maduro: \u2018All Profound Changes Are\u00a0Painful\u2019",
-      "link": "https://www.billboard.com/music/latin/venezuela-nicolas-maduro-captured-us-latin-artist-reactions-1236148506/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-03 22:25",
-      "summary": "The Venezuelan president and his wife were captured in Caracas early Saturday (Jan. 3) in a U.S. military operation."
-    },
-    {
-      "title": "Listen to Peter Buck join The Icicle Works\u2019 Ian McNabb on cover of R.E.M.\u2019s \u2018So. Central Rain\u2019",
-      "link": "https://www.nme.com/news/music/listen-to-peter-buck-join-the-icicle-works-ian-mcnabb-on-cover-of-r-e-m-s-so-central-rain-3920826?utm_source=rss&utm_medium=rss&utm_campaign=listen-to-peter-buck-join-the-icicle-works-ian-mcnabb-on-cover-of-r-e-m-s-so-central-rain",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-03 21:22",
-      "summary": "\nThe track will be included on McNabb's new solo album '65'\nThe post Listen to Peter Buck join The Icicle Works\u2019 Ian McNabb on cover of R.E.M.\u2019s \u2018So. Central Rain\u2019 appeared first on NME."
-    },
-    {
-      "title": "Dove Cameron and M\u00e5neskin\u2019s Damiano David Are\u00a0Engaged",
-      "link": "https://www.billboard.com/music/music-news/dove-cameron-engaged-damiano-david-maneskin-1236148494/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-03 20:57",
-      "summary": "\"My favourite part of being alive,\" she wrote."
-    },
-    {
-      "title": "Barry Manilow Shares Health Update After Lung Cancer\u00a0Diagnosis",
-      "link": "https://www.billboard.com/music/music-news/barry-manilow-health-update-lung-cancer-1236148483/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-03 20:11",
-      "summary": "The Grammy-winning singer recently revealed that doctors found cancer in one of his lungs."
-    },
-    {
       "title": "James Bond Movies Coming to Netflix on January 15th",
       "link": "https://consequence.net/2026/01/james-bond-movies-netflix-streaming/",
       "source": "Consequence",
       "category": "general",
       "published": "2026-01-03 19:45",
       "summary": "26 of the spy's cinematic adventures will be available starting January 15th. \nJames Bond Movies Coming to Netflix on January 15th\nLiz Shannon Miller"
-    },
-    {
-      "title": "Pink undergoes neck surgery: \u201cRock \u2018n\u2019 roll is a contact sport\u201d",
-      "link": "https://www.nme.com/news/music/pink-undergoes-neck-surgery-rock-n-roll-is-a-contact-sport-3920822?utm_source=rss&utm_medium=rss&utm_campaign=pink-undergoes-neck-surgery-rock-n-roll-is-a-contact-sport",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-03 19:36",
-      "summary": "\nShe revealed the procedure had placed \"two new shiny discs\u201d into her neck\nThe post Pink undergoes neck surgery: &#8220;Rock &#8216;n&#8217; roll is a contact sport&#8221; appeared first on NME."
     },
     {
       "title": "Billy Joel Retakes the Stage for First Time Since Brain Disorder Diagnosis",
@@ -1303,22 +1549,6 @@
       "summary": "The Piano Man joined a Billy Joel cover band for two songs on January 2nd. \nBilly Joel Retakes the Stage for First Time Since Brain Disorder Diagnosis\nLiz Shannon Miller"
     },
     {
-      "title": "Billy Joel Surprises Fans With First Performance Since Brain Disorder\u00a0Diagnosis",
-      "link": "https://www.billboard.com/music/music-news/billy-joel-performs-first-time-brain-disorder-diagnosis-1236148476/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-03 18:39",
-      "summary": "The music icon revealed he had normal pressure hydrocephalus in May 2025."
-    },
-    {
-      "title": "Watch Billy Joel play alongside his own tribute act in first show since brain disorder diagnosis",
-      "link": "https://www.nme.com/news/music/watch-billy-joel-play-alongside-his-own-tribute-act-in-first-show-since-brain-disorder-diagnosis-3920818?utm_source=rss&utm_medium=rss&utm_campaign=watch-billy-joel-play-alongside-his-own-tribute-act-in-first-show-since-brain-disorder-diagnosis",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-03 18:02",
-      "summary": "\nHe sang \u2018We Didn\u2019t Start\u00a0The\u00a0Fire\u2019 and \u2018Big Shot\u2019 alongside the covers band Turnstiles in Wellington, Florida\nThe post Watch Billy Joel play alongside his own tribute act in first show since brain di..."
-    },
-    {
       "title": "Prince Surges on Streaming, Thanks to Stranger Things",
       "link": "https://consequence.net/2026/01/stranger-things-prince-spotify-stats/",
       "source": "Consequence",
@@ -1327,253 +1557,13 @@
       "summary": "\"Purple Rain\" and \"When Doves Cry\" shot up the Spotify charts following the Netflix show's conclusion. \nPrince Surges on Streaming, Thanks to Stranger Things\nLiz Shannon Miller"
     },
     {
-      "title": "Drake accused of using illegal online gambling platform to inflate streaming numbers in new lawsuit",
-      "link": "https://www.nme.com/news/music/drake-accused-of-using-illegal-online-gambling-platform-to-inflate-streaming-numbers-in-new-lawsuit-3920803?utm_source=rss&utm_medium=rss&utm_campaign=drake-accused-of-using-illegal-online-gambling-platform-to-inflate-streaming-numbers-in-new-lawsuit",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-03 17:10",
-      "summary": "\nThe suit has been filed in Virginia and targets the rapper's association with the crypto-based online platform Stake\nThe post Drake accused of using illegal online gambling platform to inflate stream..."
-    },
-    {
-      "title": "Morrissey cancels two California shows due to \u201cadverse reaction\u201d to prescription medication",
-      "link": "https://www.nme.com/news/music/morrissey-cancels-two-california-shows-due-to-adverse-reaction-to-prescription-medication-3920810?utm_source=rss&utm_medium=rss&utm_campaign=morrissey-cancels-two-california-shows-due-to-adverse-reaction-to-prescription-medication",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-03 16:43",
-      "summary": "\nHe had been due to play in Rancho Mirage tonight (December 3) and San Diego on Tuesday (December 6)\nThe post Morrissey cancels two California shows due to &#8220;adverse reaction&#8221; to prescripti..."
-    },
-    {
       "title": "Morrissey Kicks Off 2026 By Canceling California Concerts",
       "link": "https://www.rollingstone.com/music/music-news/morrissey-cancels-california-concerts-1235493804/",
       "source": "Rolling Stone",
       "category": "general",
       "published": "2026-01-03 16:33",
-      "summary": "Singer nixes shows in Rancho Mirage and San Diego \"due to an adverse reaction to a prescription medication\""
-    },
-    {
-      "title": "Morrissey Kicks Off 2026 By Canceling Concerts",
-      "link": "https://consequence.net/2026/01/morrissey-canceled-concerts-rancho-mirage-san-diego/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-03 16:14",
-      "summary": "The former Smiths singer has called off shows in Rancho Mirage and San Diego due to \"an adverse reaction to a prescription medication.\"\nMorrissey Kicks Off 2026 By Canceling Concerts\nAlex Young"
-    },
-    {
-      "title": "Black Sabbath\u2019s Tony Iommi to \u201cdefinitely\u201d release solo album in 2026",
-      "link": "https://www.nme.com/news/music/black-sabbaths-tony-iommi-to-definitely-release-solo-album-in-2026-3920806?utm_source=rss&utm_medium=rss&utm_campaign=black-sabbaths-tony-iommi-to-definitely-release-solo-album-in-2026",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-03 16:08",
-      "summary": "\nThe guitarist has not released a solo record since 2005's 'Fused'\nThe post Black Sabbath&#8217;s Tony Iommi to &#8220;definitely&#8221; release solo album in 2026 appeared first on NME."
-    },
-    {
-      "title": "How to Watch the Critics Choice Awards 2026 Online for\u00a0Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-critics-choice-awards-2026-free-1236147793/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-03 15:00",
-      "summary": "The ceremony will be hosted by comedian and actress Chelsea Handler."
-    },
-    {
-      "title": "Xavi Rings the New Year in Times Square & More Uplifting Moments in Latin\u00a0Music This\u00a0Week",
-      "link": "https://www.billboard.com/music/latin/uplifting-moments-latin-music-xavi-los-tigres-bizarrap-1236148306/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-03 15:00",
-      "summary": "Plus, Los Tigres Del Norte bring their legendary corridos to The Simpsons."
-    },
-    {
-      "title": "Billy Joel Performs for First Time Since Brain Disorder Diagnosis",
-      "link": "https://www.rollingstone.com/music/music-news/billy-joel-performs-first-time-brain-disorder-diagnosis-1235493768/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-03 14:44",
-      "summary": "Piano Man joins cover band for surprise two-song set at Florida village's anniversary celebration, his first live appearance since Feb. 2025"
-    },
-    {
-      "title": "Watch Victoria Mone\u0301t Salsa Dance With Jaylen Brown In Surprise Link-Up: \u201cThat Was So Fun!\u201d",
-      "link": "https://www.rap-up.com/article/jaylen-brown-victoria-monet-salsa-dance",
-      "source": "Rap-Up",
-      "category": "hiphop",
-      "published": "2026-01-03 13:28",
-      "summary": "NBA star Jaylen Brown and Grammy winner Victoria Mon\u00e9t linked up for a salsa dance session in Los Angeles. Watch the full clip and see what fans are saying."
-    },
-    {
-      "title": "The Best Metal Song of Each Year of the 1980s",
-      "link": "https://loudwire.com/best-metal-song-each-year-1980s/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-03 12:43",
-      "summary": "Jet / EMI / Combat"
-    },
-    {
-      "title": "A$AP Rocky Teases Winona Ryder-Starring \u201cPunk Rocky\u201d Video Ahead Of \u2018Don\u2019t Be Dumb\u2019 Release",
-      "link": "https://www.rap-up.com/article/asap-rocky-punk-rocky-video-winona-ryder",
-      "source": "Rap-Up",
-      "category": "hiphop",
-      "published": "2026-01-03 12:31",
-      "summary": "A$AP Rocky is teaming up with Winona Ryder for the visually striking \u201cPunk Rocky\u201d video, teasing his long-awaited album \u2018Don\u2019t Be Dumb.\u2019 Watch the teaser now."
-    },
-    {
-      "title": "EsDeeKid Calls Out The Chainsmokers Over \u20184 Raws\u2019\u00a0Remix",
-      "link": "https://www.billboard.com/music/music-news/esdeekid-the-chainsmokers-unauthorized-4-raws-remix-1236148417/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-03 07:21",
-      "summary": "In a post on X on Jan. 2, EsDeeKid wrote that the remix was \"getting NUKED.\""
-    },
-    {
-      "title": "\"WHODUNNIT\" Cal Chuchesta x Yuno Miles (Official Video)",
-      "link": "https://www.youtube.com/watch?v=-voH893xeME",
-      "source": "The Needle Drop",
-      "category": "general",
-      "published": "2026-01-03 06:20",
-      "summary": "Apple: https://music.apple.com/us/song/whodunnit-feat-yuno-miles/1866099217\nTidal: https://tidal.com/album/486594428/u\nDeezer: https://link.deezer.com/s/323vWNO2NAx0qNgy8T2mm\niTunes: https://music.app..."
-    },
-    {
-      "title": "Petitions to Deport Nicki Minaj Gain Over 120,000 Signatures and Counting",
-      "link": "https://www.rollingstone.com/music/music-news/nicki-minaj-petitions-deport-signatures-1235493612/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-03 00:36",
-      "summary": "Fans and detractors of the controversial rap star react to her embrace of far-right conservatism \u2014 and the calls for her deportation because of it"
-    },
-    {
-      "title": "Will Smith Faces Lawsuit From Violinist for Sexual Harassment",
-      "link": "https://www.xxlmag.com/will-smith-sued-violinist-sexual-harassment/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-01-03 00:14",
-      "summary": "Andreas Rentz/Getty Images"
-    },
-    {
-      "title": "Jill Scott Previews First Album in Over 10 Years With New Single \u2018Beautiful People\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/jill-scott-comeback-album-release-date-1235493535/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-02 21:48",
-      "summary": "Out Feb. 13, To Whom This May Concern marks the musician and actress' first full-length LP since 2015"
-    },
-    {
-      "title": "Kennedy Center Says Stephen Schwartz Didn\u2019t Cancel, Because He Was Never Booked",
-      "link": "https://consequence.net/2026/01/kennedy-center-stephen-schwartz/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-02 20:45",
-      "summary": "Even though tickets for an event listing him as host were available on the venue's website.\nKennedy Center Says Stephen Schwartz Didn&#8217;t Cancel, Because He Was Never Booked\nAlex Young"
-    },
-    {
-      "title": "Peter Gabriel Announces New Album o/i",
-      "link": "https://consequence.net/2026/01/peter-gabriel-new-album-o-i-been-undone/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-02 20:28",
-      "summary": "The first single, \"Been Undone,\" will be released alongside the first full moon of the year on January 3rd.\nPeter Gabriel Announces New Album o/i\nWren Graves"
-    },
-    {
-      "title": "Guitarist Nita Strauss Expecting First Child",
-      "link": "https://consequence.net/2026/01/nita-strauss-expecting-first-child/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-02 20:04",
-      "summary": "The Alice Cooper band member and solo artist is expecting a baby boy with husband Josh Villalta.\nGuitarist Nita Strauss Expecting First Child\nSpencer Kaufman"
-    },
-    {
-      "title": "Drake Faces RICO Lawsuit over Allegedly Fraudulent Gambling Scheme",
-      "link": "https://consequence.net/2026/01/drake-faces-rico-lawsuit-over-allegedly-fraudulent-gambling-scheme/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-02 20:00",
-      "summary": "The Virginia class-action lawsuit alleges that Drake benefitted from a network of bots that artificially boosted his streams.\nDrake Faces RICO Lawsuit over Allegedly Fraudulent Gambling Scheme\nWren Gr..."
-    },
-    {
-      "title": "31 Rock + Metal Albums Turning 50 in 2026",
-      "link": "https://loudwire.com/rock-metal-albums-turning-50-2026/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-02 19:47",
-      "summary": "Columbia / Epic / Casablanca / Albert"
-    },
-    {
-      "title": "Jill Scott Announces First Album in 11 Years",
-      "link": "https://pitchfork.com/news/jill-scott-to-whom-this-may-concern-first-album-in-11-years/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-02 19:38",
-      "summary": "To Whom This May Concern features Ab-Soul, J.I.D., Tierra Whack, and Too $hort"
-    },
-    {
-      "title": "Alex Van Halen Confirms He and Steve Lukather Are Working on New Album",
-      "link": "https://consequence.net/2026/01/alex-van-halen-steve-lukather-new-album/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-02 18:57",
-      "summary": "The tracks are expected to feature unreleased recordings by the late Eddie Van Halen.\nAlex Van Halen Confirms He and Steve Lukather Are Working on New Album\nSpencer Kaufman"
-    },
-    {
-      "title": "In Defense of the Genre: Best Punk & Emo Songs of December",
-      "link": "https://www.brooklynvegan.com/in-defense-of-the-genre-best-punk-emo-songs-of-december-2/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-02 18:50",
-      "summary": "The December roundup of our punk column \u2018In Defense of the Genre\u2019 includes recent news, reviews, and features, along with a list of the best songs of the month."
-    },
-    {
-      "title": "PJ Harvey Confirms She\u2019s Working on New Album",
-      "link": "https://consequence.net/2026/01/pj-harvey-new-album-tease/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-02 18:31",
-      "summary": "In a New Year's post, the UK singer-songwriter shared she's writing new music.\nPJ Harvey Confirms She&#8217;s Working on New Album\nScoop Harrison"
-    },
-    {
-      "title": "Sabrina Carpenter Is Twinning With Miss Piggy in \u2018The Muppet Show\u2019 Teaser",
-      "link": "https://www.rollingstone.com/music/music-news/the-muppet-show-trailer-sabrina-carpenter-1235493303/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-02 18:31",
-      "summary": "The pop star will perform with the whole Muppets gang when the musical special premieres on Disney+ and ABC on Feb. 4"
-    },
-    {
-      "title": "Soulja Boy Claims DDG Would Be \"Working At McDonald's\" If Not For Him: \"Show Some Respect\"",
-      "link": "https://www.rap-up.com/article/soulja-boy-ddg-beef-mcdonalds-comment",
-      "source": "Rap-Up",
-      "category": "hiphop",
-      "published": "2026-01-02 18:02",
-      "summary": "Soulja Boy went off on DDG during an Instagram Live, claiming he made his career and deserves more respect. Watch the clip and see what sparked it."
-    },
-    {
-      "title": "G Herbo Says Proposing To Fianc\u00e9e Taina Williams Was \u201cOne Of The Best Days\u201d Of His Life",
-      "link": "https://www.rap-up.com/article/g-herbo-taina-williams-new-years-eve-proposal",
-      "source": "Rap-Up",
-      "category": "hiphop",
-      "published": "2026-01-02 17:34",
-      "summary": "G Herbo proposed to Taina Williams during a private New Year\u2019s Eve celebration in Miami. See the moment, the ring, and how the couple marked the milestone."
-    },
-    {
-      "title": "Peter Gabriel to Slowly Release New LP \u2018o/i\u2019 Around the Full Moon Schedule of 2026",
-      "link": "https://www.rollingstone.com/music/music-news/peter-gabriel-lp-o-i-full-moon-1235493412/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-02 16:59",
-      "summary": "\"The songs are a mix of thoughts and feelings,\" Gabriel says. \"I have been thinking about the future and how we might respond to it\""
-    },
-    {
-      "title": "Yungblud Revamps \u2018Zombie\u2019 With The Smashing Pumpkins",
-      "link": "https://www.rollingstone.com/music/music-news/yungblud-zombies-remix-smashing-pumpkins-1235493362/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-02 16:51",
-      "summary": "The British musician previously shared that Billy Corgan was \"really at the forefront of my inspiration\" while recording his latest album, Idols "
-    },
-    {
-      "title": "Peter Gabriel Lines Up a New Year of Lunar Releases With O/I",
-      "link": "https://pitchfork.com/news/peter-gabriel-lines-up-a-new-year-of-lunar-releases-with-o-i/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-02 16:50",
-      "summary": "The singer will drop a new single every month in 2026"
+      "summary": "Singer nixes shows in Rancho Mirage and San Diego \u201cdue to an adverse reaction to a prescription medication\u201d"
     }
   ],
-  "last_updated": "2026-01-04T17:46:45.588853"
+  "last_updated": "2026-01-05T17:51:19.294443"
 }

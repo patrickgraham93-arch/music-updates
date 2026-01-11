@@ -1,16 +1,6 @@
 {
   "hiphop": [
     {
-      "name": "no rush (feat. Gunna)",
-      "artists": "Dina Ayada, Gunna",
-      "release_date": "2026-01-09",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734f94c1075cd1551d7238e509",
-      "spotify_url": "https://open.spotify.com/album/0ntzQL5QKJ6GMZkPFsz6fn",
-      "apple_music_url": "https://music.apple.com/us/search?term=no%20rush%20Dina%20Ayada",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Coke Wave 3.5: Narcos",
       "artists": "French Montana, Max B",
       "release_date": "2026-01-09",
@@ -19,6 +9,16 @@
       "apple_music_url": "https://music.apple.com/us/album/coke-wave-3-5-narcos/1867289073?uo=4",
       "total_tracks": 22,
       "album_type": "album"
+    },
+    {
+      "name": "no rush (feat. Gunna)",
+      "artists": "Dina Ayada, Gunna",
+      "release_date": "2026-01-09",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f94c1075cd1551d7238e509",
+      "spotify_url": "https://open.spotify.com/album/0ntzQL5QKJ6GMZkPFsz6fn",
+      "apple_music_url": "https://music.apple.com/us/search?term=no%20rush%20Dina%20Ayada",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "LiFE 4 A LiFE",
@@ -206,7 +206,7 @@
       "release_date": "2025-12-19",
       "image": "https://i.scdn.co/image/ab67616d0000b273eb4726a7b7349b9d7caef459",
       "spotify_url": "https://open.spotify.com/album/39voM6TwNAHV12EJ2lAAnl",
-      "apple_music_url": "https://music.apple.com/us/album/paper-low-single/1860506439?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Paper%20Low%20DaBaby",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -236,7 +236,7 @@
       "release_date": "2025-12-19",
       "image": "https://i.scdn.co/image/ab67616d0000b27354f610a4a9efab080898659c",
       "spotify_url": "https://open.spotify.com/album/79jFdDfUqi0okViaaEyoDM",
-      "apple_music_url": "https://music.apple.com/us/album/touch-the-ground-single/1862641647?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Touch%20The%20Ground%20STAR%20BANDZ",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -306,7 +306,7 @@
       "release_date": "2025-12-12",
       "image": "https://i.scdn.co/image/ab67616d0000b273819578d6529880615ce5692b",
       "spotify_url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o",
-      "apple_music_url": "https://music.apple.com/us/search?term=WHAT%20HAPPENED%20TO%20THE%20STREETS%3F%2021%20Savage",
+      "apple_music_url": "https://music.apple.com/us/album/what-happened-to-the-streets/1860789017?uo=4",
       "total_tracks": 14,
       "album_type": "album"
     },
@@ -336,7 +336,7 @@
       "release_date": "2025-12-12",
       "image": "https://i.scdn.co/image/ab67616d0000b2736bebcb12cb11ff76d9cc45ef",
       "spotify_url": "https://open.spotify.com/album/30uCWTjeGVO5eGoLO5K1tu",
-      "apple_music_url": "https://music.apple.com/us/album/letter-to-my-yn-single/1858742257?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Letter%20To%20My%20YN%20DaBaby",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -726,7 +726,7 @@
       "release_date": "2025-11-25",
       "image": "https://i.scdn.co/image/ab67616d0000b2737af9b5e02a6f99b39b3bf081",
       "spotify_url": "https://open.spotify.com/album/22J6WrAyDz3ZsTqXiEGeqn",
-      "apple_music_url": "https://music.apple.com/us/search?term=clich%C3%A9%20%28Jonas%20Brothers%20remix%29%20mgk",
+      "apple_music_url": "https://music.apple.com/us/album/clich%C3%A9-jonas-brothers-remix-single/1854926866?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1049,56 +1049,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=1-800%20Heartbreak%20%28with%20Anderson%20.Paak%29%20Summer%20Walker",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "AM I THE DRAMA? (Ultimate Edition)",
-      "artists": "Cardi B",
-      "release_date": "2025-11-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b27355707cbc7573e31100170bfe",
-      "spotify_url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh",
-      "apple_music_url": "https://music.apple.com/us/search?term=AM%20I%20THE%20DRAMA%3F%20Cardi%20B",
-      "total_tracks": 33,
-      "album_type": "album"
-    },
-    {
-      "name": "AM I THE DRAMA? (The Snow Mix)",
-      "artists": "Cardi B",
-      "release_date": "2025-11-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737c420153aec233035fe078a8",
-      "spotify_url": "https://open.spotify.com/album/10qfFDGG3ldB86EXuh8hUR",
-      "apple_music_url": "https://music.apple.com/us/search?term=AM%20I%20THE%20DRAMA%3F%20%28The%20Snow%20Mix%29%20Cardi%20B",
-      "total_tracks": 27,
-      "album_type": "album"
-    },
-    {
-      "name": "Otha Boy",
-      "artists": "Lil Baby",
-      "release_date": "2025-11-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738d7fa5d694152cdecbb571ae",
-      "spotify_url": "https://open.spotify.com/album/32BULMBQ77A8q262LK2FGh",
-      "apple_music_url": "https://music.apple.com/us/search?term=Otha%20Boy%20Lil%20Baby",
-      "total_tracks": 2,
-      "album_type": "single"
-    },
-    {
-      "name": "ErrTime (feat. Jeezy & Latto)",
-      "artists": "Cardi B, Jeezy",
-      "release_date": "2025-11-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b2c795b60ad22064c9a62ef6",
-      "spotify_url": "https://open.spotify.com/album/3IVRP3jL5LjombBYlqNTh5",
-      "apple_music_url": "https://music.apple.com/us/search?term=ErrTime%20Cardi%20B",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "ErrTime (feat. Jeezy) [Remix]",
-      "artists": "Cardi B, Jeezy",
-      "release_date": "2025-11-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b27339cbe9dbe981e9c55f14743d",
-      "spotify_url": "https://open.spotify.com/album/58YOjlNjfpWLFmHglWof4g",
-      "apple_music_url": "https://music.apple.com/us/search?term=ErrTime%20%5BRemix%5D%20Cardi%20B",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -1118,7 +1068,7 @@
       "release_date": "2025-11-19",
       "image": "https://i.scdn.co/image/ab67616d0000b273789657ec664daa222cab1e5a",
       "spotify_url": "https://open.spotify.com/album/10p4597ekqFOqMbttkxggC",
-      "apple_music_url": "https://music.apple.com/us/search?term=xx%20%28Deluxe%29%20The%20xx",
+      "apple_music_url": "https://music.apple.com/us/album/xx-deluxe/1849107580?uo=4",
       "total_tracks": 16,
       "album_type": "album"
     },
@@ -1128,19 +1078,275 @@
       "release_date": "2025-11-14",
       "image": "https://i.scdn.co/image/ab67616d0000b273c020ef666dab40650242501c",
       "spotify_url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf",
-      "apple_music_url": "https://music.apple.com/us/search?term=This%20Is%20The%20World%20%28I%20Made%20It%20For%20You%29%20/%20Nice%20Day%20Magdalena%20Bay",
+      "apple_music_url": "https://music.apple.com/us/album/this-is-the-world-i-made-it-for-you-nice-day-single/1851221191?uo=4",
       "total_tracks": 2,
       "album_type": "single"
     }
   ],
   "news": [
     {
-      "title": "Salt-N-Pepa\u2019s lawsuit against Universal Music Group over master recordings dismissed",
-      "link": "https://www.nme.com/news/music/salt-n-pepas-lawsuit-against-universal-music-group-over-master-recordings-dismissed-3922356?utm_source=rss&utm_medium=rss&utm_campaign=salt-n-pepas-lawsuit-against-universal-music-group-over-master-recordings-dismissed",
+      "title": "Nova Twins, Br\u00f2geal and Eve Goodman announce gigs to celebrate Independent Venue Week 2026",
+      "link": "https://www.nme.com/news/music/nova-twins-brogeal-and-eve-goodman-announce-gigs-to-celebrate-independent-venue-week-2026-3922481?utm_source=rss&utm_medium=rss&utm_campaign=nova-twins-brogeal-and-eve-goodman-announce-gigs-to-celebrate-independent-venue-week-2026",
       "source": "NME",
       "category": "general",
-      "published": "2026-01-10 17:14",
-      "summary": "\nThe suit had accused the label of refusing to honour the duo's right to reclaim control of their music\nThe post Salt-N-Pepa&#8217;s lawsuit against Universal Music Group over master recordings dismis..."
+      "published": "2026-01-11 17:09",
+      "summary": "\nThe annual event runs from January 26 to February 1, with 236 UK venues taking part\nThe post Nova Twins, Br\u00f2geal and Eve Goodman announce gigs to celebrate Independent Venue Week 2026 appeared first ..."
+    },
+    {
+      "title": "Ronnie Radke says Falling In Reverse fired guitarist Max Georgiev over allegations in 2024, Georgiev denies claims",
+      "link": "https://www.nme.com/news/music/ronnie-radke-says-falling-in-reverse-fired-guitarist-max-georgiev-over-allegations-in-2024-georgiev-denies-claims-3922477?utm_source=rss&utm_medium=rss&utm_campaign=ronnie-radke-says-falling-in-reverse-fired-guitarist-max-georgiev-over-allegations-in-2024-georgiev-denies-claims",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-11 16:36",
+      "summary": "\nGeorgiev, who joined the metalcore band in 2018, has described the allegations as \"delusional\"\nThe post Ronnie Radke says Falling In Reverse fired guitarist Max Georgiev over allegations in 2024, Geo..."
+    },
+    {
+      "title": "See Lucy Dacus and Chappell Roan Cover \u2018The Book of Love\u2019 at Artists for Aid Benefit Concert",
+      "link": "https://www.rollingstone.com/music/music-news/lucy-dacus-chappell-roan-the-book-of-love-benefit-concert-1235497509/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-11 16:00",
+      "summary": "Singers team up for one of the Magnetic Fields' 69 Love Songs at show to raise money for relief efforts in Sudan and Palestine"
+    },
+    {
+      "title": "Setlist + Video - Foo Fighters Play First Show of 2026 in Mexico",
+      "link": "https://loudwire.com/setlist-video-foo-fighters-play-first-show-2026-mexico/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-11 15:17",
+      "summary": "YouTube: Paloma Pi\u00e9lago / Canva"
+    },
+    {
+      "title": "Trey Anastasio Pays Tribute to Bob Weir: \u201cHe Was the Last Actual Hippie\u201d",
+      "link": "https://consequence.net/2026/01/trey-anastasio-bob-weir-tribute/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-11 14:51",
+      "summary": "The Phish frontman has published a lengthy tribute to his longtime friend following news of his passing at the age of 78 on Saturday.\nTrey Anastasio Pays Tribute to Bob Weir: &#8220;He Was the Last Ac..."
+    },
+    {
+      "title": "Billy Strings Pays Tribute to Bob Weir: \u2018Heaven\u2019s Choir Just Gained a Beautiful New Voice\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/billy-strings-tribute-bob-weir-grateful-dead-1235497503/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-11 14:47",
+      "summary": "\"I\u2019ve never knew a person so in tune with the cosmos. Who was so mystical and smart and mysterious, alluring and radiant,\" Strings writes of his friend and Grateful Dead guitarist following news of hi..."
+    },
+    {
+      "title": "Golden Globes 2026 Winners List (Updating Live)",
+      "link": "https://consequence.net/2026/01/golden-globes-2026-winners-full-list/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-11 14:15",
+      "summary": "The celebration of film and TV, airing live on CBS and Paramount+ January 11th, will be hosted by Nikki Glaser. \nGolden Globes 2026 Winners List (Updating Live)\nLiz Shannon Miller"
+    },
+    {
+      "title": "Bruno Mars\u2019 2026 Tour: How to Get Tickets",
+      "link": "https://consequence.net/2026/01/bruno-mars-2026-tour-how-to-get-tickets/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-11 14:05",
+      "summary": "Mars will support his first album in nearly a decade with a massive 2026 stadium tour. Learn how to get tickets here.\nBruno Mars&#8217; 2026 Tour: How to Get Tickets\nPaolo Ragusa"
+    },
+    {
+      "title": "The 5 Best Grunge Albums (and EPS) of the 1980s",
+      "link": "https://loudwire.com/best-1980s-grunge-albums/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-11 12:30",
+      "summary": "Sub Pop / Velvetone"
+    },
+    {
+      "title": "Zara Larsson condemns ICE and shares why her partner is banned from visiting the US",
+      "link": "https://www.nme.com/news/music/zara-larsson-condemns-ice-and-shares-why-her-partner-is-banned-from-visiting-the-us-3922461?utm_source=rss&utm_medium=rss&utm_campaign=zara-larsson-condemns-ice-and-shares-why-her-partner-is-banned-from-visiting-the-us",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-11 11:50",
+      "summary": "\nIt comes after she shared an Instagram story saying she loves \"immigrants\" and \"criminals\"\nThe post Zara Larsson condemns ICE and shares why her partner is banned from visiting the US appeared first ..."
+    },
+    {
+      "title": "Rilo Kiley\u2019s Jenny Lewis marks 50th birthday by marrying her dog",
+      "link": "https://www.nme.com/news/music/rilo-kileys-jenny-lewis-marks-50th-birthday-by-marrying-her-dog-3922464?utm_source=rss&utm_medium=rss&utm_campaign=rilo-kileys-jenny-lewis-marks-50th-birthday-by-marrying-her-dog",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-11 11:50",
+      "summary": "\n\"Muzzle Tov\"\nThe post Rilo Kiley&#8217;s Jenny Lewis marks 50th birthday by marrying her dog appeared first on NME."
+    },
+    {
+      "title": "Department of Homeland Security respond to Billie Eilish re-sharing post that calls ICE a \u201cterrorist organisation\u201d",
+      "link": "https://www.nme.com/news/music/department-of-homeland-security-respond-to-billie-eilish-re-sharing-post-that-calls-ice-a-terrorist-organisation-3922444?utm_source=rss&utm_medium=rss&utm_campaign=department-of-homeland-security-respond-to-billie-eilish-re-sharing-post-that-calls-ice-a-terrorist-organisation",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-11 11:10",
+      "summary": "\nEilish is one of many musicians speaking out against ICE after an agent fatally shot a 37-year-old woman\nThe post Department of Homeland Security respond to Billie Eilish re-sharing post that calls I..."
+    },
+    {
+      "title": "Watch The Libertines, The Horrors, Anna Calvi, The Molotovs and more perform David Bowie covers for new \u2018Heroes Never Die\u2019 tribute special",
+      "link": "https://www.nme.com/uncategorised/watch-the-libertines-the-horrors-anna-calvi-the-molotovs-and-more-perform-david-bowie-covers-for-new-heroes-never-die-tribute-special-3922439?utm_source=rss&utm_medium=rss&utm_campaign=watch-the-libertines-the-horrors-anna-calvi-the-molotovs-and-more-perform-david-bowie-covers-for-new-heroes-never-die-tribute-special",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-11 11:03",
+      "summary": "\nTo mark a decade since his death, a host of artists came together to revisit Bowie's biggest hits\nThe post Watch The Libertines, The Horrors, Anna Calvi, The Molotovs and more perform David Bowie cov..."
+    },
+    {
+      "title": "Jack Osbourne says Ozzy is visiting family members in identical dreams",
+      "link": "https://www.nme.com/news/music/jack-osbourne-says-ozzy-is-visiting-family-members-in-identical-dreams-3922433?utm_source=rss&utm_medium=rss&utm_campaign=jack-osbourne-says-ozzy-is-visiting-family-members-in-identical-dreams",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-11 10:10",
+      "summary": "\n\"He is saying, \u2018Just stop fucking crying\u2019\"\nThe post Jack Osbourne says Ozzy is visiting family members in identical dreams appeared first on NME."
+    },
+    {
+      "title": "Watch Lucy Dacus and Chappell Roan perform \u2018The Book Of Love\u2019 at Sudan and Palestine aid benefit show in LA",
+      "link": "https://www.nme.com/news/music/watch-lucy-dacus-and-chappell-roan-perform-the-book-of-love-at-sudan-and-palestine-aid-benefit-show-in-la-3922416?utm_source=rss&utm_medium=rss&utm_campaign=watch-lucy-dacus-and-chappell-roan-perform-the-book-of-love-at-sudan-and-palestine-aid-benefit-show-in-la",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-11 10:00",
+      "summary": "\nThe evening also saw performances from Clairo, Geese, Pedro Pascal and more\nThe post Watch Lucy Dacus and Chappell Roan perform \u2018The Book Of Love\u2019 at Sudan and Palestine aid benefit show in LA appear..."
+    },
+    {
+      "title": "Duran Duran, Dave Matthews and more slam Trump administration after fatal ICE shooting",
+      "link": "https://www.nme.com/news/music/duran-duran-dave-matthews-and-more-slam-trump-administration-after-fatal-ice-shooting-3922401?utm_source=rss&utm_medium=rss&utm_campaign=duran-duran-dave-matthews-and-more-slam-trump-administration-after-fatal-ice-shooting",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-11 09:20",
+      "summary": "\nBillie Eilish, Neil Young and Joe Keery have also condemned ICE after the death of a 37-year-old woman\nThe post Duran Duran, Dave Matthews and more slam Trump administration after fatal ICE shooting ..."
+    },
+    {
+      "title": "Watch Bob Weir perform \u2018Touch of Grey\u2019 at final live appearance with Dead & Company",
+      "link": "https://www.nme.com/news/music/watch-bob-weir-perform-touch-of-grey-at-final-live-appearance-with-dead-company-3922397?utm_source=rss&utm_medium=rss&utm_campaign=watch-bob-weir-perform-touch-of-grey-at-final-live-appearance-with-dead-company",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-11 09:09",
+      "summary": "\nGrieving fans have taken solace in the song's refrain of, 'Every silver lining's got a touch of grey' as they celebrate his life and legacy\nThe post Watch Bob Weir perform \u2018Touch of Grey\u2019 at final li..."
+    },
+    {
+      "title": "Iman Honors David Bowie on 10th Anniversary of His\u00a0Death",
+      "link": "https://www.billboard.com/music/music-news/iman-david-bowie-tattoo-10th-anniversary-death-1236152726/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-11 08:28",
+      "summary": "\"Jan 10th. The pain didn\u2019t vanish .. it left in its place a loving permanent mark,\u201d Iman wrote of her late husband."
+    },
+    {
+      "title": "Bob Weir Remembered by Nancy Wilson, Don Felder, Andy Cohen & More After His Death at\u00a078",
+      "link": "https://www.billboard.com/music/music-news/bob-weir-death-tributes-1236152721/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-11 06:32",
+      "summary": "\u201cUntil we meet again, amigo,\" Don Felder wrote."
+    },
+    {
+      "title": "Don Was Remembers Bob Weir, His \u2018Fearless\u2019 Friend and\u00a0Bandmate",
+      "link": "https://www.billboard.com/music/music-news/don-was-bob-weir-death-statement-1236152708/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-11 03:52",
+      "summary": "Was heard about Weir's death just an hour before taking the stage Saturday night."
+    },
+    {
+      "title": "Empire State Building Honors Bob Weir with Tie-Dye Lighting",
+      "link": "https://consequence.net/2026/01/empire-state-building-honors-bob-weir-with-tie-dye-lighting/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-11 03:34",
+      "summary": "\"Tonight we will shine in tie-dye to honor the life and legacy of Bob Weir.\"\nEmpire State Building Honors Bob Weir with Tie-Dye Lighting\nAlex Young"
+    },
+    {
+      "title": "Gracie Abrams Shares Update on Her Next Album: \u2018I\u2019m Beyond\u00a0Ready\u2019",
+      "link": "https://www.billboard.com/music/music-news/gracie-abrams-new-album-update-ga3-1236152630/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-11 03:21",
+      "summary": "The \"That's So True\" singer-songwriter teased what she's been working on at an event in L.A."
+    },
+    {
+      "title": "Trey Anastasio Remembers \u2018Sweet, Kind, Gentle Friend\u2019 Bob Weir",
+      "link": "https://www.rollingstone.com/music/music-news/trey-anastasio-pays-tribute-bob-weir-grateful-dead-1235497464/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-11 03:12",
+      "summary": "\"I learned so much from him,\" Phish frontman writes. \"Thank you for all the gifts you brought into the world, and for all the love you gave to so many of us\""
+    },
+    {
+      "title": "Yeison Jim\u00e9nez, Colombian Popular Music Star, Dies in Plane Crash at\u00a034",
+      "link": "https://www.billboard.com/music/latin/yeison-jimenez-death-plane-crash-1236152664/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-11 01:24",
+      "summary": "The singer-songwriter died in a small plane crash that took the lives of six people Saturday (Jan. 10)."
+    },
+    {
+      "title": "Don Was, Andy Cohen, and More Remember \u2018Impossibly Beautiful and Wildly Fiery\u2019 Bob Weir",
+      "link": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-death-tributes-reactions-1235497291/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-11 01:05",
+      "summary": "\"Until we meet again, amigo,\" Eagles' Don Felder wrote"
+    },
+    {
+      "title": "Grateful Dead\u2019s Bob Weir dead at 78",
+      "link": "https://www.brooklynvegan.com/grateful-deads-bob-weir-dead-at-78/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-11 00:35",
+      "summary": "The co-founding Grateful Dead singer/guitarist passed away from underlying lung issues, after successfully beating cancer."
+    },
+    {
+      "title": "Grateful Dead Co-Founder Bob Weir Has Died at 78",
+      "link": "https://loudwire.com/grateful-dead-bob-weir-died/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-11 00:10",
+      "summary": "Gijsbert Hanekroot, Redferns/Getty Images / Jamie McCarthy, Getty Images"
+    },
+    {
+      "title": "Bob Weir, Grateful Dead\u2019s Statesman, Passes at 78",
+      "link": "https://consequence.net/2026/01/bob-weir-grateful-deads-statesman-passes-at-78/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-11 00:05",
+      "summary": "The jam rock pioneer had been battling cancer and died from underlying lung issues.\nBob Weir, Grateful Dead&#8217;s Statesman, Passes at 78\nAlex Young"
+    },
+    {
+      "title": "Bob Weir, Renowned Guitarist and Founding Member of the Grateful Dead, Dies at\u00a078",
+      "link": "https://www.billboard.com/music/rock/bob-weir-death-grateful-dead-8530995/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-11 00:04",
+      "summary": "Bob Weir, guitarist and jam-band pioneer who co-founded the Grateful Dead and continued their legacy in the 21st century, has died following a battle with cancer."
+    },
+    {
+      "title": "Grateful Dead\u2019s Bob Weir Dead at 78",
+      "link": "https://pitchfork.com/news/bob-weir-dead-78-grateful-dead/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-01-10 23:40",
+      "summary": "\u201cHe transitioned peacefully, surrounded by loved ones,\u201d a statement read"
+    },
+    {
+      "title": "Bob Weir, Grateful Dead Co-Founder and Guitarist, Dead at 78",
+      "link": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-10 23:39",
+      "summary": "\u201cBobby will forever be a guiding force whose unique artistry reshaped American music,\u201d family says announcing musician\u2019s death"
+    },
+    {
+      "title": "Dave Matthews Slams Trump Administration and ICE After Minneapolis Shooting",
+      "link": "https://www.rollingstone.com/music/music-news/dave-matthews-trump-administration-ice-minneapolis-shooting-1235497217/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-10 19:48",
+      "summary": "\"This administration, these people who are trying to tell us not to believe what we see. It is so horrific,\" singer says of videos of Renee Nicole Good shooting"
+    },
+    {
+      "title": "Duran Duran Pays Tribute to Renee Good After Fatal ICE Shooting in\u00a0Minnesota",
+      "link": "https://www.billboard.com/music/music-news/duran-duran-renee-good-minnesota-ice-shooting-tribute-1236152613/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-10 18:40",
+      "summary": "The band honored Good at its Jan. 9 Sacramento concert."
     },
     {
       "title": "Ariana Grande Sets the Record Straight on Releasing New Music Before Eternal Sunshine\u00a0Tour",
@@ -1157,14 +1363,6 @@
       "category": "general",
       "published": "2026-01-10 17:00",
       "summary": "Nikki Glaser shares why she wants to host the Golden Globes, wanting to do &#8220;WAP&#8221; karaoke with Teyana Taylor and her impression of Britney Spears&#8217; &#8220;Lucky.&#8221; Nikki GlaserTey..."
-    },
-    {
-      "title": "Cate Le Bon shares dreamy new single \u2018Always The Same\u2019 featuring St. Vincent",
-      "link": "https://www.nme.com/news/music/cate-le-bon-shares-dreamy-new-single-always-the-same-featuring-st-vincent-3922352?utm_source=rss&utm_medium=rss&utm_campaign=cate-le-bon-shares-dreamy-new-single-always-the-same-featuring-st-vincent",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-10 16:44",
-      "summary": "\nIt follows on from Le Bon's appearance on St. Vincent's 'All Born Screaming'\nThe post Cate Le Bon shares dreamy new single &#8216;Always The Same&#8217; featuring St. Vincent appeared first on NME."
     },
     {
       "title": "Neil Young Rips Trump Over ICE Shooting in Minnesota: \u201cThe Biggest Mess I\u2019ve Ever Witnessed\u201d",
@@ -1199,22 +1397,6 @@
       "summary": "The 83rd annual Golden Globes are set to take place on Sunday, Jan. 11, at The Beverly Hilton."
     },
     {
-      "title": "DHS Slams Billie Eilish\u2019s \u2018Garbage Rhetoric\u2019 About ICE After Singer Shares Posts Criticizing Minneapolis\u00a0Shooting",
-      "link": "https://www.billboard.com/music/music-news/ice-billie-eilish-posts-minnesota-shooting-reaction-1236152588/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-10 15:45",
-      "summary": "\"The officer was in fear of his own life,\" the department insisted in a statement to Billboard."
-    },
-    {
-      "title": "Dolly Parton Says She Won\u2019t Attend Grand Ole Opry 80th Birthday Celebration in Video Message: \u2018Sending You All My\u00a0Love\u2019",
-      "link": "https://www.billboard.com/music/country/dolly-parton-will-miss-grand-ole-opry-80th-birthday-show-1236152594/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-10 15:16",
-      "summary": "The Jan. 17 event will feature Lainey Wilson, Vince Gill, Rhonda Vincent and others."
-    },
-    {
       "title": "Alamo Drafthouse Axes Pen and Paper Orders for Digital-Only System",
       "link": "https://consequence.net/2026/01/alamo-drafthouse-axes-pen-and-paper-orders-for-digital-only-system/",
       "source": "Consequence",
@@ -1231,100 +1413,12 @@
       "summary": "An 80-minute odyssey across America, balancing restless wandering with homesick reflection.\nZach Bryan Maps America\u2019s Restless Heart on With Heaven on Top: Review\nWren Graves"
     },
     {
-      "title": "Cain Culto & Xiuhtezcatl\u2019s \u2018\u00a1BASTA YA!\u2019 Revived as Anti-ICE Rallying Cry, Plus More Uplifting Moments in Latin\u00a0Music",
-      "link": "https://www.billboard.com/music/latin/latin-music-venezuela-industry-future-ice-uplifting-1236152289/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-10 15:00",
-      "summary": "Plus, Rawayana's Beto Montenegro and business executives reflect on the future of Venezuela's music industry."
-    },
-    {
-      "title": "Washington National Opera Cutting Ties With Kennedy Center Following Trump\u00a0Renaming",
-      "link": "https://www.billboard.com/music/music-news/washington-national-leaves-kennedy-center-trump-renaming-1236152589/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-10 14:27",
-      "summary": "Artists ranging from Lin-Manuel Miranda to Peter Wolf have recently called off events at the venue."
-    },
-    {
-      "title": "Danny Ocean, Ricardo Montaner & More Latin Artists  React to the Capture of Nicol\u00e1s Maduro | Noticias\u00a0Billboard",
-      "link": "https://www.billboard.com/video/latin-artists-react-to-the-capture-of-nicolas-maduro/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-10 14:00",
-      "summary": "Danny Ocean, Ricardo Montaner, Elena Rose and more Latin artists are reacting to the capture of Venezuelan president Nicol\u00e1s Maduro. Sigal Ratner-Arias&#160; Danny Ocean, Elena Rose, Ricardo Montaner,..."
-    },
-    {
-      "title": "NFL Playoffs on Sling TV: Here\u2019s How to Watch Rams vs. Panthers Wild Card Game\u00a0Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/nfl-playoffs-la-rams-carolina-panthers-game-watch-online-1236152377/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-10 13:00",
-      "summary": "The NFC wild card game kicks off on Jan. 10 at 4:30 p.m. ET."
-    },
-    {
       "title": "The Best Metal Song of Each Year Since 1970",
       "link": "https://loudwire.com/best-metal-song-each-year-since-1970/",
       "source": "Loudwire",
       "category": "rock",
       "published": "2026-01-10 12:20",
       "summary": "Atco / Roadrunner / EMI / Elektra / Vertigo / Century Media / Nuclear Blast"
-    },
-    {
-      "title": "Britney Spears says she will \u201cnever perform in the US again\u201d in cryptic post promising new UK and Australia dates",
-      "link": "https://www.nme.com/news/music/britney-spears-says-she-will-never-perform-in-the-us-again-in-cryptic-post-promising-new-uk-and-australia-dates-3922324?utm_source=rss&utm_medium=rss&utm_campaign=britney-spears-says-she-will-never-perform-in-the-us-again-in-cryptic-post-promising-new-uk-and-australia-dates",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-10 10:55",
-      "summary": "\nThe pop star said she would not perform stateside due to \u201cextremely sensitive reasons\"\nThe post Britney Spears says she will \u201cnever perform in the US again\u201d in cryptic post promising new UK and Austr..."
-    },
-    {
-      "title": "Billie Eilish shares posts calling ICE a \u201cterrorist group\u201d in light of Minneapolis shooting",
-      "link": "https://www.nme.com/news/music/billie-eilish-shares-posts-calling-ice-a-terrorist-group-in-light-of-minneapolis-shooting-3922318?utm_source=rss&utm_medium=rss&utm_campaign=billie-eilish-shares-posts-calling-ice-a-terrorist-group-in-light-of-minneapolis-shooting",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-10 10:42",
-      "summary": "\nEilish joins musicians such as Neil Young in condemning ICE over the killing of Renee Nicole Good, who was killed by an agent earlier this week\nThe post Billie Eilish shares posts calling ICE a &#822..."
-    },
-    {
-      "title": "Trump rules out pardon for Diddy after he penned personal letter to President",
-      "link": "https://www.nme.com/news/music/trump-rules-out-pardon-for-diddy-after-he-penned-personal-letter-to-president-3922305?utm_source=rss&utm_medium=rss&utm_campaign=trump-rules-out-pardon-for-diddy-after-he-penned-personal-letter-to-president",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-10 10:04",
-      "summary": "\nTrump told reporters he has no intention of helping the disgraced rap mogul, who he'd previously called \"half innocent\" and \"hostile\"\nThe post Trump rules out pardon for Diddy after he penned persona..."
-    },
-    {
-      "title": "Fetty Wap credits 50 Cent for \u201cfinancial and mental help\u201d during his three year prison sentence",
-      "link": "https://www.nme.com/news/music/fetty-wap-credits-50-cent-for-financial-and-mental-help-during-his-three-year-prison-sentence-3922301?utm_source=rss&utm_medium=rss&utm_campaign=fetty-wap-credits-50-cent-for-financial-and-mental-help-during-his-three-year-prison-sentence",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-10 09:53",
-      "summary": "\n\u201cWhatever I needed, he was right there\"\nThe post Fetty Wap credits 50 Cent for &#8220;financial and mental help&#8221; during his three year prison sentence appeared first on NME."
-    },
-    {
-      "title": "Yungblud Sparks Fan Frenzy at Sydney Gallery, Goes Commando on\u00a0Yacht",
-      "link": "https://www.billboard.com/music/music-news/yungblud-sydney-gallery-yacht-1236152582/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-10 09:48",
-      "summary": "Yungblud\u2019s arrival in Australia ahead of the kickoff of his IDOLS World Tour has been anything but low-key."
-    },
-    {
-      "title": "Ariana Grande jokes she \u201cwould need an extra brain\u201d to release new music",
-      "link": "https://www.nme.com/news/music/ariana-grande-jokes-she-would-need-an-extra-brain-to-release-new-music-3922288?utm_source=rss&utm_medium=rss&utm_campaign=ariana-grande-jokes-she-would-need-an-extra-brain-to-release-new-music",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-10 09:11",
-      "summary": "\nShe's heading on her first tour since 2019 later this year\nThe post Ariana Grande jokes she &#8220;would need an extra brain&#8221; to release new music appeared first on NME."
-    },
-    {
-      "title": "Neil Young eviscerates Donald Trump in new editorial urging Americans to \u201crise up peacefully in millions\u201d after Minnesota shooting",
-      "link": "https://www.nme.com/news/music/neil-young-eviscerates-donald-trump-in-new-editorial-urging-americans-to-rise-up-peacefully-in-millions-after-minnesota-shooting-3922286?utm_source=rss&utm_medium=rss&utm_campaign=neil-young-eviscerates-donald-trump-in-new-editorial-urging-americans-to-rise-up-peacefully-in-millions-after-minnesota-shooting",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-10 09:04",
-      "summary": "\n\"He knows nothing about love. He does not know you are. Use your love of life, your love of one another, your love of children and theirs and ours\"\nThe post Neil Young eviscerates Donald Trump in new..."
     },
     {
       "title": "Timothy Busfield Charged with Child Sex Abuse",
@@ -1389,151 +1483,7 @@
       "category": "general",
       "published": "2026-01-09 22:05",
       "summary": "Great new tracks from August Ponthier, Haute &#038; Freddy, Lala Lala, and more.\nStaff Picks: Best Songs of the Week January 3rd \u2013 January 9th\nPaolo Ragusa and Jonah Krueger"
-    },
-    {
-      "title": "Protest Songs About the Minneapolis ICE Shooting Are Already Online",
-      "link": "https://www.rollingstone.com/music/music-news/minneapolis-ice-shooting-renee-good-protest-songs-1235496983/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-09 22:05",
-      "summary": "Artists from Jesse Welles to Nashville songwriter Zach Schmidt are singing about the senseless killing of Renee Good"
-    },
-    {
-      "title": "Tour news: Bruno Mars / Anderson. Paak, John Mulaney, Peggy Gou, Bodega, more",
-      "link": "https://www.brooklynvegan.com/tour-news-bruno-mars-anderson-paak-john-mulaney-peggy-gou-bodega-more/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-09 21:56",
-      "summary": "Plus: VIAL, Daniel Avery, Lala, The Messthetics &#038; James Brandon Lewis, and more tour and festival news."
-    },
-    {
-      "title": "'Catfish' Host Nev Schulman on Brittany Furlan + Ronnie Radke",
-      "link": "https://loudwire.com/catfish-nev-schulman-brittany-furlan-ronnie-radke-scandal/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-09 21:38",
-      "summary": "YouTube - TMZ / Marcus Ingram, Getty Images / Jeff Kravitz/MTV VMAs 2021, Getty Images"
-    },
-    {
-      "title": "Neil Young Scorches Donald Trump In New Editorial: \u2018It\u2019s ICE Cold Here in America\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/neil-young-donald-trump-editorial-ice-1235496906/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-09 21:37",
-      "summary": "\u201cDonald Trump is destroying America bit by bit with his staff of wannabes, people with no experience or talent, [and] closet alcoholic wife beaters,\u201d Young writes"
-    },
-    {
-      "title": "Britney Spears Says She \u201cWill Never Perform in US Again\u201d Due to \u201cExtremely Sensitive Reasons\u201d",
-      "link": "https://consequence.net/2026/01/britney-spears-never-perform-in-us-again/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-09 21:26",
-      "summary": "The pop star did tease the possibility of doing shows in the UK and Australia.\nBritney Spears Says She &#8220;Will Never Perform in US Again&#8221; Due to &#8220;Extremely Sensitive Reasons&#8221;\nSco..."
-    },
-    {
-      "title": "ICE are no longer running ads on Spotify",
-      "link": "https://www.nme.com/news/music/ice-are-no-longer-running-ads-on-spotify-3922278?utm_source=rss&utm_medium=rss&utm_campaign=ice-are-no-longer-running-ads-on-spotify",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-09 21:24",
-      "summary": "\nSpotify users began boycotting the platform when ICE's recruitment ads began appearing on the streamer \nThe post ICE are no longer running ads on Spotify appeared first on NME."
-    },
-    {
-      "title": "Kurt Cobain\u2019s \u2018Teen Spirit\u2019 Guitar, Ringo Starr\u2019s \u2018Ed Sullivan\u2019 Drums Head to Auction",
-      "link": "https://www.rollingstone.com/music/music-news/jim-irsay-collection-auction-kurt-cobain-john-lennon-ringo-1235496866/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-09 21:20",
-      "summary": "The Jim Irsay Collection, which includes historically significant instruments from David Gilmour, Jerry Garcia, and John Lennon, will feature at Christie\u2019s this spring"
-    },
-    {
-      "title": "Mon Rov\u00eea Releases Moving Debut Album Bloodline: Stream",
-      "link": "https://consequence.net/2026/01/mon-rovia-bloodline-stream-debut-album/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-09 21:19",
-      "summary": "The Afro-Appalachian folk musician is one of this year's emerging artists to watch.\nMon Rov\u00eea Releases Moving Debut Album Bloodline: Stream\nBen Kaye"
-    },
-    {
-      "title": "13 New Songs Out Today",
-      "link": "https://www.brooklynvegan.com/13-new-songs-out-today-61/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-09 21:09",
-      "summary": "Listen to new songs by Jill Scott, IDK/Pusha T/Kaytranada, Exhumed, Mayhem, Father John Misty, Girl Scout, and more."
-    },
-    {
-      "title": "D'Angelo - Voodoo ALBUM REVIEW",
-      "link": "https://www.youtube.com/watch?v=IhKv4Cc1eeM",
-      "source": "The Needle Drop",
-      "category": "general",
-      "published": "2026-01-09 21:07",
-      "summary": "Listen: https://youtu.be/CRKXG5YleHU?si=ayhE35NXgHPH80FQ\n\nR.I.P. D'Angelo \ud83d\udd4a\ufe0f\n\nMore classic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7or_7JI7RsEsptyS4wfLFGIN\n\n==========================..."
-    },
-    {
-      "title": "Boosie Badazz Sentenced to Time Served, 3 Years Supervised Release in Gun Case",
-      "link": "https://www.rollingstone.com/music/music-news/boosie-badazz-sentenced-time-served-gun-case-1235496728/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-09 20:58",
-      "summary": "\"The outcome allows Mr. Hatch to move ahead with his life,\" his defense lawyer says"
-    },
-    {
-      "title": "Bad Bunny faces $16million lawsuit for using voice notes on two songs",
-      "link": "https://www.nme.com/news/music/bad-bunny-faces-16million-lawsuit-for-using-voice-notes-on-two-songs-3922268?utm_source=rss&utm_medium=rss&utm_campaign=bad-bunny-faces-16million-lawsuit-for-using-voice-notes-on-two-songs",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-09 20:47",
-      "summary": "\nThe woman alleges that her voice was used without permission on 2018\u2019s \u2018Solo de Mi\u2019 and 2025\u2019s \u2018EoO\u2019\nThe post Bad Bunny faces $16million lawsuit for using voice notes on two songs appeared first on N..."
-    },
-    {
-      "title": "Meet \u00d8Way, the Atlanta rap collective behind 2026\u2019s first viral cypher",
-      "link": "https://www.thefader.com/2026/01/09/oway-cypher-2026-tezzus-pz-young-thug",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-01-09 20:45",
-      "summary": "We ranked every verse on the Young Thug associates\u2019 new posse cut."
-    },
-    {
-      "title": "Fetty Wap on Home Confinement Until Later This Year - Report",
-      "link": "https://www.xxlmag.com/fetty-wap-home-confinement-until-later-this-year/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-01-09 20:29",
-      "summary": "300ent/Instagram"
-    },
-    {
-      "title": "What does copying aesthetics mean in the internet age?",
-      "link": "https://www.thefader.com/2026/01/09/what-does-copying-creative-theft-mean-on-the-internet",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-01-09 20:22",
-      "summary": "Does it still exist if we\u2019re all looking at the same references?"
-    },
-    {
-      "title": "Glenn Hughes Cancels Spring 2026 Tour, Issues Statement",
-      "link": "https://loudwire.com/glenn-hughes-spring-2026-tour-statement/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-09 20:00",
-      "summary": "Leo Baron"
-    },
-    {
-      "title": "Listen to Sault\u2019s New Album Chapter 1",
-      "link": "https://pitchfork.com/news/sault-release-new-album-chapter-1/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-09 19:29",
-      "summary": "The group\u2019s 13th LP features production from Jimmy Jam and Terry Lewis"
-    },
-    {
-      "title": "Boosie BadAzz Avoids Prison Time in Federal Gun Case - Report",
-      "link": "https://www.xxlmag.com/boosie-avoids-prison-time-federal-gun-case/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-01-09 19:27",
-      "summary": "Marcus Ingram/Getty Images"
     }
   ],
-  "last_updated": "2026-01-10T17:40:13.659501"
+  "last_updated": "2026-01-11T17:22:31.160872"
 }

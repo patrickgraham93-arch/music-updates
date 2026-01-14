@@ -1,16 +1,6 @@
 {
   "hiphop": [
     {
-      "name": "Heat Check",
-      "artists": "Frak, G-Eazy",
-      "release_date": "2026-01-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a55d17da86ca4a57b23a94c5",
-      "spotify_url": "https://open.spotify.com/album/6W7NVmtGfStCFofp8tPkWa",
-      "apple_music_url": "https://music.apple.com/us/search?term=Heat%20Check%20Frak",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Helicopter",
       "artists": "A$AP Rocky",
       "release_date": "2026-01-12",
@@ -21,12 +11,22 @@
       "album_type": "single"
     },
     {
+      "name": "Heat Check",
+      "artists": "Frak, G-Eazy",
+      "release_date": "2026-01-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a55d17da86ca4a57b23a94c5",
+      "spotify_url": "https://open.spotify.com/album/6W7NVmtGfStCFofp8tPkWa",
+      "apple_music_url": "https://music.apple.com/us/search?term=Heat%20Check%20Frak",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Coke Wave 3.5: Narcos",
       "artists": "French Montana, Max B",
       "release_date": "2026-01-09",
       "image": "https://i.scdn.co/image/ab67616d0000b2734b6f94a3ba3eedaa1feb45b7",
       "spotify_url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE",
-      "apple_music_url": "https://music.apple.com/us/album/coke-wave-3-5-narcos/1867289073?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Coke%20Wave%203.5%3A%20Narcos%20French%20Montana",
       "total_tracks": 22,
       "album_type": "album"
     },
@@ -76,7 +76,7 @@
       "release_date": "2026-01-08",
       "image": "https://i.scdn.co/image/ab67616d0000b273d327b7548481d7c10c7947bd",
       "spotify_url": "https://open.spotify.com/album/4IfYiv5sB5R5emmrmozHIO",
-      "apple_music_url": "https://music.apple.com/us/album/coke-wave-3-5-narcos-instrumentals/1867277552?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Coke%20Wave%203.5%3A%20Narcos%20%28Instrumentals%29%20French%20Montana",
       "total_tracks": 21,
       "album_type": "album"
     },
@@ -196,7 +196,7 @@
       "release_date": "2025-12-19",
       "image": "https://i.scdn.co/image/ab67616d0000b2734dca9dc8281d8a9fc0386d56",
       "spotify_url": "https://open.spotify.com/album/3IIGzXdPClsi9LWWqz35XQ",
-      "apple_music_url": "https://music.apple.com/us/album/hood-poet/1763716338?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Hood%20Poet%20Polo%20G",
       "total_tracks": 40,
       "album_type": "album"
     },
@@ -286,7 +286,7 @@
       "release_date": "2025-12-17",
       "image": "https://i.scdn.co/image/ab67616d0000b273f9752621c49dd330ecabacd9",
       "spotify_url": "https://open.spotify.com/album/56epDpniHtGsWvz72fSvEo",
-      "apple_music_url": "https://music.apple.com/us/album/out-ya-business-single/1860506882?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Out%20Ya%20Business%20DaBaby",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -324,7 +324,7 @@
       "name": "Light-Years",
       "artists": "Nas, DJ Premier",
       "release_date": "2025-12-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734d8176b6c8c7d66d6e85edd4",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c7158af420fab71074e49067",
       "spotify_url": "https://open.spotify.com/album/3uDMOY194FBxufCH0dYN3B",
       "apple_music_url": "https://music.apple.com/us/search?term=Light-Years%20Nas",
       "total_tracks": 15,
@@ -456,7 +456,7 @@
       "release_date": "2025-12-10",
       "image": "https://i.scdn.co/image/ab67616d0000b273fdaf4e56345a79d12b16a25c",
       "spotify_url": "https://open.spotify.com/album/1AkBOJUf0dKKIcJXS1hssL",
-      "apple_music_url": "https://music.apple.com/us/search?term=Hit%20Different%20Swerve%20Strickland",
+      "apple_music_url": "https://music.apple.com/us/album/hit-different-single/1858404647?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -646,7 +646,7 @@
       "release_date": "2025-12-03",
       "image": "https://i.scdn.co/image/ab67616d0000b2737644af592e4c543caa07ba6d",
       "spotify_url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1",
-      "apple_music_url": "https://music.apple.com/us/search?term=The%20Leaks%20Lil%20Baby",
+      "apple_music_url": "https://music.apple.com/us/album/the-leaks/1862603341?uo=4",
       "total_tracks": 15,
       "album_type": "album"
     },
@@ -878,412 +878,412 @@
       "release_date": "2025-11-19",
       "image": "https://i.scdn.co/image/ab67616d0000b273789657ec664daa222cab1e5a",
       "spotify_url": "https://open.spotify.com/album/10p4597ekqFOqMbttkxggC",
-      "apple_music_url": "https://music.apple.com/us/search?term=xx%20%28Deluxe%29%20The%20xx",
+      "apple_music_url": "https://music.apple.com/us/album/xx-deluxe/1849107580?uo=4",
       "total_tracks": 16,
       "album_type": "album"
     }
   ],
   "news": [
     {
-      "title": "A$AP Rocky Bails on His Reddit AMA & Calls Moderators \u2018Clowns\u2019",
-      "link": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-cancels-reddit-ama-moderators-clowns-1236154020/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-13 17:28",
-      "summary": "Don't Be Dumb is a double entendre this week."
-    },
-    {
-      "title": "Behemoth, Deicide, Rotting Christ & Immolation announce tour",
-      "link": "https://www.brooklynvegan.com/behemoth-deicide-rotting-christ-immolation-announce-tour/",
+      "title": "Sleater-Kinney & Fred Armisen formed Ramones tribute band called The Return of Jackie and Judy, playing shows",
+      "link": "https://www.brooklynvegan.com/sleater-kinney-fred-armisen-formed-ramones-tribute-band-called-the-return-of-jackie-and-judy-playing-shows/",
       "source": "Brooklyn Vegan",
       "category": "general",
-      "published": "2026-01-13 17:22",
-      "summary": "The four long-running extreme metal bands will tour North America together this spring."
+      "published": "2026-01-14 17:28",
+      "summary": "What started as a few covers for the wrap party for John Mulaney&#8217;s Netflix series has turned into a full-blown tribute act."
     },
     {
-      "title": "BTS announces 79-date world tour",
-      "link": "https://www.thefader.com/2026/01/13/bts-world-tour-2026-2027-tickets-schedule",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-01-13 17:20",
-      "summary": "The K-pop ensemble will tour behind their fifth album, due March 20."
-    },
-    {
-      "title": "Dwight Yoakam & Friends: Rockin for the Kids at the Roxy Benefit to Feature Lukas Nelson, Charley Crockett &\u00a0More",
-      "link": "https://www.billboard.com/music/concerts/dwight-yoakam-benefit-with-lukas-nelson-charley-crockett-1236153897/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-13 17:15",
-      "summary": "The Jan. 28 charity show will aid Children's Hospital Los Angeles."
-    },
-    {
-      "title": "Fcukers Announce Debut Album and North American Tour",
-      "link": "https://pitchfork.com/news/fcukers-o-debut-album-announce-north-american-tour/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-13 17:14",
-      "summary": "\u00d6 is out March 27 via Ninja Tune"
-    },
-    {
-      "title": "Fcukers announce debut album & spring tour, share \u201cL.U.C.K.Y\u201d",
-      "link": "https://www.brooklynvegan.com/fcukers-announce-debut-album-spring-tour-share-l-u-c-k-y/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-13 17:10",
-      "summary": "Fcukers debut album \u2018\u00d6\u2019 was produced by Kenny Beats and will be out March 27 via Ninja Tune."
-    },
-    {
-      "title": "Teyana Taylor Explains Why She Isn\u2019t Going to \u2018Abandon\u2019 Ye Over His Antisemitic Hate\u00a0Speech",
-      "link": "https://www.billboard.com/music/music-news/teyana-taylor-kanye-west-friend-despite-antisemitism-1236154028/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-13 17:09",
-      "summary": "\"I don\u2019t have to agree with everything that he do or say,\" the singer-actress said."
-    },
-    {
-      "title": "\u201cLabyrinth: In Concert\u201d Tour Returns for Film\u2019s 40th Anniversary",
-      "link": "https://consequence.net/2026/01/jim-henson-labyrinth-in-concert-2026-tour-dates-40th-anniversary/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-13 17:06",
-      "summary": "The fall US trek will stop in 58 cities, including Boston, Kansas City, Los Angeles, Las Vegas,\u00a0 New Orleans, and Washington, DC.\n&#8220;Labyrinth: In Concert&#8221; Tour Returns for Film&#8217;s 40th..."
-    },
-    {
-      "title": "Five Finger Death Punch Announce 2026 North American Tour",
-      "link": "https://consequence.net/2026/01/five-finger-death-punch-2026-north-american-tour/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-13 17:04",
-      "summary": "Cody Jinks and Eva Under Fire will be along as support.\nFive Finger Death Punch Announce 2026 North American Tour\nJon Hadusek"
-    },
-    {
-      "title": "Fcukers Announce Debut Album \u00d6, Reveal 2026 Tour Dates and New Song: Stream",
-      "link": "https://consequence.net/2026/01/fcukers-new-album-o-2026-tour-lucky-stream/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-13 17:03",
-      "summary": "The indie dance duo worked with Kenneth Blume and 100 gecs' Dylan Brady on their long-awaited debut album.\nFcukers Announce Debut Album \u00d6, Reveal 2026 Tour Dates and New Song: Stream\nPaolo Ragusa"
-    },
-    {
-      "title": "FCUKERS announce long-awaited debut album \u2018\u00d6\u2019 with club-ready single \u2018L.U.C.K.Y\u2019",
-      "link": "https://www.nme.com/news/music/fcukers-announce-long-awaited-debut-album-o-with-club-ready-single-l-u-c-k-y-3922968?utm_source=rss&utm_medium=rss&utm_campaign=fcukers-announce-long-awaited-debut-album-o-with-club-ready-single-l-u-c-k-y",
+      "title": "\u201cPhenomenal actor\u201d chosen to play Ozzy Osbourne in biopic, with director also attached",
+      "link": "https://www.nme.com/news/music/phenomenal-actor-chosen-to-play-ozzy-osbourne-in-biopic-with-director-also-attached-3923199?utm_source=rss&utm_medium=rss&utm_campaign=phenomenal-actor-chosen-to-play-ozzy-osbourne-in-biopic-with-director-also-attached",
       "source": "NME",
       "category": "general",
-      "published": "2026-01-13 17:00",
-      "summary": "\nThe former NME Cover stars have also announced new North American tour dates\nThe post FCUKERS announce long-awaited debut album \u2018\u00d6\u2019 with club-ready single \u2018L.U.C.K.Y&#8217; appeared first on NME."
+      "published": "2026-01-14 17:20",
+      "summary": "\nThere has been recent speculation among fans that Yungblud could step into the role\nThe post &#8220;Phenomenal actor&#8221; chosen to play Ozzy Osbourne in biopic, with director also attached appeare..."
     },
     {
-      "title": "Taylor Swift Continues Her Record Streak At No. 1 & Djo Breaks Into the Top 10 With \u2018End of the Beginning\u2019 | The Hot 100\u00a0Show",
-      "link": "https://www.billboard.com/video/taylor-swift-djo-hot-100-top-10/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-13 17:00",
-      "summary": "Taylor Swift continues her longest streak at No. 1 on the Hot 100 with &#8220;The Fate of Ophelia,&#8221; Joe Keery gets a big boost into the top 10 with the &#8220;End of the Beginning,&#8221; thanks..."
-    },
-    {
-      "title": "Temple of Void announce new album \u2018The Crawl,\u2019 share title track",
-      "link": "https://www.brooklynvegan.com/temple-of-void-announce-new-album-the-crawl-share-title-track/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-13 16:59",
-      "summary": "\u201dThe biggest shift for me on this record was not feeling like we had to fly the \u2018death-doom banner\u2019 as part of our identity.\u201d"
-    },
-    {
-      "title": "Slayyyter\u2019s  WOR$T GIRL IN AMERICA: release date, album art, and more",
-      "link": "https://www.thefader.com/2026/01/13/slayyyter-announce-new-album",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-01-13 16:53",
-      "summary": "It\u2019s the alt pop star\u2019s third full length LP and major labor debut"
-    },
-    {
-      "title": "\u2018Pretty in Pink\u2019 returning to theaters for its 40th anniversary",
-      "link": "https://www.brooklynvegan.com/pretty-in-pink-returning-to-theaters-for-its-40th-anniversary/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-13 16:51",
-      "summary": "This 40th anniversary edition features a new 4K print and will play in theaters over Valentine&#8217;s Day Weekend."
-    },
-    {
-      "title": "Legendary Metalcore Band Announces First Album in 17 Years",
-      "link": "https://loudwire.com/poison-the-well-peace-in-place/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-13 16:48",
-      "summary": "Sarai Kelley / SharpTone"
-    },
-    {
-      "title": "LCD Soundsystem, Backstreet Boys, Papa Roach, Sombr & Rilo Kiley playing the same festival",
-      "link": "https://www.brooklynvegan.com/lcd-soundsystem-backstreet-boys-papa-roach-sombr-rilo-kiley-playing-the-same-festival/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-13 16:43",
-      "summary": "Bottlerock Napa 2026 also has Foo Fighters, Lorde, Ludacris, Busta Rhymes, Chaka Khan, and more."
-    },
-    {
-      "title": "Filth Is Eternal announce new LP \u2018Impossible World,\u2019 share \u201cStay Melted\u201d",
-      "link": "https://www.brooklynvegan.com/filth-is-eternal-announce-new-lp-impossible-world-share-stay-melted/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-13 16:38",
-      "summary": "The Seattle punks get melodic in a Scowl-ish kinda way on \u201dStay Melted.\u201d"
-    },
-    {
-      "title": "Geese Announce New Live at Third Man Records LP",
-      "link": "https://consequence.net/2026/01/geese-live-at-third-man-records-live-album/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-13 16:37",
-      "summary": "The new live collection arrives exclusively on black vinyl via Third Man Records on Friday, February 27th.\nGeese Announce New Live at Third Man Records LP\nPaolo Ragusa"
-    },
-    {
-      "title": "BTS Set Massive 2026-27 World Tour",
-      "link": "https://pitchfork.com/news/bts-2026-world-tour-dates/",
+      "title": "Flea Announces Debut Solo Album, Tour, and New Song With Thom Yorke",
+      "link": "https://pitchfork.com/news/flea-announces-debut-solo-album-tour-and-new-song-with-thom-yorke/",
       "source": "Pitchfork",
       "category": "general",
-      "published": "2026-01-13 16:23",
-      "summary": "The K-pop superstars will play 79 shows across five continents"
+      "published": "2026-01-14 17:19",
+      "summary": "The Red Hot Chili Peppers\u2019 bassist will release Honora on March 27"
     },
     {
-      "title": "Pavement announce US summer shows",
-      "link": "https://www.brooklynvegan.com/pavement-announce-us-summer-shows/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-13 16:20",
-      "summary": "The shows follow their previous announced date playing the Mosswood Meltdown pre-party."
-    },
-    {
-      "title": "Behemoth Announce Spring 2026 North American Tour with Deicide, Rotting Christ, and Immolation",
-      "link": "https://consequence.net/2026/01/behemoth-spring-2026-north-american-tour/",
+      "title": "Trailer for Paul McCartney Documentary Man on the Run Captures His Posts Beatles-Era: Watch",
+      "link": "https://consequence.net/2026/01/watch-trailer-paul-mcartney-doc/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-01-13 16:16",
-      "summary": "The Polish band leads a massive 26-show extreme metal package.\nBehemoth Announce Spring 2026 North American Tour with Deicide, Rotting Christ, and Immolation\nJon Hadusek"
+      "published": "2026-01-14 17:17",
+      "summary": "The Morgan Neville-directed film comes to Prime Video on February 27th\nTrailer for Paul McCartney Documentary Man on the Run Captures His Posts Beatles-Era: Watch\nChris Coplan"
     },
     {
-      "title": "BottleRock Napa Announces 2026 Lineup with Foo Fighters, Lorde, and LCD Soundsystem",
-      "link": "https://consequence.net/2026/01/bottlerock-2026-lineup-foo-fighters-lorde-lcd-soundsystem/",
+      "title": "An AI Artist Has Three Songs in Spotify Viral 50 and Seemingly Fooled Selena Gomez",
+      "link": "https://consequence.net/2026/01/sienna-rose-ai-selena-gomez-spotify/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-01-13 16:15",
-      "summary": "Backstreet Boys, Teddy Swims, Sombr, and Lil Wayne will also play the Northern California festival.\nBottleRock Napa Announces 2026 Lineup with Foo Fighters, Lorde, and LCD Soundsystem\nPaolo Ragusa"
+      "published": "2026-01-14 17:16",
+      "summary": "Sienna Rose started as a redhead with an acoustic guitar, soon morphed into a brunette, and found success looking like a Black woman.\nAn AI Artist Has Three Songs in Spotify Viral 50 and Seemingly Foo..."
     },
     {
-      "title": "Rihanna Hints at Wanting Baby No. 4 With A$AP Rocky in 2026: \u2018So I\u2019m Not Crazy\u00a0Then?\u2019",
-      "link": "https://www.billboard.com/music/music-news/rihanna-wants-another-baby-asap-rocky-2026-1236153960/",
+      "title": "Ariana Grande & Jonathan Bailey to Reunite for \u2018Sunday in the Park With George\u2019 West End\u00a0Revival",
+      "link": "https://www.billboard.com/music/music-news/ariana-grande-jonathan-bailey-sunday-in-the-park-revival-1236154864/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-01-13 16:13",
-      "summary": "The singer just welcomed her third child in September."
+      "published": "2026-01-14 17:10",
+      "summary": "They're perfect together!"
     },
     {
-      "title": "Robber Robber announce new album & spring tour, share \u201cThe Sound It Made\u201d",
-      "link": "https://www.brooklynvegan.com/robber-robber-announce-new-album-spring-tour-share-the-sound-it-made/",
+      "title": "Commitment (Soul Glo, Eye Flys) announce debut LP \u2018Fear Of,\u2019 share \u201cDog Pound\u201d",
+      "link": "https://www.brooklynvegan.com/commitment-soul-glo-eye-flys-announce-debut-lp-fear-of-share-dog-pound/",
       "source": "Brooklyn Vegan",
       "category": "general",
-      "published": "2026-01-13 16:04",
-      "summary": "&#8216;Two Wheels Move the Soul&#8217; will be out April 3."
+      "published": "2026-01-14 17:09",
+      "summary": "\u201d&#8217;Dog Pound&#8217; is about revenge. It\u2019s me giving myself permission to divulge in my violent fantasies towards men that deserve such treatment.\u201d"
     },
     {
-      "title": "Trevor Noah to Host 2026 Grammy Awards for a 6th & Final\u00a0Time",
-      "link": "https://www.billboard.com/music/awards/trevor-noah-host-2026-grammy-awards-final-time-1236153974/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-13 16:02",
-      "summary": "The comedian will become the first person to host the show six years running since Andy Williams hosted the first seven live telecasts."
-    },
-    {
-      "title": "Mitski teases new album by clearing Instagram and sharing phone line",
-      "link": "https://www.nme.com/news/music/mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line-3922957?utm_source=rss&utm_medium=rss&utm_campaign=mitski-teases-new-album-by-clearing-instagram-and-sharing-phone-line",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-13 16:00",
-      "summary": "\nSome fans are convinced that new music will be announced at the end of the week\nThe post Mitski teases new album by clearing Instagram and sharing phone line appeared first on NME."
-    },
-    {
-      "title": "BTS Announces Massive Global Tour: Here Are the\u00a0Dates",
-      "link": "https://www.billboard.com/music/music-news/bts-tour-dates-2026-2027-1236153981/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-13 15:55",
-      "summary": "The Bangtan Boys are back!"
-    },
-    {
-      "title": "Behemoth Announce 2026 North American Spring Tour Dates",
-      "link": "https://loudwire.com/behemoth-2026-north-american-spring-tour-dates/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-13 15:54",
-      "summary": "Per Ole Hagen, Redferns, Getty Images"
-    },
-    {
-      "title": "The Black Dahlia Murder, The Acacia Strain, Disembodied Tyrant & Corpse Pile announce tour",
-      "link": "https://www.brooklynvegan.com/the-black-dahlia-murder-the-acacia-strain-disembodied-tyrant-corpse-pile-announce-tour/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-13 15:49",
-      "summary": "Get ready for a spring of death metal."
-    },
-    {
-      "title": "BTS Announce Massive Comeback World Tour",
-      "link": "https://consequence.net/2026/01/bts-2026-world-tour/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-13 15:47",
-      "summary": "BTS's 79-date tour visits 34 regions and stretches into 2027.\nBTS Announce Massive Comeback World Tour\nPaolo Ragusa"
-    },
-    {
-      "title": "Poison the Well Announce First Album in 17 Years, Unleash Single \u201cThoroughbreds\u201d: Stream",
-      "link": "https://consequence.net/2026/01/poison-the-well-new-album-2026-thoroughbreds-stream/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-13 15:46",
-      "summary": "Peace in Place arrives March 20th via SharpTone Records.\nPoison the Well Announce First Album in 17 Years, Unleash Single &#8220;Thoroughbreds&#8221;: Stream\nJon Hadusek"
-    },
-    {
-      "title": "Jos\u00e9 Gonz\u00e1lez Returns With New Album and Tour",
-      "link": "https://pitchfork.com/news/jose-gonzalez-returns-with-new-album-and-tour/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-13 15:45",
-      "summary": "Listen to the title track of Against the Dying of the Light"
-    },
-    {
-      "title": "Sunn O))) Announce New Album and 2026 Tour, Unveil Single \u201cGlory Black\u201d: Stream",
-      "link": "https://consequence.net/2026/01/sunn-o-new-album-2026-tour-glory-black-stream/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-13 15:42",
-      "summary": "The self-titled album and Sub Pop debut arrives April 3rd.\nSunn O))) Announce New Album and 2026 Tour, Unveil Single &#8220;Glory Black&#8221;: Stream\nJon Hadusek"
-    },
-    {
-      "title": "50 Cent to Invest $124 Million In Louisiana Entertainment Venues",
-      "link": "https://www.xxlmag.com/50-cent-invest-124-million-louisiana-entertainment-venues/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-01-13 15:39",
-      "summary": "Jason Koerner/Getty Images"
-    },
-    {
-      "title": "Tom Morello Accuses Trump Administration of Using Nazi Slogan",
-      "link": "https://consequence.net/2026/01/tom-morello-accuses-trump-administration-nazi-slogan/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-13 15:36",
-      "summary": "The Rage Against the Machine guitarist is angered over the use of the phrase \"One of ours, all of yours.\"\nTom Morello Accuses Trump Administration of Using Nazi Slogan\nHeavy Consequence Staff"
-    },
-    {
-      "title": "The Black Dahlia Murder Book 23-Date U.S. Headline Tour",
-      "link": "https://loudwire.com/black-dahlia-murder-2026-us-tour-acacia-strain-more/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-13 15:36",
-      "summary": "Miikka Skaffari, Getty Images / Metal Blade"
-    },
-    {
-      "title": "Anjimile annonces new LP ft. Sam Beam & more, shares \u201cLike You Really Mean It\u2019",
-      "link": "https://www.brooklynvegan.com/anjimile-annonces-new-lp-ft-sam-beam-more-shares-like-you-really-mean-it/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-13 15:35",
-      "summary": "\u2019You\u2019re Free to Go\u2019\u00a0was produced by Brad Cook, and arrives on March 13 via 4AD."
-    },
-    {
-      "title": "Jos\u00e9 Gonz\u00e1lez announces new album & North American tour, shares first single",
-      "link": "https://www.brooklynvegan.com/jose-gonzalez-announces-new-album-north-american-tour-shares-first-single/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-13 15:34",
-      "summary": "&#8216;Against the Dying of the Light&#8217; is Jos\u00e9 Gonz\u00e1lez&#8217;s fifth album and will be out March 27."
-    },
-    {
-      "title": "Here\u2019s How You Can Score Tickets to TWICE\u2019s This Is For World\u00a0Tour",
-      "link": "https://www.billboard.com/culture/product-recommendations/twice-tickets-this-is-for-world-tour-shop-online-1236093315/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-13 15:33",
-      "summary": "The girl group's tour began Jan. 13 in Seattle."
-    },
-    {
-      "title": "Scott Adams, Dilbert Creator and Conservative Commentator, Dead at 68",
-      "link": "https://consequence.net/2026/01/scott-adams-dilbert-creator-dead/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-13 15:28",
-      "summary": "He had been battling prostate cancer.\nScott Adams, Dilbert Creator and Conservative Commentator, Dead at 68\nScoop Harrison"
-    },
-    {
-      "title": "Barry Manilow Announces 6 New 2026 Concerts After Undergoing Surgery for Lung\u00a0Cancer",
-      "link": "https://www.billboard.com/music/music-news/barry-manilow-lung-cancer-surgery-more-show-dates-announced-1236153959/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-13 15:28",
-      "summary": "The performances are set to take place in March."
-    },
-    {
-      "title": "Converge share new album closer \u201cWe Were Never The Same\u201d",
-      "link": "https://www.brooklynvegan.com/converge-share-new-album-closer-we-were-never-the-same/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-13 15:20",
-      "summary": "Having previously shared the new album&#8217;s excellent first song, now we get to hear its last song."
-    },
-    {
-      "title": "Five Finger Death Punch Announce Huge 2026 Tour",
-      "link": "https://loudwire.com/five-finger-death-punch-2026-tour-2/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-13 15:20",
-      "summary": "Per Ole Hagen, Getty Images / Live Nation"
-    },
-    {
-      "title": "BTS Unveil Highly-Anticipated Comeback World Tour Dates",
-      "link": "https://www.rollingstone.com/music/music-news/bts-2026-comeback-stadium-tour-1235498726/",
+      "title": "Bill Kreutzmann Honors Bob Weir: \u2018I Just Hope He Was Able to Bring His Guitar With Him\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/bill-kreutzmann-bob-weir-tribute-1235499445/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-01-13 15:14",
-      "summary": "The latest musical release from the supergroup is scheduled to arrive on March 20"
+      "published": "2026-01-14 17:08",
+      "summary": "\"There are so many people who can rightfully say that their life would not have been the same without Bob Weir,\" the drummer wrote. \"That\u2019s been true for me since I was 17\""
     },
     {
-      "title": "Deathcrash announce new album \u2018Somersaults\u2019 & Night Club 101 show, share title track",
-      "link": "https://www.brooklynvegan.com/deathcrash-announce-new-album-somersaults-night-club-101-show-share-title-track/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-13 15:05",
-      "summary": "The London slowcore torch-carriers sound bolder than ever on new single \u201dSomersaults.\u201d"
-    },
-    {
-      "title": "James Taylor Announces 2026 Tour Dates",
-      "link": "https://consequence.net/2026/01/james-taylor-announces-2026-tour-dates/",
+      "title": "Robyn Says She Hated Elon Musk \u201cWay Before It Was Cool\u201d",
+      "link": "https://consequence.net/2026/01/robyn-elon-musk-jeff-bezos-comments/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-01-13 15:00",
-      "summary": "The 29-date trek kicks off in April\nJames Taylor Announces 2026 Tour Dates\nTrey Alston"
+      "published": "2026-01-14 17:06",
+      "summary": "The pop queen also directed her ire at Jeff Bezos for participating in the billionaire space race.\nRobyn Says She Hated Elon Musk &#8220;Way Before It Was Cool&#8221;\nEddie Fu"
     },
     {
-      "title": "BTS announce cities and dates for huge 2026-2027 world tour",
-      "link": "https://www.nme.com/news/music/bts-tour-2026-2027-cities-where-tickets-3922904?utm_source=rss&utm_medium=rss&utm_campaign=bts-tour-2026-2027-cities-where-tickets",
-      "source": "NME",
+      "title": "Anderson .Paak Reveals First Trailer for Directorial Debut K-Pops!: Watch",
+      "link": "https://consequence.net/2026/01/k-pops-trailer-anderson-paak/",
+      "source": "Consequence",
       "category": "general",
-      "published": "2026-01-13 15:00",
-      "summary": "\nFans will see the K-pop band perform on a 360-degree, in-the-round stage at the shows\nThe post BTS announce cities and dates for huge 2026-2027 world tour appeared first on NME."
+      "published": "2026-01-14 17:00",
+      "summary": "The film follows a washed-up musician who attempts to reinvigorate his career by joining the house band of a K-Pop competition show in Seoul.\nAnderson .Paak Reveals First Trailer for Directorial Debut..."
     },
     {
-      "title": "Mariachi El Bronx ride again",
-      "link": "https://www.altpress.com/mariachi-el-bronx-mariachi-el-bronx-iv-interview/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-01-13 15:00",
-      "summary": "The band will celebrate their first album in 12 years with a livestreamed release show on Veeps."
+      "title": "Watch Paul McCartney in Trailer for \u2018Man on the Run\u2019 Documentary: \u2018When We Started Wings, It Was About\u00a0Freedom\u2019",
+      "link": "https://www.billboard.com/music/rock/paul-mccartney-man-on-the-run-trailer-wings-documentary-1236154648/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-14 17:00",
+      "summary": "Here's how to watch the Morgan Neville-directed documentary."
     },
     {
-      "title": "sunn O))) announce first album for Sub Pop & tour, share \u201cGlory Black\u201d",
-      "link": "https://www.brooklynvegan.com/sunn-o-announce-first-album-for-sub-pop-tour-share-glory-black/",
+      "title": "\u2018Sinners\u2019 Leads Nominations for 2026 Guild of Music Supervisors Awards: Full\u00a0List",
+      "link": "https://www.billboard.com/lists/2026-guild-music-supervisors-awards-nominations-list/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-14 17:00",
+      "summary": "The show is set for Feb. 28 at the Wiltern Theatre in L.A."
+    },
+    {
+      "title": "Arca, Nourished by Time, Los Thuthanaka, aya & more playing C2C Festival 2026 at Knockdown Center",
+      "link": "https://www.brooklynvegan.com/arca-nourished-by-time-los-thuthanaka-aya-more-playing-c2c-festival-2026-at-knockdown-center/",
       "source": "Brooklyn Vegan",
       "category": "general",
-      "published": "2026-01-13 14:57",
-      "summary": "sunn O)))&#8217;s new self-titled album will be out April 3 via Sub Pop"
+      "published": "2026-01-14 17:00",
+      "summary": "The lineup also features Avalon Emerson &#038; The Charm, Iceage\u2019s Elias R\u00f8nnenfelt, YHWH Nailgun, and more."
+    },
+    {
+      "title": "d\u00e4lek announce new album \u2018Brilliance of a Falling Moon,\u2019 share \u201cBetter Than\u201d",
+      "link": "https://www.brooklynvegan.com/dalek-announce-new-album-brilliance-of-a-falling-moon-share-better-than/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-14 16:58",
+      "summary": "The industrial rap vets preview their new album with a powerful new single."
+    },
+    {
+      "title": "Souled American announce first album in 30 years, touring: hear \u201cBoom Boom\u201d",
+      "link": "https://www.brooklynvegan.com/souled-american-announce-first-album-in-30-years-touring-hear-boom-boom/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-14 16:46",
+      "summary": "Chicago country cult legends Souled American will release their seventh album, &#8216;Sanctions,&#8217; on April 17."
+    },
+    {
+      "title": "Avatar Announce Spring 2026 US Tour",
+      "link": "https://consequence.net/2026/01/avatar-announce-spring-2026-us-tour/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-14 16:44",
+      "summary": "With support from Fleshgod Apocalypse and Frozen Soul.\nAvatar Announce Spring 2026 US Tour\nJon Hadusek"
+    },
+    {
+      "title": "Zendaya and Friends Are All Grown Up in Euphoria Season 3 Trailer: Watch",
+      "link": "https://consequence.net/2026/01/euphoria-season-3-trailer-zendaya-hbo/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-14 16:29",
+      "summary": "The Emmy-winning drama returns this April on HBO and HBO Max, with ROSAL\u00cdA guest-starring. \nZendaya and Friends Are All Grown Up in Euphoria Season 3 Trailer: Watch\nLiz Shannon Miller"
+    },
+    {
+      "title": "Playboi Carti, YoungBoy Never Broke Again & Don Toliver to Headline Rolling Loud 2026 in\u00a0Orlando",
+      "link": "https://www.billboard.com/music/rb-hip-hop/playboi-carti-nba-youngboy-don-toliver-rolling-loud-2026-1236154827/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-14 16:27",
+      "summary": "The stacked three-day festival is set for May 8 through May 10 at Camping World Stadium."
+    },
+    {
+      "title": "Rock Fest Reveals 2026 Lineup with Gojira, Limp Bizkit, and The Offspring",
+      "link": "https://consequence.net/2026/01/rock-fest-2026-lineup-gojira-limp-bizkit-offspring/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-14 16:24",
+      "summary": "The Wisconsin festival also boats Body Count, Halestorm, Insane Clown Posse, The Pretty Reckless, and more.\nRock Fest Reveals 2026 Lineup with Gojira, Limp Bizkit, and The Offspring\nSpencer Kaufman"
+    },
+    {
+      "title": "The Academy Is\u2026 announce first album in 18 years",
+      "link": "https://www.altpress.com/the-academy-is-2005-video-watch/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-01-14 16:23",
+      "summary": "Almost There is a reflection on the growth the band\u2019s had since their debut LP, Almost Here."
+    },
+    {
+      "title": "John Mellencamp Announces 2026 \u201cDancing Words\u201d Greatest Hits Tour",
+      "link": "https://consequence.net/2026/01/john-mellencamp-2026-tour-dates-greatest-hits/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-14 16:19",
+      "summary": "The 19-city US trek will stop in Kansas City, Cincinnati, Tampa, Houston, and Phoenix.\nJohn Mellencamp Announces 2026 &#8220;Dancing Words&#8221; Greatest Hits Tour\nEddie Fu"
+    },
+    {
+      "title": "WU LYF share new 11-minute song, announce North American tour",
+      "link": "https://www.brooklynvegan.com/wu-lyf-share-new-11-minute-song-announce-north-american-tour/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-14 16:19",
+      "summary": "The recently-reunited WU LYF sound as hungry in 2026 as they were 15 years ago."
+    },
+    {
+      "title": "BLACKPINK Announce New Mini Album DEADLINE",
+      "link": "https://consequence.net/2026/01/blackpink-deadline-mini-album/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-14 16:18",
+      "summary": "BLACKPINK's first project since their 2022 sophomore album will arrive on February 27th.\nBLACKPINK Announce New Mini Album DEADLINE\nPaolo Ragusa"
+    },
+    {
+      "title": "Robyn Says She Hated Elon Musk \u2018Before It Was Cool,\u2019 Reveals the Moment She Knew He Was \u2018Tacky\u2019",
+      "link": "https://www.billboard.com/music/music-news/robyn-slams-elon-musk-tacky-always-hated-him-1236154791/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-14 16:15",
+      "summary": "Moral of the story: Don't mess with David Bowie."
+    },
+    {
+      "title": "trauma ray Announce New EP, Unveil Single \u201cHannibal\u201d: Stream",
+      "link": "https://consequence.net/2026/01/trauma-ray-carnival-ep-hannibal-stream/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-14 16:11",
+      "summary": "The five-song release arrives February 20th via Dais Records.\ntrauma ray Announce New EP, Unveil Single &#8220;Hannibal&#8221;: Stream\nJon Hadusek"
+    },
+    {
+      "title": "Cut Worms announces new Jeff Tweedy-produced album & tour: hear \u201cWindows on the World\u201d",
+      "link": "https://www.brooklynvegan.com/cut-worms-announces-new-jeff-tweedy-produced-album-tour-hear-windows-on-the-world/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-14 16:10",
+      "summary": "&#8216;Transmitter&#8217; is out March 13"
+    },
+    {
+      "title": "Andreea Gleeson Shifts From TuneCore CEO to Believe Strategic Advisor: \u2018My Belief in This Company Is Unwavering\u2019",
+      "link": "https://www.billboard.com/pro/andreea-gleeson-steps-down-tunecore-ceo-believe-advisor/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-14 16:09",
+      "summary": "TuneCore leadership will now shift to CRO Brian Miller and CTPO Luxi Huang, overseen by Romain Vivien, Believe's global head of music."
+    },
+    {
+      "title": "Rolling Loud 2026: Playboi Carti, YoungBoy, Don Toliver to Headline",
+      "link": "https://pitchfork.com/news/rolling-loud-2026-playboi-carti-youngboy-don-toliver/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-01-14 16:08",
+      "summary": "It\u2019s Carti\u2019s sixth time headlining the fest"
+    },
+    {
+      "title": "Peter Criss Shuts Down Gene Simmons\u2019 Claim About the KISS Classic \u2018Beth\u2019: \u2018He Talks About Things He Doesn\u2019t Know\u00a0About\u2019",
+      "link": "https://www.billboard.com/music/rock/kiss-beth-peter-criss-songwriting-interview-1236154613/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-14 16:06",
+      "summary": "The Catman is biting back."
+    },
+    {
+      "title": "Romanticizing the \u2018Old Days\u2019 of Music Discovery Through AlphaTheta\u2019s First Apparel\u00a0Collection",
+      "link": "https://www.billboard.com/culture/lifestyle/alphatheta-first-apparel-collection-flex-trade-fade-1236154794/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-14 16:01",
+      "summary": "For Entry 011 of Flex, Trade or Fade, Chris Claxton breaks down how AlphaTheta\u2019s first apparel collection is rooted in music discovery and DJ culture."
+    },
+    {
+      "title": "Kim Gordon Asks \u2018Where\u2019s My Gum, Postmate?\u2019 on New Song, \u2018Not Today\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/kim-gordon-not-today-play-me-1235499324/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-14 16:00",
+      "summary": "Song features on former Sonic Youth member's upcoming Play Me album, out this spring"
+    },
+    {
+      "title": "The Academy Is\u2026 Returns With First New Album in Nearly 20 Years",
+      "link": "https://www.rollingstone.com/music/music-news/the-academy-is-new-album-almost-there-announcement-1235499138/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-14 16:00",
+      "summary": "The LP, titled Almost There, is a nod back to the band's 2005 debut and kicks off with single \"2005\""
+    },
+    {
+      "title": "Artist Manager Adam \u2018Ash\u2019 Harrison Launches Record Label Via\u00a010K/Atlantic",
+      "link": "https://www.billboard.com/pro/big-boi-chromeo-manager-adam-harrison-label-10k-atlantic/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-14 16:00",
+      "summary": "The Full Stop vet, who manages acts such as Fitz and the Tantrums and Big Boi, signed Easy Honey as the label's first artist."
+    },
+    {
+      "title": "ELUCID announces new album \u2018I Guess U Had To Be There\u2019 with Sebb Bash, shares \u201cFirst Light\u201d",
+      "link": "https://www.brooklynvegan.com/elucid-announces-new-album-i-guess-u-had-to-be-there-with-sebb-bash-shares-first-light/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-14 16:00",
+      "summary": "ELUCID is also playing some shows with DJ Haram this February."
+    },
+    {
+      "title": "Fans gather as Kneecap return to court with CPS looking to overturn terror case dismissal",
+      "link": "https://www.nme.com/news/music/fans-gather-as-kneecap-return-to-court-with-cps-looking-to-overturn-terror-case-dismissal-3923139?utm_source=rss&utm_medium=rss&utm_campaign=fans-gather-as-kneecap-return-to-court-with-cps-looking-to-overturn-terror-case-dismissal",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-14 15:57",
+      "summary": "\nThe hearing is set to conclude later today (January 14)\nThe post Fans gather as Kneecap return to court with CPS looking to overturn terror case dismissal appeared first on NME."
+    },
+    {
+      "title": "Is Sienna Rose AI? All Signs Point to \u2018Yes\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/sienna-rose-ai-artist-real-1235499068/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-14 15:54",
+      "summary": "Deezer confirms most of the mysterious artist\u2019s songs and albums have been flagged as AI"
+    },
+    {
+      "title": "BLACKPINK Is Returning With Its 3rd Mini Album \u2014 and It\u2019s Coming\u00a0Soon!",
+      "link": "https://www.billboard.com/music/music-news/blackpink-new-album-deadline-release-date-1236154808/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-14 15:50",
+      "summary": "The wait is almost over, BLINKs!"
+    },
+    {
+      "title": "Rolling Loud Unveils 2026 Lineup with Playboi Carti, NBA YoungBoy, and Don Toliver",
+      "link": "https://consequence.net/2026/01/rolling-loud-2026-lineup/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-14 15:43",
+      "summary": "The annual hip-hop festival goes down May 8th to May 10th in Orlando.\nRolling Loud Unveils 2026 Lineup with Playboi Carti, NBA YoungBoy, and Don Toliver\nPaolo Ragusa"
+    },
+    {
+      "title": "Ivan Moody Addresses Motograter Reunion Rumors in Video Statement",
+      "link": "https://loudwire.com/ivan-moody-motograter-reunion-rumors-statement/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-14 15:40",
+      "summary": "Gary Miller, Getty Images"
+    },
+    {
+      "title": "Kim Gordon channels an old voice on \u201cNOT TODAY\u201d",
+      "link": "https://www.altpress.com/kim-gordon-not-today-video-watch/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-01-14 15:39",
+      "summary": "\u201cI started singing in a way I hadn\u2019t sung in a long time,\u201d she says of the lead single from her forthcoming LP, PLAY ME."
+    },
+    {
+      "title": "Flea announces debut solo album & tour, shares \u201cTraffic Lights\u201d ft Thom Yorke",
+      "link": "https://www.brooklynvegan.com/flea-announces-debut-solo-album-tour-shares-traffic-lights-ft-thom-yorke/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-14 15:29",
+      "summary": "&#8216;Honora&#8217; is out March 27 and also features Nick Cave, Jeff Parker, Mauro Refosco, and more."
+    },
+    {
+      "title": "Ariana Grande and Jonathan Bailey Will Star in \u2018Sunday in the Park With George\u2019\u00a0Revival",
+      "link": "https://www.rollingstone.com/music/music-news/ariana-grande-jonathan-bailey-sunday-in-the-park-revival-1235499334/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-14 15:23",
+      "summary": "The Wicked co-stars will portray Dot and George, respectively, when the production premieres in London's West End"
+    },
+    {
+      "title": "Metallica Almost Done Finalizing Sphere Residency - Report",
+      "link": "https://loudwire.com/metallica-almost-done-las-vegas-sphere-residency-deal/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-14 15:23",
+      "summary": "Christian Petersen, Getty Images / Mark Thompson, Getty Images"
+    },
+    {
+      "title": "Rolling Loud 2026 US lineup: Playboi Carti, Don Toliver, NBA YoungBoy, Sexyy Red, Chief Keef, Che & more",
+      "link": "https://www.brooklynvegan.com/rolling-loud-2026-us-lineup-playboi-carti-don-toliver-nba-youngboy-sexyy-red-chief-keef-che-more/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-14 15:21",
+      "summary": "Playboi Carti, Don Toliver, and NBA YoungBoy are headlining the only US edition of Rolling Loud in 2026."
+    },
+    {
+      "title": "Flea Announces New Album Honora, Reveals \u201cTraffic Lights\u201d with Thom Yorke: Stream",
+      "link": "https://consequence.net/2026/01/flea-honora-traffic-lights-2026-tour-dates/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-14 15:05",
+      "summary": "The Red Hot Chili Peppers bassist has also announced tour dates in support of the album.\nFlea Announces New Album Honora, Reveals &#8220;Traffic Lights&#8221; with Thom Yorke: Stream\nTrey Alston"
+    },
+    {
+      "title": "Aldous Harding announces first North American tour in 4 years",
+      "link": "https://www.brooklynvegan.com/aldous-harding-announces-first-north-american-tour-in-4-years/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-14 15:04",
+      "summary": "Aldous is also putting the finishing touches on her fifth studio album and first since 2022&#8217;s &#8216;Warm Chris.&#8217;"
+    },
+    {
+      "title": "Flea Shares 'Honora' Album Details, New Single + 2026 Solo Tour",
+      "link": "https://loudwire.com/flea-solo-tour-album-2026/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-14 15:04",
+      "summary": "Nonesuch Records / Ethan Miller, Getty Images"
+    },
+    {
+      "title": "Kim Gordon Announces New Album Play Me",
+      "link": "https://pitchfork.com/news/kim-gordon-announces-new-album-play-me/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-01-14 15:02",
+      "summary": "Rodarte founders Kate and Laura Mulleavy directed the video for lead single \u201cNot Today\u201d"
+    },
+    {
+      "title": "Keith Richards and Gibson Unveil 1960 ES-355 Collector\u2019s Edition Signature Model Guitar",
+      "link": "https://consequence.net/2026/01/gibson-keith-richards-1960-es-355-collectors-edition-signature-model-guitar/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-14 15:02",
+      "summary": "Limited to 150 worldwide.\nKeith Richards and Gibson Unveil 1960 ES-355 Collector\u2019s Edition Signature Model Guitar\nJon Hadusek"
+    },
+    {
+      "title": "Red Hot Chili Peppers\u2019 Flea announces debut solo album \u2018Honora\u2019 \u2013 featuring Nick Cave and Thom Yorke \u2013 along with intimate North American, UK and European tour",
+      "link": "https://www.nme.com/news/music/red-hot-chili-peppers-flea-announces-debut-solo-album-honora-featuring-nick-cave-and-thom-yorke-along-with-intimate-north-american-uk-and-european-tour-3923134?utm_source=rss&utm_medium=rss&utm_campaign=red-hot-chili-peppers-flea-announces-debut-solo-album-honora-featuring-nick-cave-and-thom-yorke-along-with-intimate-north-american-uk-and-european-tour",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-14 15:01",
+      "summary": "\nNew single 'Traffic Lights\u2019, co-written with Radiohead frontman Yorke, is \"about living in the \u2018upside down\u2019\" \nThe post Red Hot Chili Peppers&#8217; Flea announces debut solo album &#8216;Honora&#821..."
     }
   ],
-  "last_updated": "2026-01-13T17:30:19.767415"
+  "last_updated": "2026-01-14T17:31:24.650714"
 }

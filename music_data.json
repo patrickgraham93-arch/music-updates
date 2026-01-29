@@ -1,6 +1,16 @@
 {
   "hiphop": [
     {
+      "name": "I Did This To Myself",
+      "artists": "Thundercat, Lil Yachty",
+      "release_date": "2026-01-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739f879e4fa14a0723f87df434",
+      "spotify_url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM",
+      "apple_music_url": "https://music.apple.com/us/search?term=I%20Did%20This%20To%20Myself%20Thundercat",
+      "total_tracks": 3,
+      "album_type": "single"
+    },
+    {
       "name": "Amnesia",
       "artists": "S\u00e9bastien Tellier, Kid Cudi",
       "release_date": "2026-01-28",
@@ -131,22 +141,22 @@
       "album_type": "single"
     },
     {
-      "name": "P.O",
-      "artists": "IDK, Black Thought",
-      "release_date": "2026-01-22",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b0617e016bede731a4148f68",
-      "spotify_url": "https://open.spotify.com/album/1k5S2qY0AEwD2jZ0UsHbhK",
-      "apple_music_url": "https://music.apple.com/us/search?term=P.O%20IDK",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "SCRAMBLED EGGS - TBC :(",
       "artists": "IDK, Ogi, Conductor Williams",
       "release_date": "2026-01-22",
       "image": "https://i.scdn.co/image/ab67616d0000b2736b187545aa83d8e8a1900338",
       "spotify_url": "https://open.spotify.com/album/5mf6IGoybyGkyQjqdqkZiE",
       "apple_music_url": "https://music.apple.com/us/search?term=SCRAMBLED%20EGGS%20-%20TBC%20%3A%28%20IDK",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "P.O",
+      "artists": "IDK, Black Thought",
+      "release_date": "2026-01-22",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b0617e016bede731a4148f68",
+      "spotify_url": "https://open.spotify.com/album/1k5S2qY0AEwD2jZ0UsHbhK",
+      "apple_music_url": "https://music.apple.com/us/search?term=P.O%20IDK",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -181,16 +191,6 @@
       "album_type": "single"
     },
     {
-      "name": "e.t.d.s. A Mixtape by .idk.",
-      "artists": "IDK",
-      "release_date": "2026-01-22",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ee1e5004c3ef4957c6a0859",
-      "spotify_url": "https://open.spotify.com/album/40BBHgV4qSbyBcPpSoa9Wf",
-      "apple_music_url": "https://music.apple.com/us/search?term=e.t.d.s.%20A%20Mixtape%20by%20.idk.%20IDK",
-      "total_tracks": 15,
-      "album_type": "album"
-    },
-    {
       "name": "Don't Be Dumb",
       "artists": "A$AP Rocky",
       "release_date": "2026-01-21",
@@ -206,7 +206,7 @@
       "release_date": "2026-01-18",
       "image": "https://i.scdn.co/image/ab67616d0000b2734b4019f6b27b37d6b47af6b9",
       "spotify_url": "https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa",
-      "apple_music_url": "https://music.apple.com/us/album/let-em-know-single/1870680328?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=LET%20%27EM%20KNOW%20T.I.",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -276,7 +276,7 @@
       "release_date": "2026-01-16",
       "image": "https://i.scdn.co/image/ab67616d0000b2734a32f2992163461b2cd3b7de",
       "spotify_url": "https://open.spotify.com/album/5kTFAxmZ6wNljlyAkXvSYC",
-      "apple_music_url": "https://music.apple.com/us/album/fake-jeezy-single/1868809496?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Fake%20Jeezy%20Maxo%20Kream",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -471,6 +471,16 @@
       "album_type": "single"
     },
     {
+      "name": "Metro Wave",
+      "artists": "French Montana, Max B, Metro Boomin",
+      "release_date": "2026-01-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b273237dabb73129fe07c1c5f333",
+      "spotify_url": "https://open.spotify.com/album/1ylbJkuFNB4jTHnqwYzKBo",
+      "apple_music_url": "https://music.apple.com/us/search?term=Metro%20Wave%20French%20Montana",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "PUNK ROCKY",
       "artists": "A$AP Rocky",
       "release_date": "2026-01-05",
@@ -606,7 +616,7 @@
       "release_date": "2025-12-19",
       "image": "https://i.scdn.co/image/ab67616d0000b273eb4726a7b7349b9d7caef459",
       "spotify_url": "https://open.spotify.com/album/39voM6TwNAHV12EJ2lAAnl",
-      "apple_music_url": "https://music.apple.com/us/album/paper-low-single/1860506439?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=PAPER%20LOW%20DaBaby",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -636,7 +646,7 @@
       "release_date": "2025-12-19",
       "image": "https://i.scdn.co/image/ab67616d0000b27354f610a4a9efab080898659c",
       "spotify_url": "https://open.spotify.com/album/79jFdDfUqi0okViaaEyoDM",
-      "apple_music_url": "https://music.apple.com/us/album/touch-the-ground-single/1862641647?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Touch%20The%20Ground%20STAR%20BANDZ",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -951,22 +961,22 @@
       "album_type": "album"
     },
     {
-      "name": "44 Bars",
-      "artists": "Ludacris",
-      "release_date": "2025-12-05",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dc13064829d7feeba61ddb92",
-      "spotify_url": "https://open.spotify.com/album/1Kd1W0uSpaJuRUrbBvoa2D",
-      "apple_music_url": "https://music.apple.com/us/search?term=44%20Bars%20Ludacris",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "who knew (with Lil Yachty)",
       "artists": "Jesse Jo Stark, Lil Yachty",
       "release_date": "2025-12-05",
       "image": "https://i.scdn.co/image/ab67616d0000b27326cff1c05403c05bf0df72e4",
       "spotify_url": "https://open.spotify.com/album/6z0g4QJdR51U2LvR2tgxF4",
       "apple_music_url": "https://music.apple.com/us/search?term=who%20knew%20%28with%20Lil%20Yachty%29%20Jesse%20Jo%20Stark",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "44 Bars",
+      "artists": "Ludacris",
+      "release_date": "2025-12-05",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc13064829d7feeba61ddb92",
+      "spotify_url": "https://open.spotify.com/album/1Kd1W0uSpaJuRUrbBvoa2D",
+      "apple_music_url": "https://music.apple.com/us/search?term=44%20Bars%20Ludacris",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1085,405 +1095,405 @@
   ],
   "news": [
     {
-      "title": "Laura Jane Grace, Ekko Astral, and Illuminati Hotties to Headline Liberation Weekend II",
-      "link": "https://pitchfork.com/news/liberation-weekend-ii-lineup-laura-jane-grace-ekko-astral-illuminati-hotties/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-28 17:33",
-      "summary": "The D.C. festival supporting trans liberation and mutual aid returns in April"
-    },
-    {
-      "title": "Paradise Season 2 Trailer Teases New Apocalyptic Secrets and Dangers: Watch",
-      "link": "https://consequence.net/2026/01/paradise-season-2-trailer-sterling-k-brown/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-28 17:32",
-      "summary": "The Emmy-nominated drama returns to Hulu on February 23rd.\nParadise Season 2 Trailer Teases New Apocalyptic Secrets and Dangers: Watch\nLiz Shannon Miller"
-    },
-    {
-      "title": "Bruce Springsteen Releases New Song \u201cStreets of Minneapolis\u201d: Stream",
-      "link": "https://consequence.net/2026/01/bruce-springsteen-streets-of-minneapolis/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-28 17:30",
-      "summary": "The song details the clash between ICE and protestors and lionizes the deaths of Renee Good and Alex Pretti.\nBruce Springsteen Releases New Song &#8220;Streets of Minneapolis&#8221;: Stream\nWren Grave..."
-    },
-    {
-      "title": "Mrs. GREEN APPLE\u2019s \u2018lulu.\u2019 Holds for Second Week at No. 1 as Mr.Children\u2019s \u2018Again\u2019 Debuts at No. 9 on Japan Hot\u00a0100",
-      "link": "https://www.billboard.com/music/chart-beat/mrs-green-apple-lulu-second-week-number-1-japan-hot-100-1236165539/",
+      "title": "Zayn Cheekily Jokes About Expensive Concert Ticket Prices at Las Vegas Residency Show: \u2018Just\u00a0Sayin\u201d",
+      "link": "https://www.billboard.com/music/pop/zayn-jokes-expensive-concerts-harry-styles-ticket-prices-1236166359/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-01-28 17:29",
-      "summary": "Kenshi Yonezu\u2019s \u201cIRIS OUT\u201d also holds at No. 2."
+      "published": "2026-01-29 17:33",
+      "summary": "Zayn has zingers."
     },
     {
-      "title": "Ella Langley\u2019s \u2018Choosin\u2019 Texas\u2019 Tops Streaming Songs\u00a0Chart",
-      "link": "https://www.billboard.com/pro/ella-langley-choosin-texas-number-1-streaming-songs-chart/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-28 17:28",
-      "summary": "The tune joins a select group of hits by women in country to reign."
-    },
-    {
-      "title": "Ray J Says \u201c2027 Is Definitely a Wrap\u201d Amid Heart Issues",
-      "link": "https://consequence.net/2026/01/ray-j-health-update-wont-live-2027/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-28 17:26",
-      "summary": "The singer and actor was recently hospitalized for pneumonia and heart pains.\nRay J Says &#8220;2027 Is Definitely a Wrap&#8221; Amid Heart Issues\nEddie Fu"
-    },
-    {
-      "title": "Movement Festival announces full 2026 lineup",
-      "link": "https://www.brooklynvegan.com/movement-festival-announces-full-2026-lineup/",
+      "title": "My Morning Jacket release acoustic album of \u201cpeaceful protest songs\u201d for charity",
+      "link": "https://www.brooklynvegan.com/my-morning-jacket-release-acoustic-album-of-peaceful-protest-songs-for-charity/",
       "source": "Brooklyn Vegan",
       "category": "general",
-      "published": "2026-01-28 17:26",
-      "summary": "2026 marks the 20th anniversary of the Detroit techno and electronic music festival and it happens over Memorial Day Weekend."
+      "published": "2026-01-29 17:33",
+      "summary": "&#8216;Peacelands&#8217; features songs by Lou Reed, Bob Dylan, Brian Wilson and more and benefits the ALCU, Doctors Without Borders and International Rescue."
     },
     {
-      "title": "ROS\u00c9 Tears Up While Addressing Her Relationship Status & \u2018Toxic\u2019 Ex-Boyfriends",
-      "link": "https://www.billboard.com/music/music-news/blackpink-rose-relationship-status-toxic-ex-boyfriends-1236165373/",
+      "title": "Jessie Ware announces new album \u2018Superbloom\u2019",
+      "link": "https://www.brooklynvegan.com/jessie-ware-announces-new-album-superbloom/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-29 17:33",
+      "summary": "\u201dWhile I love dance music, I wanted to dig deeper with this record,\u201d Ware says, \u201dto connect with real relationships and appreciate the love I have, and the fears I have of losing it.\u201d"
+    },
+    {
+      "title": "Wolf Alice Joins Harry Styles & Olivia Dean as Performers at 2026 BRIT\u00a0Awards",
+      "link": "https://www.billboard.com/music/awards/harry-styles-brit-awards-2026-performer-1236165331/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-01-28 17:18",
-      "summary": "The BLACKPINK singer opened up about her love life on Call Her Daddy."
+      "published": "2026-01-29 17:31",
+      "summary": "The ceremony will be held at Manchester's Co-op Live arena in February."
     },
     {
-      "title": "Tyler, The Creator Slams ICE & \u2018Anyone That Voted for\u2019 Donald Trump With \u2018Paid in Full\u2019\u00a0Scene",
-      "link": "https://www.billboard.com/music/rb-hip-hop/tyler-the-creator-slams-ice-donald-trump-voters-paid-in-full-1236165353/",
+      "title": "\u2018Kingdom\u2019 Vol. 78 Hits No. 1, \u2018Medalist\u2019 Follows at No. 2 on Billboard Japan Book Hot\u00a0100",
+      "link": "https://www.billboard.com/music/chart-beat/kingdom-vol-78-billboard-japan-book-hot-100-1236166802/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-01-28 17:10",
-      "summary": "He previously spoke out against U.S. Immigration and Customs Enforcement\u00a0following the L.A. protests in June."
+      "published": "2026-01-29 17:30",
+      "summary": "EBiDAN Visual Dictionary 2026 follows at No. 3."
     },
     {
-      "title": "Orlando Magic Arena Employee Blames Ghost for Hexing Team: \u201cSuper Satanic Vibes\u201d",
-      "link": "https://consequence.net/2026/01/orlando-magic-ghost-hexed-team-curse/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-28 17:04",
-      "summary": "The NBA team has gone winless since Ghost played the Kia Center.\nOrlando Magic Arena Employee Blames Ghost for Hexing Team: &#8220;Super Satanic Vibes&#8221;\nJon Hadusek"
-    },
-    {
-      "title": "After Surviving Personal Tumult, Cannons Return With \u2018Everything Glows\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/cannons-everything-glows-album-starlight-1235505366/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-28 17:00",
-      "summary": "Synth-pop trio will preview fifth album, due this spring, with new song \"Starlight\" this week"
-    },
-    {
-      "title": "Boardmasters Festival Announces Lily Allen as Final 2026\u00a0Headliner",
-      "link": "https://www.billboard.com/music/music-news/boardmasters-2026-festival-line-up-headliners-lily-allen-1236165162/",
+      "title": "\u2018Fully Vindicated\u2019: M\u00f6tley Cr\u00fce Wins Victory In Legal Battle With Guitarist Mick\u00a0Mars",
+      "link": "https://www.billboard.com/pro/motley-crue-wins-legal-battle-mick-mars/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-01-28 17:00",
-      "summary": "The British artist is set to perform her dazzling West End Girl LP at the event."
+      "published": "2026-01-29 17:28",
+      "summary": "Mars says Nikki Sixx, Tommy Lee and Vince Neil unfairly fired him and stopped paying over a chronic illness, but a ruling now says they did nothing wrong."
     },
     {
-      "title": "Justin Bieber to Perform at 2026 Grammy\u00a0Awards",
-      "link": "https://www.billboard.com/music/awards/justin-bieber-2026-grammy-awards-performer-1236165385/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-28 17:00",
-      "summary": "The pop star has long been a favorite of Grammy voters, with 27 nominations since the 2011 ceremony."
-    },
-    {
-      "title": "The Maine unveil new era with \u201cDie To Fall\u201d",
-      "link": "https://www.altpress.com/the-maine-die-to-fall-video-watch/",
+      "title": "See Holly Humberstone play \u201cTo Love Somebody\u201d on The Tonight Show",
+      "link": "https://www.altpress.com/holly-humberstone-to-love-somebody-the-tonight-show-video-watch/",
       "source": "Alternative Press",
       "category": "rock",
-      "published": "2026-01-28 17:00",
-      "summary": "The single is the first from their 10th full-length, Joy Next Door."
+      "published": "2026-01-29 17:28",
+      "summary": "The performance follows the news of her sophomore LP, Cruel World."
     },
     {
-      "title": "Ekko Astral announces \u2018Liberation Weekend II\u2019 w/ Laura Jane Grace, Illuminati Hotties, Snowing, Gladie, more",
-      "link": "https://www.brooklynvegan.com/ekko-astral-announces-liberation-weekend-ii-w-laura-jane-grace-illuminati-hotties-snowing-gladie-more/",
+      "title": "Thundercat Announces New Album Distracted",
+      "link": "https://pitchfork.com/news/thundercat-announces-new-album-distracted/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-01-29 17:27",
+      "summary": "Listen to lead single \u201cI Did This To Myself\u201d featuring Lil Yachty now"
+    },
+    {
+      "title": "Tom Misch Announces First Solo LP in 8 Years, Cites Mental Health for Hiatus: \u2018It\u2019s Very Vulnerable &\u00a0Personal\u2019",
+      "link": "https://www.billboard.com/music/pop/tom-misch-new-album-full-circle-release-date-1236166616/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-29 17:27",
+      "summary": "His debut album, Geography, featured contributions from De La Soul and Loyle Carner."
+    },
+    {
+      "title": "Horst Arts and Music Festival 2026 lineup: Gilles Peterson, Daphni and more",
+      "link": "https://www.thefader.com/2026/01/29/horst-arts-and-music-festival-2026-lineup-announcement-gilles-peterson-daphni",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-01-29 17:21",
+      "summary": "The festival returns to Asiat Park in Vilvoorde, Belgium, in May and features dance music legends and newcomers alike."
+    },
+    {
+      "title": "Thundercat announces new LP ft. Tame Impala, A$AP Rocky & more, shares \u201cI Did This To Myself\u201d ft. Lil Yachty",
+      "link": "https://www.brooklynvegan.com/thundercat-announces-new-lp-ft-tame-impala-aap-rocky-more-shares-i-did-this-to-myself-ft-lil-yachty/",
       "source": "Brooklyn Vegan",
       "category": "general",
-      "published": "2026-01-28 16:59",
-      "summary": "A sequel to last year&#8217;s festival benefitting trans liberation and mutual aid, Liberation Weekend II happens April 24-26 in Washington, DC"
+      "published": "2026-01-29 17:06",
+      "summary": "\u2019Distracted,\u2019 Thundercat\u2019s first album since 202, also features Willow, Channel Tres, and the late Mac Miller."
     },
     {
-      "title": "MSPAINT vocalist Deedee announces debut LP as Him Horrison, shares \u201cCrystalized\u201d",
-      "link": "https://www.brooklynvegan.com/mspaint-vocalist-deedee-announces-debut-lp-as-him-horrison-shares-crystalized/",
-      "source": "Brooklyn Vegan",
+      "title": "Suno Hires Former Patreon Music Chief Sam Berger to Key Role on Artist Partnerships\u00a0Team",
+      "link": "https://www.billboard.com/pro/ai-music-company-suno-hires-sam-berger-artist-partnerships/",
+      "source": "Billboard",
       "category": "general",
-      "published": "2026-01-28 16:58",
-      "summary": "\u201dI wanted to revisit Him Horrison after some years of not feeling attached to it,\u201d Deedee says."
+      "published": "2026-01-29 17:05",
+      "summary": "Reporting directly to chief music officer Paul Sinclair, Berger joins a team that also includes CJ Smith, Athena Yasaman and Leanna Bremond."
     },
     {
-      "title": "The Best Song Off Every Megadeth Album",
-      "link": "https://loudwire.com/best-megadeth-song-every-album/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-28 16:55",
-      "summary": "Paul Natkin, Getty Images / Combat / Capitol / Frontiers"
+      "title": "Charli xcx Unveils \u2018Wuthering Heights\u2019 Tracklist Featuring Surprise Collab With Sky\u00a0Ferreira",
+      "link": "https://www.billboard.com/music/music-news/charli-xcx-wuthering-heights-tracklist-sky-ferreira-collab-1236166558/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-29 17:04",
+      "summary": "The British pop star also attended the film's premiere alongside Margot Robbie and Jacob Elordi."
     },
     {
-      "title": "Harry Styles confirmed to perform at BRIT Awards 2026 ceremony",
-      "link": "https://www.nme.com/news/music/harry-styles-confirmed-to-perform-at-brit-awards-2026-ceremony-3926058?utm_source=rss&utm_medium=rss&utm_campaign=harry-styles-confirmed-to-perform-at-brit-awards-2026-ceremony",
+      "title": "Lady Gaga to Bring Magic and \u2018Mayhem\u2019 to Grammys 2026 Stage",
+      "link": "https://www.rollingstone.com/music/music-news/lady-gaga-grammys-2026-performance-1235506756/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-29 17:01",
+      "summary": "The artist, who has already won 14 Grammys and performed at the awards show more than half a dozen times, will take to the stage on Sunday night"
+    },
+    {
+      "title": "BRIT Awards 2026: Wolf Alice join line-up of performers",
+      "link": "https://www.nme.com/news/music/brit-awards-2026-wolf-alice-join-line-up-of-performers-3926348?utm_source=rss&utm_medium=rss&utm_campaign=brit-awards-2026-wolf-alice-join-line-up-of-performers",
       "source": "NME",
       "category": "general",
-      "published": "2026-01-28 16:48",
-      "summary": "\nIt will be the first live televised performance of music from new album \u2018Kiss All The Time. Disco, Occasionally\u2019\nThe post Harry Styles confirmed to perform at BRIT Awards 2026 ceremony appeared first..."
+      "published": "2026-01-29 17:00",
+      "summary": "\nThe band are nominated for Group of the Year, Alternative/Rock Act, and Mastercard Album of the Year at this year\u2019s ceremony\nThe post BRIT Awards 2026: Wolf Alice join line-up of performers appeared ..."
     },
     {
-      "title": "Pooh Shiesty on \u2018FDO,\u2019 Linking With GloRilla & Why His Rookie Season Is Officially\u00a0Over",
-      "link": "https://www.billboard.com/music/rb-hip-hop/pooh-shiesty-fdo-glorilla-interview-1236165389/",
+      "title": "A$AP Rocky to Receive Vanguard Award for Fashion at 2026 NAACP Image Awards Fashion\u00a0Show",
+      "link": "https://www.billboard.com/music/awards/asap-rocky-2026-naacp-image-awards-fashion-show-vanguard-1236165938/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-01-28 16:41",
-      "summary": "Fresh from federal prison, the Memphis upstart chats with Billboard about his comeback record \"FDO\" and why fans can expect \"greatness\" with his upcoming debut album."
+      "published": "2026-01-29 17:00",
+      "summary": "\u201cA$AP Rocky represents the fearless evolution of Black creativity,\u201d said BET's Connie Orlando."
     },
     {
-      "title": "Sleep Token\u2019s Even in Arcadia Certified Gold in the United States",
-      "link": "https://consequence.net/2026/01/sleep-token-even-in-arcadia-gold/",
+      "title": "Lady Gaga to Perform on 2026 Grammy\u00a0Awards",
+      "link": "https://www.billboard.com/music/awards/lady-gaga-2026-grammy-awards-performer-1236166537/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-29 17:00",
+      "summary": "The artist received seven Grammy nominations this year, a one-year record for the superstar."
+    },
+    {
+      "title": "Treefort Music Fest 2026 lineup: Father John Misty, Geese, Built to Spill, Magdalena Bay, more",
+      "link": "https://www.brooklynvegan.com/treefort-music-fest-2026-lineup-father-john-misty-geese-built-to-spill-magdalena-bay-more/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-29 16:57",
+      "summary": "The 2026 edition of Treefort Music Fest happens March 25-29 with over 500 acts performing in venues in downtown Boise."
+    },
+    {
+      "title": "Pusha T Declares \u2018F\u2014k ICE\u2019 on Billboard Power 100 Red Carpet: \u2018Got to Keep It\u00a0100\u2019",
+      "link": "https://www.billboard.com/music/rb-hip-hop/pusha-t-slams-ice-red-carpet-billboard-power-100-video-1236166529/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-29 16:52",
+      "summary": "Tyler, The Creator, Olivia Rodrigo and Billie Eilish are among the artists to speak out against the agency."
+    },
+    {
+      "title": "Beck Releases New Covers and Rarities Album Everybody\u2019s Gotta Learn Sometime",
+      "link": "https://consequence.net/2026/01/beck-everybodys-gotta-learn-sometime-covers-rarities-album/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-01-28 16:40",
-      "summary": "The UK act's 2025 effort has gone Gold after previously topping the Billboard 200 in its first week of release.\nSleep Token&#8217;s Even in Arcadia Certified Gold in the United States\nJon Hadusek"
+      "published": "2026-01-29 16:49",
+      "summary": "Including renditions of songs by Elvis Presley, John Lennon, and Hank Williams. \nBeck Releases New Covers and Rarities Album Everybody&#8217;s Gotta Learn Sometime\nPaolo Ragusa"
     },
     {
-      "title": "Billboard Staff\u2019s 10 Greatest Pop Stars of 2025 (Nos.\u00a010-3)",
-      "link": "https://www.billboard.com/lists/greatest-pop-stars-2025-top-10/",
-      "source": "Billboard",
+      "title": "Billy Bragg shares new anti-ICE protest song \u201cCity of Heroes\u201d",
+      "link": "https://www.brooklynvegan.com/billy-bragg-shares-new-anti-ice-protest-song-city-of-heroes/",
+      "source": "Brooklyn Vegan",
       "category": "general",
-      "published": "2026-01-28 16:30",
-      "summary": "See our editorial staff's updating list for the greatest artists from the past year of pop stardom, rolling out throughout January."
+      "published": "2026-01-29 16:43",
+      "summary": "\u201dI wrote this song as a tribute to the bravery of the people of Minneapolis,\u201d Bragg says."
     },
     {
-      "title": "It Was a Legacy-Cementing 2025 for Lady Gaga \u2014\u00a0Did She Also Prove to Still Be One of Pop\u2019s Most Vital\u00a0Stars?",
-      "link": "https://www.billboard.com/music/pop/lady-gaga-2025-greatest-pop-stars-podcast-1236165328/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-28 16:29",
-      "summary": "This Greatest Pop Stars podcast episode looks at our staff's pick for the No. 3 Greatest Pop Star of 2025, with help from Billboard's Eric Frankenberg."
-    },
-    {
-      "title": "Billboard\u2019s Greatest Pop Stars of 2025: No. 3 \u2014 Lady\u00a0Gaga",
-      "link": "https://www.billboard.com/music/pop/lady-gaga-greatest-pop-stars-2025-number-three-1236165267/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-28 16:28",
-      "summary": "One of the greatest pop stars of the 21st century had a legacy year in 2025, making it a massively fun and exciting time to be a Lady Gaga fan."
-    },
-    {
-      "title": "2026 Oscar Best Picture Nominees, Ranked by How Much They\u2019ll Bum You Out",
-      "link": "https://consequence.net/2026/01/oscars-nominees-depressing-ranking/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-28 16:21",
-      "summary": "Should your aunt have questions about Hamnet.\n2026 Oscar Best Picture Nominees, Ranked by How Much They&#8217;ll Bum You Out\nLiz Shannon Miller"
-    },
-    {
-      "title": "Deedee of MSPAINT announces debut album Starting Not To Hurt",
-      "link": "https://www.altpress.com/him-horrison-deedee-mspaint-crystalized-listen/",
+      "title": "The Saddest Landscape announce first album in 10 years",
+      "link": "https://www.altpress.com/the-saddest-landscape-from-home-they-run-listen/",
       "source": "Alternative Press",
       "category": "rock",
-      "published": "2026-01-28 16:20",
-      "summary": "The MSPAINT vocalist has revived their decade-old psych project Him Horrison with fresh perspective."
+      "published": "2026-01-29 16:30",
+      "summary": "Alone With Heaven features Julien Baker, Touch\u00e9 Amor\u00e9\u2019s Jeremy Bolm, and Into it. Over it.\u2019s Evan Weiss."
     },
     {
-      "title": "The Saddest Landscape announce first LP in 10 years ft. Julien Baker & more (new single & exclusive vinyl)",
-      "link": "https://www.brooklynvegan.com/the-saddest-landscape-announce-first-lp-in-10-years-ft-julien-baker-more-new-single-exclusive-vinyl/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-28 16:18",
-      "summary": "\u2019Alone With Heaven\u2019\u00a0also features Touch\u00e9 Amor\u00e9\u2019s Jeremy Bolm and Into It. Over It.\u2019s Evan Weiss."
-    },
-    {
-      "title": "Noah Kahan Sets Return With Fourth Album \u2018The Great Divide\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/noah-kahan-announces-album-the-great-divide-1235506141/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-28 16:13",
-      "summary": "Out April 24, the record is the highly-anticipated follow-up to the singer-songwriter\u2019s acclaimed album Stick Season, released in 2022"
-    },
-    {
-      "title": "Maynard James Keenan on Why He Won\u2019t Perform Certain Tool Songs: \u201cThe Words Are Just Dumb\u201d",
-      "link": "https://consequence.net/2026/01/maynard-james-keenan-certain-tool-songs-words-dumb/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-28 16:07",
-      "summary": "The singer explains why he finds lyrics to certain songs regrettable.\nMaynard James Keenan on Why He Won&#8217;t Perform Certain Tool Songs: &#8220;The Words Are Just Dumb&#8221;\nSpencer Kaufman"
-    },
-    {
-      "title": "DeVotchKa announce \u2018Little Miss Sunshine\u2019 tour",
-      "link": "https://www.brooklynvegan.com/devotchka-announce-little-miss-sunshine-tour/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-28 16:01",
-      "summary": "It&#8217;s for the film and soundtrack&#8217;s 20th anniversary"
-    },
-    {
-      "title": "Peaches is ready to brawl (with fascists)",
-      "link": "https://www.thefader.com/2026/01/28/peaches-no-lube-so-rude-fascism-album-interview",
+      "title": "The Best Music Video GRAMMY deserves an overhaul",
+      "link": "https://www.thefader.com/2026/01/29/best-music-video-grammy-deserves-an-overhaul",
       "source": "The FADER",
       "category": "hiphop",
-      "published": "2026-01-28 16:01",
-      "summary": "10 years since her last album, the Canadian pop provocateur is addressing a world cratering toward hate in a way that only she can."
+      "published": "2026-01-29 16:24",
+      "summary": "The Best Music Video GRAMMY is more populist than it seems. Why is the Recording Academy deliberately limiting the voter pool?"
     },
     {
-      "title": "Kneecap Announce New LP \u2018Fenian\u2019: \u2018They Tried to Stop Us By Branding Us Terrorists\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/kneecap-lp-fenian-branding-us-terrorists-1235506120/",
-      "source": "Rolling Stone",
+      "title": "Post Malone, Slash, Chad Smith, Lauryn Hill to lead all-star tributes to Ozzy Osbourne, D\u2019Angelo and Roberta Flack at 2026 Grammys",
+      "link": "https://www.nme.com/news/music/post-malone-lauryn-hill-lead-tributes-ozzy-osbourne-dangelo-roberta-flack-2026-grammys-3926321?utm_source=rss&utm_medium=rss&utm_campaign=post-malone-lauryn-hill-lead-tributes-ozzy-osbourne-dangelo-roberta-flack-2026-grammys",
+      "source": "NME",
       "category": "general",
-      "published": "2026-01-28 15:57",
-      "summary": "\u201cWe had all the motivation we needed,\u201d the Irish trio said in a statement. \u201cThis isn\u2019t a swift reaction, but a considered response to those that tried to silence us. And failed\u201d"
+      "published": "2026-01-29 16:22",
+      "summary": "\nBrandy Clark, Reba McEntire, and Lukas Nelson are also set to perform during the \u201cIn Memoriam\u201d segment\nThe post Post Malone, Slash, Chad Smith, Lauryn Hill to lead all-star tributes to Ozzy Osbourne,..."
     },
     {
-      "title": "Kanye West Sets March Release Date for \u2018Bully\u2019 Album",
-      "link": "https://www.rollingstone.com/music/music-news/kanye-west-bully-release-date-signs-with-gamma-1235506094/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-28 15:47",
-      "summary": "The project will arrive on March 20 via Gamma, the independent music company Ye just inked a deal with"
-    },
-    {
-      "title": "Tyla Sparkles with Glittery Performance of \u201cChanel\u201d on Fallon: Watch",
-      "link": "https://consequence.net/2026/01/tyla-chanel-fallon/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-28 15:39",
-      "summary": "Singing and dancing on a giant, oversized red heel, Tyla provided a stylish rendition of her new single.\nTyla Sparkles with Glittery Performance of &#8220;Chanel&#8221; on Fallon: Watch\nPaolo Ragusa"
-    },
-    {
-      "title": "Ex-Turnstile Guitarist Calls Out Band Over 'Abolish ICE' Post",
-      "link": "https://loudwire.com/ex-turnstile-brady-ebert-calls-out-band-abolish-ice-post/",
+      "title": "Judge Rules Steven Tyler's Sexual Abuse Trial Can Go Forward",
+      "link": "https://loudwire.com/steven-tyler-sexual-abuse-trial/",
       "source": "Loudwire",
       "category": "rock",
-      "published": "2026-01-28 15:38",
-      "summary": "Tim Mosenfelder, Getty Images / Shane Anthony Sinclair, Getty Images / Alex Wong, Getty Images"
+      "published": "2026-01-29 16:20",
+      "summary": "John W. Ferguson, Getty Images"
     },
     {
-      "title": "Lamb of God Singer Calls Out Trump + ICE With Powerful Message",
-      "link": "https://loudwire.com/lamb-of-god-randy-blythe-trump-ice-message/",
+      "title": "The ticket levy that could save grassroots venues and artists: what happens next?",
+      "link": "https://www.nme.com/news/music/the-ticket-levy-that-could-save-grassroots-venues-and-artists-what-happens-next-3926053?utm_source=rss&utm_medium=rss&utm_campaign=the-ticket-levy-that-could-save-grassroots-venues-and-artists-what-happens-next",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-29 16:16",
+      "summary": "\nArtists, industry insiders and MPs tell NME about how the levy could reverse the decline of the grassroots, as well as what needs to be done, and what's holding it back\nThe post The ticket levy that ..."
+    },
+    {
+      "title": "Prime Video Finds a Way to Do Jury Duty Again, This Time at a Corporate Retreat",
+      "link": "https://consequence.net/2026/01/jury-duty-corporate-retreat-release-date/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-29 16:12",
+      "summary": "The new installment premieres March 20th. \nPrime Video Finds a Way to Do Jury Duty Again, This Time at a Corporate Retreat\nLiz Shannon Miller"
+    },
+    {
+      "title": "Slash: Next Guns N\u2019 Roses Album to Feature All \u201cNew Original Stuff,\u201d No Chinese Democracy Leftovers",
+      "link": "https://consequence.net/2026/01/slash-new-guns-n-roses-album-all-original-stuff/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-29 16:04",
+      "summary": "The guitarist said there is \"no more of that sort of old rehash stuff to release.\"\nSlash: Next Guns N&#8217; Roses Album to Feature All &#8220;New Original Stuff,&#8221; No Chinese Democracy Leftovers..."
+    },
+    {
+      "title": "Nicki Minaj Gets U.S. Citizenship After Appearance With Trump",
+      "link": "https://www.xxlmag.com/nicki-minaj-gets-us-citizenship-president-trump/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-01-29 15:59",
+      "summary": "Win McNamee/Getty Images"
+    },
+    {
+      "title": "The Saddest Landscape Announce New Album Co-Produced By Steve Albini",
+      "link": "https://pitchfork.com/news/the-saddest-landscape-announce-new-album-co-produced-by-steve-albini/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-01-29 15:47",
+      "summary": "Julien Baker, Jeremy Bolm and Evan Weiss feature on Alone With Heaven"
+    },
+    {
+      "title": "\u00d8ya Festival 2026 lineup: The Cure, Nick Cave, Wilco, Lily Allen, Amyl & The Sniffers, Clipse, Geese, more",
+      "link": "https://www.brooklynvegan.com/oya-festival-2026-lineup-the-cure-nick-cave-wilco-lily-allen-amyl-the-sniffers-clipse-geese-more/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-29 15:40",
+      "summary": "Norway&#8217;s \u00d8ya Festival happens August 12-15 in Oslo and the lineup also includes Blood Orange, Underworld, Oklou, Mogwai, Lambrini Girls, and more"
+    },
+    {
+      "title": "Neil Young Calls for Boycott of All Trump-Supporting Companies",
+      "link": "https://consequence.net/2026/01/neil-young-boycotts-apple-verizon-trump-regime/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-29 15:30",
+      "summary": "He is actively working to sever contact with large companies that support Trump with \"huge donations.\"\nNeil Young Calls for Boycott of All Trump-Supporting Companies\nEddie Fu"
+    },
+    {
+      "title": "Watch Lady Gaga speak out against ICE in Tokyo",
+      "link": "https://www.brooklynvegan.com/watch-lady-gaga-speak-out-against-ice-in-tokyo/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-29 15:25",
+      "summary": "She also sang the iconic Mister Rogers\u2019 theme song for a new Super Bowl ad."
+    },
+    {
+      "title": "Ozzfest to Return? Sharon Osbourne's New Comments Offer Hope",
+      "link": "https://loudwire.com/ozzfest-return-sharon-osbourne/",
       "source": "Loudwire",
       "category": "rock",
-      "published": "2026-01-28 15:37",
-      "summary": "Medios y Media / Chip Somodevilla / Jim Watson - Pool, Getty Images"
+      "published": "2026-01-29 15:20",
+      "summary": "Matt Winkelmeyer, Getty Images / Scott Gries, Getty Images"
     },
     {
-      "title": "Noah Kahan Announces New Album The Great Divide",
-      "link": "https://consequence.net/2026/01/noah-kahan-the-great-divide-new-album/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-28 15:26",
-      "summary": "The title track from the indie folk superstar's fourth album will be released this Friday.\nNoah Kahan Announces New Album The Great Divide\nBen Kaye"
+      "title": "Bret Michaels Denies Thwarting Poison Tour With Financial Demands",
+      "link": "https://loudwire.com/bret-michaels-denies-poison-tour-claims/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-29 15:19",
+      "summary": "Christian Petersen, Getty Images"
     },
     {
-      "title": "Bassist Simone Marie Butler announces departure from Primal Scream: \u201cI\u2019ll always be part of the Scream family\u201d",
-      "link": "https://www.nme.com/news/music/bassist-simone-marie-butler-announces-departure-from-primal-scream-ill-always-be-part-of-the-scream-family-3926026?utm_source=rss&utm_medium=rss&utm_campaign=bassist-simone-marie-butler-announces-departure-from-primal-scream-ill-always-be-part-of-the-scream-family",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-28 15:23",
-      "summary": "\n\"I want to thank everyone who I\u2019ve had the pleasure to play in front of for the last 13 years with Primal Scream. It truly has been an amazing ride with genuinely beautiful people\"\nThe post Bassist S..."
-    },
-    {
-      "title": "J. Cole addresses beef with Drake and Kendrick Lamar on BIRTHDAY BLIZZARD \u201826",
-      "link": "https://www.thefader.com/2026/01/28/j-cole-birthday-blizzard-26-drake-kendrick-lamar-dj-clue",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-01-28 15:22",
-      "summary": "\u201cThe apology dropped me way out of the Top 3, no problem, I\u2019m probably my best when they doubt me.\u201d"
-    },
-    {
-      "title": "Jason Isbell and the 400 Unit Reinvent \u201cCrimson and Clay\u201d for Kimmel: Watch",
-      "link": "https://consequence.net/2026/01/jason-isbell-400-unit-crimson-and-clay-kimmel/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-28 15:10",
-      "summary": "The acoustic song benefits from electric guitars and a rhythm section that shapes the tune's quiet introspection and thunderous epiphanies.\nJason Isbell and the 400 Unit Reinvent &#8220;Crimson and Cl..."
-    },
-    {
-      "title": "Papa Roach Unveil New Song \u201cWake Up Calling\u201d: Stream",
-      "link": "https://consequence.net/2026/01/papa-roach-wake-up-calling-stream/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-28 15:09",
-      "summary": "The third in a series of singles from the nu-metal icons.\nPapa Roach Unveil New Song &#8220;Wake Up Calling&#8221;: Stream\nJon Hadusek"
-    },
-    {
-      "title": "J. Cole Surprise Releases New EP",
-      "link": "https://pitchfork.com/news/j-cole-surprise-releases-new-ep/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-28 15:03",
-      "summary": "Marking Cole\u2019s 41st birthday, the DJ Clue\u2013hosted Birthday Blizzard \u201926 addresses his apology for feuding with Kendrick Lamar"
-    },
-    {
-      "title": "Louis Tomlinson talks finding his confidence: \u201cI had to stare the things that I found intimidating in the face\u201d",
-      "link": "https://www.nme.com/news/music/louis-tomlinson-interview-tour-new-album-one-direction-yungblud-festival-3925629?utm_source=rss&utm_medium=rss&utm_campaign=louis-tomlinson-interview-tour-new-album-one-direction-yungblud-festival",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-28 15:00",
-      "summary": "\nTomlinson tells NME about new album \u2018How Did I Get Here?\u2019, overcoming feeling \"utterly intimidated\u201d at going solo, wanting to work with Yungblud to support new talent, Harry Styles' new stuff, why fa..."
-    },
-    {
-      "title": "Chris Brown appears in London court over alleged bottle attack and Manchester arrest",
-      "link": "https://www.nme.com/news/music/chris-brown-appears-in-london-court-over-alleged-bottle-attack-and-manchester-arrest-3926011?utm_source=rss&utm_medium=rss&utm_campaign=chris-brown-appears-in-london-court-over-alleged-bottle-attack-and-manchester-arrest",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-28 14:39",
-      "summary": "\nThe rapper previously pleaded not guilty to a charge of assault occasioning actual bodily harm\nThe post Chris Brown appears in London court over alleged bottle attack and Manchester arrest appeared f..."
-    },
-    {
-      "title": "Japan\u2019s Creepy Nuts announce North American shows around Coachella, NYC included (with BV presale)",
-      "link": "https://www.brooklynvegan.com/japans-creepy-nuts-announce-north-american-shows-around-coachella-nyc-included-with-bv-presale/",
+      "title": "Creepy Nuts @ Hammerstein Ballroom on BrooklynVegan Presale (password here)",
+      "link": "https://www.brooklynvegan.com/creepy-nuts-hammerstein-ballroom-on-brooklynvegan-presale-password-here/",
       "source": "Brooklyn Vegan",
       "category": "general",
-      "published": "2026-01-28 14:37",
-      "summary": "It\u2019ll be the hip hop duo\u2019s first North American headlining run."
+      "published": "2026-01-29 15:04",
+      "summary": "Part of the Japanese hip-hop duo\u2019s first ever North American headlining tour."
     },
     {
-      "title": "J. Cole Addresses Kendrick Lamar Apology And More In Surprise \u2018Birthday Blizzard '26\u2019 Release",
-      "link": "https://www.rap-up.com/article/j-cole-kendrick-lamar-apology-birthday-blizzard-26",
-      "source": "Rap-Up",
-      "category": "hiphop",
-      "published": "2026-01-28 14:36",
-      "summary": "J. Cole revisits his Kendrick Lamar apology, mentions Lori Harvey, and more in four new freestyles on \u2018Birthday Blizzard \u201926.\u2019 See how fans are reacting here."
-    },
-    {
-      "title": "Green-House Sign to Ghostly for New Album",
-      "link": "https://pitchfork.com/news/green-house-sign-to-ghostly-for-new-album/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-28 14:26",
-      "summary": "\u201cFarewell, Little Island\u201d leads the duo\u2019s Hinterlands LP"
-    },
-    {
-      "title": "Embrace announce \u201chonest, open and raw\u201d new album \u2018Avalanche\u2019 and 30th anniversary UK tour",
-      "link": "https://www.nme.com/news/music/embrace-announce-honest-open-and-raw-new-album-avalanche-and-30th-anniversary-uk-tour-3926015?utm_source=rss&utm_medium=rss&utm_campaign=embrace-announce-honest-open-and-raw-new-album-avalanche-and-30th-anniversary-uk-tour",
+      "title": "Beck announces \u2018Everybody\u2019s Gotta Learn Sometime\u2019 \u2013 \u201ca lovingly curated collection of rarities, deep cuts and covers\u201d",
+      "link": "https://www.nme.com/news/music/beck-announces-everybodys-gotta-learn-sometime-a-lovingly-curated-collection-of-rarities-deep-cuts-and-covers-3926305?utm_source=rss&utm_medium=rss&utm_campaign=beck-announces-everybodys-gotta-learn-sometime-a-lovingly-curated-collection-of-rarities-deep-cuts-and-covers",
       "source": "NME",
       "category": "general",
-      "published": "2026-01-28 14:23",
-      "summary": "\n\u201cWe wanted the music to sound human \u2013 rough around the edges \u2013 because the little moments of magic are never polished\u201d\nThe post Embrace announce &#8220;honest, open and raw&#8221; new album &#8216;Av..."
+      "published": "2026-01-29 15:02",
+      "summary": "\nThe collection features covers of John Lennon, Elvis and more, as well as two never-before-released recordings \nThe post Beck announces &#8216;Everybody&#8217;s Gotta Learn Sometime&#8217; \u2013 &#8220;a..."
     },
     {
-      "title": "Fear of Men\u2019s Jessica Weiss announces solo debut as New German Cinema, shares \u201cMy Mistake\u201d ft Carson Cox",
-      "link": "https://www.brooklynvegan.com/fear-of-mens-jessica-weiss-announces-solo-debut-as-new-german-cinema-shares-my-mistake-ft-carson-cox/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-28 14:18",
-      "summary": "Fear of Men singer/guitarist Jessica Weiss has announced her debut solo album under the name New German Cinema. The album is titled Pain Will Polish Me and is out March 27."
-    },
-    {
-      "title": "RIP Magic share James Murphy-produced single \u201c5words,\u201d touring with Fcukers",
-      "link": "https://www.brooklynvegan.com/rip-magic-share-james-murphy-produced-single-5words-touring-with-fcukers/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-28 14:12",
-      "summary": "The &#8220;5Words&#8221; 12&#8243; comes out March 6 on DFA with a Maurice Fulton remix."
-    },
-    {
-      "title": "Jeff Buckley Earns First Billboard Hot 100 Hit with \u201cLover, You Should\u2019ve Come Over\u201d",
-      "link": "https://consequence.net/2026/01/jeff-buckley-lands-first-billboard-hot-100/",
+      "title": "Andrea Bocelli Announces 2026 Tour Celebrating Romanza\u2019s 30th Anniversary",
+      "link": "https://consequence.net/2026/01/andrea-bocelli-romanza-tour/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-01-28 14:05",
-      "summary": "Thanks to TikTok and a recent doc, the deep cut propels the legendary crooner to a career milestone. \nJeff Buckley Earns First Billboard Hot 100 Hit with &#8220;Lover, You Should&#8217;ve Come Over&#8..."
+      "published": "2026-01-29 15:00",
+      "summary": "The famed crooner has US legs for early February and again in September.\nAndrea Bocelli Announces 2026 Tour Celebrating Romanza&#8217;s 30th Anniversary\nChris Coplan"
+    },
+    {
+      "title": "M\u00f6tley Cr\u00fce Declare \u201cDecisive Victory\u201d in Legal Battle with Ex-Guitarist Mick Mars",
+      "link": "https://consequence.net/2026/01/motley-crue-decisive-victory-mick-mars-lawsuit/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-29 14:55",
+      "summary": "According to the band's attorneys, an arbitrator has ruled entirely in favor of M\u00f6tley Cr\u00fce.\nM\u00f6tley Cr\u00fce Declare &#8220;Decisive Victory&#8221; in Legal Battle with Ex-Guitarist Mick Mars\nJon Hadusek"
+    },
+    {
+      "title": "Dave Grohl and Olivia Rodrigo Wear \u201cICE OUT\u201d Pins at Grammy Week Events",
+      "link": "https://consequence.net/2026/01/dave-grohl-olivia-rodrigo-ice-pins-grammys/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-29 14:28",
+      "summary": "The pins are part of the #BeGood campaign, an ACLU-endorsed campaign protecting ICE violence against US citizens.\nDave Grohl and Olivia Rodrigo Wear &#8220;ICE OUT&#8221; Pins at Grammy Week Events\nCh..."
+    },
+    {
+      "title": "Ben Quad cover Third Eye Blind\u2019s \u201cNever Let You Go\u201d",
+      "link": "https://www.altpress.com/ben-quad-third-eye-blind-never-let-you-go-cover-video-watch/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-01-29 14:14",
+      "summary": "After drawing huge inspiration from TEB for last year\u2019s Wisher, they\u2019re paying homage again."
+    },
+    {
+      "title": "Barry Keoghan Is Ready to Play Ringo Starr in Those Beatles Biopics",
+      "link": "https://consequence.net/2026/01/barry-keoghan-ringo-starr-haircut/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-29 14:09",
+      "summary": "The actor has offered a first look at his transformation into Ringo Starr for Sam Mendes' upcoming Beatles' biopics.\nBarry Keoghan Is Ready to Play Ringo Starr in Those Beatles Biopics\nScoop Harrison"
+    },
+    {
+      "title": "7 Big Punk Bands With Members Who Sued Each Other",
+      "link": "https://loudwire.com/punk-band-lawsuits/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-29 14:02",
+      "summary": "Getty Images"
+    },
+    {
+      "title": "CoSign: Softcult Use Soft Power to Build a Better World",
+      "link": "https://consequence.net/2026/01/softcult-when-a-flower-doesnt-grow-cosign-interview/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-29 14:00",
+      "summary": "The twin siblings' long-awaited debut album is as fierce as it is soothing.\nCoSign: Softcult Use Soft Power to Build a Better World\nPaolo Ragusa"
+    },
+    {
+      "title": "The NME Magazine January/February 2026 issue with Rose Gray on the cover is now on sale",
+      "link": "https://www.nme.com/news/music/nme-magazine-january-february-2026-issue-how-to-buy-3925433?utm_source=rss&utm_medium=rss&utm_campaign=nme-magazine-january-february-2026-issue-how-to-buy",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-29 14:00",
+      "summary": "\nIt comes bundled with Guitar.com Magazine featuring Jacob Collier\nThe post The NME Magazine January/February 2026 issue with Rose Gray on the cover is now on sale appeared first on NME."
+    },
+    {
+      "title": "Christine & the Queens and Thee Diane team up for euphoric new single \u2018Ah Ya\u2019: \u201cWe still dare to love in the night of a world so fragile\u201d",
+      "link": "https://www.nme.com/news/music/christine-the-queens-and-thee-diane-team-up-for-euphoric-new-single-ah-ya-we-still-dare-to-love-in-the-night-of-a-world-so-fragile-3926273?utm_source=rss&utm_medium=rss&utm_campaign=christine-the-queens-and-thee-diane-team-up-for-euphoric-new-single-ah-ya-we-still-dare-to-love-in-the-night-of-a-world-so-fragile",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-29 14:00",
+      "summary": "\n\"This song is an invitation to tune into a higher frequency\"\nThe post Christine &#038; the Queens and Thee Diane team up for euphoric new single &#8216;Ah Ya&#8217;: &#8220;We still dare to love in t..."
+    },
+    {
+      "title": "Mining Metal: Backengrillen, Barbarian, Exx\u00fbl, Funeral Dancer, Mascharat, Polaris Experience, Spectral Lore, and Total Annihilation",
+      "link": "https://consequence.net/2026/01/mining-metal-january-2026/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-29 13:58",
+      "summary": "Highlighting standout underground metal releases each month.\nMining Metal: Backengrillen, Barbarian, Exx\u00fbl, Funeral Dancer, Mascharat, Polaris Experience, Spectral Lore, and Total Annihilation\nLangdon..."
+    },
+    {
+      "title": "Ray-J says he\u2019s in his \u201clast days\u201d: \u201cMy heart is only beating, like, 25 per cent\u201d",
+      "link": "https://www.nme.com/news/music/ray-j-says-hes-in-his-last-days-heart-only-beating-25-per-cent-3926282?utm_source=rss&utm_medium=rss&utm_campaign=ray-j-says-hes-in-his-last-days-heart-only-beating-25-per-cent",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-29 13:50",
+      "summary": "\n\u201cI thought I could handle all the alcohol, all the Adderall, the drugs\u2026 but I couldn\u2019t. It curved my time\u201d\nThe post Ray-J says he&#8217;s in his &#8220;last days&#8221;: &#8220;My heart is only beati..."
+    },
+    {
+      "title": "Tom Misch announces new album \u2018Full Circle\u2019 with touching single \u2018Sisters With Me\u2019",
+      "link": "https://www.nme.com/news/music/tom-misch-announces-new-album-full-circle-with-single-sisters-with-me-3926246?utm_source=rss&utm_medium=rss&utm_campaign=tom-misch-announces-new-album-full-circle-with-single-sisters-with-me",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-29 13:10",
+      "summary": "\nHe'll play two shows at London's KOKO this spring\nThe post Tom Misch announces new album &#8216;Full Circle&#8217; with touching single &#8216;Sisters With Me&#8217; appeared first on NME."
+    },
+    {
+      "title": "Sharon Osbourne in talks to bring OzzFest back",
+      "link": "https://www.nme.com/news/music/sharon-osbourne-in-talks-to-bring-ozzfest-back-3926254?utm_source=rss&utm_medium=rss&utm_campaign=sharon-osbourne-in-talks-to-bring-ozzfest-back",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-29 12:52",
+      "summary": "\nShe is also working with Live Nation to create a tour that will see Black Sabbath songs performed by an orchestra\nThe post Sharon Osbourne in talks to bring OzzFest back appeared first on NME."
     }
   ],
-  "last_updated": "2026-01-28T17:36:46.641371"
+  "last_updated": "2026-01-29T17:41:35.120008"
 }

@@ -1,36 +1,6 @@
 {
   "hiphop": [
     {
-      "name": "Good Day to be in Harlem",
-      "artists": "Fergie Baby, A$AP Ferg",
-      "release_date": "2026-01-30",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731860a0a1f2127f8d81e08759",
-      "spotify_url": "https://open.spotify.com/album/2o4ICnsEfXEro3okcsEUWK",
-      "apple_music_url": "https://music.apple.com/us/album/good-day-to-be-in-harlem-single/1867039945?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "OK OK (Hamdi Remix)",
-      "artists": "Hamdi, Fred again.., Danny Brown, JPEGMAFIA",
-      "release_date": "2026-01-30",
-      "image": "https://i.scdn.co/image/ab67616d0000b273322025f1f77da25a0c07fe94",
-      "spotify_url": "https://open.spotify.com/album/6POSPBtibhdNu2fQG4tUH7",
-      "apple_music_url": "https://music.apple.com/us/album/ok-ok-hamdi-remix-single/1871538128?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "OCTANE",
-      "artists": "Don Toliver",
-      "release_date": "2026-01-30",
-      "image": "https://i.scdn.co/image/ab67616d0000b27322d78c55313a187559efd93b",
-      "spotify_url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN",
-      "apple_music_url": "https://music.apple.com/us/album/octane/1873328276?uo=4",
-      "total_tracks": 18,
-      "album_type": "album"
-    },
-    {
       "name": "BE MORE GRATEFUL",
       "artists": "DaBaby",
       "release_date": "2026-01-30",
@@ -41,32 +11,12 @@
       "album_type": "album"
     },
     {
-      "name": "Rap Trap",
-      "artists": "Fivio Foreign",
+      "name": "OK OK (Hamdi Remix)",
+      "artists": "Hamdi, Fred again.., Danny Brown, JPEGMAFIA",
       "release_date": "2026-01-30",
-      "image": "https://i.scdn.co/image/ab67616d0000b273789a1c8b700e46be2f764015",
-      "spotify_url": "https://open.spotify.com/album/6vsaxg3ZBwdP1ynRDtRNbj",
-      "apple_music_url": "https://music.apple.com/us/search?term=Rap%20Trap%20Fivio%20Foreign",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "EVERYWHERE I GO (REMIND ME) feat. Kid Cudi",
-      "artists": "BNYX\u00ae, Kid Cudi, R\u00f6yksopp",
-      "release_date": "2026-01-30",
-      "image": "https://i.scdn.co/image/ab67616d0000b27329b9d44066f5211cc732f491",
-      "spotify_url": "https://open.spotify.com/album/05U0USUzKB8vLfdOWggfqC",
-      "apple_music_url": "https://music.apple.com/us/album/everywhere-i-go-remind-me-single/1871603457?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Can't Change",
-      "artists": "Lil Tjay",
-      "release_date": "2026-01-30",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733ee8fd40a1d0b5a7772175da",
-      "spotify_url": "https://open.spotify.com/album/6P8dcMZvwR4BgcLMA3RzPX",
-      "apple_music_url": "https://music.apple.com/us/search?term=Can%27t%20Change%20Lil%20Tjay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273322025f1f77da25a0c07fe94",
+      "spotify_url": "https://open.spotify.com/album/6POSPBtibhdNu2fQG4tUH7",
+      "apple_music_url": "https://music.apple.com/us/album/ok-ok-hamdi-remix-single/1871538128?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -81,12 +31,82 @@
       "album_type": "single"
     },
     {
+      "name": "Moses the Black Soundtrack",
+      "artists": "Wiz Khalifa",
+      "release_date": "2026-01-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b273680eb79d7a2ec98d8cef8a37",
+      "spotify_url": "https://open.spotify.com/album/2knkV6t5W22vZEzsnrGf25",
+      "apple_music_url": "https://music.apple.com/us/search?term=Moses%20the%20Black%20Soundtrack%20Wiz%20Khalifa",
+      "total_tracks": 9,
+      "album_type": "album"
+    },
+    {
+      "name": "Good Day to be in Harlem",
+      "artists": "Fergie Baby, A$AP Ferg",
+      "release_date": "2026-01-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cd1c69e681d5e9dba1d1e66c",
+      "spotify_url": "https://open.spotify.com/album/2o4ICnsEfXEro3okcsEUWK",
+      "apple_music_url": "https://music.apple.com/us/album/good-day-to-be-in-harlem-single/1867039945?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Can't Change",
+      "artists": "Lil Tjay",
+      "release_date": "2026-01-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b27387c8f788abf02d559b8c8555",
+      "spotify_url": "https://open.spotify.com/album/6P8dcMZvwR4BgcLMA3RzPX",
+      "apple_music_url": "https://music.apple.com/us/search?term=Can%27t%20Change%20Lil%20Tjay",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Rat Trap",
+      "artists": "Fivio Foreign",
+      "release_date": "2026-01-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b273789a1c8b700e46be2f764015",
+      "spotify_url": "https://open.spotify.com/album/6vsaxg3ZBwdP1ynRDtRNbj",
+      "apple_music_url": "https://music.apple.com/us/search?term=Rat%20Trap%20Fivio%20Foreign",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Complicated (From The Original Motion Picture \"Relationship Goals\")",
       "artists": "Kelly Rowland, Method Man",
       "release_date": "2026-01-30",
       "image": "https://i.scdn.co/image/ab67616d0000b2735469b9492b60a78254a8ba5c",
       "spotify_url": "https://open.spotify.com/album/4dd7T9ocpVHpjoFDhH1zIS",
       "apple_music_url": "https://music.apple.com/us/album/complicated-from-the-original-motion-picture/1871772539?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Look Into My Eyes",
+      "artists": "Of The Trees, EARTHGANG",
+      "release_date": "2026-01-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3472de58d956646d9a34b8f",
+      "spotify_url": "https://open.spotify.com/album/4JoCQNTEXBtF9FdARsICHp",
+      "apple_music_url": "https://music.apple.com/us/search?term=Look%20Into%20My%20Eyes%20Of%20The%20Trees",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "OCTANE",
+      "artists": "Don Toliver",
+      "release_date": "2026-01-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b27322d78c55313a187559efd93b",
+      "spotify_url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN",
+      "apple_music_url": "https://music.apple.com/us/album/octane/1873328276?uo=4",
+      "total_tracks": 18,
+      "album_type": "album"
+    },
+    {
+      "name": "EVERYWHERE I GO (REMIND ME) feat. Kid Cudi",
+      "artists": "BNYX\u00ae, Kid Cudi, R\u00f6yksopp",
+      "release_date": "2026-01-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b27329b9d44066f5211cc732f491",
+      "spotify_url": "https://open.spotify.com/album/05U0USUzKB8vLfdOWggfqC",
+      "apple_music_url": "https://music.apple.com/us/album/everywhere-i-go-remind-me-single/1871603457?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -101,13 +121,13 @@
       "album_type": "single"
     },
     {
-      "name": "Moses the Black Soundtrack",
-      "artists": "Wiz Khalifa",
+      "name": "Gangsta Grillz: E.M.N.T - The Credits",
+      "artists": "The Game, DJ Drama, Mike & Keys",
       "release_date": "2026-01-30",
-      "image": "https://i.scdn.co/image/ab67616d0000b273680eb79d7a2ec98d8cef8a37",
-      "spotify_url": "https://open.spotify.com/album/2knkV6t5W22vZEzsnrGf25",
-      "apple_music_url": "https://music.apple.com/us/search?term=Moses%20the%20Black%20Soundtrack%20Wiz%20Khalifa",
-      "total_tracks": 9,
+      "image": "https://i.scdn.co/image/ab67616d0000b273abec02660930a14acfd33b03",
+      "spotify_url": "https://open.spotify.com/album/2w0jwPdSW05hCec0BFdz1T",
+      "apple_music_url": "https://music.apple.com/us/search?term=Gangsta%20Grillz%3A%20E.M.N.T%20-%20The%20Credits%20The%20Game",
+      "total_tracks": 28,
       "album_type": "album"
     },
     {
@@ -126,7 +146,7 @@
       "release_date": "2026-01-29",
       "image": "https://i.scdn.co/image/ab67616d0000b2731721c9a64598d0edd97d5645",
       "spotify_url": "https://open.spotify.com/album/4UJQHVfSL5BtCxxBKwwtwt",
-      "apple_music_url": "https://music.apple.com/us/album/azucar-single/1869409879?uo=4",
+      "apple_music_url": "https://music.apple.com/us/album/azucar-single/1869619248?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -136,17 +156,37 @@
       "release_date": "2026-01-29",
       "image": "https://i.scdn.co/image/ab67616d0000b2734009f94bf6926fbea5d57c6a",
       "spotify_url": "https://open.spotify.com/album/3XCJ3VPCpHG7nvdOHYJcnA",
-      "apple_music_url": "https://music.apple.com/us/album/azucar-single/1869409879?uo=4",
+      "apple_music_url": "https://music.apple.com/us/album/azucar-single/1869619248?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
     {
-      "name": "Shotta Flow 8",
-      "artists": "NLE Choppa",
+      "name": "Rosary (feat. Travis Scott)",
+      "artists": "Don Toliver, Travis Scott",
       "release_date": "2026-01-29",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e0148f4fe7beebd8f738a87d",
-      "spotify_url": "https://open.spotify.com/album/3MBbszrix6IeqknqMvOWgD",
-      "apple_music_url": "https://music.apple.com/us/album/shotta-flow-8-single/1872848319?uo=4",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b6683831d5c4bc2c610820bc",
+      "spotify_url": "https://open.spotify.com/album/0OjioWd24vh1Zn8xTIskK6",
+      "apple_music_url": "https://music.apple.com/us/search?term=Rosary%20Don%20Toliver",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "K9 (feat. SahBabii)",
+      "artists": "Don Toliver, SahBabii",
+      "release_date": "2026-01-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b27340e33e3105a5f8ca8d179aee",
+      "spotify_url": "https://open.spotify.com/album/4JuTWPijdO4FTjbW5lDYix",
+      "apple_music_url": "https://music.apple.com/us/search?term=K9%20Don%20Toliver",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "All The Signs (feat. Teezo Touchdown)",
+      "artists": "Don Toliver, Teezo Touchdown",
+      "release_date": "2026-01-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be02b3d14d8493f5e5b9bd28",
+      "spotify_url": "https://open.spotify.com/album/3G9TRSwLR6hMo1IwKJVA9t",
+      "apple_music_url": "https://music.apple.com/us/search?term=All%20The%20Signs%20Don%20Toliver",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -187,6 +227,16 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273088b25eeff786a599f523f58",
       "spotify_url": "https://open.spotify.com/album/5dV3ztqRuAWAbyAnZsDaDh",
       "apple_music_url": "https://music.apple.com/us/search?term=Battle%20Kyle%20Richh",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "BOOMERANG (with Coi Leray)",
+      "artists": "DaBaby, Coi Leray",
+      "release_date": "2026-01-28",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f408291f115dea4ec72419e",
+      "spotify_url": "https://open.spotify.com/album/57dvW0VjhQVa3mP55m38a6",
+      "apple_music_url": "https://music.apple.com/us/search?term=BOOMERANG%20%28with%20Coi%20Leray%29%20DaBaby",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -236,7 +286,7 @@
       "release_date": "2026-01-23",
       "image": "https://i.scdn.co/image/ab67616d0000b273947adaa11746ca725e280667",
       "spotify_url": "https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO",
-      "apple_music_url": "https://music.apple.com/us/album/down-south-single/1861011428?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Down%20South%20Trap%20Dickey",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -356,7 +406,7 @@
       "release_date": "2026-01-18",
       "image": "https://i.scdn.co/image/ab67616d0000b2734b4019f6b27b37d6b47af6b9",
       "spotify_url": "https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa",
-      "apple_music_url": "https://music.apple.com/us/search?term=LET%20%27EM%20KNOW%20T.I.",
+      "apple_music_url": "https://music.apple.com/us/album/let-em-know-single/1870680328?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -487,6 +537,16 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27373d4087b940444191075c2ea",
       "spotify_url": "https://open.spotify.com/album/32WQtYP373MGWfRAn1MpbT",
       "apple_music_url": "https://music.apple.com/us/search?term=FISH%20N%20STEAK%20%28WHAT%20IT%20IS%29%20A%24AP%20Rocky",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "One of Them Ones",
+      "artists": "Veeze, Lil Baby, Rylo Rodriguez",
+      "release_date": "2026-01-15",
+      "image": "https://i.scdn.co/image/ab67616d0000b273661e0b57e11c8bc07f9b3070",
+      "spotify_url": "https://open.spotify.com/album/6BSSbV1Y5fR3YTBELek1j4",
+      "apple_music_url": "https://music.apple.com/us/search?term=One%20of%20Them%20Ones%20Veeze",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -891,16 +951,6 @@
       "album_type": "album"
     },
     {
-      "name": "LETTER TO MY YN",
-      "artists": "DaBaby",
-      "release_date": "2025-12-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736bebcb12cb11ff76d9cc45ef",
-      "spotify_url": "https://open.spotify.com/album/30uCWTjeGVO5eGoLO5K1tu",
-      "apple_music_url": "https://music.apple.com/us/search?term=LETTER%20TO%20MY%20YN%20DaBaby",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Used 2 Love",
       "artists": "Lil Tjay",
       "release_date": "2025-12-12",
@@ -1126,7 +1176,7 @@
       "release_date": "2025-12-05",
       "image": "https://i.scdn.co/image/ab67616d0000b273dc13064829d7feeba61ddb92",
       "spotify_url": "https://open.spotify.com/album/1Kd1W0uSpaJuRUrbBvoa2D",
-      "apple_music_url": "https://music.apple.com/us/album/44-bars-single/1854252776?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=44%20Bars%20Ludacris",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1156,7 +1206,7 @@
       "release_date": "2025-12-05",
       "image": "https://i.scdn.co/image/ab67616d0000b2734bbe1cd236f057c060164bfb",
       "spotify_url": "https://open.spotify.com/album/5sxWbcG18OHXcvpfjuMHHj",
-      "apple_music_url": "https://music.apple.com/us/album/thats-it-single/1844722451?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=That%27s%20It%20Mafia%20Beatz",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1209,16 +1259,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=The%20Leaks%20Lil%20Baby",
       "total_tracks": 15,
       "album_type": "album"
-    },
-    {
-      "name": "Regular",
-      "artists": "Lil Uzi Vert",
-      "release_date": "2025-12-02",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f50385c970b3e493777ddc73",
-      "spotify_url": "https://open.spotify.com/album/1xtnpw9zgawd67Q5AVdPqX",
-      "apple_music_url": "https://music.apple.com/us/search?term=Regular%20Lil%20Uzi%20Vert",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -1245,405 +1285,405 @@
   ],
   "news": [
     {
-      "title": "Deftones Rights Sale to Warner Music Follows Explosive Growth in Catalog\u00a0Activity",
-      "link": "https://www.billboard.com/pro/deftones-catalog-sale-warner-wmg-deal-music-rights-worth/",
+      "title": "Kim Gordon announces \u2018Play Me\u2019 2026 UK and European tour",
+      "link": "https://www.nme.com/news/music/kim-gordon-announces-play-me-2026-uk-and-european-tour-3926738?utm_source=rss&utm_medium=rss&utm_campaign=kim-gordon-announces-play-me-2026-uk-and-european-tour",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-31 17:23",
+      "summary": "\nThe former Sonic Youth musician is releasing her third solo album in March\nThe post Kim Gordon announces &#8216;Play Me&#8217; 2026 UK and European tour appeared first on NME."
+    },
+    {
+      "title": "Billboard News\u2019 Pre-Show to Music\u2019s Hottest Night: A Breakdown of Nominees, Predictions & More | Billboard\u00a0News",
+      "link": "https://www.billboard.com/video/musics-hottest-night-breakdown-nominees-predictions/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-01-30 17:30",
-      "summary": "The sale likely took place within the past two years, during a period of significant growth in the band's consumption numbers."
+      "published": "2026-01-31 17:00",
+      "summary": "The 2026 Grammys are on Sunday, February 1st, and nominees Ayra Starr, PlaqueBoyMax, PinkPantheress, Cirkut and more sat with Billboard experts to share their reaction to being nominated and what\u2019s to..."
     },
     {
-      "title": "5 New Rock + Metal Albums Announced This Week to Look Forward To",
-      "link": "https://loudwire.com/new-rock-metal-albums-jan-25-29-2026/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-30 17:24",
-      "summary": "UNFD / Napalm / MNRK Heavy"
+      "title": "Watch Foo Fighters and Taylor Momsen cover Mariah Carey\u2019s lost \u201890s grunge songs at LA MusiCares tribute show",
+      "link": "https://www.nme.com/news/music/watch-foo-fighters-and-taylor-momsen-cover-mariah-careys-lost-90s-grunge-songs-at-la-musicares-tribute-show-3926734?utm_source=rss&utm_medium=rss&utm_campaign=watch-foo-fighters-and-taylor-momsen-cover-mariah-careys-lost-90s-grunge-songs-at-la-musicares-tribute-show",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-31 16:50",
+      "summary": "\nThe pop superstar recorded the alt-rock inspired record 'Someone's Ugly Daughter' in 1995 but it remains largely unreleased\nThe post Watch Foo Fighters and Taylor Momsen cover Mariah Carey\u2019s lost \u201890..."
     },
     {
-      "title": "Kennedy Center Head Says the Acts Who\u2019ve Canceled Are \u201cNiche Talent\u201d",
-      "link": "https://consequence.net/2026/01/kennedy-center-head-niche-acts/",
+      "title": "Foo Fighters and Taylor Momsen Cover Mariah Carey\u2019s Grunge Songs at MusiCares Concert",
+      "link": "https://consequence.net/2026/01/foo-fighters-taylor-momsen-mariah-carey-musiccares/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-01-30 17:23",
-      "summary": "Ric Grenell argues that a lot of these acts \"could not get a supply and demand audience. They couldn't participate in capitalism.\"\nKennedy Center Head Says the Acts Who&#8217;ve Canceled Are &#8220;Ni..."
+      "published": "2026-01-31 16:35",
+      "summary": "They performed a pair of songs from Carey's unreleased '90s grunge album Someone's Ugly Daughter.\nFoo Fighters and Taylor Momsen Cover Mariah Carey&#8217;s Grunge Songs at MusiCares Concert\nAlex Young"
     },
     {
-      "title": "Ninajirachi taps horsegiirL for \u201cDelete (Remix)\u201d",
-      "link": "https://www.thefader.com/2026/01/30/ninajirachi-horsegiirl-delete-remix",
+      "title": "KATSEYE to Make Late-Night Debut on \u2018The Tonight Show\u2019: All the\u00a0Details",
+      "link": "https://www.billboard.com/music/pop/katseye-tonight-show-details-late-night-debut-1236163439/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-31 16:00",
+      "summary": "Global girl group will sit down with Jimmy Fallon on Wednesday's show."
+    },
+    {
+      "title": "Red Hot Chili Peppers Distance Themselves from New Netflix Documentary",
+      "link": "https://consequence.net/2026/01/red-hot-chili-peppers-distance-themselves-from-new-netflix-documentary/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-31 15:54",
+      "summary": "\"This documentary is now being advertised as a Red Hot Chili Peppers documentary, which it is not.\"\nRed Hot Chili Peppers Distance Themselves from New Netflix Documentary\nAlex Young"
+    },
+    {
+      "title": "Demond Wilson, Lamont in Sanford and Son, Dead at 79",
+      "link": "https://consequence.net/2026/01/demond-wilson-sanford-and-son-dead/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-31 15:14",
+      "summary": "The sitcom actor passed away complications related to cancer.\nDemond Wilson, Lamont in Sanford and Son, Dead at 79\nScoop Harrison"
+    },
+    {
+      "title": "\u2018Saturday Night Live\u2019: How to Watch the Sketch Comedy Show Online Without Cable for\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-online-free-9546472/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-31 15:00",
+      "summary": "Alexander Skarsg\u00e5rd hosts, while Cardi B performs as musical guest on Saturday, Jan. 31."
+    },
+    {
+      "title": "Boza Joins \u2018Latin Grammy in the Schools\u2019 in Panama & More Uplifting Moments in Latin\u00a0Music",
+      "link": "https://www.billboard.com/music/latin/boza-latin-grammy-panama-tito-double-p-peso-pluma-tour-1236168328/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-31 15:00",
+      "summary": "Plus, Tito Double P is confirmed as a special guest for the Dinast\u00eda by Peso Pluma &#38; Friends U.S. Tour."
+    },
+    {
+      "title": "Inside MusiCares\u2019 Person of the Year Gala Honoring Mariah Carey, Featuring Foo Fighters, Busta Rhymes, Laufey &\u00a0More",
+      "link": "https://www.billboard.com/music/awards/mariah-carey-musicares-person-of-the-year-gala-2026-recap-1236168685/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-31 14:35",
+      "summary": "Jennifer Hudson, Kesha and John Legend were also among those paying homage to Carey at the annual fundraiser."
+    },
+    {
+      "title": "Swishahouse Founder Michael \u20185000\u2019 Watts Dead at\u00a052",
+      "link": "https://www.billboard.com/music/rb-hip-hop/michael-5000-watts-dead-swishahouse-founder-1236168672/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-31 14:27",
+      "summary": "Watts' family confirmed the Houston rap pioneer's passing in a statement on Friday (Jan. 30)."
+    },
+    {
+      "title": "2026 Rock + Metal Festival + Cruise Guide",
+      "link": "https://loudwire.com/2026-rock-metal-festival-cruise-guide/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-31 12:00",
+      "summary": "Roger Kisby, Getty Images"
+    },
+    {
+      "title": "Deftones sell bulk of music publishing rights to Warner Music Group",
+      "link": "https://www.nme.com/news/music/deftones-sell-bulk-of-music-publishing-rights-to-warner-music-group-3926721?utm_source=rss&utm_medium=rss&utm_campaign=deftones-sell-bulk-of-music-publishing-rights-to-warner-music-group",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-31 11:35",
+      "summary": "\nThe deal is thought to be worth between \u00a330million and \u00a350million\nThe post Deftones sell bulk of music publishing rights to Warner Music Group appeared first on NME."
+    },
+    {
+      "title": "Primal Scream thank Simone Marie Butler for \u201cpositive energy, feminine glamour and committed musicianship\u201d after bassist\u2019s departure",
+      "link": "https://www.nme.com/news/music/primal-scream-thank-simone-marie-butler-for-positive-energy-feminine-glamour-and-committed-musicianship-after-bassists-departure-3926715?utm_source=rss&utm_medium=rss&utm_campaign=primal-scream-thank-simone-marie-butler-for-positive-energy-feminine-glamour-and-committed-musicianship-after-bassists-departure",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-31 11:25",
+      "summary": "\n\"She will forever be part of the Scream family,\" they wrote, echoing Butler's own words when she announced she was leaving the band\nThe post Primal Scream thank Simone Marie Butler for &#8220;positiv..."
+    },
+    {
+      "title": "Watch Garbage\u2019s Shirley Manson reunite with Angelfish and cover The Stone Roses in Edinburgh",
+      "link": "https://www.nme.com/news/music/watch-garbages-shirley-manson-reunite-with-angelfish-and-cover-the-stone-roses-in-edinburgh-3926701?utm_source=rss&utm_medium=rss&utm_campaign=watch-garbages-shirley-manson-reunite-with-angelfish-and-cover-the-stone-roses-in-edinburgh",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-31 10:44",
+      "summary": "\nThey're due to play another gig at the same venue tonight (January 31)\nThe post Watch Garbage&#8217;s Shirley Manson reunite with Angelfish and cover The Stone Roses in Edinburgh appeared first on NM..."
+    },
+    {
+      "title": "Watch Rosal\u00eda\u00a0play \u2018La Perla\u2019 in surprise appearance at Palestine benefit in Barcelona",
+      "link": "https://www.nme.com/news/music/watch-rosalia-play-la-perla-in-surprise-appearance-at-palestine-benefit-in-barcelona-3926708?utm_source=rss&utm_medium=rss&utm_campaign=watch-rosalia-play-la-perla-in-surprise-appearance-at-palestine-benefit-in-barcelona",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-31 10:36",
+      "summary": "\nShe was an unannounced guest at the fundraiser show on Thursday (January 19)\nThe post Watch Rosal\u00eda\u00a0play &#8216;La Perla&#8217; in surprise appearance at Palestine benefit in Barcelona appeared first..."
+    },
+    {
+      "title": "Red Hot Chili Peppers on being interviewed for new Hillel Slovak-era Netflix documentary: \u201cWe had nothing to do with it creatively \u2013 but we hope it sparks interest in him and his work\u201d",
+      "link": "https://www.nme.com/news/music/red-hot-chili-peppers-on-being-interviewed-for-new-hillel-slovak-era-netflix-documentary-we-had-nothing-to-do-with-it-creatively-but-we-hope-it-sparks-interest-in-him-and-his-work-3926687?utm_source=rss&utm_medium=rss&utm_campaign=red-hot-chili-peppers-on-being-interviewed-for-new-hillel-slovak-era-netflix-documentary-we-had-nothing-to-do-with-it-creatively-but-we-hope-it-sparks-interest-in-him-and-his-work",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-31 09:43",
+      "summary": "\nThe band have stressed that late guitarist Slovak - not them - is the \"central subject\" of the upcoming doc\nThe post Red Hot Chili Peppers on being interviewed for new Hillel Slovak-era Netflix docum..."
+    },
+    {
+      "title": "Watch Bruce Springsteen debut new anti-ICE protest song with surprise appearance at Tom Morello\u2019s Minneapolis benefit show",
+      "link": "https://www.nme.com/news/music/watch-bruce-springsteen-debut-new-anti-ice-protest-song-with-surprise-appearance-at-tom-morellos-minneapolis-benefit-show-3926676?utm_source=rss&utm_medium=rss&utm_campaign=watch-bruce-springsteen-debut-new-anti-ice-protest-song-with-surprise-appearance-at-tom-morellos-minneapolis-benefit-show",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-31 08:44",
+      "summary": "\n\"Nuance is wonderful, but sometimes you have to kick them in the teeth\"\nThe post Watch Bruce Springsteen debut new anti-ICE protest song with surprise appearance at Tom Morello&#8217;s Minneapolis be..."
+    },
+    {
+      "title": "The Molotovs on shutting down naysayers: \u201cThey don\u2019t see the slog for the past six years\u201d",
+      "link": "https://www.nme.com/news/music/the-molotovs-interview-wasted-youth-yungblud-blondie-sex-pistols-criticism-tour-3926633?utm_source=rss&utm_medium=rss&utm_campaign=the-molotovs-interview-wasted-youth-yungblud-blondie-sex-pistols-criticism-tour",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-31 08:00",
+      "summary": "\nThe teenage punk duo of siblings tell NME about building their fanbase in the gig room, \"nepo baby\" accusations, co-signs from Blondie, Sex Pistols and Yungblud, and why they\u2019re re-shaping hate into ..."
+    },
+    {
+      "title": "Sombr Covers Olivia Dean\u2019s Hottest 100 Winner \u2018Man I Need\u2019 for triple j\u2019s Like a\u00a0Version",
+      "link": "https://www.billboard.com/music/music-news/sombr-like-a-version-olivia-dean-1236168679/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-31 07:49",
+      "summary": "Sombr praised Dean as \u201ca really inspiring and incredible artist,\u201d adding that the song immediately stood out to him."
+    },
+    {
+      "title": "Paris Hilton Says a Britney Spears Collaboration Would Be a \u2018Dream Come\u00a0True\u2019",
+      "link": "https://www.billboard.com/music/music-news/paris-hilton-teases-music-britney-spears-1236168671/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-31 06:44",
+      "summary": "\"I was just with her recently talking about music again,\" Hilton said."
+    },
+    {
+      "title": "\u2018What a Gift\u2019: Hollywood Remembers Catherine\u00a0O\u2019Hara",
+      "link": "https://www.billboard.com/culture/tv-film/catherine-ohara-tributes-1236168667/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-31 05:59",
+      "summary": "Dan Levy, Macaulay Culkin and Martin Scorsese were among the stars to pay tribute to the actress following her death at age 71."
+    },
+    {
+      "title": "Ricardo Arjona Kicks Off His \u2018Lo Que El Seco No Dijo\u2019 U.S. Tour: Here\u2019s the Full\u00a0Setlist",
+      "link": "https://www.billboard.com/lists/ricardo-arjona-tour-lo-que-el-seco-no-dijo-full-setlist/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-01-31 05:00",
+      "summary": "The Guatemalan singer/songwriter delighted his fans in Chicago with classics like \"Historia de Taxi\" and \"Mujeres,\" as well as songs from Seco, his latest album."
+    },
+    {
+      "title": "Red Hot Chili Peppers Distance Band From Upcoming Doc: \u2018We Had Nothing to Do With it Creatively\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/red-hot-chili-peppers-netflix-documentary-distance-1235508559/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-31 04:58",
+      "summary": "The band said that late guitarist Hillel Slovak was the \"central subject\" of the Netflix documentary"
+    },
+    {
+      "title": "Bruce Springsteen Joins Tom Morello at Anti-Ice Show in Minneapolis: \u2018Sometimes You Have to Kick Them in the Teeth\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/bruce-springsteen-minneapolis-ice-concert-tom-morello-1235508440/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-01-31 00:16",
+      "summary": "The singer performed at a benefit concert organized by the Rage Against the Machine guitarist"
+    },
+    {
+      "title": "Na-Kel Smith raps like he\u2019s lucid dreaming on NAK",
+      "link": "https://www.thefader.com/2026/01/30/na-kel-smith-nak-review",
       "source": "The FADER",
       "category": "hiphop",
-      "published": "2026-01-30 17:23",
-      "summary": "Everyone\u2019s favorite equestrian gives \u201cDelete\u201d a hardstyle makeover"
+      "published": "2026-01-30 23:47",
+      "summary": "The skater-turned-rapper\u2019s hypnotic new album is fine-tuned to reward close listening."
     },
     {
-      "title": "Netflix\u2019s \u2018The Rise of the Red Hot Chili Peppers\u2019 Documentary To Chronicle Early Years With Late Guitarist Hillel\u00a0Slovak",
-      "link": "https://www.billboard.com/music/rock/netflix-rise-of-red-hot-chili-peppers-documentary-slovak-1236167830/",
-      "source": "Billboard",
+      "title": "Melania Is Too Stupid and Shallow to Be Effective Propaganda: Review",
+      "link": "https://consequence.net/2026/01/melania-review-documentary-amazon-trump/",
+      "source": "Consequence",
       "category": "general",
-      "published": "2026-01-30 17:17",
-      "summary": "The funk-punk band's original guitarist and co-founder died in 1988."
+      "published": "2026-01-30 23:04",
+      "summary": "Brett Ratner directs a flat and lifeless portrait of the First Lady and her \"creative vision\" for the country.\nMelania Is Too Stupid and Shallow to Be Effective Propaganda: Review\nLiz Shannon Miller"
     },
     {
-      "title": "Shaboozey Wants to Collab With The Mar\u00edas, Alex Warren & More, Playing at a Benson Boone Show | Spotify Best New Artist Party\u00a02026",
-      "link": "https://www.billboard.com/video/shaboozey-wants-to-collab-with-the-marias-alex-warren/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-30 17:08",
-      "summary": "Shaboozey caught up with Billboard&#8217;s Tetris Kelly at the Spotify Best New Artist Party 2026."
+      "title": "Nicki Minaj Wanted Don Lemon to Be Arrested, Now He Is",
+      "link": "https://www.xxlmag.com/nicki-minaj-don-lemon-arrested-church-protest/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-01-30 22:50",
+      "summary": "Taylor Hill/Astrid Stawiarz/Getty Images (2)"
     },
     {
-      "title": "Bruno Mars Is the 2026 Record Store Day Ambassador",
-      "link": "https://www.rollingstone.com/music/music-news/bruno-mars-2026-record-store-day-ambassador-1235507453/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-30 17:00",
-      "summary": "The star will release a compilation album, The Collaborations, on April 18"
-    },
-    {
-      "title": "Jon Bellion and Swae Lee Open \u2018Two Car Garage\u2019 as Musicow Preps Fan Royalty\u00a0Investment",
-      "link": "https://www.billboard.com/pro/jon-bellion-swae-lee-musicow-royalty-investment/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-30 17:00",
-      "summary": "The track was released through Musicow, where fans will soon be able to buy investment shares linked to the song's royalty revenue."
-    },
-    {
-      "title": "Here Are All the Performers & Presenters for the 2026 Grammy\u00a0Awards",
-      "link": "https://www.billboard.com/music/awards/2026-grammy-awards-performers-presenters-list-1236167770/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-30 17:00",
-      "summary": "Just three artists who performed on the 2025 Grammy telecast are returning to perform again this year."
-    },
-    {
-      "title": "Bruno Mars to Perform at 2026 Grammy Awards, Where He May Make\u00a0History",
-      "link": "https://www.billboard.com/music/awards/bruno-mars-2026-grammy-awards-performer-1236167787/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-30 17:00",
-      "summary": "If \u201cAPT.\u201d wins record of the year, he'll become the first four-time winner in the history of the category."
-    },
-    {
-      "title": "Hayley Williams launches new band Power Snatch with three new singles",
-      "link": "https://www.nme.com/news/music/hayley-williams-launches-new-band-power-snatch-with-three-new-singles-3926611?utm_source=rss&utm_medium=rss&utm_campaign=hayley-williams-launches-new-band-power-snatch-with-three-new-singles",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-30 16:58",
-      "summary": "\nShe formed the band with longtime collaborator Daniel James, and secretly started sharing music last summer\nThe post Hayley Williams launches new band Power Snatch with three new singles appeared fir..."
-    },
-    {
-      "title": "A Timeline of Jim Jones & Cam\u2019ron\u2019s Never-Ending\u00a0Feud",
-      "link": "https://www.billboard.com/lists/jim-jones-camron-feud-timeline/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-30 16:56",
-      "summary": "From Dipset to detractors, a look into the fractured relationship of the Diplomats."
-    },
-    {
-      "title": "BLACKPINK Reveals \u2018Sensual\u2019 Concept Photos With \u2018Irresistible Aura\u2019 Ahead of New Album \u2018DEADLINE\u2019",
-      "link": "https://www.billboard.com/music/music-news/blackpink-deadline-album-concept-teaser-posters-1236167838/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-30 16:56",
-      "summary": "The pictures come just under a month ahead of the band's first collection of songs in years."
-    },
-    {
-      "title": "Listen to Hayley Williams\u2019 New Project, Power Snatch",
-      "link": "https://pitchfork.com/news/listen-to-hayley-williams-new-project-power-snatch/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-30 16:49",
-      "summary": "The singer has teamed up with Daniel James, the producer of her last album, Ego Death at a Bachelorette Party"
-    },
-    {
-      "title": "The Best Super Bowl Deals on Big Screen 4K TVs: Save Up to 50% at\u00a0Walmart",
-      "link": "https://www.billboard.com/culture/product-recommendations/best-sales-big-screen-tvs-where-to-buy-online-1235596146/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-30 16:47",
-      "summary": "From Samsung to Vizio, save big on a massive 4K TV ahead of the Big Game."
-    },
-    {
-      "title": "Sombr\u2019s \u2018Back to Friends\u2019 Hits No. 1 on Pop Airplay\u00a0Chart",
-      "link": "https://www.billboard.com/music/chart-beat/sombr-back-to-friends-number-one-pop-airplay-chart-1236167490/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-01-30 16:44",
-      "summary": "The song marks a rare self-penned and self-produced leader, as well as a crossover Alternative Airplay No. 1."
-    },
-    {
-      "title": "Georgia Gets By prepping debut LP, shares \u201cFaded Rose\u201d",
-      "link": "https://www.brooklynvegan.com/georgia-gets-by-prepping-debut-lp-shares-faded-rose/",
+      "title": "Tour news: Warped Tour, Whatmore, Annahstasia, SASAMI, fanclubwallet, Outbreak Fest, more",
+      "link": "https://www.brooklynvegan.com/tour-news-warped-tour-whatmore-annahstasia-sasami-fanclubwallet-outbreak-fest-more/",
       "source": "Brooklyn Vegan",
       "category": "general",
-      "published": "2026-01-30 16:43",
-      "summary": "It follows her 2024 and 2023 EPs under the moniker."
+      "published": "2026-01-30 22:40",
+      "summary": "It&#8217;s your daily roundup of tour and festival news."
     },
     {
-      "title": "Hayley Williams reveals new project Power Snatch",
-      "link": "https://www.altpress.com/hayley-williams-power-snatch-dm-listen/",
+      "title": "Our Favorite Songs of the Week (Playlist)",
+      "link": "https://www.brooklynvegan.com/our-favorite-songs-of-the-week-playlist-227/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-30 22:10",
+      "summary": "This week: Bruce Springsteen, Kneecap, The Alchemist &#038; Budgie (ft Roc Marciano), Him Horrison, RIP Magic, ADULT., Plantoid, The Saddest Landscape, Billy Bragg, and more"
+    },
+    {
+      "title": "7 New Songs Out Today",
+      "link": "https://www.brooklynvegan.com/7-new-songs-out-today-40/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-30 21:59",
+      "summary": "Listen to new songs from Noah Kahan, The Messthetics &#038; James Brandon Lewis, corook, Earth Tongue, JJEROME87 of alt-J, and more"
+    },
+    {
+      "title": "Ice-T \u201cjust protesting\u201d as he changes \u2018Cop Killer\u2019 lyrics to \u2018ICE Killer\u2019 with America \u201cheaded to some really ugly terrain\u201d",
+      "link": "https://www.nme.com/news/music/ice-t-just-protesting-as-he-changes-cop-killer-lyrics-to-ice-killer-with-america-headed-to-some-really-ugly-terrain-3926627?utm_source=rss&utm_medium=rss&utm_campaign=ice-t-just-protesting-as-he-changes-cop-killer-lyrics-to-ice-killer-with-america-headed-to-some-really-ugly-terrain",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-01-30 21:40",
+      "summary": "\nIce-T first altered the lyrics during a show in Los Angeles in the summer, at a time when ICE were active in the city\nThe post Ice-T &#8220;just protesting&#8221; as he changes \u2018Cop Killer\u2019 lyrics to..."
+    },
+    {
+      "title": "Bruce Springsteen Plays Surprise Set at Tom Morello-Led Anti-ICE Concert in Minneapolis",
+      "link": "https://consequence.net/2026/01/bruce-springsteen-surprise-tom-morello-anti-ice-concert-minneapolis/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-30 21:08",
+      "summary": "The Boss performed three songs, including his new protest anthem \"Streets of Minneapolis.\"\nBruce Springsteen Plays Surprise Set at Tom Morello-Led Anti-ICE Concert in Minneapolis\nSpencer Kaufman"
+    },
+    {
+      "title": "Charli xcx The Moment review: Brat summer is hell",
+      "link": "https://www.thefader.com/2026/01/30/charli-xcx-the-moment-movie-review",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-01-30 20:57",
+      "summary": "The British pop star\u2019s dark mockumentary mines the horrific underbelly of the music industry, and her simmering feud with Taylor Swift."
+    },
+    {
+      "title": "Watch Bruce Springsteen debut \u201cStreets of Minneapolis\u201d as surprise guest at First Avenue benefit show",
+      "link": "https://www.brooklynvegan.com/watch-bruce-springsteen-debut-streets-of-minneapolis-as-surprise-guest-at-first-avenue-benefit-show/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-30 20:52",
+      "summary": "Tom Morello and Rise Against also performed."
+    },
+    {
+      "title": "Deftones Sell Most of Their Music Rights to Warner Music Group",
+      "link": "https://consequence.net/2026/01/deftones-sell-music-rights-warner-music-group/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-30 20:41",
+      "summary": "The deal took place sometime in the last two years, but is just being reported now.\nDeftones Sell Most of Their Music Rights to Warner Music Group\nSpencer Kaufman"
+    },
+    {
+      "title": "Bruce Springsteen Plays Surprise Set at Morello's MN Benefit Show",
+      "link": "https://loudwire.com/bruce-springsteen-tom-morello-minnesota-benefit-concert/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-30 20:13",
+      "summary": "Getty Images/jason.gabbert.946 via Instagram"
+    },
+    {
+      "title": "Macaulay Culkin Mourns Catherine O\u2019Hara: \u201cI Thought We Had Time\u201d",
+      "link": "https://consequence.net/2026/01/macaulay-culkin-catherine-ohara-death-tribute/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-30 20:02",
+      "summary": "Culkin famously played O\u2019Hara\u2019s son in the Home Alone movies.\nMacaulay Culkin Mourns Catherine O&#8217;Hara: &#8220;I Thought We Had Time&#8221;\nEddie Fu"
+    },
+    {
+      "title": "Celebs React to Catherine O\u2019Hara\u2019s Death: \u201cChanged How So Many of Us Understand Comedy\u201d",
+      "link": "https://consequence.net/2026/01/catherine-ohara-death-celebrity-reactions-tributes/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-30 19:40",
+      "summary": "Macaulay Culkin, Pedro Pascal, and Ron Howard all shared tributes.\nCelebs React to Catherine O&#8217;Hara&#8217;s Death: &#8220;Changed How So Many of Us Understand Comedy&#8221;\nEddie Fu"
+    },
+    {
+      "title": "5 Best Rap Albums of January 2026",
+      "link": "https://www.brooklynvegan.com/5-best-rap-albums-of-january-2026/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-01-30 19:37",
+      "summary": "Here are five rap albums not to miss from the past month."
+    },
+    {
+      "title": "AP A-sides: 10 songs you need to hear",
+      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-january-30-2026/",
       "source": "Alternative Press",
       "category": "rock",
-      "published": "2026-01-30 16:34",
-      "summary": "Made with longtime collaborator Daniel James, the duo premiered their song \u201cAssignment\u201d on Apple Music Radio."
+      "published": "2026-01-30 19:37",
+      "summary": "Our favorite new songs, updated weekly."
     },
     {
-      "title": "See Paul Mescal, Barry Keoghan, Harris Dickinson & Joseph Quinn as The Beatles: first images from Sam Mendes\u2019 4 biopics",
-      "link": "https://www.brooklynvegan.com/see-paul-mescal-barry-keoghan-harris-dickinson-joseph-quinn-as-the-beatles-first-images-from-sam-mendes-4-biopics/",
+      "title": "Sudan Archives played Webster Hall with Halima (pics, video)",
+      "link": "https://www.brooklynvegan.com/sudan-archives-played-webster-hall-with-halima-pics-video/",
       "source": "Brooklyn Vegan",
       "category": "general",
-      "published": "2026-01-30 16:24",
-      "summary": "The Beatles \u2013 A Four-Film Cinematic Event will be released in theaters in April 2028"
+      "published": "2026-01-30 18:54",
+      "summary": "Her sold out NYC show happened on her birthday."
     },
     {
-      "title": "Harry Styles\u2019 2026 MSG Residency Is Sold Out \u2014 Here\u2019s How You Can Still Get Tickets",
-      "link": "https://consequence.net/2026/01/harry-styles-2026-msg-residency-sold-out-ticket-guide/",
+      "title": "Bruno Mars to Perform at 2026 Grammys",
+      "link": "https://pitchfork.com/news/bruno-mars-to-perform-at-2026-grammys/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-01-30 18:24",
+      "summary": "He joins a lineup that includes Lady Gaga, Lauryn Hill, and his \u201cApt.\u201d duet partner Ros\u00e9"
+    },
+    {
+      "title": "Catherine O\u2019Hara, Singular Force of Comedy and Improv, Dead at 71",
+      "link": "https://consequence.net/2026/01/catherine-ohara-dead/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-01-30 16:20",
-      "summary": "If you missed the pre-sale for Harry Styles' upcoming 2026 residency, there are still ways to get your hands on tickets.\nHarry Styles&#8217; 2026 MSG Residency Is Sold Out \u2014 Here\u2019s How You Can Still G..."
+      "published": "2026-01-30 18:20",
+      "summary": "Best known for her roles in Home Alone, Best in Show, and Schitt\u2019s Creek\nCatherine O&#8217;Hara, Singular Force of Comedy and Improv, Dead at 71\nAlex Young and Ben Kaye"
     },
     {
-      "title": "Lykke Li says new album \u2018The Afterparty\u2019 might be her last: \u201cIt was a motherfucker to make\u201d",
-      "link": "https://www.nme.com/news/music/lykke-li-says-new-album-the-afterparty-might-be-her-last-it-was-a-motherfucker-to-make-3926595?utm_source=rss&utm_medium=rss&utm_campaign=lykke-li-says-new-album-the-afterparty-might-be-her-last-it-was-a-motherfucker-to-make",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-30 16:07",
-      "summary": "\nShe told fans at a private listening party that it was \u201cmy sixth album, and maybe my final\u201d\nThe post Lykke Li says new album &#8216;The Afterparty&#8217; might be her last: &#8220;It was a motherfuck..."
+      "title": "Warped Tour Announces First Bands for 2026 Lineup",
+      "link": "https://loudwire.com/warped-tour-first-band-2026-lineup/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-01-30 18:17",
+      "summary": "Warped Tour"
     },
     {
-      "title": "Artists on their first gigs and why independent venues matter: \u201cIt\u2019s where you\u2019ll learn the most valuable lessons\u201d",
-      "link": "https://www.nme.com/news/music/indepdendent-venue-week-2026-artist-interviews-why-matter-nova-twins-dream-wife-brogeal-the-cause-eve-goodman-3926326?utm_source=rss&utm_medium=rss&utm_campaign=indepdendent-venue-week-2026-artist-interviews-why-matter-nova-twins-dream-wife-brogeal-the-cause-eve-goodman",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-30 16:05",
-      "summary": "\nFor Independent Venue Week 2026, artist ambassadors and performers Nova Twins, Dream Wife, The Clause, Br\u00f2geal\u00a0and Eve Goodman tell NME about formative shows and why we need to keep small gig spaces ..."
-    },
-    {
-      "title": "Brian May Says U.S. Now Too \u2018Dangerous\u2019 for Queen Concerts: \u2018Everyone Is Thinking Twice\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/brian-may-us-too-dangerous-for-queen-concerts-1235507483/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-30 15:56",
-      "summary": "Last year, May told Rolling Stone that Queen were discussing shows at the Sphere \u2014 now he says the U.S. has become a \"dangerous place\" and the band will avoid the country"
-    },
-    {
-      "title": "Mac Sabbath Announce Spring 2026 Florida Tour",
-      "link": "https://consequence.net/2026/01/mac-sabbath-spring-2026-florida-tour/",
+      "title": "Vin Diesel Confirms Final Fast Film, Fast Forever, to Release in 2028",
+      "link": "https://consequence.net/2026/01/fast-forever-fast-and-furious-11-release/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-01-30 15:55",
-      "summary": "The fast-food-themed Black Sabbath tribute act have booked a run of shows leading up to the Monsters of Rock cruise.\nMac Sabbath Announce Spring 2026 Florida Tour\nSpencer Kaufman"
+      "published": "2026-01-30 18:15",
+      "summary": "The final Fast and Furious entry will apparently return to its street roots and somehow feature Brian O'Conner's return.\nVin Diesel Confirms Final Fast Film, Fast Forever, to Release in 2028\nBen Kaye"
     },
     {
-      "title": "Stream Joyce Manor\u2019s new album I Used To Go To This Bar",
-      "link": "https://www.altpress.com/joyce-manor-i-used-to-go-to-this-bar-stream/",
+      "title": "Vans Warped Tour Begins Rolling Out 2026 Lineups, Starting with Jimmy Eat World",
+      "link": "https://consequence.net/2026/01/vans-warped-tour-2026-lineups-jimmy-eat-world/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-01-30 18:07",
+      "summary": "The longtime festival will take place in five cities throughout 2026.\nVans Warped Tour Begins Rolling Out 2026 Lineups, Starting with Jimmy Eat World\nPaolo Ragusa"
+    },
+    {
+      "title": "Jimmy Eat World lead off 30-ish Days of Warped",
+      "link": "https://www.altpress.com/warped-tour-announces-30-ish-days-of-warped/",
       "source": "Alternative Press",
       "category": "rock",
-      "published": "2026-01-30 15:50",
-      "summary": "The band also expanded their 2026 tour, including dates with Hot Mulligan."
+      "published": "2026-01-30 18:02",
+      "summary": "The fest will hit Washington, D.C., Long Beach, Orlando, Montreal, Canada, and Mexico City."
     },
     {
-      "title": "Red Hot Chili Peppers Documentary Coming to Netflix",
-      "link": "https://pitchfork.com/news/red-hot-chili-peppers-documentary-coming-to-netflix/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-30 15:36",
-      "summary": "The Ben Feldman\u2013directed doc will focus on the band\u2019s early years and the death of original guitarist Hillel Slovak"
-    },
-    {
-      "title": "15 Rock + Metal Songs Written in Tribute to Late Grunge Musicians",
-      "link": "https://loudwire.com/rock-metal-songs-tribute-grunge-musicians/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-30 15:35",
-      "summary": "Kevin Mazur/WireImage, Getty Images / Tim Mosenfelder, Getty Images / Kevin Winter, Getty Images"
-    },
-    {
-      "title": "Red Hot Chili Peppers Documentary About Hillel Slovak-Era Coming to Netflix",
-      "link": "https://consequence.net/2026/01/rise-of-red-hot-chili-peppers-netflix-documentary-release-date/",
+      "title": "Stream On This Week: Marvel Gets Wonderfully Meta, Rose Byrne\u2019s Stressed, and Samm Levine Recommends",
+      "link": "https://consequence.net/2026/01/stream-on-wonder-man-if-i-had-legs-bridgerton/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-01-30 15:27",
-      "summary": " The Rise of the Red Hot Chili Peppers centers on original guitarist Slovak and the band's early days.\nRed Hot Chili Peppers Documentary About Hillel Slovak-Era Coming to Netflix\nEddie Fu"
+      "published": "2026-01-30 18:00",
+      "summary": "Here's what to stream the weekend of January 30th. \nStream On This Week: Marvel Gets Wonderfully Meta, Rose Byrne&#8217;s Stressed, and Samm Levine Recommends\nLiz Shannon Miller"
     },
     {
-      "title": "See Paul Mescal, Barry Keoghan, and More in First Look at Sam Mendes\u2019 Beatles Biopics",
-      "link": "https://pitchfork.com/news/see-paul-mescal-barry-keoghan-and-more-in-first-look-at-sam-mendes-beatles-biopics/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-30 15:24",
-      "summary": "All four films are currently set for release on April 7, 2028"
-    },
-    {
-      "title": "White House Calls Bruce Springsteen\u2019s ICE Protest Song \u2018Random\u2019 and \u2018Irrelevant\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/bruce-springsteen-ice-protest-song-white-house-comment-1235507433/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-30 15:22",
-      "summary": "Spokeswoman attempts to pivot away from addressing the powerful message in \"Streets of Minneapolis\""
-    },
-    {
-      "title": "Jessie Ware announces new album \u2018Superbloom\u2019: \u201cI\u2019ve been trying out this fantasy world and escapism\u201d",
-      "link": "https://www.nme.com/news/music/jessie-ware-announces-new-album-superbloom-fantasy-world-escapism-3926571?utm_source=rss&utm_medium=rss&utm_campaign=jessie-ware-announces-new-album-superbloom-fantasy-world-escapism",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-30 15:09",
-      "summary": "\nThe \"glittering rush\" of a record arrives this spring \nThe post Jessie Ware announces new album &#8216;Superbloom&#8217;: &#8220;I&#8217;ve been trying out this fantasy world and escapism&#8221; appe..."
-    },
-    {
-      "title": "White House Reacts to Bruce Springsteen\u2019s Anti-ICE Song",
-      "link": "https://loudwire.com/white-house-reacts-bruce-springsteens-streets-of-minneapolis/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-30 15:08",
-      "summary": "Dimitrios Kambouris / Drew Angerer, Getty Images"
-    },
-    {
-      "title": "Heavy Song of the Week: Sevendust Lock into Their Signature Groove on \u201cIs This the Real You?\u201d",
-      "link": "https://consequence.net/2026/01/heavy-song-of-the-week-sevendust-is-this-the-real-you/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-30 15:00",
-      "summary": "The lead single from the alt-metal vets' forthcoming album ONE.\nHeavy Song of the Week: Sevendust Lock into Their Signature Groove on &#8220;Is This the Real You?&#8221;\nJon Hadusek"
-    },
-    {
-      "title": "Grammys 2026: Watch the Best New Artist Nominees Grow Up in Elton John-Narrated Short Film",
-      "link": "https://www.rollingstone.com/music/music-news/grammys-2026-best-new-artist-nominees-elton-john-1235507153/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-01-30 15:00",
-      "summary": "\u201cIt\u2019s the greatest reward in music, seeing a young artist persevere and blossom,\u201d John says in Spotify clip. \u201cIt keeps me alive and inspired\u201d"
-    },
-    {
-      "title": "Mick Mars' Attorney Hits Back After Motley Crue's Big Legal Win",
-      "link": "https://loudwire.com/mick-mars-motley-crue-court-loss/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-30 15:00",
-      "summary": "Kevin Mazur, Getty Images / Kevin Winter, Getty Images"
-    },
-    {
-      "title": "Noah Kahan Crosses \u201cThe Great Divide\u201d into His Next Era with New Single: Stream",
-      "link": "https://consequence.net/2026/01/noah-kahan-the-great-divide-single-stream/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-30 14:57",
-      "summary": "The lead single and title track from the folk pop breakout's new album finds him looking deeper into his past as he assesses his present.\nNoah Kahan Crosses &#8220;The Great Divide&#8221; into His Nex..."
-    },
-    {
-      "title": "11 New Albums You Should Listen to Now: xaviersobased, Shackleton, and Joyce Manor",
-      "link": "https://pitchfork.com/news/11-new-albums-you-should-listen-to-now-xaviersobased-shackleton/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-30 14:50",
-      "summary": "Stream new releases from xaviersobased, Shackleton, and Joyce Manor"
-    },
-    {
-      "title": "Hayley Williams debuts new project Power Snatch",
-      "link": "https://www.brooklynvegan.com/hayley-williams-debuts-new-project-power-snatch/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-30 14:35",
-      "summary": "It\u2019s with producer Daniel James, who worked with her on 2025\u2019s fantastic \u2019Ego Death at a Bachelorette Party.\u2019"
-    },
-    {
-      "title": "Grammy Nominations 2026: See the Full List Here",
-      "link": "https://pitchfork.com/news/grammy-nominations-2026-see-the-full-list-here/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-01-30 14:33",
-      "summary": "Find out who\u2019s nominated for Album of the Year, Song of the Year, Best Rap Album, Best Rock Song, and more"
-    },
-    {
-      "title": "Brian May Rules Out Queen Shows in US: \u201cAmerica Is a Dangerous Place at the Moment\u201d",
-      "link": "https://consequence.net/2026/01/brian-may-no-queen-shows-us-dangerous/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-30 14:26",
-      "summary": "The guitarist won't consider playing concerts in the States at the moment.\nBrian May Rules Out Queen Shows in US: &#8220;America Is a Dangerous Place at the Moment&#8221;\nSpencer Kaufman"
-    },
-    {
-      "title": "First Images from The Beatles Biopic Released",
-      "link": "https://consequence.net/2026/01/beatles-biopic-first-character-images/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-30 14:26",
-      "summary": "See Paul Mescal, Barry Keoghan, Harris Dickinson, and Joseph Quinn in character as The Beatles.\nFirst Images from The Beatles Biopic Released\nAlex Young"
-    },
-    {
-      "title": "Mel C teases Spice Girls reunion stadium tour with Victoria Beckham: \u201cShe has to have that experience\u201d",
-      "link": "https://www.nme.com/news/music/mel-c-teases-spice-girls-reunion-stadium-tour-with-victoria-beckham-she-has-to-have-that-experience-3926541?utm_source=rss&utm_medium=rss&utm_campaign=mel-c-teases-spice-girls-reunion-stadium-tour-with-victoria-beckham-she-has-to-have-that-experience",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-30 14:19",
-      "summary": "\nShe said the former bandmates are \"probably closer now than we have been in a very long time\"\nThe post Mel C teases Spice Girls reunion stadium tour with Victoria Beckham: &#8220;She has to have that..."
-    },
-    {
-      "title": "Brian May Says Queen Won't Tour America - 'A Dangerous Place'",
-      "link": "https://loudwire.com/queens-brian-may-wont-tour-america/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-01-30 14:18",
-      "summary": "Angela Weiss, Getty Images / STILLFX, iStock/Getty Images"
-    },
-    {
-      "title": "Indie Basement (1/30): the week in classic indie, alternative & college rock",
-      "link": "https://www.brooklynvegan.com/album-reviews-1-30-lande-hekt-plantoid-whitelands-cast-guv-sebastien-tellier/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-30 14:06",
-      "summary": "This week: Lande Hekt, Plantoid, Cast, Whitelands, Se\u0301bastien Tellier, GUV, Babybird, and more."
-    },
-    {
-      "title": "Ben Folds Announces 2026 Solo Tour Dates\u2026 With His Piano!",
-      "link": "https://consequence.net/2026/01/ben-folds-announces-2026-solo-tour/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-30 14:05",
-      "summary": "The singer's latest jaunt of \"Ben Folds with a Piano\" runs across May and June.\nBen Folds Announces 2026 Solo Tour Dates&#8230; With His Piano!\nChris Coplan"
-    },
-    {
-      "title": "Win the Miles Davis \u2013 The Complete Live at the Plugged Nickel 1965 Box Set on Vinyl or CD",
-      "link": "https://consequence.net/2026/01/miles-davis-live-at-the-plugged-nickel-giveaway/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-30 14:00",
-      "summary": "Over seven hours of legendary jazz \"anti-music\" is available for the first time in 30 years on 10xLP or 8xCD.\nWin the Miles Davis \u2013 The Complete Live at the Plugged Nickel 1965 Box Set on Vinyl or CD\n..."
-    },
-    {
-      "title": "Notable Releases of the Week (1/30)",
-      "link": "https://www.brooklynvegan.com/joyce-manor-by-storm-red-sun-stabbing-joel-ross-reviews/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-01-30 13:50",
-      "summary": "This week&#8217;s Notable Releases include Joyce Manor, Injury Reserve offshoot By Storm, jazz vibraphonist Joel Ross, and more."
-    },
-    {
-      "title": "Trump Administration slams Bruce Springsteen for \u201cirrelevant\u201d anti-ICE song \u2018Streets Of Minneapolis\u2019",
-      "link": "https://www.nme.com/news/music/trump-administration-slams-bruce-springsteen-for-anti-ice-song-streets-of-minneapolis-3926547?utm_source=rss&utm_medium=rss&utm_campaign=trump-administration-slams-bruce-springsteen-for-anti-ice-song-streets-of-minneapolis",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-01-30 13:47",
-      "summary": "\nThe Boss released the track earlier this week, and dedicated it to \u201cthe people of Minneapolis, our innocent immigrant neighbors and in memory of Alex Pretti and Renee Good\u201d\nThe post Trump Administrat..."
-    },
-    {
-      "title": "Don Lemon Arrested on Federal Charges Tied to Minnesota Church Protest",
-      "link": "https://consequence.net/2026/01/don-lemon-arrested/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-30 13:40",
-      "summary": "Lemon said he was at the protest in a journalistic capacity and that his conduct is protected by the First Amendment.\nDon Lemon Arrested on Federal Charges Tied to Minnesota Church Protest\nScoop Harri..."
-    },
-    {
-      "title": "Staff Picks: Best Albums of January 2026",
-      "link": "https://consequence.net/2026/01/staff-picks-best-albums-of-january-2026/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-01-30 13:30",
-      "summary": "Here are our staff's favorite albums of January 2026, including new records from Zach Bryan, Softcult, Robbie Williams, Peaer, and more.\nStaff Picks: Best Albums of January 2026\nJonah Krueger and Cons..."
+      "title": "Is The Fresh Prince Theme the Biggest Hip-Hop Song in History?",
+      "link": "https://www.xxlmag.com/is-the-fresh-prince-theme-song-the-biggest-hip-hop-song-in-history/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-01-30 17:33",
+      "summary": "Chris Cuffaio/NBCU"
     }
   ],
-  "last_updated": "2026-01-30T17:38:40.160853"
+  "last_updated": "2026-01-31T17:28:23.290865"
 }

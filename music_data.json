@@ -11,16 +11,6 @@
       "album_type": "album"
     },
     {
-      "name": "What Do You Like",
-      "artists": "Bizzy Crook, Ty Dolla $ign",
-      "release_date": "2026-02-06",
-      "image": "https://i.scdn.co/image/ab67616d0000b27352980b6bc655543230ce4984",
-      "spotify_url": "https://open.spotify.com/album/4VJoC6Rb3d8ENAnByzeCDX",
-      "apple_music_url": "https://music.apple.com/us/album/what-do-you-like-single/1869102141?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Y si peleamos",
       "artists": "Easykid, Kali Uchis",
       "release_date": "2026-02-06",
@@ -31,12 +21,22 @@
       "album_type": "single"
     },
     {
-      "name": "BIG (feat. Kojey Radical & Rapsody)",
-      "artists": "sa\u00fcd, Kojey Radical, Rapsody",
+      "name": "What Do You Like",
+      "artists": "Bizzy Crook, Ty Dolla $ign",
+      "release_date": "2026-02-06",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352980b6bc655543230ce4984",
+      "spotify_url": "https://open.spotify.com/album/4VJoC6Rb3d8ENAnByzeCDX",
+      "apple_music_url": "https://music.apple.com/us/album/what-do-you-like-single/1869102141?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "NOW OR NEVER II",
+      "artists": "Tkandz, Lil Baby",
       "release_date": "2026-02-05",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e230de521d57da74124eb905",
-      "spotify_url": "https://open.spotify.com/album/2gOXrJqFDp408YnbREzAlW",
-      "apple_music_url": "https://music.apple.com/us/search?term=BIG%20sa%C3%BCd",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739f0c549149cdbfed92d1713b",
+      "spotify_url": "https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3",
+      "apple_music_url": "https://music.apple.com/us/search?term=NOW%20OR%20NEVER%20II%20Tkandz",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -51,22 +51,22 @@
       "album_type": "single"
     },
     {
+      "name": "BIG (feat. Kojey Radical & Rapsody)",
+      "artists": "sa\u00fcd, Kojey Radical, Rapsody",
+      "release_date": "2026-02-05",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e230de521d57da74124eb905",
+      "spotify_url": "https://open.spotify.com/album/2gOXrJqFDp408YnbREzAlW",
+      "apple_music_url": "https://music.apple.com/us/search?term=BIG%20sa%C3%BCd",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Lyrical Lemonade Freestyle",
       "artists": "Kyle Richh",
       "release_date": "2026-02-05",
       "image": "https://i.scdn.co/image/ab67616d0000b2738bfeac1aa8f7b9da22bdee49",
       "spotify_url": "https://open.spotify.com/album/6QbOSdzQcBOGB8q1Fb07Kl",
       "apple_music_url": "https://music.apple.com/us/search?term=Lyrical%20Lemonade%20Freestyle%20Kyle%20Richh",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "NOW OR NEVER II",
-      "artists": "Tkandz, Lil Baby",
-      "release_date": "2026-02-05",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739f0c549149cdbfed92d1713b",
-      "spotify_url": "https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3",
-      "apple_music_url": "https://music.apple.com/us/search?term=NOW%20OR%20NEVER%20II%20Tkandz",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -246,7 +246,7 @@
       "release_date": "2026-01-29",
       "image": "https://i.scdn.co/image/ab67616d0000b2731721c9a64598d0edd97d5645",
       "spotify_url": "https://open.spotify.com/album/4UJQHVfSL5BtCxxBKwwtwt",
-      "apple_music_url": "https://music.apple.com/us/search?term=Azucar%20Minelli",
+      "apple_music_url": "https://music.apple.com/us/album/azucar-single/1869409879?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -276,7 +276,7 @@
       "release_date": "2026-01-29",
       "image": "https://i.scdn.co/image/ab67616d0000b2734719ba72905e41d10e044002",
       "spotify_url": "https://open.spotify.com/album/3rwJnAdcGzgiDVDumunRut",
-      "apple_music_url": "https://music.apple.com/us/album/set-the-record-straight-single/1872813146?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Set%20The%20Record%20Straight%20NLE%20Choppa",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -291,22 +291,12 @@
       "album_type": "single"
     },
     {
-      "name": "OCTANE",
-      "artists": "Don Toliver",
-      "release_date": "2026-01-29",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a0c8e3bbbfc0508e2d4d71c5",
-      "spotify_url": "https://open.spotify.com/album/4taTmNcWdOvQ1ShrXI12Y8",
-      "apple_music_url": "https://music.apple.com/us/album/octane/1873328276?uo=4",
-      "total_tracks": 18,
-      "album_type": "album"
-    },
-    {
       "name": "Amnesia",
       "artists": "S\u00e9bastien Tellier, Kid Cudi",
       "release_date": "2026-01-28",
       "image": "https://i.scdn.co/image/ab67616d0000b2735a106cebdf8e97e6a710be33",
       "spotify_url": "https://open.spotify.com/album/1yMMSrLIM3D497KmhcbWrT",
-      "apple_music_url": "https://music.apple.com/us/search?term=Amnesia%20S%C3%A9bastien%20Tellier",
+      "apple_music_url": "https://music.apple.com/us/album/amnesia-single/1870247841?uo=4",
       "total_tracks": 2,
       "album_type": "single"
     },
@@ -371,22 +361,22 @@
       "album_type": "single"
     },
     {
-      "name": "Locked In (feat. Trippie Redd)",
-      "artists": "David Guetta, MORTEN, Trippie Redd",
-      "release_date": "2026-01-23",
-      "image": "https://i.scdn.co/image/ab67616d0000b273905cb326ab4b51a6741282bd",
-      "spotify_url": "https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p",
-      "apple_music_url": "https://music.apple.com/us/search?term=Locked%20In%20David%20Guetta",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Down South",
       "artists": "Trap Dickey, Key Glock",
       "release_date": "2026-01-23",
       "image": "https://i.scdn.co/image/ab67616d0000b273947adaa11746ca725e280667",
       "spotify_url": "https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO",
       "apple_music_url": "https://music.apple.com/us/search?term=Down%20South%20Trap%20Dickey",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Locked In (feat. Trippie Redd)",
+      "artists": "David Guetta, MORTEN, Trippie Redd",
+      "release_date": "2026-01-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b273905cb326ab4b51a6741282bd",
+      "spotify_url": "https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p",
+      "apple_music_url": "https://music.apple.com/us/search?term=Locked%20In%20David%20Guetta",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -531,16 +521,6 @@
       "album_type": "single"
     },
     {
-      "name": "wyd (feat. Bryson Tiller)",
-      "artists": "Plaqueboymax, Bryson Tiller",
-      "release_date": "2026-01-16",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ea7b48d3daf30a1bb2de311",
-      "spotify_url": "https://open.spotify.com/album/3MHYYitTirzsOFjh3mhNv1",
-      "apple_music_url": "https://music.apple.com/us/search?term=wyd%20Plaqueboymax",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Khaotic",
       "artists": "Wiz Khalifa",
       "release_date": "2026-01-16",
@@ -551,12 +531,22 @@
       "album_type": "album"
     },
     {
+      "name": "wyd (feat. Bryson Tiller)",
+      "artists": "Plaqueboymax, Bryson Tiller",
+      "release_date": "2026-01-16",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ea7b48d3daf30a1bb2de311",
+      "spotify_url": "https://open.spotify.com/album/3MHYYitTirzsOFjh3mhNv1",
+      "apple_music_url": "https://music.apple.com/us/search?term=wyd%20Plaqueboymax",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "One of Them Ones",
       "artists": "Veeze, Lil Baby, Rylo Rodriguez",
       "release_date": "2026-01-16",
       "image": "https://i.scdn.co/image/ab67616d0000b273b043b4141d521daec5fc483c",
       "spotify_url": "https://open.spotify.com/album/6jNOjglo1MftJZvOpCIZIT",
-      "apple_music_url": "https://music.apple.com/us/album/one-of-them-ones-single/1873464564?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=One%20of%20Them%20Ones%20Veeze",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1079,116 +1069,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=On%20The%20Low%20Tiwa%20Savage",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "Outside",
-      "artists": "J Hus, Skepta",
-      "release_date": "2025-12-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739961d06e6afdc2d492bd3193",
-      "spotify_url": "https://open.spotify.com/album/1pUztX3T8XMDxkPXTG0vbn",
-      "apple_music_url": "https://music.apple.com/us/search?term=Outside%20J%20Hus",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "DON\u2019T KILL THE PARTY (feat. Tyga, Shoreline Mafia & Quavo) [Coast 2 Coast]",
-      "artists": "Ty Dolla $ign, Tyga, Shoreline Mafia",
-      "release_date": "2025-12-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f72d36dfd9ffc38f3ce4be1d",
-      "spotify_url": "https://open.spotify.com/album/0zNgZSkhGkRcr1Yh06fyxr",
-      "apple_music_url": "https://music.apple.com/us/search?term=DON%E2%80%99T%20KILL%20THE%20PARTY%20%5BCoast%202%20Coast%5D%20Ty%20Dolla%20%24ign",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "I WISH",
-      "artists": "21 Savage, Jawan Harris",
-      "release_date": "2025-12-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b27383eb3b2830765bdfd6aba213",
-      "spotify_url": "https://open.spotify.com/album/5m2R0hKGk8PKcPJA9hveNk",
-      "apple_music_url": "https://music.apple.com/us/search?term=I%20WISH%2021%20Savage",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "GANG OVER EVERYTHING",
-      "artists": "21 Savage, Metro Boomin",
-      "release_date": "2025-12-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b27380106e75084265a2bea01549",
-      "spotify_url": "https://open.spotify.com/album/6tI4cXG59GDmQae0lkKHFB",
-      "apple_music_url": "https://music.apple.com/us/search?term=GANG%20OVER%20EVERYTHING%2021%20Savage",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "POP IT",
-      "artists": "21 Savage, Latto",
-      "release_date": "2025-12-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b27393b6c5c966459a583527fc37",
-      "spotify_url": "https://open.spotify.com/album/1vY8s5LHtAOXVisTyVa5uo",
-      "apple_music_url": "https://music.apple.com/us/search?term=POP%20IT%2021%20Savage",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "STEPBROTHERS",
-      "artists": "21 Savage, Young Nudy",
-      "release_date": "2025-12-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b27385ff460f36766f9df96a13bb",
-      "spotify_url": "https://open.spotify.com/album/619fVCI50lJdJBwCYcUCh9",
-      "apple_music_url": "https://music.apple.com/us/search?term=STEPBROTHERS%2021%20Savage",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Hit Different",
-      "artists": "Swerve Strickland, Raekwon, Monteasy",
-      "release_date": "2025-12-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fdaf4e56345a79d12b16a25c",
-      "spotify_url": "https://open.spotify.com/album/1AkBOJUf0dKKIcJXS1hssL",
-      "apple_music_url": "https://music.apple.com/us/search?term=Hit%20Different%20Swerve%20Strickland",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "DON\u2019T KILL THE PARTY (Wax Motif Remix)",
-      "artists": "Ty Dolla $ign, Wax Motif",
-      "release_date": "2025-12-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738e3643855ccb4ffa999ab58e",
-      "spotify_url": "https://open.spotify.com/album/54pqqhRnzxuGflyeOTxGlV",
-      "apple_music_url": "https://music.apple.com/us/search?term=DON%E2%80%99T%20KILL%20THE%20PARTY%20%28Wax%20Motif%20Remix%29%20Ty%20Dolla%20%24ign",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Celebrate the Line",
-      "artists": "Big K.R.I.T., Slim Thug, Paul Wall, Z-Ro",
-      "release_date": "2025-12-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b27347a2604ad8e78a7758b1ba0f",
-      "spotify_url": "https://open.spotify.com/album/0Jb1wC2LaCAXCKjLyVuFgK",
-      "apple_music_url": "https://music.apple.com/us/search?term=Celebrate%20the%20Line%20Big%20K.R.I.T.",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "DON\u2019T KILL THE PARTY (ChopNotSlop)",
-      "artists": "Ty Dolla $ign, OG Ron C",
-      "release_date": "2025-12-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e41e2ca76674e5585ee05161",
-      "spotify_url": "https://open.spotify.com/album/4uEB4j0AyK98cDT0U7Dey3",
-      "apple_music_url": "https://music.apple.com/us/search?term=DON%E2%80%99T%20KILL%20THE%20PARTY%20%28ChopNotSlop%29%20Ty%20Dolla%20%24ign",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "DON\u2019T KILL THE PARTY (Sped Up)",
-      "artists": "Ty Dolla $ign, sped up nightcore",
-      "release_date": "2025-12-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b27302290ea25ec27bda3dfc91ef",
-      "spotify_url": "https://open.spotify.com/album/3u6HViujfU3a1SNAPl6FQ3",
-      "apple_music_url": "https://music.apple.com/us/search?term=DON%E2%80%99T%20KILL%20THE%20PARTY%20%28Sped%20Up%29%20Ty%20Dolla%20%24ign",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -1215,6 +1095,270 @@
   ],
   "news": [
     {
+      "title": "Green Day Issue Warning to ICE Agents During Pre-Super Bowl Party",
+      "link": "https://loudwire.com/green-day-billie-joe-armstrong-warning-ice-agents-super-bowl/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-02-08 16:17",
+      "summary": "YouTube: lucid /  YouTube: NBC News / Canva"
+    },
+    {
+      "title": "Norah Jones and Joshua Homme Cover Frank and Nancy Sinatra\u2019s \u201cSomethin\u2019 Stupid\u201d: Watch",
+      "link": "https://consequence.net/2026/02/norah-jones-joshua-homme-cover-frank-sinatra/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-02-08 15:58",
+      "summary": "The performance comes from an episode of the Norah Jones Is Playing Along podcast. \nNorah Jones and Joshua Homme Cover Frank and Nancy Sinatra&#8217;s &#8220;Somethin&#8217; Stupid&#8221;: Watch\nTrey ..."
+    },
+    {
+      "title": "Favorite NFL Teams of 47 Big Rock + Metal Musicians",
+      "link": "https://loudwire.com/hard-rock-metal-artists-favorite-nfl-teams/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-02-08 12:12",
+      "summary": "Getty Images"
+    },
+    {
+      "title": "David Ellefson says final Megadeth album \u201cjust doesn\u2019t sound like them\u201d and is more like a Dave Mustaine \u201csolo record\u201d",
+      "link": "https://www.nme.com/news/music/david-ellefson-says-final-megadeth-album-just-doesnt-sound-like-them-and-is-more-like-a-dave-mustaine-solo-record-3928139?utm_source=rss&utm_medium=rss&utm_campaign=david-ellefson-says-final-megadeth-album-just-doesnt-sound-like-them-and-is-more-like-a-dave-mustaine-solo-record",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-02-08 11:41",
+      "summary": "\n\u201cIt says Megadeth, so obviously it gets all the attention, but realistically I hear it, and to me it just doesn\u2019t sound like Megadeth\"\nThe post David Ellefson says final Megadeth album &#8220;just do..."
+    },
+    {
+      "title": "Chance The Rapper becomes spokesperson for AI company",
+      "link": "https://www.nme.com/news/music/chance-the-rapper-becomes-spokesperson-for-ai-company-3928131?utm_source=rss&utm_medium=rss&utm_campaign=chance-the-rapper-becomes-spokesperson-for-ai-company",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-02-08 11:39",
+      "summary": "\nThe new partnership has drawn criticism from some fans\nThe post Chance The Rapper becomes spokesperson for AI company appeared first on NME."
+    },
+    {
+      "title": "Greg Brown, founding guitarist of Cake, has died",
+      "link": "https://www.nme.com/news/music/greg-brown-founding-guitarist-of-cake-has-died-3928125?utm_source=rss&utm_medium=rss&utm_campaign=greg-brown-founding-guitarist-of-cake-has-died",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-02-08 10:26",
+      "summary": "\n\"The world of alternative rock has lost (yet another) foundational architect\"\nThe post Greg Brown, founding guitarist of Cake, has died appeared first on NME."
+    },
+    {
+      "title": "Teyana Taylor shares advice from Beyonc\u00e9 on dealing with \u201cisolating\u201d music industry: \u201cDon\u2019t take it personal, invest in yourself\u201d",
+      "link": "https://www.nme.com/news/music/teyana-taylor-shares-advice-from-beyonce-on-dealing-with-isolating-music-industry-dont-take-it-personal-invest-in-yourself-3928110?utm_source=rss&utm_medium=rss&utm_campaign=teyana-taylor-shares-advice-from-beyonce-on-dealing-with-isolating-music-industry-dont-take-it-personal-invest-in-yourself",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-02-08 09:36",
+      "summary": "\nThe two met back in 2006 when a then-15-year-old Taylor choreographed Beyonc\u00e9's 'Ring The Alarm' music video\nThe post Teyana Taylor shares advice from Beyonc\u00e9 on dealing with &#8220;isolating&#8221; ..."
+    },
+    {
+      "title": "NFL commissioner responds to critics, says Bad Bunny\u2019s Super Bowl halftime performance will \u201cunite\u201d and \u201cbring people together\u201d",
+      "link": "https://www.nme.com/news/music/nfl-commissioner-responds-to-critics-says-bad-bunnys-super-bowl-halftime-performance-will-unite-and-bring-people-together-3928103?utm_source=rss&utm_medium=rss&utm_campaign=nfl-commissioner-responds-to-critics-says-bad-bunnys-super-bowl-halftime-performance-will-unite-and-bring-people-together",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-02-08 09:35",
+      "summary": "\nTonight's (February 8) halftime show will make him the first artist to perform the slot entirely in Spanish, which has drawn criticism from the MAGA contingent \nThe post NFL commissioner responds to ..."
+    },
+    {
+      "title": "California introduces bill to cap ticket re-sale prices",
+      "link": "https://www.nme.com/news/music/california-introduces-bill-to-cap-ticket-re-sale-prices-3928099?utm_source=rss&utm_medium=rss&utm_campaign=california-introduces-bill-to-cap-ticket-re-sale-prices",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-02-08 08:59",
+      "summary": "\nSeveral other states, including New York, Vermont, Washington and Tennessee, are seeking to implement similar legislation\nThe post California introduces bill to cap ticket re-sale prices appeared fir..."
+    },
+    {
+      "title": "Lost Ozzy Osbourne rehearsal tape from 1980 unearthed in attic",
+      "link": "https://www.nme.com/news/music/lost-ozzy-osbourne-rehearsal-tape-from-1980-unearthed-in-attic-3928098?utm_source=rss&utm_medium=rss&utm_campaign=lost-ozzy-osbourne-rehearsal-tape-from-1980-unearthed-in-attic",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-02-08 08:47",
+      "summary": "\n\u201cAs soon as I heard it, I thought, 'Yes, that\u2019s us, that\u2019s Ozzy's voice'\"\nThe post Lost Ozzy Osbourne rehearsal tape from 1980 unearthed in attic appeared first on NME."
+    },
+    {
+      "title": "Rockers Pay Tribute to 3 Doors Down Frontman Brad\u00a0Arnold",
+      "link": "https://www.billboard.com/music/rock/3-doors-down-brad-arnold-dies-tributes-1236175812/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-02-08 08:29",
+      "summary": "The 3 Doors Down frontman died Saturday (Feb. 7) at age 47 after a battle with stage 4 kidney cancer."
+    },
+    {
+      "title": "\u2018Bad Bunny Day\u2019 Declared by Gavin Newsom Ahead of Super Bowl\u00a0LX",
+      "link": "https://www.billboard.com/music/music-news/bad-bunny-day-california-super-bowl-lx-halftime-performance-1236175760/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-02-08 06:05",
+      "summary": "California Gov. Gavin Newsom has officially declared Feb. 8 \u201cBad Bunny Day\u201d across the state ahead of the singer's halftime performance."
+    },
+    {
+      "title": "Backstreet Boys Share Bloopers, Behind-the-Scenes Video From T-Mobile Super Bowl\u00a0Commercial",
+      "link": "https://www.billboard.com/music/music-news/backstreet-boys-t-mobile-super-bowl-commercial-bloopers-1236175729/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-02-08 03:42",
+      "summary": "The group chatted with Billboard ahead of the Super Bowl Sunday ad."
+    },
+    {
+      "title": "Greg Brown, Founding Guitarist of Cake, Has Died",
+      "link": "https://consequence.net/2026/02/greg-brown-founding-guitarist-of-cake-has-died/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-02-08 03:16",
+      "summary": "Brown played on the band's first two albums and wrote \"The Distance.\"\nGreg Brown, Founding Guitarist of Cake, Has Died\nAlex Young"
+    },
+    {
+      "title": "Rock the Country\u2019s South Carolina Stop Canceled After Several Artists Exit\u00a0Tour",
+      "link": "https://www.billboard.com/music/music-news/rock-the-country-south-carolina-concert-canceled-1236175709/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-02-08 01:32",
+      "summary": "Anderson, S.C., was removed from the fest's schedule this week as the lineup shifted for the multi-date, Kid Rock-led event."
+    },
+    {
+      "title": "VINYL IS OUT \u274c  CASSETTES ARE IN \u2705",
+      "link": "https://www.youtube.com/shorts/PU0vYgQnmsc",
+      "source": "The Needle Drop",
+      "category": "general",
+      "published": "2026-02-08 01:30",
+      "summary": "#music #cassette #tape"
+    },
+    {
+      "title": "3 Doors Down\u2019s Brad Arnold Dead at 47: Creed, Shinedown, Disturbed Members Pay Tribute",
+      "link": "https://consequence.net/2026/02/3-doors-down-brad-arnold-dead-rockers-pay-tribute/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-02-08 00:11",
+      "summary": "The vocalist died after a battle with stage 4 kidney cancer.\n3 Doors Down&#8217;s Brad Arnold Dead at 47: Creed, Shinedown, Disturbed Members Pay Tribute\nSpencer Kaufman"
+    },
+    {
+      "title": "Don Henley says 2026 will \u201cprobably\u201d be the final year of the Eagles",
+      "link": "https://www.nme.com/news/music/don-henley-says-2026-will-probably-be-the-final-year-of-the-eagles-3928089?utm_source=rss&utm_medium=rss&utm_campaign=don-henley-says-2026-will-probably-be-the-final-year-of-the-eagles",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-02-07 22:38",
+      "summary": "\nThe band's residency at the Las Vegas Sphere ends at the end of March\nThe post Don Henley says 2026 will &#8220;probably&#8221; be the final year of the Eagles appeared first on NME."
+    },
+    {
+      "title": "Green Day\u2019s Billie Joe Armstrong Encourages ICE Agents to \u2018Quit That S\u2014ty Job\u2019 at Super Bowl\u00a0Pre-Show",
+      "link": "https://www.billboard.com/music/rock/green-day-ice-agents-quit-job-pre-super-bowl-concert-1236175631/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-02-07 21:30",
+      "summary": "The Bay Area trio took the stage at Pier 29 ahead of the big game."
+    },
+    {
+      "title": "Inside the 2026 Super Bowl Parties: J Balvin, Ciara, Green Day &\u00a0More",
+      "link": "https://www.billboard.com/photos/super-bowl-2026-parties-photo-gallery-1236175602/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-02-07 21:14",
+      "summary": "From Becky G to Travis Scott, see all the music stars that joined 2026's Super Bowl parties in San Francisco."
+    },
+    {
+      "title": "Mark Ruffalo hits out at Kevin O\u2019Leary over Billie Eilish ICE comments: \u201cWhy don\u2019t you STFU?\u201d",
+      "link": "https://www.nme.com/news/film/mark-ruffalo-hits-out-at-kevin-oleary-over-billie-eilish-ice-comments-why-dont-you-stfu-3928085?utm_source=rss&utm_medium=rss&utm_campaign=mark-ruffalo-hits-out-at-kevin-oleary-over-billie-eilish-ice-comments-why-dont-you-stfu",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-02-07 21:13",
+      "summary": "\nThe 'Avengers' star said it is \"astounding the fantasy double standard Kevin O\u2019Leary lives in\"\nThe post Mark Ruffalo hits out at Kevin O&#8217;Leary over Billie Eilish ICE comments: &#8220;Why don&#8..."
+    },
+    {
+      "title": "Rockers Pay Tribute to Late 3 Doors Down Singer Brad Arnold",
+      "link": "https://loudwire.com/rockers-tribute-3-doors-down-brad-arnold/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-02-07 20:46",
+      "summary": "Scott Legato, Getty Images"
+    },
+    {
+      "title": "Lana Del Rey announces new single \u2018White Feather-Hawk Tail Deer Hunter\u2019, co-written with husband Jeremy Dufrene",
+      "link": "https://www.nme.com/news/music/lana-del-rey-announces-new-single-white-feather-hawk-tail-deer-hunter-co-written-with-husband-jeremy-dufrene-3928082?utm_source=rss&utm_medium=rss&utm_campaign=lana-del-rey-announces-new-single-white-feather-hawk-tail-deer-hunter-co-written-with-husband-jeremy-dufrene",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-02-07 20:10",
+      "summary": "\nShe has also hinted that her long-awaited new album 'Stove' is coming \"soon\"\nThe post Lana Del Rey announces new single &#8216;White Feather-Hawk Tail Deer Hunter&#8217;, co-written with husband Jere..."
+    },
+    {
+      "title": "Brad Arnold, 3 Doors Down Lead Singer, Dies at 47 After Cancer\u00a0Battle",
+      "link": "https://www.billboard.com/music/music-news/brad-arnold-death-3-doors-down-singer-dies-obituary-1236175597/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-02-07 20:10",
+      "summary": "The musician revealed his stage 4 kidney cancer diagnosis in May 2025."
+    },
+    {
+      "title": "Brad Arnold, 3 Doors Down Singer, Dead at 47",
+      "link": "https://www.rollingstone.com/music/music-news/brad-arnold-3-doors-down-singer-dead-obituary-1235334853/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-02-07 19:58",
+      "summary": "\"Kryptonite\" singer previously revealed battle with stage four kidney cancer"
+    },
+    {
+      "title": "3 Doors Down Frontman Brad Arnold Dead at 47",
+      "link": "https://loudwire.com/3-doors-down-brad-arnold-dead-47-cancer/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-02-07 19:33",
+      "summary": "Slaven Vlasic, Getty Images"
+    },
+    {
+      "title": "Brad Arnold, 3 Doors Down Lead Singer, Dead at 47",
+      "link": "https://consequence.net/2026/02/brad-arnold-3-doors-down-dead/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-02-07 19:30",
+      "summary": "The frontman had been battling stage 4 kidney cancer since May 2025.\nBrad Arnold, 3 Doors Down Lead Singer, Dead at 47\nJaeden Pinder"
+    },
+    {
+      "title": "Rockers Who Support Bad Bunny Playing Super Bowl Halftime Show",
+      "link": "https://loudwire.com/rock-musicians-support-bad-bunny-super-bowl/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-02-07 19:20",
+      "summary": "Getty Images"
+    },
+    {
+      "title": "Lana Del Rey Teases Release Date for New Single, Credits Husband Jeremy Dufrene as a\u00a0Co-Writer",
+      "link": "https://www.billboard.com/music/music-news/lana-del-rey-new-single-date-jeremy-dufrene-co-writer-1236175587/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-02-07 19:17",
+      "summary": "The singer\u2019s long-delayed country project Stove was originally expected in January."
+    },
+    {
+      "title": "The 7 Best Songs From J. Cole\u2019s \u2018The Fall-Off\u2019\u00a0Album",
+      "link": "https://www.rollingstone.com/music/music-news/the-7-best-songs-j-cole-the-fall-off-album-1235512836/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-02-07 19:09",
+      "summary": "A ranking of the most explosive moments on Cole's long-awaited swan song"
+    },
+    {
+      "title": "Bad Bunny Is Playing the Super Bowl Halftime Show: Can We All Just Shut Up and\u00a0Dance?",
+      "link": "https://www.billboard.com/music/latin/bad-bunny-super-bowl-halftime-essay-stop-politics-dance-1236175580/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-02-07 18:18",
+      "summary": "Thousands of opinions are flying around. But in the end, this is really about music."
+    },
+    {
+      "title": "Lana Del Rey Reveals Release Date for New \u2018Stove\u2019 Single",
+      "link": "https://www.rollingstone.com/music/music-news/lana-del-rey-release-date-new-stove-single-1235512822/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-02-07 18:13",
+      "summary": "Singer says \"White Feather Hawk Tail Deer Hunter,\" her \"favorite song\" on Stove, is \"coming out on the 17th\""
+    },
+    {
+      "title": "J. Cole\u2019s The Fall-Off Is a Victory Lap with Few New Wins: Review",
+      "link": "https://consequence.net/2026/02/j-cole-the-fall-off-album-review/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-02-07 17:45",
+      "summary": "A reflective, at times complacent album that showcases J. Cole's lyrical skill, regional pride, and deep love for hip-hop.\nJ. Cole\u2019s The Fall-Off Is a Victory Lap with Few New Wins: Review\nKiana Fitzg..."
+    },
+    {
       "title": "Here\u2019s What Happened at the Opening Ceremony of the Winter Olympics\u00a02026",
       "link": "https://www.billboard.com/music/music-news/winter-olympics-2026-opening-ceremony-highlights-milan-1236175577/",
       "source": "Billboard",
@@ -1229,14 +1373,6 @@
       "category": "general",
       "published": "2026-02-07 16:47",
       "summary": "Her husband Jeremy Dufrene co-wrote the song.\nLana Del Rey Announces New Single &#8220;White feather-hawk tail deer hunter&#8221;\nScoop Harrison"
-    },
-    {
-      "title": "Super Bowl 2026: How to watch halftime show and opening ceremony",
-      "link": "https://www.nme.com/news/music/super-bowl-2026-how-to-watch-halftime-show-and-opening-ceremony-3928063?utm_source=rss&utm_medium=rss&utm_campaign=super-bowl-2026-how-to-watch-halftime-show-and-opening-ceremony",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-02-07 16:47",
-      "summary": "\nBad Bunny is headlining this year's halftime show, while Green Day are playing the opening ceremony\nThe post Super Bowl 2026: How to watch halftime show and opening ceremony appeared first on NME."
     },
     {
       "title": "29 Most Memorable Rock + Metal Super Bowl Commercials",
@@ -1255,14 +1391,6 @@
       "summary": "\"When this is over, and it will be over at some point of time, Kristi Noem, Stephen Miller, JD Vance, Donald Trump \u2014 they\u2019re gonna drop you like a bad fucking habit,\" singer warned at Pier 29 show"
     },
     {
-      "title": "Laura Pausini Sings at Opening Ceremony of 2026 Winter Olympics & More Uplifting Moments in Latin\u00a0Music",
-      "link": "https://www.billboard.com/music/latin/johnny-pacheco-tribute-juanesteban-album-cazzu-us-tour-1236174979/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-02-07 15:00",
-      "summary": "Plus, Fania legends and more to pay tribute to Johnny Pacheco in the Bronx, New York."
-    },
-    {
       "title": "Green Day Encourage ICE Agents to Quit, Reference Epstein at Super Bowl Pre-Party",
       "link": "https://consequence.net/2026/02/green-day-super-bowl-pre-party-anti-ice-epstein/",
       "source": "Consequence",
@@ -1277,86 +1405,6 @@
       "category": "rock",
       "published": "2026-02-07 13:00",
       "summary": "YouTube: CryOfLoveVEVO / vielmaleo1970 / RHINO"
-    },
-    {
-      "title": "Ex-Turnstile guitarist kicked out of new band after accusing Turnstile of misappropriating funds from a benefit show",
-      "link": "https://www.nme.com/news/music/ex-turnstile-guitarist-kicked-out-of-new-band-after-accusing-turnstile-of-misappropriating-funds-from-a-benefit-show-3928046?utm_source=rss&utm_medium=rss&utm_campaign=ex-turnstile-guitarist-kicked-out-of-new-band-after-accusing-turnstile-of-misappropriating-funds-from-a-benefit-show",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-02-07 11:48",
-      "summary": "\n\"We will not stand by his ridiculous comments and behaviour toward the members of our band and our community\"\nThe post Ex-Turnstile guitarist kicked out of new band after accusing Turnstile of misapp..."
-    },
-    {
-      "title": "President slam Sleep Token comparisons as \u201cfucking lazy\u201d",
-      "link": "https://www.nme.com/news/music/president-slam-sleep-token-comparisons-as-fucking-lazy-3928026?utm_source=rss&utm_medium=rss&utm_campaign=president-slam-sleep-token-comparisons-as-fucking-lazy",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-02-07 10:19",
-      "summary": "\n\"Yes, we have the same management, and we both wear masks. Those are both facts\u2026 you got me!\"\nThe post President slam Sleep Token comparisons as &#8220;fucking lazy&#8221; appeared first on NME."
-    },
-    {
-      "title": "Jack White calls for Donald Trump to be removed for \u201cracist\u201d Obama post, while Sheryl Crow says he should be \u201cimprisoned along with every other person\u201d who knew about Epstein",
-      "link": "https://www.nme.com/news/music/jack-white-calls-for-donald-trump-to-be-removed-for-racist-obama-post-while-sheryl-crow-says-he-should-be-imprisoned-along-with-every-other-person-who-knew-about-epstein-3928015?utm_source=rss&utm_medium=rss&utm_campaign=jack-white-calls-for-donald-trump-to-be-removed-for-racist-obama-post-while-sheryl-crow-says-he-should-be-imprisoned-along-with-every-other-person-who-knew-about-epstein",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-02-07 10:15",
-      "summary": "\n\"Who are we if we do not stand up for children who are knowingly pedalled to rich leaders all over the world\"\nThe post Jack White calls for Donald Trump to be removed for &#8220;racist&#8221; Obama p..."
-    },
-    {
-      "title": "Lil Jon \u201cextremely heartbroken\u201d after son found dead at 27",
-      "link": "https://www.nme.com/news/music/lil-jon-extremely-heartbroken-after-son-found-dead-at-27-3928010?utm_source=rss&utm_medium=rss&utm_campaign=lil-jon-extremely-heartbroken-after-son-found-dead-at-27",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-02-07 09:36",
-      "summary": "\n\"Nathan was the kindest human being you would ever meet. He was immensely caring, thoughtful, polite, passionate, and warmhearted\"\nThe post Lil Jon &#8220;extremely heartbroken&#8221; after son found..."
-    },
-    {
-      "title": "Watch Florence + The Machine debut \u2018Everybody Scream\u2019 songs and bring IDLES\u2019 Mark Bowen on stage as she kicks off 2026 UK and Ireland tour",
-      "link": "https://www.nme.com/news/music/watch-florence-the-machine-debut-everbody-scream-songs-and-bring-idles-mark-bowen-on-stage-as-she-kicks-off-2026-uk-and-ireland-tour-3928001?utm_source=rss&utm_medium=rss&utm_campaign=watch-florence-the-machine-debut-everbody-scream-songs-and-bring-idles-mark-bowen-on-stage-as-she-kicks-off-2026-uk-and-ireland-tour",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-02-07 09:17",
-      "summary": "\nThe night also saw the band play a series of tracks - including 'Seven Devils' and 'Which Witch' - for the first time in over a decade\nThe post Watch Florence + The Machine debut &#8216;Everybody Scr..."
-    },
-    {
-      "title": "Tributes paid as Television and original Blondie bassist Fred Smith dies, age 77: \u201cHe was a natural \u2013 never flashy, always essential\u201d",
-      "link": "https://www.nme.com/news/music/tributes-paid-as-television-and-original-blondie-bassist-fred-smith-dies-age-77-he-was-a-natural-never-flashy-always-essential-3928004?utm_source=rss&utm_medium=rss&utm_campaign=tributes-paid-as-television-and-original-blondie-bassist-fred-smith-dies-age-77-he-was-a-natural-never-flashy-always-essential",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-02-07 08:59",
-      "summary": "\n\u201cIf you are a lover of melodic bass lines and counterpoint, you could go to school on what Fred created so effortlessly\"\nThe post Tributes paid as Television and original Blondie bassist Fred Smith d..."
-    },
-    {
-      "title": "Robyn Announces First Australian Tour in 14\u00a0Years",
-      "link": "https://www.billboard.com/music/concerts/robyn-announces-australia-2026-tour-1236175568/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-02-07 07:41",
-      "summary": "The tour marks Robyn\u2019s first Australian performances since 2012, when she last visited the region during the Body Talk era."
-    },
-    {
-      "title": "Ludwig G\u00f6ransson, \u2018Golden\u2019 & More Win at 2026 Society of Composers & Lyricists Awards: Full\u00a0List",
-      "link": "https://www.billboard.com/music/awards/society-of-composers-and-lyricists-awards-2026-full-list-1236175532/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-02-07 06:30",
-      "summary": "Train Dreams composer Bryce Dessner won outstanding original score for an independent film."
-    },
-    {
-      "title": "Bad Bunny Ahead of Super Bowl: \u2018I\u2019m Just a Normal Guy That Makes\u00a0Music\u2019",
-      "link": "https://www.billboard.com/music/music-news/bad-bunny-reflects-super-bowl-lx-2026-1236175565/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-02-07 06:29",
-      "summary": "Bad Bunny will headline the Apple Music Super Bowl LX Halftime Show on Sunday, Feb. 8, during Super Bowl LX."
-    },
-    {
-      "title": "Billboard\u2019s Music Industry Events\u00a0Calendar",
-      "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-02-07 02:13",
-      "summary": "A complete rundown of the most important events across the music business."
     },
     {
       "title": "Trump Refuses to Apologize for Racist Meme About Obamas: \u201cI Didn\u2019t Make a Mistake\u201d",
@@ -1381,38 +1429,6 @@
       "category": "general",
       "published": "2026-02-07 01:33",
       "summary": "The musician was the original bassist for\u00a0Blondie\u00a0before joining Television"
-    },
-    {
-      "title": "Friday Dance Music Guide: New Tracks From Mau P, Calvin Harris, Charlotte de Witte &\u00a0More",
-      "link": "https://www.billboard.com/music/music-news/friday-dance-music-guide-the-weeks-best-new-songs-mau-p-1236175468/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-02-07 01:33",
-      "summary": "Simply the best new dance tracks of the week."
-    },
-    {
-      "title": "New York Lawmaker Proposes Ban on Concert Ticket Resale\u00a0Markups",
-      "link": "https://www.billboard.com/pro/new-york-concert-ticket-price-cap-introduced-state-senate/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-02-07 01:21",
-      "summary": "The bill amendment comes just one day after a California lawmaker proposed a 10% resale price cap for live music."
-    },
-    {
-      "title": "How to Watch Super Bowl LX & Bad Bunny\u2019s Halftime Show Online for\u00a0Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-super-bowl-lx-bad-bunny-halftime-show-2026-1236175452/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-02-07 00:43",
-      "summary": "From the Super Bowl to the Benito Bowl, here's everything you need to know about NFL's big night."
-    },
-    {
-      "title": "Neil Young Cancels 2026 Tour: \u2018This Is Not the\u00a0Time\u2019",
-      "link": "https://www.billboard.com/music/rock/neil-young-cancels-2026-tour-dates-uk-europe-1236175439/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-02-07 00:25",
-      "summary": "The rock legend was set to tour the U.K. &#38; Europe starting in June."
     },
     {
       "title": "Fred Smith, Television Bassist, Dead at 77",
@@ -1477,143 +1493,7 @@
       "category": "general",
       "published": "2026-02-06 22:31",
       "summary": "This week&#8217;s playlist includes Weird Nightmare, Mandy Indiana (ft billy woods), Ulrika Spacek, Kathryn Mohr, Lala Lala, Ratboys, Arlo Parks, Mitski, and more."
-    },
-    {
-      "title": "Boko Yout - GUSTO ALBUM REVIEW",
-      "link": "https://www.youtube.com/watch?v=lbd3hJtZyyA",
-      "source": "The Needle Drop",
-      "category": "general",
-      "published": "2026-02-06 22:29",
-      "summary": "Listen: https://bokoyout.bandcamp.com/album/gusto\n\nGUSTO is an auspicious debut for this Swedish rock act.\n\nMore rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_\n..."
-    },
-    {
-      "title": "15 New Songs Out Today",
-      "link": "https://www.brooklynvegan.com/15-new-songs-out-today-70/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-02-06 22:27",
-      "summary": "Hear new songs by Tame Impala, Ted Leo, Lady Lamb, Boys Noize, Bill Orcutt, Joseph Arthur, All Them Witches, Girl Scout &#038; more."
-    },
-    {
-      "title": "Lil Jon\u2019s Missing Son Believed to Be Body Recovered from Georgia Pond: \u2018Extremely Heartbroken\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/lil-jon-son-missing-update-body-georgia-pond-1235512545/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-02-06 22:15",
-      "summary": "Nathan Smith, 27, went missing on Tuesday, and no foul play is suspected, police said"
-    },
-    {
-      "title": "Ye's Wife Bianca Censori Talks Nudity Obsession and More",
-      "link": "https://www.xxlmag.com/kanye-west-wife-bianca-censori-nudity-obsession/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-02-06 22:09",
-      "summary": "Phil McCarten/CBS/Getty Images"
-    },
-    {
-      "title": "Watch Mariah Carey Perform at Milan 2026 Olympics Opening Ceremony",
-      "link": "https://pitchfork.com/news/watch-mariah-carey-perform-at-milan-2026-olympics-opening-ceremony/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-02-06 22:03",
-      "summary": "She sang a medley of the Italian standard \u201cNel Blu, Dipinto di Blu\u201d and her own \u201cNothing Is Impossible\u201d"
-    },
-    {
-      "title": "Trombone Shorty Birthday Concert to Feature Leon Bridges, Eric Church",
-      "link": "https://www.rollingstone.com/music/music-news/trombone-shorty-birthday-concert-llineup-tickets-1235512601/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-02-06 22:02",
-      "summary": "Set for Jazz Fest in New Orleans, the show will celebrate the Crescent City musician and his contributions to music"
-    },
-    {
-      "title": "Sheryl Crow Calls for Trump to Be \u201cImprisoned Along with Every Other Person\u201d Who Knew About Epstein",
-      "link": "https://consequence.net/2026/02/sheryl-crow-donald-trump-epstein-files/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-02-06 21:56",
-      "summary": "\"Who are we if we do not stand up for children who are knowingly being pedaled to rich leaders all over the world.\"\nSheryl Crow Calls for Trump to Be &#8220;Imprisoned Along with Every Other Person&#8..."
-    },
-    {
-      "title": "Yellow Swans\u2019\u00a0Gabriel Saloman Mindel Reveals Stage 4 Cancer Diagnosis",
-      "link": "https://pitchfork.com/news/yellow-swans-gabriel-saloman-mindel-reveals-stage-4-cancer-diagnosis/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-02-06 21:54",
-      "summary": "The noise-drone duo\u2019s co-founder is crowdfunding treatment"
-    },
-    {
-      "title": "Long-running NYC vegan restaurant Red Bamboo is closing",
-      "link": "https://www.brooklynvegan.com/long-running-nyc-vegan-restaurant-red-bamboo-is-closing/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-02-06 21:37",
-      "summary": "You still have a few more weeks to visit the Village mainstay."
-    },
-    {
-      "title": "Watch Mew play their final show at London\u2019s Roundhouse",
-      "link": "https://www.nme.com/news/music/watch-mew-play-their-final-show-at-londons-roundhouse-3927992?utm_source=rss&utm_medium=rss&utm_campaign=watch-mew-play-their-final-show-at-londons-roundhouse",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-02-06 21:29",
-      "summary": "\nThe Danish alt-rockers have called it quits after 30 years together\nThe post Watch Mew play their final show at London&#8217;s Roundhouse appeared first on NME."
-    },
-    {
-      "title": "Brent Faiyaz\u2019s Icon has production from Brent Faiyaz, Chad Hugo, and more",
-      "link": "https://www.thefader.com/2026/02/06/brent-faiyaz-announces-third-album-icon",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-02-06 21:26",
-      "summary": "The follow up to WASTELAND is out February 13"
-    },
-    {
-      "title": "J. Cole Raps From the Personas of Tupac, Biggie on 'What If'",
-      "link": "https://www.xxlmag.com/j-cole-tupac-shakur-notorious-big-what-if/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-02-06 21:20",
-      "summary": "Scott Dudelson/Tim Mosenfelder/Ron Galella Collection/Getty Images (3)"
-    },
-    {
-      "title": "Austin Butler to Play Lance Armstrong in Conclave Director\u2019s New Biopic",
-      "link": "https://consequence.net/2026/02/austin-butler-lance-armstrong-biopic/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-02-06 21:03",
-      "summary": "The new biopic project is currently the subject of a \"frenzied bidding war.\" \nAustin Butler to Play Lance Armstrong in Conclave Director&#8217;s New Biopic\nLiz Shannon Miller"
-    },
-    {
-      "title": "AP A-sides: 10 songs you need to hear",
-      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-february-6-2026/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-02-06 20:57",
-      "summary": "Our favorite new songs, updated weekly."
-    },
-    {
-      "title": "Watch Nine Inch Nails play a snippet of Depeche Mode\u2019s \u2018Stripped\u2019 and air \u2018Non-Entity\u2019 for the first time in 17 years",
-      "link": "https://www.nme.com/news/music/watch-nine-inch-nails-play-a-snippet-of-depeche-modes-stripped-and-air-non-entity-for-the-first-time-in-17-years-3927986?utm_source=rss&utm_medium=rss&utm_campaign=watch-nine-inch-nails-play-a-snippet-of-depeche-modes-stripped-and-air-non-entity-for-the-first-time-in-17-years",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-02-06 20:45",
-      "summary": "\nThe band kicked off the second North American leg of their 'Peel It Back' tour in New Orleans with some left-field opening tracks\nThe post Watch Nine Inch Nails play a snippet of Depeche Mode&#8217;s..."
-    },
-    {
-      "title": "Jack White on Trump\u2019s Racist Obamas Meme: \u201c25th Amendment This Man",
-      "link": "https://consequence.net/2026/02/jack-white-trump-racist-obama-meme/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-02-06 20:39",
-      "summary": "\"This post would basically get anyone, at any job fired immediately...except for arguably the most important position in the world.\"\nJack White on Trump&#8217;s Racist Obamas Meme: &#8220;25th Amendme..."
-    },
-    {
-      "title": "Jack White Blasts Trump for Racist Obama Video",
-      "link": "https://loudwire.com/jack-white-trump-racist-obama-video/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-02-06 20:29",
-      "summary": "Theo Wargo / Alex Wong, Getty Images"
     }
   ],
-  "last_updated": "2026-02-07T17:30:37.245822"
+  "last_updated": "2026-02-08T17:31:21.927684"
 }

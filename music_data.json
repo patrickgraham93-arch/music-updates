@@ -1,6 +1,16 @@
 {
   "hiphop": [
     {
+      "name": "Monica",
+      "artists": "Jack Harlow",
+      "release_date": "2026-03-13",
+      "image": "https://i.scdn.co/image/ab67616d0000b27331646844acc328f1aac59fea",
+      "spotify_url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES",
+      "apple_music_url": "https://music.apple.com/us/album/monica/1878823462?uo=4",
+      "total_tracks": 9,
+      "album_type": "album"
+    },
+    {
       "name": "STATE OF EMERGENCY",
       "artists": "YG",
       "release_date": "2026-03-13",
@@ -31,16 +41,6 @@
       "album_type": "single"
     },
     {
-      "name": "Tunnel Vision",
-      "artists": "Meechy Darko, Zombie Juice, 2DEAD BOYZ, Flatbush Zombies",
-      "release_date": "2026-03-13",
-      "image": "https://i.scdn.co/image/ab67616d0000b273314f39a72195a5e5f3ac4789",
-      "spotify_url": "https://open.spotify.com/album/54b8RbSp1q8pWS4ooOgDZJ",
-      "apple_music_url": "https://music.apple.com/us/search?term=Tunnel%20Vision%20Meechy%20Darko",
-      "total_tracks": 2,
-      "album_type": "single"
-    },
-    {
       "name": "How It Feels",
       "artists": "Mannywellz, Wale",
       "release_date": "2026-03-13",
@@ -51,14 +51,14 @@
       "album_type": "single"
     },
     {
-      "name": "Monica",
-      "artists": "Jack Harlow",
+      "name": "Tunnel Vision",
+      "artists": "Meechy Darko, Zombie Juice, 2DEAD BOYZ, Flatbush Zombies",
       "release_date": "2026-03-13",
-      "image": "https://i.scdn.co/image/ab67616d0000b27331646844acc328f1aac59fea",
-      "spotify_url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES",
-      "apple_music_url": "https://music.apple.com/us/album/monica/1878823462?uo=4",
-      "total_tracks": 9,
-      "album_type": "album"
+      "image": "https://i.scdn.co/image/ab67616d0000b273314f39a72195a5e5f3ac4789",
+      "spotify_url": "https://open.spotify.com/album/54b8RbSp1q8pWS4ooOgDZJ",
+      "apple_music_url": "https://music.apple.com/us/search?term=Tunnel%20Vision%20Meechy%20Darko",
+      "total_tracks": 2,
+      "album_type": "single"
     },
     {
       "name": "Feature Presentation 2025",
@@ -111,16 +111,6 @@
       "album_type": "album"
     },
     {
-      "name": "We Don\u2019t Get Along (with Marshmello)",
-      "artists": "Juice WRLD, Marshmello",
-      "release_date": "2026-03-06",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731aac4d6120a958701d232837",
-      "spotify_url": "https://open.spotify.com/album/7Jpx8HeGHBjfhvDpsy1CJQ",
-      "apple_music_url": "https://music.apple.com/us/album/we-dont-get-along-single/1880081097?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Strictly 4 The Scythe",
       "artists": "Denzel Curry, The Scythe",
       "release_date": "2026-03-06",
@@ -129,6 +119,16 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Strictly%204%20The%20Scythe%20Denzel%20Curry",
       "total_tracks": 8,
       "album_type": "album"
+    },
+    {
+      "name": "We Don\u2019t Get Along (with Marshmello)",
+      "artists": "Juice WRLD, Marshmello",
+      "release_date": "2026-03-06",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731aac4d6120a958701d232837",
+      "spotify_url": "https://open.spotify.com/album/7Jpx8HeGHBjfhvDpsy1CJQ",
+      "apple_music_url": "https://music.apple.com/us/album/we-dont-get-along-single/1880081097?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "Whats Peace?",
@@ -156,7 +156,7 @@
       "release_date": "2026-03-06",
       "image": "https://i.scdn.co/image/ab67616d0000b27384239f444632dd38e7ff8b94",
       "spotify_url": "https://open.spotify.com/album/6NCaHrSFVc3bdA9JbxAg26",
-      "apple_music_url": "https://music.apple.com/us/album/straight-from-da-a-feat-dc-young-fly-single/1882139533?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Straight%20From%20Da%20A%20P%24C",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -276,7 +276,7 @@
       "release_date": "2026-02-27",
       "image": "https://i.scdn.co/image/ab67616d0000b2736bb79348a710438491590241",
       "spotify_url": "https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02",
-      "apple_music_url": "https://music.apple.com/us/search?term=Keychain%20%28FROM%20THE%20FILM%20K-POPS%21%29%20aespa",
+      "apple_music_url": "https://music.apple.com/us/album/keychain-from-the-film-k-pops-single/1878278834?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -336,7 +336,7 @@
       "release_date": "2026-02-22",
       "image": "https://i.scdn.co/image/ab67616d0000b273da4d052319fd0c8d34dd1e69",
       "spotify_url": "https://open.spotify.com/album/1iVhYU7n2cE9csHMRweN5s",
-      "apple_music_url": "https://music.apple.com/us/search?term=War%20%28Snippet%29%20T.I.",
+      "apple_music_url": "https://music.apple.com/us/album/war-snippet-single/1879383644?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -356,7 +356,7 @@
       "release_date": "2026-02-20",
       "image": "https://i.scdn.co/image/ab67616d0000b2732602b00b6e1c090b26bb888b",
       "spotify_url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ",
-      "apple_music_url": "https://music.apple.com/us/search?term=Spiral%20Staircases%20Larry%20June",
+      "apple_music_url": "https://music.apple.com/us/album/spiral-staircases/1877968987?uo=4",
       "total_tracks": 7,
       "album_type": "album"
     },
@@ -376,7 +376,7 @@
       "release_date": "2026-02-20",
       "image": "https://i.scdn.co/image/ab67616d0000b273665ac3164743147a69fa97c1",
       "spotify_url": "https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo",
-      "apple_music_url": "https://music.apple.com/us/album/miss-u-2-with-leon-thomas-single/1879583244?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=miss%20u%202%20%28with%20Leon%20Thomas%29%20Ty%20Dolla%20%24ign",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -416,7 +416,7 @@
       "release_date": "2026-02-18",
       "image": "https://i.scdn.co/image/ab67616d0000b273d11799835145c3b0b62e704d",
       "spotify_url": "https://open.spotify.com/album/2zs0GVCzgBvCtDBSdRn8Q9",
-      "apple_music_url": "https://music.apple.com/us/album/hey-tony-single/1877236916?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=HEY%20TONY%21%20JID",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -486,7 +486,7 @@
       "release_date": "2026-02-13",
       "image": "https://i.scdn.co/image/ab67616d0000b273d93b9a5388d23e0792648f7c",
       "spotify_url": "https://open.spotify.com/album/1b74LsjCHHEqa8bOGqmvzr",
-      "apple_music_url": "https://music.apple.com/us/album/sneaky-link-nyc-feat-tata-41-hxllywood-single/1876819437?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Sneaky%20Link%20NYC%20G%20Herbo",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -546,7 +546,7 @@
       "release_date": "2026-02-12",
       "image": "https://i.scdn.co/image/ab67616d0000b2731365259c51ab42497725b57c",
       "spotify_url": "https://open.spotify.com/album/3jOUdKigc0K09jhCvo8R8w",
-      "apple_music_url": "https://music.apple.com/us/album/sneaky-link-nyc-feat-tata-41-hxllywood-single/1876819437?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Sneaky%20Link%20NYC%20G%20Herbo",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -676,7 +676,7 @@
       "release_date": "2026-01-30",
       "image": "https://i.scdn.co/image/ab67616d0000b273744c1b38acafa62664266f59",
       "spotify_url": "https://open.spotify.com/album/6POSPBtibhdNu2fQG4tUH7",
-      "apple_music_url": "https://music.apple.com/us/search?term=OK%20OK%20%28Hamdi%20remix%29%20Hamdi",
+      "apple_music_url": "https://music.apple.com/us/album/ok-ok-hamdi-remix-single/1871538128?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -686,7 +686,7 @@
       "release_date": "2026-01-30",
       "image": "https://i.scdn.co/image/ab67616d0000b27329b9d44066f5211cc732f491",
       "spotify_url": "https://open.spotify.com/album/05U0USUzKB8vLfdOWggfqC",
-      "apple_music_url": "https://music.apple.com/us/search?term=EVERYWHERE%20I%20GO%20%28REMIND%20ME%29%20BNYX%C2%AE",
+      "apple_music_url": "https://music.apple.com/us/album/everywhere-i-go-remind-me-single/1871603457?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -696,7 +696,7 @@
       "release_date": "2026-01-30",
       "image": "https://i.scdn.co/image/ab67616d0000b273dcd41ee32e921b28d0c48c1f",
       "spotify_url": "https://open.spotify.com/album/2WYcqAyGT3nWOfdjxW5sn7",
-      "apple_music_url": "https://music.apple.com/us/search?term=Shotta%20Flow%208%20NLE%20Choppa",
+      "apple_music_url": "https://music.apple.com/us/album/shotta-flow-8-single/1872848319?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1209,16 +1209,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Stadium%20Coupe%20Loose%20Threads",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "FLACKITO JODYE (feat. Tokischa)",
-      "artists": "A$AP Rocky, Tokischa",
-      "release_date": "2026-01-14",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736e0188761460de9306710005",
-      "spotify_url": "https://open.spotify.com/album/2wxKP8DgG8n3m2kiUizJdW",
-      "apple_music_url": "https://music.apple.com/us/search?term=FLACKITO%20JODYE%20A%24AP%20Rocky",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -1265,12 +1255,244 @@
   ],
   "news": [
     {
-      "title": "Dolly Parton Gives Health Update at First Major Public Appearance Since Revealing Medical\u00a0Issues",
-      "link": "https://www.billboard.com/music/music-news/dolly-parton-health-update-public-appearance-dollywood-1236199303/",
+      "title": "James Blake says \u201c95 per cent\u201d of his production work has been unpaid",
+      "link": "https://www.nme.com/news/music/james-blake-says-95-per-cent-of-his-production-work-has-been-unpaid-3934654?utm_source=rss&utm_medium=rss&utm_campaign=james-blake-says-95-per-cent-of-his-production-work-has-been-unpaid",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-15 17:14",
+      "summary": "\nHe described music as an\u00a0\u201cunusual industry for sure in terms of the way things are re-enumerated\"\nThe post James Blake says &#8220;95 per cent&#8221; of his production work has been unpaid appeared f..."
+    },
+    {
+      "title": "Firefly Animated Series Now in Development, Nathan Fillion Says",
+      "link": "https://consequence.net/2026/03/firefly-animated-series-nathan-fillion/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-15 17:03",
+      "summary": "The project was teased by Nathan Fillion for weeks on social media, and is currently in search of buyers. \nFirefly Animated Series Now in Development, Nathan Fillion Says\nLiz Shannon Miller"
+    },
+    {
+      "title": "Mot\u00f6rhead Guitarist Phil Campbell Dies at 64",
+      "link": "https://pitchfork.com/news/motorhead-guitarist-phil-campbell-dies-at-64/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-03-15 16:48",
+      "summary": "Campbell played with the British rock group for over 30 years"
+    },
+    {
+      "title": "Harry Styles Channels \u2018Lord of the Dance\u2019 in Hilarious St. Patrick\u2019s Day \u2018SNL\u2019 Sketch Sketch:\u00a0Watch",
+      "link": "https://www.billboard.com/music/music-news/harry-styles-st-patricks-day-snl-sketch-1236199450/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-03-14 17:10",
-      "summary": "The iconic singer delivered the keynote address at Dollywood on March 13."
+      "published": "2026-03-15 16:47",
+      "summary": "The English star returned as both host and musical guest for the March 14 episode."
+    },
+    {
+      "title": "Report claims to finally reveal Banksy\u2019s true identity",
+      "link": "https://www.nme.com/news/music/report-claims-to-finally-reveal-banksys-true-identity-3934650?utm_source=rss&utm_medium=rss&utm_campaign=report-claims-to-finally-reveal-banksys-true-identity",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-15 16:42",
+      "summary": "\nThe secret behind the street artist's anonymity has been the source of speculation for decades\nThe post Report claims to finally reveal Banksy\u2019s true identity appeared first on NME."
+    },
+    {
+      "title": "Motorhead, Rockers + Fans Pay Tribute to Guitarist Phil Campbell",
+      "link": "https://loudwire.com/motorhead-rockers-fans-tribute-phil-campbell/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-03-15 16:30",
+      "summary": "Ian Gavan, Getty Images / X: @geezerbutler / X: @deesnider / BeFunky"
+    },
+    {
+      "title": "Oscars 2026 Winners List (Updating Live)",
+      "link": "https://consequence.net/2026/03/oscars-2026-winners-full-list/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-15 16:00",
+      "summary": "One Battle After Another and Sinners are both anticipating big nights. \nOscars 2026 Winners List (Updating Live)\nLiz Shannon Miller"
+    },
+    {
+      "title": "Harry Styles\u2019 \u2018SNL\u2019 Performance Introduced by Ryan Gosling After Singer Crashed Actor\u2019s\u00a0Monologue",
+      "link": "https://www.billboard.com/music/pop/harry-styles-snl-dance-no-more-coming-up-roses-performances-1236199438/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-15 15:28",
+      "summary": "The pop superstar took on double duty as both host and musical guest on March 14."
+    },
+    {
+      "title": "Watch Harry Styles Bring \u201cDance No More\u201d and \u201cComing Up Roses\u201d to SNL",
+      "link": "https://pitchfork.com/news/watch-harry-styles-bring-dance-no-more-and-coming-up-roses-to-snl/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-03-15 15:03",
+      "summary": "Featuring a cameo from Paul Simon"
+    },
+    {
+      "title": "Harry Styles Pulls Double Duty on SNL, Performs \u201cDance No More\u201d and \u201cComing Up Roses\u201d: Watch",
+      "link": "https://consequence.net/2026/03/harry-styles-snl-episode-recap/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-15 14:15",
+      "summary": "Styles also starred in a sketch spoofing The Pitt.\nHarry Styles Pulls Double Duty on SNL, Performs &#8220;Dance No More&#8221; and &#8220;Coming Up Roses&#8221;: Watch\nScoop Harrison"
+    },
+    {
+      "title": "Jack White's Mother, Teresa Gillis, Has Died at 95",
+      "link": "https://loudwire.com/jack-white-mother-teresa-gillis-dead-95/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-03-15 14:12",
+      "summary": "Theo Wargo, Getty Images for RRHOF / Instagram: officialjackwhite"
+    },
+    {
+      "title": "Lykke Li shares new single \u2018Knife In The Heart\u2019: \u201cThis is my brutalist nursery rhyme anthem \u2014 the emo girl in me, fully unleashed\u201d",
+      "link": "https://www.nme.com/news/music/lykke-li-shares-new-single-knife-in-the-heart-this-is-my-brutalist-nursery-rhyme-anthem-the-emo-girl-in-me-fully-unleashed-3934622?utm_source=rss&utm_medium=rss&utm_campaign=lykke-li-shares-new-single-knife-in-the-heart-this-is-my-brutalist-nursery-rhyme-anthem-the-emo-girl-in-me-fully-unleashed",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-15 11:30",
+      "summary": "\n\"To me, a pretty accurate description of what it feels like to be alive right now\"\nThe post Lykke Li shares new single &#8216;Knife In The Heart&#8217;: &#8220;This is my brutalist nursery rhyme anth..."
+    },
+    {
+      "title": "Pearl Jam\u2019s Mike McCready announces new graphic novel and \u201clost\u201d rock opera",
+      "link": "https://www.nme.com/news/music/pearl-jams-mike-mccready-announces-new-graphic-novel-lost-rock-opera-3934628?utm_source=rss&utm_medium=rss&utm_campaign=pearl-jams-mike-mccready-announces-new-graphic-novel-lost-rock-opera",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-15 11:29",
+      "summary": "\nThe guitarist said the project was \"inspired by the creativity, community and chaos of the Seattle music scene\"\nThe post Pearl Jam&#8217;s Mike McCready announces new graphic novel and &#8220;lost&#8..."
+    },
+    {
+      "title": "Ice Cube named \u2018Worst Actor\u2019 at Razzie Awards 2026 for his performance in \u2018War of the Worlds\u2019",
+      "link": "https://www.nme.com/news/film/ice-cube-named-worst-actor-at-razzie-awards-2026-for-his-performance-in-war-of-the-worlds-3934606?utm_source=rss&utm_medium=rss&utm_campaign=ice-cube-named-worst-actor-at-razzie-awards-2026-for-his-performance-in-war-of-the-worlds",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-15 10:35",
+      "summary": "\nThe widely panned thriller also took home trophies for Worst Director and Worst Screenplay\nThe post Ice Cube named &#8216;Worst Actor&#8217; at Razzie Awards 2026 for his performance in &#8216;War of..."
+    },
+    {
+      "title": "Eagles Of Death Metal\u2019s Jesse Hughes denies being Trump supporter: \u201cThat is just not me\u201d",
+      "link": "https://www.nme.com/news/music/eagles-of-death-metals-jesse-hughes-denies-being-trump-supporter-that-is-just-not-me-3934597?utm_source=rss&utm_medium=rss&utm_campaign=eagles-of-death-metals-jesse-hughes-denies-being-trump-supporter-that-is-just-not-me",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-15 10:23",
+      "summary": "\n\u201cI've never, ever, ever one time in the press ever endorsed or said that I support the man\"\nThe post Eagles Of Death Metal&#8217;s Jesse Hughes denies being Trump supporter: &#8220;That is just not m..."
+    },
+    {
+      "title": "Paris Jackson shares update on where she stands with Colman Domingo following \u2018Michael\u2019 biopic drama",
+      "link": "https://www.nme.com/news/film/paris-jackson-shares-update-on-where-she-stands-with-colman-domingo-following-michael-biopic-drama-3934595?utm_source=rss&utm_medium=rss&utm_campaign=paris-jackson-shares-update-on-where-she-stands-with-colman-domingo-following-michael-biopic-drama",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-15 09:54",
+      "summary": "\n\"There\u2019s lots of miscommunications, and things get twisted\"\nThe post Paris Jackson shares update on where she stands with Colman Domingo following \u2018Michael\u2019 biopic drama appeared first on NME."
+    },
+    {
+      "title": "Harry Styles Talks Queerbaiting, Kisses Ben Marshall During \u2018SNL\u2019\u00a0Monologue",
+      "link": "https://www.billboard.com/culture/tv-film/harry-styles-snl-queerbaiting-kisses-ben-marshall-1236199425/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-15 09:21",
+      "summary": "Harry Styles returned to Saturday Night Live on Saturday (March 14) for his second turn as host and musical guest."
+    },
+    {
+      "title": "MNEK is ready to share his first new music in eight years: \u201cThis album is going to be very exciting\u201d",
+      "link": "https://www.nme.com/news/music/mnek-interview-first-new-music-in-eight-years-trans-mission-3934426?utm_source=rss&utm_medium=rss&utm_campaign=mnek-interview-first-new-music-in-eight-years-trans-mission",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-15 09:00",
+      "summary": "\nThe songwriter and producer spoke to NME at Trans Mission about the power of music in overcoming \u201cthings that are built to divide us\u201d, and teased the \u201cexciting\u201d follow-up to 2018\u2019s \u2018Language\u2019\nThe pos..."
+    },
+    {
+      "title": "Watch Harry Styles perform \u2018Dance No More\u2019 and \u2018Coming Up Roses\u2019 on \u2018SNL\u2019 and address \u201cqueerbaiting\u201d accusations",
+      "link": "https://www.nme.com/news/music/watch-harry-styles-perform-dance-no-more-and-coming-up-roses-on-snl-and-address-queerbaiting-accusations-3934582?utm_source=rss&utm_medium=rss&utm_campaign=watch-harry-styles-perform-dance-no-more-and-coming-up-roses-on-snl-and-address-queerbaiting-accusations",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-15 08:52",
+      "summary": "\n\"Did it ever occur to you that maybe you don\u2019t know everything about me, Dad?\u201d\nThe post Watch Harry Styles perform \u2018Dance No More&#8217; and \u2018Coming Up Roses\u2019 on &#8216;SNL&#8217; and address &#8220;..."
+    },
+    {
+      "title": "Billy Joel\u2019s daughter says he\u2019s a \u201cfighter\u2019 and \u201cdoing great\u201d following brain disorder diagnosis",
+      "link": "https://www.nme.com/news/music/billy-joels-daughter-says-hes-a-fighter-and-doing-great-following-brain-disorder-diagnosis-3934585?utm_source=rss&utm_medium=rss&utm_campaign=billy-joels-daughter-says-hes-a-fighter-and-doing-great-following-brain-disorder-diagnosis",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-15 08:41",
+      "summary": "\n\"He\u2019s such a trooper, so resilient and committed to being healthy and proactive\"\nThe post Billy Joel\u2019s daughter says he&#8217;s a &#8220;fighter&#8217; and &#8220;doing great&#8221; following brain d..."
+    },
+    {
+      "title": "\u2018SNL\u2019: Watch Harry Styles Perform \u2018Dance No More,\u2019 \u2018Coming Up Roses\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/snl-watch-harry-styles-perform-dance-no-more-coming-up-roses-new-album-1235530847/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-03-15 06:38",
+      "summary": "The English singer-songwriter returns to SNL to promote his new album, Kiss All the Time. Disco, Occasionally"
+    },
+    {
+      "title": "Riley Green Struck by Thrown Phone During Melbourne\u00a0Concert",
+      "link": "https://www.billboard.com/music/country/riley-green-hit-phone-melbourne-concert-1236199419/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-15 05:47",
+      "summary": "The fan responsible was immediately removed from the venue."
+    },
+    {
+      "title": "Jack White Announces Passing of Mother Teresa Gillis",
+      "link": "https://consequence.net/2026/03/jack-white-announces-passing-of-mother-teresa-gillis/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-15 05:13",
+      "summary": "She was 95 years old.\nJack White Announces Passing of Mother Teresa Gillis\nAlex Young"
+    },
+    {
+      "title": "Jack Black and Jack White to Appear Together on SNL",
+      "link": "https://consequence.net/2026/03/jack-black-jack-white-snl/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-15 04:20",
+      "summary": "The duo will join forces on SNL's April 4th episode.\nJack Black and Jack White to Appear Together on SNL\nScoop Harrison"
+    },
+    {
+      "title": "Don Toliver Asserts Superstar Status With High-\u2018OCTANE\u2019 Performance at Billboard The Stage @\u00a0SXSW",
+      "link": "https://www.billboard.com/music/rb-hip-hop/don-toliver-billboard-the-stage-performance-sxsw-2026-1236199331/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-15 02:14",
+      "summary": "Toliver will hit the road for the OCTANE Tour in May."
+    },
+    {
+      "title": "Superstar Q&A With Junior H: Breaking Regional Mexican Music Rules | SXSW\u00a02026",
+      "link": "https://www.billboard.com/video/superstar-qa-with-junior-h-breaking-regional-mexican-rules/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-15 01:12",
+      "summary": "Junior H sits down with Billboard\u2019s Co-Chief Content Officer, Leila Cobo, for the Superstar Q&#38;A at SXSW 2026 to chat about\u00a0 his chart-topping album \u2018DEPR&#60;/3$$ED MFKZ,\u2019 his journey from recordi..."
+    },
+    {
+      "title": "Junior H Talks Embracing Vulnerability, Disney Obsession at SXSW: \u2018You Could Say I\u2019m the Godfather of Sad\u00a0Kids\u2019",
+      "link": "https://www.billboard.com/music/latin/junior-h-sad-boy-interview-panel-billboard-house-sxsw-1236199334/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-15 00:32",
+      "summary": "The Mexican artist sat down with Billboard for a Q&#38;A ahead of his performance at THE STAGE @ South by Southwest."
+    },
+    {
+      "title": "Ice Cube\u2019s \u2018War of the Worlds\u2019 Named Worst Picture at 2026 Razzie Awards: Full \u2018Winners\u2019 List",
+      "link": "https://www.billboard.com/culture/tv-film/2026-razzie-awards-winners-list-1236199344/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-14 23:11",
+      "summary": "Worst picture was just one of five award categories in which the picture placed first."
+    },
+    {
+      "title": "Doja Cat Opens Up About Her \u2018Agonizing\u2019 Battle With Borderline Personality\u00a0Disorder",
+      "link": "https://www.billboard.com/music/music-news/doja-cat-borderline-personality-disorder-bpd-diagnosis-1236199328/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-14 19:49",
+      "summary": "\"It caught up with me, and I think it always does for people,\" she said on TikTok."
+    },
+    {
+      "title": "Phil Campbell, Longtime Mot\u00f6rhead Guitarist, Dies at\u00a064",
+      "link": "https://www.billboard.com/music/rock/phil-campbell-death-motorhead-guitarist-dies-obituary-1236199319/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-14 18:37",
+      "summary": "He joined Mot\u00f6rhead in 1984 and remained a member until Lemmy Kilmister\u2019s death in 2015."
     },
     {
       "title": "Live Nation Antitrust Trial to Continue After Majority of States Decline to Join DOJ Settlement",
@@ -1279,22 +1501,6 @@
       "category": "general",
       "published": "2026-03-14 16:40",
       "summary": "More than 30 states opted against joining the Justice Department in its tentative settlement with Live Nation.\nLive Nation Antitrust Trial to Continue After Majority of States Decline to Join DOJ Sett..."
-    },
-    {
-      "title": "\u2018Saturday Night Live\u2019: Where to Watch the Sketch Comedy Show Online for\u00a0Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-online-free-9546472/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-14 16:35",
-      "summary": "Harry Styles hosts and performs as musical guest on Saturday, Mar. 14."
-    },
-    {
-      "title": "Tributes paid after death of Mot\u00f6rhead legend Phil Campbell, age 64: \u201cHis legacy, music and the memories he created with so many will live on forever\u201d",
-      "link": "https://www.nme.com/news/music/tributes-paid-after-death-of-motorhead-legend-phil-campbell-age-64-his-legacy-music-and-the-memories-he-created-with-so-many-will-live-on-forever-3934548?utm_source=rss&utm_medium=rss&utm_campaign=tributes-paid-after-death-of-motorhead-legend-phil-campbell-age-64-his-legacy-music-and-the-memories-he-created-with-so-many-will-live-on-forever",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-14 16:30",
-      "summary": "\nHe played guitar alongside Lemmy and co. for 31 years\nThe post Tributes paid after death of Mot\u00f6rhead legend Phil Campbell, age 64: &#8220;His legacy, music and the memories he created with so many w..."
     },
     {
       "title": "Zach Bryan Buys On the Road Scroll for $12.1 Million",
@@ -1345,22 +1551,6 @@
       "summary": "An integral member of Mot\u00f6rhead for more than 30 years.\nPhil Campbell, Mot\u00f6rhead Guitarist, Dead at 64\nScoop Harrison"
     },
     {
-      "title": "Rose Gray on supporting the LGBTQ+ community, Wolf Alice, and the \u201cdifferent world\u201d of her \u201cwild\u201d new music\u201d",
-      "link": "https://www.nme.com/news/music/rose-gray-interview-supporting-lgbtq-community-wolf-alice-new-music-3934373?utm_source=rss&utm_medium=rss&utm_campaign=rose-gray-interview-supporting-lgbtq-community-wolf-alice-new-music",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-14 13:00",
-      "summary": "\nThe recent NME Cover star spoke to us at Wembley's Trans Mission gig about embracing the guitar on her \u201cwild\u201d forthcoming album, and explained how she uses her music to represent the voices of those ..."
-    },
-    {
-      "title": "Watch Harry Hill join CMAT onstage at London Alexandra Palace show dressed as a dartboard",
-      "link": "https://www.nme.com/news/music/watch-harry-hill-join-cmat-onstage-at-alexandra-palace-show-dressed-as-a-dartboard-3934529?utm_source=rss&utm_medium=rss&utm_campaign=watch-harry-hill-join-cmat-onstage-at-alexandra-palace-show-dressed-as-a-dartboard",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-14 12:36",
-      "summary": "\n\"And before you know it you\u2019re standing in front of 10,000 people dressed as a dartboard\u2026.God Save CMAT!\" \nThe post Watch Harry Hill join CMAT onstage at London Alexandra Palace show dressed as a dar..."
-    },
-    {
       "title": "Longtime Motorhead Guitarist Phil Campbell Dies at 64",
       "link": "https://loudwire.com/motorhead-guitarist-phil-campbell-dead-64/",
       "source": "Loudwire",
@@ -1377,100 +1567,12 @@
       "summary": "MCA/Columbia/Reprise"
     },
     {
-      "title": "Sebastian Bach apologises over reports he had a relationship with Christina Applegate when she was 17",
-      "link": "https://www.nme.com/news/music/sebastian-bach-apologises-over-reports-he-had-a-relationship-with-christina-applegate-when-she-was-17-3934508?utm_source=rss&utm_medium=rss&utm_campaign=sebastian-bach-apologises-over-reports-he-had-a-relationship-with-christina-applegate-when-she-was-17",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-14 11:13",
-      "summary": "\nThe former Skid Row vocalist said he had been \"thrown into the whirlwind of rock \u2018n\u2019 roll\" at the time\nThe post Sebastian Bach apologises over reports he had a relationship with Christina Applegate w..."
-    },
-    {
-      "title": "Lil Nas X issues statement after court appearance, tips Radiohead busker $100",
-      "link": "https://www.nme.com/news/music/lil-nas-x-issues-statement-after-court-appearance-tips-radiohead-busker-100-3934512?utm_source=rss&utm_medium=rss&utm_campaign=lil-nas-x-issues-statement-after-court-appearance-tips-radiohead-busker-100",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-14 11:07",
-      "summary": "\nIt follows his arrest while wandering the streets of Los Angeles last August\nThe post Lil Nas X issues statement after court appearance, tips Radiohead busker $100 appeared first on NME."
-    },
-    {
-      "title": "Jordan Stephens on being \u201cinspired\u201d by the trans community, supporting grassroots venues, and seeing Kate Nash as a \u201cbig sister\u201d",
-      "link": "https://www.nme.com/news/music/jordan-stephens-interview-trans-mission-kate-nash-zack-polanski-grassroots-venues-3934435?utm_source=rss&utm_medium=rss&utm_campaign=jordan-stephens-interview-trans-mission-kate-nash-zack-polanski-grassroots-venues",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-14 11:00",
-      "summary": "\nThe rapper, presenter and Rizzle Kicks star spoke to NME backstage at Trans Mission, and discussed the importance of standing up for those being \"targeted\" in society\nThe post Jordan Stephens on bein..."
-    },
-    {
-      "title": "Watch Gorillaz play intimate Bradford warm-up show for \u2018The Mountain\u2019 tour: \u201cI wanted to do something distinctively multicultural in this city\u201d",
-      "link": "https://www.nme.com/news/music/watch-gorillaz-play-intimate-bradford-warm-up-show-for-the-mountain-tour-i-wanted-to-do-something-distinctively-multicultural-in-this-city-3934485?utm_source=rss&utm_medium=rss&utm_campaign=watch-gorillaz-play-intimate-bradford-warm-up-show-for-the-mountain-tour-i-wanted-to-do-something-distinctively-multicultural-in-this-city",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-14 10:10",
-      "summary": "\nThe band are set to kick off thier tour later this month, and will play another intimate gig in Bradford tonight (March 14)\nThe post Watch Gorillaz play intimate Bradford warm-up show for &#8216;The ..."
-    },
-    {
-      "title": "Donald Trump replaces Kennedy Center president Richard Grenell following artist boycotts",
-      "link": "https://www.nme.com/news/music/donald-trump-replaces-kennedy-center-president-richard-grenell-following-artist-boycotts-3934489?utm_source=rss&utm_medium=rss&utm_campaign=donald-trump-replaces-kennedy-center-president-richard-grenell-following-artist-boycotts",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-14 10:07",
-      "summary": "\nIt comes after a host of artists cancelled scheduled performances at the venue after it was renamed the Trump-Kennedy Center\nThe post Donald Trump replaces Kennedy Center president Richard Grenell fo..."
-    },
-    {
       "title": "INTERVIEW: Everlast Opens Up About His First Album In Eight Years",
       "link": "https://loudwire.com/everlast-new-album-embers-to-ashes-interview/",
       "source": "Loudwire",
       "category": "rock",
       "published": "2026-03-14 09:34",
       "summary": "Lisa Franchot"
-    },
-    {
-      "title": "Spacey Jane Release New Single \u2018Do You Really Love Her\u2019, Announce Summer\u00a0Tour",
-      "link": "https://www.billboard.com/music/music-news/spacey-jane-single-do-you-really-love-her-announce-summer-tour-1236199283/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-14 09:02",
-      "summary": "The Australian indie rock band will hit Governors Ball, Bonnaroo and Osheaga this summer, plus a run of dates supporting Rainbow Kitten Surprise."
-    },
-    {
-      "title": "Jacob Alon: \u201cYou can\u2019t just sit idly and maintain the status quo. You\u2019ve got to have a fight\u201d",
-      "link": "https://www.nme.com/news/music/jacob-alon-interview-speaking-out-trans-rights-palestine-3934342?utm_source=rss&utm_medium=rss&utm_campaign=jacob-alon-interview-speaking-out-trans-rights-palestine",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-14 09:00",
-      "summary": "\nThe BRIT winner spoke to NME at Wembley's Trans Mission gig about why they will always have a political element to their songwriting, and about their refusal to \u201clive in a world\u201d designed by people w..."
-    },
-    {
-      "title": "Doja Cat praises Chappell Roan\u2019s authenticity in candid new video revealing borderline personality disorder diagnosis",
-      "link": "https://www.nme.com/news/music/doja-cat-praises-chappell-roans-authenticity-in-candid-new-video-revealing-borderline-personality-disorder-diagnosis-3934463?utm_source=rss&utm_medium=rss&utm_campaign=doja-cat-praises-chappell-roans-authenticity-in-candid-new-video-revealing-borderline-personality-disorder-diagnosis",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-14 08:56",
-      "summary": "\n\"She hasn't hurt one person by being herself, and that shows that I can do the same\"\nThe post Doja Cat praises Chappell Roan&#8217;s authenticity in candid new video revealing borderline personality ..."
-    },
-    {
-      "title": "The Pretty Reckless Announce Fifth Album \u2018DEAR GOD\u2019, Share New Single \u2018When I Wake\u00a0Up\u2019",
-      "link": "https://www.billboard.com/music/rock/the-pretty-reckless-announce-fifth-album-dear-god-1236199275/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-14 07:42",
-      "summary": "A headlining world tour in support of the album was also announced."
-    },
-    {
-      "title": "Don Toliver Talks \u2018OCTANE\u2019 Success, Plans for Next Album & Travis Scott at Billboard House @\u00a0SXSW",
-      "link": "https://www.billboard.com/music/rb-hip-hop/don-toliver-billboard-house-sxsw-interview-1236199182/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-14 01:53",
-      "summary": "Toliver notched his first No. 1 album on the Billboard 200 with OCTANE."
-    },
-    {
-      "title": "The All-American Rejects\u2019 Tyson Ritter & Nick Wheeler Talk Backyard Tour, Independence & New Album at Billboard House @\u00a0SXSW",
-      "link": "https://www.billboard.com/music/rb-hip-hop/the-all-american-rejects-billboard-house-2026-sxsw-1236199167/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-14 01:53",
-      "summary": "The band's Sandbox album, AAR's first since 2012, arrives on May 15."
     },
     {
       "title": "Dolly Parton Makes First Major Appearance in Months After Health Concerns: \u2018I Needed to Build Myself Back Up\u2019",
@@ -1481,44 +1583,12 @@
       "summary": "The country legend assured fans she is \"back to normal\" after\u00a0postponing her Las Vegas residency\u00a0in September due to health challenges"
     },
     {
-      "title": "Trump Ally Richard Grenell to Step Down as Kennedy Center\u00a0President",
-      "link": "https://www.billboard.com/pro/donald-trump-ally-richard-grenell-exit-kennedy-center/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-14 01:22",
-      "summary": "Trump, who announced the change in a social media post on Friday (March 13), said Grenell would be replaced by Matt Floca."
-    },
-    {
-      "title": "The All-American Rejects on New Music, House Party Tour Success & Advice for New Artists | SXSW\u00a02026",
-      "link": "https://www.billboard.com/video/the-all-american-rejects-on-new-music-house-party-tour/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-14 01:22",
-      "summary": "The All-American Rejects\u2019 Tyson Ritter and Nick Wheeler discuss their new album, the surprising success of their House Party tour, longevity in modern rock music and how up-and-coming artists can find..."
-    },
-    {
-      "title": "\u2018Access Hollywood\u2019 Is Canceled After 30-Year\u00a0Run",
-      "link": "https://www.billboard.com/culture/tv-film/access-hollywood-canceled-after-30-years-1236199245/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-14 00:57",
-      "summary": "The show was created by a former executive producer of Entertainment Tonight."
-    },
-    {
       "title": "Chance The Rapper Testifies Against Ex-Manager in $3 Million Case",
       "link": "https://www.xxlmag.com/chance-the-rapper-former-manager-3-million-dollar-trial/",
       "source": "XXL Mag",
       "category": "hiphop",
       "published": "2026-03-13 23:56",
       "summary": "Jon Kopaloff/Alexander Sikov/iStock/Getty Images (2)"
-    },
-    {
-      "title": "Superstar Q&A With Don Toliver: \u2018Octane,\u2019 Travis Scott, Y2K Pop & More | SXSW\u00a02026",
-      "link": "https://www.billboard.com/video/superstar-qa-with-don-toliver-oktane-travis-scott-y2k-pop/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-13 23:42",
-      "summary": "Don Toliver sits down with Billboard\u2019s Mike Saponara for the Superstar Q&#38;A at SXSW 2026 to chat about his chart-topping fifth album, \u2018Octane.\u2019 The Houston artist reflects on the album debuting at ..."
     },
     {
       "title": "Punk Island announces 2026 date & location",
@@ -1583,87 +1653,7 @@
       "category": "general",
       "published": "2026-03-13 21:35",
       "summary": "Grenell's tenure was marked by artist boycotts and the controversial renaming of the once-prestigious venue\nRic Grenell Steps Down as Kennedy Center President\nAlex Young"
-    },
-    {
-      "title": "Our Favorite Songs of the Week (Playlist)",
-      "link": "https://www.brooklynvegan.com/our-favorite-songs-of-the-week-playlist-233/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-03-13 21:28",
-      "summary": "Including Iceage, Drug Church, Haute &#038; Freddy, Alexis Taylor, Miss Grit, Lykke Li, Broken Social Scene, Maria Taylor, and more."
-    },
-    {
-      "title": "Zach Bryan Buys Jack Kerouac\u2019s \u2018On the Road\u2019 Scroll for $12.1 Million",
-      "link": "https://www.rollingstone.com/music/music-news/zach-bryan-jack-kerouac-on-the-road-scroll-auction-1235530285/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-03-13 21:09",
-      "summary": "Manuscript was part of Christie's massive Jim Irsay auction"
-    },
-    {
-      "title": "Staff Picks: Best Songs of the Week March 7th \u2013 March 13th",
-      "link": "https://consequence.net/2026/03/staff-picks-best-songs-of-the-week-march-7th-march-13th/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-03-13 21:05",
-      "summary": "Great new tracks from Gouge Away, CA7RIEL &#38; Paco Amoroso and Jack Black, and Lip Critic.\nStaff Picks: Best Songs of the Week March 7th \u2013 March 13th\nPaolo Ragusa"
-    },
-    {
-      "title": "Jack Harlow Surprises Fans With Neo Soul-Inspired Monica Album",
-      "link": "https://www.xxlmag.com/jack-harlow-fans-monica-album/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-03-13 20:29",
-      "summary": "Dave Benett/Getty Images/Atlantic Records"
-    },
-    {
-      "title": "Bill Callahan - My Days of 58 ALBUM REVIEW",
-      "link": "https://www.youtube.com/watch?v=Y-iaB43PCRA",
-      "source": "The Needle Drop",
-      "category": "general",
-      "published": "2026-03-13 20:11",
-      "summary": "Listen: https://billcallahan.bandcamp.com/album/my-days-of-58\n\nBill Callahan's latest album is full of wit and sprightliness.\n\nMore rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-..."
-    },
-    {
-      "title": "Hellfest NJ 2026: new location & lineup (Hatebreed, Glassjaw, VOD, Disembodied, Earth Crisis, so much more)",
-      "link": "https://www.brooklynvegan.com/hellfest-nj-2026-new-location-lineup-hatebreed-glassjaw-vod-disembodied-earth-crisis-so-much-more/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-03-13 20:07",
-      "summary": "After returning for its first edition in 20 years in 2025, for 2026 they\u2019ve moved to The Dome at Adventure Crossing in Jackson, NJ."
-    },
-    {
-      "title": "Live Nation\u2019s Antitrust Trial Isn\u2019t Over as States Take Up Fight",
-      "link": "https://www.rollingstone.com/music/music-news/live-nation-trial-resume-states-leading-doj-settlement-1235530222/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-03-13 19:57",
-      "summary": "All parties are expected to return to court on Monday"
-    },
-    {
-      "title": "Access Hollywood Canceled After Nearly 30 Years",
-      "link": "https://consequence.net/2026/03/access-hollywood-canceled/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-03-13 19:52",
-      "summary": "The entertainment program has aired more than 12,000 episodes since premiering in 1996.\nAccess Hollywood Canceled After Nearly 30 Years\nScoop Harrison"
-    },
-    {
-      "title": "Niontay and Sunny brush the haters off in new Soulja Hate Repellant video",
-      "link": "https://www.thefader.com/2026/03/13/niontay-sunny-soulja-hate-repellant",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-03-13 19:46",
-      "summary": "\u201csoulja hate/ Mr.Havemyway x Mr.Beatdaroad\u201d is a standout from Niontay\u2019s latest mixtape."
-    },
-    {
-      "title": "AP A-sides: 10 songs you need to hear",
-      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-march-13-2026/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-03-13 19:39",
-      "summary": "Our favorite new songs, updated weekly."
     }
   ],
-  "last_updated": "2026-03-14T17:32:27.594960"
+  "last_updated": "2026-03-15T17:33:01.308912"
 }

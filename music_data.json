@@ -11,6 +11,16 @@
       "album_type": "album"
     },
     {
+      "name": "ALL ROADS LEAD HOME",
+      "artists": "Central Cee",
+      "release_date": "2026-03-27",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fd610e1f73791997614f4059",
+      "spotify_url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID",
+      "apple_music_url": "https://music.apple.com/us/search?term=ALL%20ROADS%20LEAD%20HOME%20Central%20Cee",
+      "total_tracks": 7,
+      "album_type": "album"
+    },
+    {
       "name": "Still Standing",
       "artists": "Fivio Foreign",
       "release_date": "2026-03-27",
@@ -51,22 +61,22 @@
       "album_type": "single"
     },
     {
-      "name": "Where The Baddies",
-      "artists": "Lemmy, Offset",
-      "release_date": "2026-03-27",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b46b017aff2c6f076b1d7d5a",
-      "spotify_url": "https://open.spotify.com/album/7rjjlEDrIA2mjqbb7W1ite",
-      "apple_music_url": "https://music.apple.com/us/search?term=Where%20The%20Baddies%20Lemmy",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Risky",
       "artists": "Bizzy Crook, Rick Ross, C Stunna",
       "release_date": "2026-03-27",
       "image": "https://i.scdn.co/image/ab67616d0000b2732b94de866dbcddc51bced680",
       "spotify_url": "https://open.spotify.com/album/0WwRRHIF6izRs9uXejNMUG",
       "apple_music_url": "https://music.apple.com/us/search?term=Risky%20Bizzy%20Crook",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Where The Baddies",
+      "artists": "Lemmy, Offset",
+      "release_date": "2026-03-27",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b46b017aff2c6f076b1d7d5a",
+      "spotify_url": "https://open.spotify.com/album/7rjjlEDrIA2mjqbb7W1ite",
+      "apple_music_url": "https://music.apple.com/us/search?term=Where%20The%20Baddies%20Lemmy",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -81,16 +91,6 @@
       "album_type": "single"
     },
     {
-      "name": "Pain In My Eyes",
-      "artists": "Fivio Foreign, Trey Songz",
-      "release_date": "2026-03-27",
-      "image": "https://i.scdn.co/image/ab67616d0000b273476f9097a19823cb91bce61e",
-      "spotify_url": "https://open.spotify.com/album/7mdac5L72xKh5E0CIYiCrh",
-      "apple_music_url": "https://music.apple.com/us/search?term=Pain%20In%20My%20Eyes%20Fivio%20Foreign",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Watch Me Now! (with NLE Choppa)",
       "artists": "Ndotz, NLE Choppa, DJ MAC, CrashDummy",
       "release_date": "2026-03-27",
@@ -101,14 +101,14 @@
       "album_type": "single"
     },
     {
-      "name": "ALL ROADS LEAD HOME",
-      "artists": "Central Cee",
+      "name": "Pain In My Eyes",
+      "artists": "Fivio Foreign, Trey Songz",
       "release_date": "2026-03-27",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fd610e1f73791997614f4059",
-      "spotify_url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID",
-      "apple_music_url": "https://music.apple.com/us/search?term=ALL%20ROADS%20LEAD%20HOME%20Central%20Cee",
-      "total_tracks": 7,
-      "album_type": "album"
+      "image": "https://i.scdn.co/image/ab67616d0000b273476f9097a19823cb91bce61e",
+      "spotify_url": "https://open.spotify.com/album/7mdac5L72xKh5E0CIYiCrh",
+      "apple_music_url": "https://music.apple.com/us/search?term=Pain%20In%20My%20Eyes%20Fivio%20Foreign",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "Skeletor",
@@ -166,7 +166,7 @@
       "release_date": "2026-03-22",
       "image": "https://i.scdn.co/image/ab67616d0000b273c02eba966d3fad692f44ab07",
       "spotify_url": "https://open.spotify.com/album/1RpAAPuJzwTrU2LOSfYLCN",
-      "apple_music_url": "https://music.apple.com/us/search?term=Grow%20With%20Me%20Wes%20Lee%20the%20Wordsmith",
+      "apple_music_url": "https://music.apple.com/us/album/grow-with-me-single/1886570757?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -216,7 +216,7 @@
       "release_date": "2026-03-20",
       "image": "https://i.scdn.co/image/ab67616d0000b273f8296d13508b1a38ebc51e8a",
       "spotify_url": "https://open.spotify.com/album/5IbHKRQ8Qpgzg8FQLE0edn",
-      "apple_music_url": "https://music.apple.com/us/album/out-the-mud-single/1884762140?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Out%20the%20Mud%20%28with%20Key%20Glock%29%20MudBaby%20Ru",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1096,7 +1096,7 @@
       "release_date": "2026-01-29",
       "image": "https://i.scdn.co/image/ab67616d0000b2731721c9a64598d0edd97d5645",
       "spotify_url": "https://open.spotify.com/album/4UJQHVfSL5BtCxxBKwwtwt",
-      "apple_music_url": "https://music.apple.com/us/album/azucar-single/1869619248?uo=4",
+      "apple_music_url": "https://music.apple.com/us/album/azucar-single/1887602919?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1136,47 +1136,7 @@
       "release_date": "2026-01-29",
       "image": "https://i.scdn.co/image/ab67616d0000b273e32d910a6564776a5a5475a5",
       "spotify_url": "https://open.spotify.com/album/7MXKYGKQvF3yuqk1NWCVlx",
-      "apple_music_url": "https://music.apple.com/us/album/azucar-single/1869619248?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Amnesia",
-      "artists": "S\u00e9bastien Tellier, Kid Cudi",
-      "release_date": "2026-01-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737c1a329cd12c8fea918b8bc5",
-      "spotify_url": "https://open.spotify.com/album/1yMMSrLIM3D497KmhcbWrT",
-      "apple_music_url": "https://music.apple.com/us/search?term=Amnesia%20S%C3%A9bastien%20Tellier",
-      "total_tracks": 2,
-      "album_type": "single"
-    },
-    {
-      "name": "Battle",
-      "artists": "Kyle Richh, TaTa, Jenn Carter",
-      "release_date": "2026-01-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b273088b25eeff786a599f523f58",
-      "spotify_url": "https://open.spotify.com/album/5dV3ztqRuAWAbyAnZsDaDh",
-      "apple_music_url": "https://music.apple.com/us/search?term=Battle%20Kyle%20Richh",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "VINYL(s)",
-      "artists": "Roman Toyi, Mick Jenkins",
-      "release_date": "2026-01-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b273714852a7e489ca569f1022b9",
-      "spotify_url": "https://open.spotify.com/album/3GjzEsQsFsBBKG1iLAHI79",
-      "apple_music_url": "https://music.apple.com/us/search?term=VINYL%28s%29%20Roman%20Toyi",
-      "total_tracks": 2,
-      "album_type": "single"
-    },
-    {
-      "name": "BOOMERANG (with Coi Leray)",
-      "artists": "DaBaby, Coi Leray",
-      "release_date": "2026-01-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735f408291f115dea4ec72419e",
-      "spotify_url": "https://open.spotify.com/album/57dvW0VjhQVa3mP55m38a6",
-      "apple_music_url": "https://music.apple.com/us/search?term=BOOMERANG%20%28with%20Coi%20Leray%29%20DaBaby",
+      "apple_music_url": "https://music.apple.com/us/album/azucar-single/1887602919?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     }
@@ -1188,7 +1148,7 @@
       "release_date": "2026-03-13",
       "image": "https://i.scdn.co/image/ab67616d0000b273884dd01508605dca727d8993",
       "spotify_url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc",
-      "apple_music_url": "https://music.apple.com/us/album/trying-times/1880811313?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Trying%20Times%20James%20Blake",
       "total_tracks": 13,
       "album_type": "album"
     },
@@ -1215,12 +1175,284 @@
   ],
   "news": [
     {
-      "title": "Jessie Ware, Katy B and Billy Bragg among performers at huge anti-far right protest in London",
-      "link": "https://www.nme.com/news/music/jessie-ware-katy-b-and-billy-bragg-among-performers-at-huge-anti-far-right-protest-in-london-3937222?utm_source=rss&utm_medium=rss&utm_campaign=jessie-ware-katy-b-and-billy-bragg-among-performers-at-huge-anti-far-right-protest-in-london",
+      "title": "Watch Wolf Alice Perform on Saturday Night Live UK",
+      "link": "https://pitchfork.com/news/watch-wolf-alice-perform-on-snl-uk/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-03-29 17:30",
+      "summary": "They played \u2018White Horses\u2019 and \u2018Leaning Against the Wall\u2019 on the new series\u2019 second episode"
+    },
+    {
+      "title": "Kim Novak Doesn\u2019t Approve of Sydney Sweeney Portraying Her in New Biopic Scandalous!",
+      "link": "https://consequence.net/2026/03/kim-novak-sydney-sweeney-portraying-her-scandalous/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-29 17:29",
+      "summary": "The star of Vertigo thinks that Sweeney's casting in Scandalous! means it will focus on the wrong aspect of her relationship with Sammy Davis Jr. \nKim Novak Doesn&#8217;t Approve of Sydney Sweeney Por..."
+    },
+    {
+      "title": "Guns N\u2019 Roses Kick Off 2026 World Tour in Mexico: Here Is the Complete\u00a0Setlist",
+      "link": "https://www.billboard.com/lists/guns-n-roses-2026-tour-setlist-mexico/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-29 17:28",
+      "summary": "The trek started on March 28 at the Tecate Pa\u2019l Norte festival in Monterrey."
+    },
+    {
+      "title": "Benson Boone Bakes Up \u2018Wanted Man\u2019 Arena Tour",
+      "link": "https://www.rollingstone.com/music/music-news/benson-boone-wanted-man-arena-tour-dates-1235538587/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-03-29 17:06",
+      "summary": "Just weeks after wrapping American Heart Tour, singer announces 39-date trek for this summer"
+    },
+    {
+      "title": "Benson Boone Announces 2026 \u201cWanted Man Tour\u201d",
+      "link": "https://consequence.net/2026/03/benson-boone-2026-wanted-man-tour/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-29 16:55",
+      "summary": "The 32-date arena tour goes down this summer.\nBenson Boone Announces 2026 &#8220;Wanted Man Tour&#8221;\nScoop Harrison"
+    },
+    {
+      "title": "Juno Award Winners 2026: Tate McRae Was the Big Winner at the Industry Gala Despite Being a\u00a0No-Show",
+      "link": "https://www.billboard.com/music/awards/juno-award-winners-2026-tate-mcrae-1236209462/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-29 16:40",
+      "summary": "Other winners included Daniel Caesar, Karan Aujla, Sarah McLachlan, Aysanabee, Alex Cuba and more."
+    },
+    {
+      "title": "James Blake Requests Removal From Kanye West\u2019s Bully Production Credits",
+      "link": "https://pitchfork.com/news/james-blake-requests-removal-from-kanyes-wests-bully-production-credits/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-03-29 16:19",
+      "summary": "Blake said his original version of \u201cThis One Here\u201d is \u201ca completely different production in spirit.\u201d"
+    },
+    {
+      "title": "TLC\u2019s Chilli says she is \u201cnot MAGA\u201d after reports of donations to Trump campaign",
+      "link": "https://www.nme.com/news/music/tlcs-chilli-says-she-is-not-maga-after-reports-of-donations-to-trump-campaign-3937332?utm_source=rss&utm_medium=rss&utm_campaign=tlcs-chilli-says-she-is-not-maga-after-reports-of-donations-to-trump-campaign",
       "source": "NME",
       "category": "general",
-      "published": "2026-03-28 17:20",
-      "summary": "\nThe Together Alliance have described it as \u201cthe biggest demonstration ever against the far right\u201d\nThe post Jessie Ware, Katy B and Billy Bragg among performers at huge anti-far right protest in Londo..."
+      "published": "2026-03-29 16:08",
+      "summary": "\nShe reportedly also donated to the National Republican Senatorial Committee and Ted Cruz\u2019s 2024 election campaign\nThe post TLC&#8217;s Chilli says she is &#8220;not MAGA&#8221; after reports of donat..."
+    },
+    {
+      "title": "Cristina Scabbia's Five Favorite Lacuna Coil Songs to Play Live",
+      "link": "https://loudwire.com/lacuna-coil-cristina-scabbia-favorite-songs-play-live/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-03-29 16:01",
+      "summary": "YouTube: Spotify / Century Media / Sony Music Entertainment / Canva"
+    },
+    {
+      "title": "Man accused of stalking Billie Eilish killed by train in New York",
+      "link": "https://www.nme.com/news/music/man-accused-of-stalking-billie-eilish-killed-by-train-in-new-york-3937329?utm_source=rss&utm_medium=rss&utm_campaign=man-accused-of-stalking-billie-eilish-killed-by-train-in-new-york",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-29 15:26",
+      "summary": "\nEilish obtained a restraining order against Prenell Rousseau in 2020 after he visited the singer\u2019s Los Angeles residence on seven separate occasions\nThe post Man accused of stalking Billie Eilish kil..."
+    },
+    {
+      "title": "See Guns N\u2019 Roses Perform \u2018Nothin\u201d for First Time at 2026 Tour Opener",
+      "link": "https://www.rollingstone.com/music/music-news/guns-n-roses-perform-nothin-first-time-2026-tour-opener-1235538573/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-03-29 15:18",
+      "summary": "Band also gave 2025 single \"Atlas\" its live debut as world tour kicked off in Monterrey, Mexico"
+    },
+    {
+      "title": "Jack White Mocks Trump's Plan to Sign U.S. Paper Currency",
+      "link": "https://loudwire.com/jack-white-mocks-trump-sign-u-s-currency/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-03-29 14:28",
+      "summary": "Theo Wargo, Getty Images for RRHOF / YouTube: ABCNews /  YouTube: The Wall Street Journal / Canva"
+    },
+    {
+      "title": "Garbage cover The Cure and Placebo roll out fan favourites for Robert Smith\u2019s Teenage Cancer Trust gigs at Royal Albert Hall",
+      "link": "https://www.nme.com/news/music/garbage-cover-the-cure-placebo-return-teenage-cancer-trust-royal-albert-hall-lonon-report-photos-video-setlsts-3937313?utm_source=rss&utm_medium=rss&utm_campaign=garbage-cover-the-cure-placebo-return-teenage-cancer-trust-royal-albert-hall-lonon-report-photos-video-setlsts",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-29 13:48",
+      "summary": "\nSee photos, footage, setlists and more from what went down as Placebo played their first gig in two years and Garbage delivered an emotional show while speaking out for the trans community and the ba..."
+    },
+    {
+      "title": "Charlie Daniels Hologam to Perform 4th of July Concert at US Military Base",
+      "link": "https://consequence.net/2026/03/charlie-daniels-son-announces-hologram-concert-united-states-250th-anniversary/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-29 13:39",
+      "summary": "The show will take place at the Fort Campbell military base in Kentucky. \nCharlie Daniels Hologam to Perform 4th of July Concert at US Military Base\nTrey Alston"
+    },
+    {
+      "title": "TLC\u2019s Chilli Says She\u2019s \u2018Not MAGA,\u2019 Accidentally Reposted Michelle Obama Conspiracy",
+      "link": "https://www.rollingstone.com/music/music-news/tlcs-chilli-not-maga-michelle-obama-conspiracy-trump-donation-1235538569/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-03-29 13:33",
+      "summary": "A new report finds singer also donated to Trump reelection efforts, but she insists she didn't \"read the fine print\" and thought she was giving to military veterans"
+    },
+    {
+      "title": "TLC\u2019s Chilli: \u201cI Am Not MAGA\u201d",
+      "link": "https://consequence.net/2026/03/chilli-not-maga/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-29 13:24",
+      "summary": "Following revelations she donated to Trump during the 2024 presidential election.\nTLC&#8217;s Chilli: &#8220;I Am Not MAGA&#8221;\nAlex Young"
+    },
+    {
+      "title": "Brittany Furlan granted restraining order against Falling In Reverse\u2019s Ronnie Radke after catfish scandal",
+      "link": "https://www.nme.com/news/music/brittany-furlan-granted-restraining-order-against-falling-in-reverses-ronnie-radke-after-catfish-scandal-3937285?utm_source=rss&utm_medium=rss&utm_campaign=brittany-furlan-granted-restraining-order-against-falling-in-reverses-ronnie-radke-after-catfish-scandal",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-29 11:51",
+      "summary": "\nThe order details that Radke is not allowed to mention Furlan online or encourage others to harass her\nThe post Brittany Furlan granted restraining order against Falling In Reverse&#8217;s Ronnie Rad..."
+    },
+    {
+      "title": "Pussy Riot stage protest against US tech company Ubiquiti for \u201cpowering Russian war crimes\u201d",
+      "link": "https://www.nme.com/news/music/pussy-riot-stage-protest-against-us-tech-company-ubiquiti-for-powering-russian-war-crimes-3937271?utm_source=rss&utm_medium=rss&utm_campaign=pussy-riot-stage-protest-against-us-tech-company-ubiquiti-for-powering-russian-war-crimes",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-29 11:46",
+      "summary": "\nThey said the military reliance on Ubiquiti meant the American tech company had \"assisted in \u201cthousands of documented cases of war crimes by the Russian army\"\nThe post Pussy Riot stage protest agains..."
+    },
+    {
+      "title": "Bandcamp physical sales now count towards UK chart positions",
+      "link": "https://www.nme.com/news/music/bandcamp-physical-sales-now-count-towards-uk-chart-positions-3937303?utm_source=rss&utm_medium=rss&utm_campaign=bandcamp-physical-sales-now-count-towards-uk-chart-positions",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-29 10:49",
+      "summary": "\n\"It ensures that when fans support an artist directly, it genuinely counts\"\nThe post Bandcamp physical sales now count towards UK chart positions appeared first on NME."
+    },
+    {
+      "title": "Watch Robyn make surprise appearance with Olof Dreijer at BBC 6 Music Festival in Manchester",
+      "link": "https://www.nme.com/news/music/watch-robyn-make-surprise-appearance-with-olof-dreijer-at-bbc-6-music-festival-in-manchester-3937295?utm_source=rss&utm_medium=rss&utm_campaign=watch-robyn-make-surprise-appearance-with-olof-dreijer-at-bbc-6-music-festival-in-manchester",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-29 10:36",
+      "summary": "\nIt follows the release of her new album\u00a0\u2018Sexistential\u2019\nThe post Watch Robyn make surprise appearance with Olof Dreijer at BBC 6 Music Festival in Manchester appeared first on NME."
+    },
+    {
+      "title": "Watch Wolf Alice play \u2018White Horses\u2019 and \u2018Leaning Against the Wall\u2019 on \u2018SNL UK\u2019",
+      "link": "https://www.nme.com/news/music/watch-wolf-alice-play-white-horses-and-leaning-against-the-wall-on-snl-uk-3937286?utm_source=rss&utm_medium=rss&utm_campaign=watch-wolf-alice-play-white-horses-and-leaning-against-the-wall-on-snl-uk",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-29 09:51",
+      "summary": "\nNext week's episode will see Kasabian appear as the musical guest\nThe post Watch Wolf Alice play &#8216;White Horses&#8217; and &#8216;Leaning Against the Wall&#8217; on &#8216;SNL UK&#8217; appeared..."
+    },
+    {
+      "title": "Kanye West shares \u2018Father\u2019 music video featuring Travis Scott and directed by Bianca Censori",
+      "link": "https://www.nme.com/news/music/kanye-west-shares-father-music-video-featuring-travis-scott-and-directed-by-bianca-censori-3937270?utm_source=rss&utm_medium=rss&utm_campaign=kanye-west-shares-father-music-video-featuring-travis-scott-and-directed-by-bianca-censori",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-29 09:03",
+      "summary": "\nThe rapper's 12th studio album 'Bully' was released earlier this week\nThe post Kanye West shares \u2018Father\u2019 music video featuring Travis Scott and directed by Bianca Censori appeared first on NME."
+    },
+    {
+      "title": "Watch Weezer play a surprise rooftop gig for their \u2018The Gathering\u2019 tour \u201cinitiation week\u201d",
+      "link": "https://www.nme.com/news/music/watch-weezer-play-a-surprise-rooftop-gig-for-their-the-gathering-tour-initiation-week-3937253?utm_source=rss&utm_medium=rss&utm_campaign=watch-weezer-play-a-surprise-rooftop-gig-for-their-the-gathering-tour-initiation-week",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-03-29 08:03",
+      "summary": "\nCelebrations wrap up tomorrow (March 30) with a pickleball tournament featuring the band members\nThe post Watch Weezer play a surprise rooftop gig for their &#8216;The Gathering&#8217; tour &#8220;in..."
+    },
+    {
+      "title": "Weezer Play Acoustic Rooftop Set in Venice Beach Following Tour\u00a0Announcement",
+      "link": "https://www.billboard.com/music/music-news/weezer-rooftop-set-venice-beach-1236209386/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-29 07:16",
+      "summary": "The rooftop performance was part of a broader run of Los Angeles-area activations the band dubbed \"Weezer: The Gathering \u2013 Initiation Week.\""
+    },
+    {
+      "title": "Bruce Springsteen Performs \u2018Streets of Minneapolis\u2019 at No Kings\u00a0Rally",
+      "link": "https://www.billboard.com/music/music-news/bruce-springsteen-streets-of-minneapolis-no-kings-rally-1236209387/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-29 06:21",
+      "summary": "The crowd then chanted \"ICE out now\" as Springsteen launched into the song."
+    },
+    {
+      "title": "Barbie Dream Fest Is the New Willy Wonka Experience",
+      "link": "https://consequence.net/2026/03/barbie-dream-fest/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-29 00:31",
+      "summary": "The Florida event apparently featured minimal attractions, sparse decor, and underwhelming perks.\nBarbie Dream Fest Is the New Willy Wonka Experience\nAlex Young"
+    },
+    {
+      "title": "Ye\u2019s \u2018Bully\u2019 Album: All 18 Tracks\u00a0Ranked",
+      "link": "https://www.billboard.com/lists/kanye-west-bully-tracks-ranked-best-songs/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-29 00:18",
+      "summary": "Yeezy season has returned."
+    },
+    {
+      "title": "Ye Returns With \u2018Father\u2019 Video, Featuring Travis Scott and Directed by Bianca\u00a0Censori",
+      "link": "https://www.billboard.com/music/music-news/kanye-west-father-video-bully-album-stream-1236209300/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-28 23:31",
+      "summary": "The track is from Ye's just-released Bully album, streaming now."
+    },
+    {
+      "title": "Rob Schneider Calls for Reinstatement of US Military Draft",
+      "link": "https://consequence.net/2026/03/rob-schneider-reinstatement-military-draft/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-28 22:59",
+      "summary": "It is worth noting that Schneider himself has never served.\nRob Schneider Calls for Reinstatement of US Military Draft\nAlex Young"
+    },
+    {
+      "title": "Neurosis - An Undying Love for a Burning World ALBUM REVIEW",
+      "link": "https://www.youtube.com/watch?v=nfGo8zfD0vg",
+      "source": "The Needle Drop",
+      "category": "general",
+      "published": "2026-03-28 22:58",
+      "summary": "Listen: https://neurosis.bandcamp.com/album/an-undying-love-for-a-burning-world\n\nAn enthralling and ambitious step forward for the legendary sludge metal band.\n\nMore metal reviews: https://www.youtube..."
+    },
+    {
+      "title": "Bruce Springsteen Appears at Minneapolis No Kings Protest: \u201cYou Gave Us Courage\u201d",
+      "link": "https://consequence.net/2026/03/bruce-springsteen-appears-at-minneapolis-no-kings-protest-you-gave-us-courage/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-28 22:17",
+      "summary": "The Boss performed \"Streets of Minneapolis\" in honor of Renee Good and Alex Pretti.\nBruce Springsteen Appears at Minneapolis No Kings Protest: &#8220;You Gave Us Courage&#8221;\nScoop Harrison"
+    },
+    {
+      "title": "Watch Fred again.. & Thomas Bangalter\u2019s Complete Set From London\u2019s Alexandra Palace: \u2018This Has Been the Greatest Show of My\u00a0Life\u2019",
+      "link": "https://www.billboard.com/music/music-news/fred-again-thomas-bangalter-daft-punk-ally-pally-stream-1236209268/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-28 20:57",
+      "summary": "The historic February performance is now streaming on YouTube."
+    },
+    {
+      "title": "Tyler, The Creator, Deftones & Jackson Wang Among Best of Day 1 of Tecate Pa\u2019l Norte\u00a02026",
+      "link": "https://www.billboard.com/lists/tecate-pal-norte-2026-day-1-best-tyler-the-creator-deftones/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-03-28 20:51",
+      "summary": "Interpol and Morat also shone on the first day of the massive festival in Monterrey, Mexico."
+    },
+    {
+      "title": "See Bruce Springsteen Perform \u2018Streets of Minneapolis\u2019 at St. Paul No Kings Rally",
+      "link": "https://www.rollingstone.com/music/music-news/bruce-springsteen-streets-of-minneapolis-no-kings-rally-1235538563/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-03-28 19:49",
+      "summary": "\"This past winter, federal troops brought death and terror to the streets of Minneapolis, but they picked the wrong city,\" singer says Saturday at flagship rally"
+    },
+    {
+      "title": "Man Arrested for Stalking Billie Eilish Killed by Train on Long Island",
+      "link": "https://consequence.net/2026/03/man-arrested-for-stalking-billie-eilish-killed-by-train-on-long-island/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-03-28 17:38",
+      "summary": "Prenell Rousseau was jogging \"on or near\" the tracks when a Long Island Rail Road train struck him early Wednesday morning.\nMan Arrested for Stalking Billie Eilish Killed by Train on Long Island\nScoop..."
     },
     {
       "title": "Watch Thomas Bangalter and Fred again..\u2019s Full Alexandra Palace DJ Set",
@@ -1247,28 +1479,12 @@
       "summary": "SNL UK has Jamie Dornan as host and Wolf Alice as musical guest."
     },
     {
-      "title": "Kanye West\u2019s new album \u2018Bully\u2019 released on streaming services after YouTube livestream debut",
-      "link": "https://www.nme.com/news/music/kanye-wests-new-album-bully-released-on-streaming-services-after-youtube-livestream-debut-3937218?utm_source=rss&utm_medium=rss&utm_campaign=kanye-wests-new-album-bully-released-on-streaming-services-after-youtube-livestream-debut",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-28 16:32",
-      "summary": "\nHe has also shared the video for 'Father', featuring Travis Scott and directed by his wife Bianca Censori\nThe post Kanye West&#8217;s new album &#8216;Bully&#8217; released on streaming services afte..."
-    },
-    {
       "title": "Big Ears 2026 Day 1 & 2: David Byrne, Dirty Three, John Zorn, Tunde Adebimpe, Arthur Russell tribute more",
       "link": "https://www.brooklynvegan.com/big-ears-2026-day-1-2-david-byrne-dirty-three-john-zorn-tunde-adebimpe-arthur-russell-tribute-more/",
       "source": "Brooklyn Vegan",
       "category": "general",
       "published": "2026-03-28 16:02",
       "summary": "There&#8217;s no other US festival quite like Big Ears"
-    },
-    {
-      "title": "Cardi B wins right to recover trial costs after beating security guard\u2019s assault lawsuit",
-      "link": "https://www.nme.com/news/music/cardi-b-wins-right-to-recover-trial-costs-after-beating-security-guards-assault-lawsuit-3937205?utm_source=rss&utm_medium=rss&utm_campaign=cardi-b-wins-right-to-recover-trial-costs-after-beating-security-guards-assault-lawsuit",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-28 15:57",
-      "summary": "\nIt comes months after she warned: \"I am not that celeb you gonna sue and you think is going to settle\"\nThe post Cardi B wins right to recover trial costs after beating security guard\u2019s assault lawsui..."
     },
     {
       "title": "Pussy Riot Stage Protest Against Tech Company for \u2018Powering Russian War Crimes\u2019",
@@ -1295,30 +1511,6 @@
       "summary": "Plus, Karol G lives a full-circle moment, singing a duet with Alicia Keys on the same song she covered 16 years ago."
     },
     {
-      "title": "\u2018Amen\u2019 Again: Shaboozey & Jelly Roll Earn a Rare Multi-Week No. 1\u00a0Collab",
-      "link": "https://www.billboard.com/music/chart-beat/shaboozey-jelly-roll-multi-week-number-one-collab-1236208789/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-28 15:00",
-      "summary": "The song tops Country Airplay for a second week."
-    },
-    {
-      "title": "Man\u00e1 Proves Why It\u2019s Rock en Espa\u00f1ol Royalty During Miami Stop of Vivir Sin Aire\u00a0Tour",
-      "link": "https://www.billboard.com/music/latin/mana-vivir-sin-aire-tour-miami-concert-highlights-1236209164/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-28 14:18",
-      "summary": "The Mexican group will wrap its extensive Vivir Sin Aire trek that kicked off in 2025 on Nov. 8 at the Moody Center in Austin."
-    },
-    {
-      "title": "Bad Bunny\u2019s Adidas Collaborations Sell Out in Minutes: Here\u2019s How to Get His Latest Sneaker Drop\u00a0Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/bad-bunny-adidas-new-badbo-1-0-sneaker-shop-online-1236208577/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-28 14:00",
-      "summary": "The\u00a0singer's new sneaker is a beige and black iteration with nods to his Puerto Rican roots."
-    },
-    {
       "title": "Jack White: Trump Puts His Name on Currency While \u201cTSA Agents Are Selling Plasma\u201d",
       "link": "https://consequence.net/2026/03/jack-white-trump-currency/",
       "source": "Consequence",
@@ -1343,92 +1535,12 @@
       "summary": "\"And the compromise is: I am going to get it, and then I'm going to give it to him. Everybody's happy. I just want things to work out.\"\nBill Maher &#8220;Honored&#8221; to Receive Mark Twain Prize Aft..."
     },
     {
-      "title": "Paul McCartney\u2019s Fonda Setlist: Every Song From the First Night of His Two-Night Hollywood\u00a0Stand",
-      "link": "https://www.billboard.com/lists/paul-mccartney-fonda-setlist-recap/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-28 13:04",
-      "summary": "McCartney joyously soared through 21 songs as the audience hung on his every word."
-    },
-    {
-      "title": "Britney Spears breaks silence after DUI arrest: \u201cStay kind\u201d",
-      "link": "https://www.nme.com/news/music/britney-spears-breaks-silence-after-dui-arrest-stay-kind-3937196?utm_source=rss&utm_medium=rss&utm_campaign=britney-spears-breaks-silence-after-dui-arrest-stay-kind",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-28 11:34",
-      "summary": "\nThe singer is due to appear in court in May\nThe post Britney Spears breaks silence after DUI arrest: &#8220;Stay kind&#8221; appeared first on NME."
-    },
-    {
-      "title": "Ross \u201cThe Boss\u201d Friedman, \u201clegendary\u201d Dictators and Manowar guitarist, dead at 72",
-      "link": "https://www.nme.com/news/music/ross-the-boss-friedman-legendary-dictators-and-manowar-guitarist-dead-at-72-3937188?utm_source=rss&utm_medium=rss&utm_campaign=ross-the-boss-friedman-legendary-dictators-and-manowar-guitarist-dead-at-72",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-28 11:08",
-      "summary": "\n\"His legacy will live on through his music, his influence, and the countless lives he touched\"\nThe post Ross \u201cThe Boss\u201d Friedman, \u201clegendary\u201d Dictators and Manowar guitarist, dead at 72 appeared firs..."
-    },
-    {
-      "title": "Watch Bloc Party debut three new songs at BBC 6 Music Festival in Manchester",
-      "link": "https://www.nme.com/news/music/watch-bloc-party-debut-three-new-songs-at-bbc-6-music-festival-in-manchester-3937171?utm_source=rss&utm_medium=rss&utm_campaign=watch-bloc-party-debut-three-new-songs-at-bbc-6-music-festival-in-manchester",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-28 10:54",
-      "summary": "\nTheir upcoming album, which they described to NME as sounding like \"disco heartbreak\", is being helmed by super-producer Trevor Horn\nThe post Watch Bloc Party debut three new songs at BBC 6 Music Fes..."
-    },
-    {
-      "title": "Jack White hits out at Trump\u2019s plan to sign all US currency amid recession risk",
-      "link": "https://www.nme.com/news/music/jack-white-hits-out-at-trumps-plan-to-sign-all-us-currency-amid-recession-risk-3937163?utm_source=rss&utm_medium=rss&utm_campaign=jack-white-hits-out-at-trumps-plan-to-sign-all-us-currency-amid-recession-risk",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-28 10:25",
-      "summary": "\n\"TSA agents are selling plasma to pay rent while he takes the day off, cheats at golf, and bombs other countries for fun\"\nThe post Jack White hits out at Trump\u2019s plan to sign all US currency amid rec..."
-    },
-    {
-      "title": "Lindsey Buckingham hints at reunion with Stevie Nicks after reconciliation following feud",
-      "link": "https://www.nme.com/news/music/lindsey-buckingham-hints-at-reunion-with-stevie-nicks-after-reconciliation-following-feud-3937155?utm_source=rss&utm_medium=rss&utm_campaign=lindsey-buckingham-hints-at-reunion-with-stevie-nicks-after-reconciliation-following-feud",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-28 10:04",
-      "summary": "\n\"That seems to be something that's in the air\"\nThe post Lindsey Buckingham hints at reunion with Stevie Nicks after reconciliation following feud appeared first on NME."
-    },
-    {
-      "title": "Watch Chvrches debut heavy new song \u2018Conman\u2019 at Robert Smith\u2019s Teenage Cancer Trust shows at Royal Albert Hall",
-      "link": "https://www.nme.com/news/music/watch-chvrches-debut-heavy-new-song-conman-at-robert-smiths-teenage-cancer-trust-shows-at-royal-albert-hall-3937136?utm_source=rss&utm_medium=rss&utm_campaign=watch-chvrches-debut-heavy-new-song-conman-at-robert-smiths-teenage-cancer-trust-shows-at-royal-albert-hall",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-28 09:15",
-      "summary": "\n\u201cIt\u2019s going to surprise people, and I hope it\u2019s going to delight them and rip some faces off,\u201d Martin Doherty told us of the band\u2019s new album\nThe post Watch Chvrches debut heavy new song &#8216;Conma..."
-    },
-    {
-      "title": "Inkabee Makes Triple J \u2018Like A Version\u2019 Debut With Black Eyed Peas\u00a0Cover",
-      "link": "https://www.billboard.com/music/rb-hip-hop/inkabee-like-a-version-debut-black-eyed-peas-1236209097/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-28 08:26",
-      "summary": "\"I just thought it's the most perfect song for how the world is right now,\" the Noongar Wongi rapper said."
-    },
-    {
-      "title": "Jack White Mocks Trump\u2019s Plan to Sign U.S. Currency: \u2018Small\u00a0Hands\u2019",
-      "link": "https://www.billboard.com/music/music-news/jack-white-mocks-donald-trump-sign-u-s-currency-1236209090/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-28 07:13",
-      "summary": "\"The TSA agents are selling plasma to pay rent while he takes the day off, cheats at golf, and bombs other countries for fun,\" White wrote."
-    },
-    {
       "title": "Jack White Slams Trump\u2019s Signature on U.S. Dollars Amid America\u2019s Rising Cost of Living",
       "link": "https://www.rollingstone.com/music/music-news/trump-signature-us-dollars-jack-white-1235538509/",
       "source": "Rolling Stone",
       "category": "general",
       "published": "2026-03-28 03:55",
       "summary": "Trump will be the first sitting U.S. president with a signature appearing on currency"
-    },
-    {
-      "title": "\u2018Laguna Beach\u2019 Stars Reunite & Take On Viral JENNIE TikTok Trend:\u00a0Watch",
-      "link": "https://www.billboard.com/culture/product-recommendations/laguna-beach-reunion-viral-jennie-tiktok-trend-watch-1236209067/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-28 00:55",
-      "summary": "Lauren Conrad, Stephen Colletti &#38; Talan Torriero filmed themselves strutting to the singer's \"Dracula\" remix while promoting their reality series reunion special."
     },
     {
       "title": "Drake\u2019s Label Fires Back at Rapper in Appeals Court: \u2018Astoundingly Hypocritical\u2019",
@@ -1447,14 +1559,6 @@
       "summary": "The rock icon had recently revealed a battle with ALS.\nRoss \u201cThe Boss\u201d Friedman, Legendary Dictators and Manowar Guitarist, Dead at 72\nSpencer Kaufman"
     },
     {
-      "title": "Live Nation Trial Week 3 Recap: Ticketmaster-OVG Secret Fees & Competition for Superstar\u00a0Tours",
-      "link": "https://www.billboard.com/pro/live-nation-trial-recap-week-3-drake-kendrick-tour-competition/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-03-27 23:28",
-      "summary": "Billboard is summing up the key testimony and takeaways from the third week of the blockbuster antitrust trial."
-    },
-    {
       "title": "The 6 Best Songs From Ye\u2019s \u2018Bully\u2019 Album",
       "link": "https://www.rollingstone.com/music/music-news/kanye-west-bully-album-best-songs-ye-1235538475/",
       "source": "Rolling Stone",
@@ -1463,157 +1567,13 @@
       "summary": "The long-awaited project premiered during an online listening party held by Ye"
     },
     {
-      "title": "Britney Spears Breaks Silence After DUI Arrest: \u2018Thank You Guys for All Your Support \u2026 Stay Kind\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/britney-spears-speaks-out-after-dui-arrest-1235538449/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-03-27 22:33",
-      "summary": "Earlier this month, the pop star was arrested for driving while under the influence of a \"combination of drugs and alcohol\" and released from custody overnight"
-    },
-    {
       "title": "J. Cole Admits He Doesn't Feel Like He's the Best Rapper Alive",
       "link": "https://www.xxlmag.com/j-cole-admits-doesnt-feel-hes-best-rapper-alive/",
       "source": "XXL Mag",
       "category": "hiphop",
       "published": "2026-03-27 22:22",
       "summary": "7PM in Brooklyn with Carmelo Anthony/YouTube"
-    },
-    {
-      "title": "Our Favorite Songs of the Week (Playlist)",
-      "link": "https://www.brooklynvegan.com/our-favorite-songs-of-the-week-playlist-235/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-03-27 22:16",
-      "summary": "This week\u2019s playlist includes new music by Gelli Haha, Mary in the Junkyard, Johanna Samuels (ft. Courtney Marie Andrews), Fcukers, Fire-Toolz, Jim Legxacy, Soulwax, Lee Scratch Perry x Mouse on Mars,..."
-    },
-    {
-      "title": "Every song in Netflix\u2019s \u2018BTS: The Return\u2019 documentary",
-      "link": "https://www.nme.com/news/film/netflix-bts-the-return-documentary-every-song-3936876?utm_source=rss&utm_medium=rss&utm_campaign=netflix-bts-the-return-documentary-every-song",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-03-27 22:13",
-      "summary": "\nIncluding tracks from their latest album \u2018Arirang\u2019\nThe post Every song in Netflix\u2019s \u2018BTS: The Return&#8217; documentary appeared first on NME."
-    },
-    {
-      "title": "Tour News: Jack White, Hayley Williams, My Morning Jacket, King Woman, Boko Yout, Yoko Kanno, more",
-      "link": "https://www.brooklynvegan.com/tour-news-jack-white-hayley-williams-my-morning-jacket-king-woman-boko-yout-yoko-kanno-more/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-03-27 21:41",
-      "summary": "Plus Muse, Joyce Manor, Tortoise, Weezer, Lily Allen, and more tour and show news."
-    },
-    {
-      "title": "Staff Picks: Best Songs of the Week March 20th \u2013 March 27th",
-      "link": "https://consequence.net/2026/03/staff-picks-best-songs-march-20th-27th/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-03-27 21:01",
-      "summary": "Consequence's favorite songs of the week include new tracks from Snail Mail, girl_irl and Danny Brown, Accessory, Momo Boyd, Eli, and more.\nStaff Picks: Best Songs of the Week March 20th &#8211; March..."
-    },
-    {
-      "title": "6 New Songs Out Today",
-      "link": "https://www.brooklynvegan.com/6-new-songs-out-today-19/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-03-27 20:53",
-      "summary": "Hear new songs by Miley Cyrus, Portugal. The Man &#038; Marshmello, Empress Of, JJerome87 (alt-J), Suki Waterhouse, and more."
-    },
-    {
-      "title": "Fat Joe Accuser Drops Rape, Child Trafficking and RICO Claims",
-      "link": "https://www.xxlmag.com/fat-joe-accuser-drops-rape-child-trafficking-and-rico-claims-from-lawsuit/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-03-27 20:51",
-      "summary": "Christopher Polk/Getty Images"
-    },
-    {
-      "title": "Fetty Wap Blends Rap and Melody Once Again on Zavier Album",
-      "link": "https://www.xxlmag.com/fetty-wap-album-zavier/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-03-27 20:47",
-      "summary": "Johnny Nunez/WireImage/Getty Images/300 Entertainment, LLC"
-    },
-    {
-      "title": "Black Label Society Unveil \u201cOzzy\u2019s Song,\u201d Zakk Wylde\u2019s Tribute to His Beloved Friend: Stream",
-      "link": "https://consequence.net/2026/03/black-label-society-new-single-ozzys-song/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-03-27 20:44",
-      "summary": "The single comes from their new album Engines of Demolition, which is out now.\nBlack Label Society Unveil \u201cOzzy\u2019s Song,\u201d Zakk Wylde&#8217;s Tribute to His Beloved Friend: Stream\nLangdon Hickman"
-    },
-    {
-      "title": "Ex-Manowar Guitarist Ross 'The Boss' Friedman Dies at 72",
-      "link": "https://loudwire.com/manowar-dictators-ross-the-boss-friedman-dies-72/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-03-27 20:44",
-      "summary": "Lorne Thomson/Redferns, Getty Images"
-    },
-    {
-      "title": "Felicia Day on Rewriting Mythology in The Lost Daughter of Sparta, and The Guild\u2019s Next Life: Podcast",
-      "link": "https://consequence.net/2026/03/felicia-day-lost-daughter-of-sparta-podcast/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-03-27 20:40",
-      "summary": "The multi-hyphenate takes us inside her new graphic novel and future plans\nFelicia Day on Rewriting Mythology in The Lost Daughter of Sparta, and The Guild\u2019s Next Life: Podcast\nKyle Meredith"
-    },
-    {
-      "title": "Backstory to My Chemical Romance's 'Phantom' T-Shirt Explained",
-      "link": "https://loudwire.com/my-chemical-romance-phantom-shirt-explained/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-03-27 20:33",
-      "summary": "Getty Images/MyChemicalRomance.com"
-    },
-    {
-      "title": "Choose Your Fighter in Pitchfork\u2019s Bracket Challenge",
-      "link": "https://pitchfork.com/news/pitchfork-30-bracket-best-albums/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-03-27 20:15",
-      "summary": "What\u2019s your favorite album from the last 30 years?"
-    },
-    {
-      "title": "Jack White Announces European 2026 Tour",
-      "link": "https://pitchfork.com/news/jack-white-announces-european-2026-tour/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-03-27 20:15",
-      "summary": "The new dates will see the musician visit Paris, Warsaw, and Berlin"
-    },
-    {
-      "title": "AP A-sides: 10 songs you need to hear",
-      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-march-27-2026/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-03-27 19:08",
-      "summary": "Our favorite new songs, updated weekly."
-    },
-    {
-      "title": "The Kinks\u2019 Ray Davies on \u201cLola\u201d Diss: \u201cWho the F**k Is Moby?\u201d",
-      "link": "https://consequence.net/2026/03/the-kinks-ray-davies-who-the-fk-is-moby/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-03-27 19:05",
-      "summary": "Dave Davies reveals that his brother \"wasn't happy at all\" that Moby called the song \"gross and transphobic.\"\nThe Kinks&#8217; Ray Davies on &#8220;Lola&#8221; Diss: &#8220;Who the F**k Is Moby?&#8221..."
-    },
-    {
-      "title": "Arch Enemy Play First Show With New Singer Lauren Hart: Watch",
-      "link": "https://consequence.net/2026/03/arch-enemy-first-live-show-lauren-hart/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-03-27 18:19",
-      "summary": "The vocalist made her live debut with the extreme metal veterans at a concert in Beijing, China.\nArch Enemy Play First Show With New Singer Lauren Hart: Watch\nLangdon Hickman"
-    },
-    {
-      "title": "March Madness Rd 3 - Vote for Best '70s, '80s, '90s + '00s Bands",
-      "link": "https://loudwire.com/march-madness-tournment-rock-metal-bands-decades-round-3/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-03-27 18:19",
-      "summary": "Adrian Borromeo"
     }
   ],
-  "last_updated": "2026-03-28T17:34:36.611589"
+  "last_updated": "2026-03-29T17:36:06.709819"
 }

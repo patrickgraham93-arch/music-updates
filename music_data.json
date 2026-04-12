@@ -1,6 +1,16 @@
 {
   "hiphop": [
     {
+      "name": "One of Them",
+      "artists": "DJ Khaled, Future, Lil Baby",
+      "release_date": "2026-04-10",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737251b8aefa5794444a47f389",
+      "spotify_url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ",
+      "apple_music_url": "https://music.apple.com/us/album/one-of-them-single/1891015561?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "10 Til' Midnight",
       "artists": "Snoop Dogg",
       "release_date": "2026-04-10",
@@ -9,6 +19,16 @@
       "apple_music_url": "https://music.apple.com/us/search?term=10%20Til%27%20Midnight%20Snoop%20Dogg",
       "total_tracks": 14,
       "album_type": "album"
+    },
+    {
+      "name": "SAME SH!T",
+      "artists": "Isaiah Rashad",
+      "release_date": "2026-04-10",
+      "image": "https://i.scdn.co/image/ab67616d0000b273206e8a5b9b1777386fab64b5",
+      "spotify_url": "https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d",
+      "apple_music_url": "https://music.apple.com/us/album/same-sh-t-single/1891835119?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
@@ -47,26 +67,6 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734821e107be11d853977b456e",
       "spotify_url": "https://open.spotify.com/album/12cZJLVKNOEiwXW8LWiErG",
       "apple_music_url": "https://music.apple.com/us/search?term=CRASH%20OUT%20Chill%27s%20Spotlight",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "SAME SH!T",
-      "artists": "Isaiah Rashad",
-      "release_date": "2026-04-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b273206e8a5b9b1777386fab64b5",
-      "spotify_url": "https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d",
-      "apple_music_url": "https://music.apple.com/us/album/same-sh-t-single/1891835119?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "One of Them",
-      "artists": "DJ Khaled, Future, Lil Baby",
-      "release_date": "2026-04-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737251b8aefa5794444a47f389",
-      "spotify_url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ",
-      "apple_music_url": "https://music.apple.com/us/album/one-of-them-single/1891015561?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -111,16 +111,6 @@
       "album_type": "album"
     },
     {
-      "name": "DON'T PANIC",
-      "artists": "Lil Peep",
-      "release_date": "2026-04-03",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f8a6edbd70796aa3a305da7e",
-      "spotify_url": "https://open.spotify.com/album/4wCSQIOYJ3st4yW4scmy6u",
-      "apple_music_url": "https://music.apple.com/us/album/dont-panic-single/1886753822?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "TEACH YOU HOW TO LUH ME",
       "artists": "YG, Ty Dolla $ign",
       "release_date": "2026-04-03",
@@ -131,12 +121,12 @@
       "album_type": "single"
     },
     {
-      "name": "Loco",
-      "artists": "Key Glock",
+      "name": "DON'T PANIC",
+      "artists": "Lil Peep",
       "release_date": "2026-04-03",
-      "image": "https://i.scdn.co/image/ab67616d0000b273509cf9888ce9f92d19c4c325",
-      "spotify_url": "https://open.spotify.com/album/2MrAeXVF8AF8jb3LSK4TIM",
-      "apple_music_url": "https://music.apple.com/us/album/loco-single/1888583267?uo=4",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8a6edbd70796aa3a305da7e",
+      "spotify_url": "https://open.spotify.com/album/4wCSQIOYJ3st4yW4scmy6u",
+      "apple_music_url": "https://music.apple.com/us/album/dont-panic-single/1886753822?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -147,6 +137,16 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273060e99d1f53ef78f0d4d166c",
       "spotify_url": "https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5",
       "apple_music_url": "https://music.apple.com/us/album/600-racks-single/1890283791?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Loco",
+      "artists": "Key Glock",
+      "release_date": "2026-04-03",
+      "image": "https://i.scdn.co/image/ab67616d0000b273509cf9888ce9f92d19c4c325",
+      "spotify_url": "https://open.spotify.com/album/2MrAeXVF8AF8jb3LSK4TIM",
+      "apple_music_url": "https://music.apple.com/us/album/loco-single/1888583267?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -256,7 +256,7 @@
       "release_date": "2026-04-01",
       "image": "https://i.scdn.co/image/ab67616d0000b2735689e32a8e8205174c8b040a",
       "spotify_url": "https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb",
-      "apple_music_url": "https://music.apple.com/us/album/paperbag-boy-single/1889349897?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Paperbag%20Boy%20Trippie%20Redd",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -266,7 +266,7 @@
       "release_date": "2026-03-31",
       "image": "https://i.scdn.co/image/ab67616d0000b27313c3e4eb66de59f0a6a73e84",
       "spotify_url": "https://open.spotify.com/album/3JpVOhwlOGS1XZzzJquq4L",
-      "apple_music_url": "https://music.apple.com/us/search?term=WHODIS%20corto.alto",
+      "apple_music_url": "https://music.apple.com/us/album/whodis-single/1879477006?uo=4",
       "total_tracks": 3,
       "album_type": "single"
     },
@@ -286,7 +286,7 @@
       "release_date": "2026-03-28",
       "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
       "spotify_url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS",
-      "apple_music_url": "https://music.apple.com/us/search?term=BULLY%20Kanye%20West",
+      "apple_music_url": "https://music.apple.com/us/album/bully-ep/1872771948?uo=4",
       "total_tracks": 18,
       "album_type": "album"
     },
@@ -466,7 +466,7 @@
       "release_date": "2026-03-20",
       "image": "https://i.scdn.co/image/ab67616d0000b273f8296d13508b1a38ebc51e8a",
       "spotify_url": "https://open.spotify.com/album/5IbHKRQ8Qpgzg8FQLE0edn",
-      "apple_music_url": "https://music.apple.com/us/album/out-the-mud-single/1884762140?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Out%20the%20Mud%20%28with%20Key%20Glock%29%20MudBaby%20Ru",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -566,7 +566,7 @@
       "release_date": "2026-03-13",
       "image": "https://i.scdn.co/image/ab67616d0000b273c2f737b6171fbb17ce6f501e",
       "spotify_url": "https://open.spotify.com/album/2RU8jg3q51UuxlS5bsUYnD",
-      "apple_music_url": "https://music.apple.com/us/album/bad-bitch-single/1882818057?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Bad%20Bitch%2041",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -751,22 +751,22 @@
       "album_type": "single"
     },
     {
-      "name": "UP [Feat. Rich The Kid, A$AP Ferg & SadBoi]",
-      "artists": "Denzel Curry, Rich The Kid, A$AP Ferg, SadBoi",
-      "release_date": "2026-03-04",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d816a008787408a5ad0c1259",
-      "spotify_url": "https://open.spotify.com/album/1tmOxOhW1g4MHIRa42WAUL",
-      "apple_music_url": "https://music.apple.com/us/search?term=UP%20Denzel%20Curry",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "HOOPTY [Feat. TiaCorine & Smino]",
       "artists": "The Scythe, Denzel Curry, Smino",
       "release_date": "2026-03-04",
       "image": "https://i.scdn.co/image/ab67616d0000b2735853f5a39b036bd510c93108",
       "spotify_url": "https://open.spotify.com/album/6yEv8WgHTFKoy9ECnBeUQ0",
       "apple_music_url": "https://music.apple.com/us/search?term=HOOPTY%20The%20Scythe",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "UP [Feat. Rich The Kid, A$AP Ferg & SadBoi]",
+      "artists": "Denzel Curry, Rich The Kid, A$AP Ferg, SadBoi",
+      "release_date": "2026-03-04",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d816a008787408a5ad0c1259",
+      "spotify_url": "https://open.spotify.com/album/1tmOxOhW1g4MHIRa42WAUL",
+      "apple_music_url": "https://music.apple.com/us/search?term=UP%20Denzel%20Curry",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1135,28 +1135,388 @@
   ],
   "news": [
     {
-      "title": "Alabama Shakes show \u201ca snapshot of what we\u2019re living through in 2026\u201d on the howling \u2018American Dream\u2019",
-      "link": "https://www.nme.com/news/music/alabama-shakes-show-a-snapshot-of-what-were-living-through-in-2026-on-the-howling-american-dream-3939701?utm_source=rss&utm_medium=rss&utm_campaign=alabama-shakes-show-a-snapshot-of-what-were-living-through-in-2026-on-the-howling-american-dream",
-      "source": "NME",
+      "title": "The Strokes Fulfill \u201cLifelong Dream of Opening for Justin Bieber\u201d During Coachella Return",
+      "link": "https://consequence.net/2026/04/the-strokes-coachella-2026-setlist/",
+      "source": "Consequence",
       "category": "general",
-      "published": "2026-04-11 16:53",
-      "summary": "\n\u201cMy hope is that one day people will hear this song and say, \u2018Yeah, shit was crazy back then, but we made it through'\u201c\nThe post Alabama Shakes show &#8220;a snapshot of what we\u2019re living through in 2..."
+      "published": "2026-04-12 17:24",
+      "summary": "The hits-filled appearance marked their first Coachella set in 15 years.\nThe Strokes Fulfill &#8220;Lifelong Dream of Opening for Justin Bieber&#8221; During Coachella Return\nEddie Fu"
     },
     {
-      "title": "Dolly Parton is the most popular person in America, poll finds",
-      "link": "https://www.nme.com/news/music/dolly-parton-is-the-most-popular-person-in-america-poll-finds-3939697?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-is-the-most-popular-person-in-america-poll-finds",
+      "title": "Asha Bhosle, iconic Bollywood singer, dies aged 92",
+      "link": "https://www.nme.com/news/music/asha-bhosle-iconic-bollywood-singer-dies-aged-92-3939822?utm_source=rss&utm_medium=rss&utm_campaign=asha-bhosle-iconic-bollywood-singer-dies-aged-92",
       "source": "NME",
       "category": "general",
-      "published": "2026-04-11 16:24",
-      "summary": "\nThe country icon fared considerably better than the likes of Taylor Swift, Donald Trump and Barack Obama\nThe post Dolly Parton is the most popular person in America, poll finds appeared first on NME."
+      "published": "2026-04-12 16:56",
+      "summary": "\nShe also recorded with Gorillaz and Boy George and was the inspiration for Cornershop's 'Brimful Of Asha'\nThe post Asha Bhosle, iconic Bollywood singer, dies aged 92 appeared first on NME."
     },
     {
-      "title": "BTS\u2019 ARIRANG World Tour Launches in South Korea: Best Moments from Opening\u00a0Night",
-      "link": "https://www.billboard.com/lists/bts-arirang-world-tour-south-korea-best-moments/",
+      "title": "No Doubt\u2019s Tom Dumont Reveals Early Onset Parkinson\u2019s Disease Diagnosis: \u2018It\u2019s Been a\u00a0Struggle\u2019",
+      "link": "https://www.billboard.com/music/music-news/tom-dumont-no-doubt-parkinsons-disease-diagnosis-1236221183/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-04-11 16:21",
-      "summary": "The K-pop superstar kicked off the trek at Goyang Stadium on April 9."
+      "published": "2026-04-12 16:55",
+      "summary": "The Gwen Stefani-led band will launch its Las Vegas residency in May."
+    },
+    {
+      "title": "Rob Halford on K.K. Downing's Involvement in New Judas Priest Doc",
+      "link": "https://loudwire.com/rob-halford-k-k-downing-judas-priest-documentary/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-04-12 16:27",
+      "summary": "Ethan Miller, Getty Images / Theo Wargo, Getty Images for The Rock and Roll Hall of Fame / Canva"
+    },
+    {
+      "title": "No Doubt guitarist Tom Dumont reveals early onset Parkinson\u2019s diagnosis",
+      "link": "https://www.nme.com/news/music/no-doubt-guitarist-tom-dumont-reveals-early-onset-parkinsons-diagnosis-3939818?utm_source=rss&utm_medium=rss&utm_campaign=no-doubt-guitarist-tom-dumont-reveals-early-onset-parkinsons-diagnosis",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-12 16:18",
+      "summary": "\nHe confirmed he will still be playing at the band's upcoming Las Vegas Sphere shows\nThe post No Doubt guitarist Tom Dumont reveals early onset Parkinson&#8217;s diagnosis appeared first on NME."
+    },
+    {
+      "title": "Asha Bhosle, One of India\u2019s Most Versatile Bollywood Singers, Dies at\u00a092",
+      "link": "https://www.billboard.com/music/music-news/asha-bhosle-death-bollywood-singer-dies-1236221180/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-12 16:02",
+      "summary": "The legendary artist recorded about 12,000 songs during her career."
+    },
+    {
+      "title": "See Geese Cover Justin Bieber\u2019s \u2018Baby\u2019 at Coachella",
+      "link": "https://www.rollingstone.com/music/music-news/geese-cover-justin-bieber-baby-coachella-1235545540/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-12 15:48",
+      "summary": "Hours before singer\u2019s headlining set Saturday, Brooklyn band revisit the 2010 hit single"
+    },
+    {
+      "title": "At 73, David Byrne Outpaces Artists Less Than Half His Age at Coachella",
+      "link": "https://consequence.net/2026/04/david-byrne-coachella-2026/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-12 15:46",
+      "summary": "His 13-song set was heavy on Talking Heads classics.\nAt 73, David Byrne Outpaces Artists Less Than Half His Age at Coachella\nEddie Fu"
+    },
+    {
+      "title": "Watch Yungblud kick off \u2018Idols\u2019 UK arena tour with homecoming show",
+      "link": "https://www.nme.com/news/music/watch-yungblud-kick-off-idols-uk-arena-tour-with-homecoming-show-3939814?utm_source=rss&utm_medium=rss&utm_campaign=watch-yungblud-kick-off-idols-uk-arena-tour-with-homecoming-show",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-12 15:42",
+      "summary": "\n\u201cThis album, \u2018Idols\u2019, was made in Yorkshire and we brought it home tonight\"\nThe post Watch Yungblud kick off &#8216;Idols&#8217; UK arena tour with homecoming show appeared first on NME."
+    },
+    {
+      "title": "Anitta Shines With \u2018Choka Choka\u2019 and \u2018Varias Quejas\u2019 in \u2018SNL\u2019 Debut:\u00a0Watch",
+      "link": "https://www.billboard.com/music/latin/anitta-snl-choka-choka-varias-quejas-performances-1236221141/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-12 15:12",
+      "summary": "The Brazilian superstar served as musical guest alongside host Colman Domingo."
+    },
+    {
+      "title": "Coachella Sunday Livestream: Karol G, FKA twigs, Iggy Pop & More",
+      "link": "https://consequence.net/2026/04/coachella-2026-sunday-livestream-schedule/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-12 15:07",
+      "summary": "Coachella's Saturday livestream will also feature sets from Wet Leg, Clipse, BIGBANG, Young Thug, and Laufey.\nCoachella Sunday Livestream: Karol G, FKA twigs, Iggy Pop &amp; More\nPaolo Ragusa"
+    },
+    {
+      "title": "Here\u2019s How to Watch the Long-Awaited \u2018Euphoria\u2019 Season 3 Online for\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-euphoria-season-three-online-free-1236217727/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-12 15:00",
+      "summary": "It's been four years since the last season wrapped, and the new season starts on Sunday, April 12."
+    },
+    {
+      "title": "Nine Inch Noize made their official debut at Coachella, covered Soft Cell (video, setlist)",
+      "link": "https://www.brooklynvegan.com/nine-inch-noize-made-their-official-debut-at-coachella-covered-soft-cell-video-setlist/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-04-12 14:52",
+      "summary": "Joined by Mariqueen Maandig of How to Destroy Angels, Nine Inch Noize (Nine Inch Nails + Boys Noize) expanded the project&#8217;s scope, both musically and visually, for Coachella."
+    },
+    {
+      "title": "Jay Weinberg Still Doesn\u2019t Know Why He Was Fired From Slipknot",
+      "link": "https://loudwire.com/jay-weinberg-still-doesnt-know-why-fired-slipknot/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-04-12 14:40",
+      "summary": "Venla Shalin, Redferns / YouTube: Loudwire / Canva"
+    },
+    {
+      "title": "No Doubt\u2019s Tom Dumont Diagnosed with Early Onset Parkinson\u2019s Disease",
+      "link": "https://consequence.net/2026/04/tom-dumont-diagnosed-early-onset-parkinsons-disease/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-12 14:37",
+      "summary": "Dumont still intends to join No Doubt's upcoming shows at Las Vegas Sphere.\nNo Doubt&#8217;s Tom Dumont Diagnosed with Early Onset Parkinson&#8217;s Disease\nAlex Young"
+    },
+    {
+      "title": "No Doubt Guitarist Tom Dumont Reveals Early Onset Parkinson\u2019s Disease Diagnosis",
+      "link": "https://www.rollingstone.com/music/music-news/no-doubt-guitarist-tom-dumont-parkinsons-disease-diagnosis-1235545531/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-12 14:19",
+      "summary": "\u201cIt\u2019s been a struggle, it\u2019s a struggle every day,\u201d Dumont says, adding he\u2019ll still take part in reunited band\u2019s Sphere residency"
+    },
+    {
+      "title": "At Coachella, Nine Inch Noize Staged a Nightmare Rave for the Ages",
+      "link": "https://consequence.net/2026/04/nine-inch-noize-coachella-rave/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-12 13:49",
+      "summary": "The stunning performance featured zombie-like dancers and brutally reimagined Nine Inch Nails songs.\nAt Coachella, Nine Inch Noize Staged a Nightmare Rave for the Ages\nPaolo Ragusa"
+    },
+    {
+      "title": "Justin Bieber\u2019s Coachella Set Proved That He\u2019s the Biggest Belieber Of\u00a0All",
+      "link": "https://www.billboard.com/music/pop/justin-bieber-coachella-2026-headliner-recap-1236216550/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-12 13:21",
+      "summary": "During the pop star's Saturday night headlining set, he honored his YouTube roots, ran through his biggest hits and celebrated his hard-earned journey to get here."
+    },
+    {
+      "title": "Watch Sabrina Carpenter Headline the First Night of Coachella 2026",
+      "link": "https://pitchfork.com/news/watch-sabrina-carpenter-headline-the-first-night-of-coachella-2026/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-04-12 13:09",
+      "summary": "The Man\u2019s Best Friend singer recruited Susan Sarandon and Sam Elliott for her desert set"
+    },
+    {
+      "title": "At Coachella, Justin Bieber Sang Along to Old Videos of Himself on His MacBook",
+      "link": "https://consequence.net/2026/04/justin-bieber-coachella-karaoke/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-12 13:04",
+      "summary": "The pop star also watched early YouTube memes during his headlining set on Saturday night\nAt Coachella, Justin Bieber Sang Along to Old Videos of Himself on His MacBook\nAlex Young"
+    },
+    {
+      "title": "PinkPantheress, Sombr, Jack White & More: Best Moments From Coachella 2026\u00a0Day\u00a02",
+      "link": "https://www.billboard.com/lists/coachella-2026-day-two-best-pinkpantheress-jack-white/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-12 12:33",
+      "summary": "Plus, additional Saturday highlights from Geese, Taemin and Nine Inch Noize."
+    },
+    {
+      "title": "PinkPantheress Threw the Hottest Party in the Coachella Valley",
+      "link": "https://www.rollingstone.com/music/music-news/pinkpantheress-performance-coachella-2026-1235543723/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-12 10:55",
+      "summary": "With cameos from the Dare, HorsegiirL, Tyriq Withers, and more, the musician turned the Mojave stage into the ultimate rager"
+    },
+    {
+      "title": "Watch Addison Rae bring out Maddie Ziegler for \u2018Aquamarine\u2019 dance break at Coachella",
+      "link": "https://www.nme.com/news/music/watch-addison-rae-bring-out-maddie-ziegler-for-aquamarine-dance-break-at-coachella-3939785?utm_source=rss&utm_medium=rss&utm_campaign=watch-addison-rae-bring-out-maddie-ziegler-for-aquamarine-dance-break-at-coachella",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-12 10:36",
+      "summary": "\nAhead of her set, Rae told fans the performance would mark an evolution to her previous gigs, dubbing it \"The Fame and Glory Show\"\nThe post Watch Addison Rae bring out Maddie Ziegler for &#8216;Aquam..."
+    },
+    {
+      "title": "Watch Justin Bieber revisit his earliest hits and bring out The Kid Laroi, Tems, Mk.gee, Wizkid and Dijon during comeback Coachella set",
+      "link": "https://www.nme.com/news/music/watch-justin-bieber-revisit-his-earliest-hits-and-bring-out-the-kid-laroi-tems-mk-gee-wizkid-and-dijon-during-comeback-coachella-set-3939768?utm_source=rss&utm_medium=rss&utm_campaign=watch-justin-bieber-revisit-his-earliest-hits-and-bring-out-the-kid-laroi-tems-mk-gee-wizkid-and-dijon-during-comeback-coachella-set",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-12 09:25",
+      "summary": "\nThe singer paid homage to YouTube \u2013 where his career began \u2013 by sitting at a laptop and playing clips of his old songs and cover videos\nThe post Watch Justin Bieber revisit his earliest hits and brin..."
+    },
+    {
+      "title": "Nine Inch Noize perform first-ever full set at Coachella 2026",
+      "link": "https://www.nme.com/news/music/nine-inch-noize-perform-first-ever-full-set-at-coachella-2026-3939751?utm_source=rss&utm_medium=rss&utm_campaign=nine-inch-noize-perform-first-ever-full-set-at-coachella-2026",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-12 08:52",
+      "summary": "\nTheir performance on the Sahara stage comes ahead of their debut album release next week\nThe post Nine Inch Noize perform first-ever full set at Coachella 2026 appeared first on NME."
+    },
+    {
+      "title": "Watch Sombr surprise fans with Billy Corgan to duet Smashing Pumpkins \u20181979\u2019 at Coachella",
+      "link": "https://www.nme.com/news/music/watch-sombr-surprise-fans-with-billy-corgan-to-duet-smashing-pumpkins-1979-at-coachella-3939760?utm_source=rss&utm_medium=rss&utm_campaign=watch-sombr-surprise-fans-with-billy-corgan-to-duet-smashing-pumpkins-1979-at-coachella",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-12 08:41",
+      "summary": "\nIt marked Corgan's first time ever playing the festival\nThe post Watch Sombr surprise fans with Billy Corgan to duet Smashing Pumpkins &#8216;1979&#8217; at Coachella appeared first on NME."
+    },
+    {
+      "title": "Watch Geese cover Justin Bieber\u2019s \u2018Baby\u2019 at Coachella 2026",
+      "link": "https://www.nme.com/news/music/watch-geese-cover-justin-biebers-baby-at-coachella-2026-3939740?utm_source=rss&utm_medium=rss&utm_campaign=watch-geese-cover-justin-biebers-baby-at-coachella-2026",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-12 08:00",
+      "summary": "\nIt came ahead of Bieber's highly-awaited headline set\nThe post Watch Geese cover Justin Bieber&#8217;s &#8216;Baby&#8217; at Coachella 2026 appeared first on NME."
+    },
+    {
+      "title": "Justin Bieber Brings Out the Kid Laroi, Dijon at Coachella 2026",
+      "link": "https://www.rollingstone.com/music/music-news/justin-bieber-kid-laroi-guest-coachella-2026-1235543487/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-12 07:42",
+      "summary": "The set also featured appearances from Tems, Wizid, and Mk.gee"
+    },
+    {
+      "title": "Sabrina Carpenter apologises after mistaking Zaghrouta for yodel during Coachella set",
+      "link": "https://www.nme.com/news/music/sabrina-carpenter-apologises-after-mistaking-zaghrouta-for-yodel-during-coachella-set-3939738?utm_source=rss&utm_medium=rss&utm_campaign=sabrina-carpenter-apologises-after-mistaking-zaghrouta-for-yodel-during-coachella-set",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-12 07:28",
+      "summary": "\n\"My reaction was pure confusion, sarcasm and not ill intended. Could have handled it better!\"\nThe post Sabrina Carpenter apologises after mistaking Zaghrouta for yodel during Coachella set appeared f..."
+    },
+    {
+      "title": "Watch Justin Bieber Headline Coachella 2026",
+      "link": "https://pitchfork.com/news/watch-justin-bieber-headline-coachella-2026/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-04-12 06:25",
+      "summary": "This is the SWAG artist\u2019s first dedicated billing at the festival"
+    },
+    {
+      "title": "\u2018SNL\u2019: Watch Anitta Perform \u2018Choka Choka,\u2019 \u2018V\u00e1rias Quejas\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/snl-watch-anitta-perform-choka-choka-varias-quejas-equilibrium-1235545371/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-12 06:21",
+      "summary": "The Brazilian singer-songwriter debuts on SNL ahead of the release of her new album, Equilibrium"
+    },
+    {
+      "title": "Nine Inch Noize Performed a Full Set for the First Time at Coachella",
+      "link": "https://www.rollingstone.com/music/music-news/nine-inch-noize-performance-coachella-2026-1235543497/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-12 04:26",
+      "summary": "The set was composed entirely of remixes from Trent Reznor\u2019s deep catalog"
+    },
+    {
+      "title": "Sombr Rocks Coachella in Lace and Leather With Help From Billy Corgan",
+      "link": "https://www.rollingstone.com/music/music-news/sombr-performs-coachella-billy-corgan-2026-1235543495/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-12 03:38",
+      "summary": "The pair performed \u201cSpeed\u201d and \u201c1979,\u201d and the rest of the set roared with undeniable rock star energy"
+    },
+    {
+      "title": "Watch Geese Cover Justin Bieber\u2019s \u201cBaby\u201d at Coachella 2026",
+      "link": "https://pitchfork.com/news/watch-geese-cover-justin-biebers-baby-at-coachella-2026/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-04-12 02:17",
+      "summary": "Bieber is headlining the festival tonight"
+    },
+    {
+      "title": "Sabrina Carpenter Apologizes For Her Reaction to Crowd Chant at Coachella: \u2018Now I Know What a Zaghrouta\u00a0Is\u2019",
+      "link": "https://www.billboard.com/music/music-news/sabrina-carpenter-coachella-zaghrouta-reaction-apology-1236221010/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-12 02:01",
+      "summary": "\"Could have handled it better!\" wrote the pop star, who had said \"I don't like it\" and called the cheer \"weird\" while headlining the fest Friday (April 10)."
+    },
+    {
+      "title": "Who Needs Justin Bieber When Geese Covered \u201cBaby\u201d at Coachella",
+      "link": "https://consequence.net/2026/04/geese-justin-bieber-baby-coachella/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-12 01:58",
+      "summary": "A garage rock rendition of the teen pop bop. \nWho Needs Justin Bieber When Geese Covered &#8220;Baby&#8221; at Coachella\nAlex Young"
+    },
+    {
+      "title": "Addison Rae Gets Coachella Screaming With Thrilling Set",
+      "link": "https://www.rollingstone.com/music/music-news/addison-rae-performance-coachella-2026-1235543491/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-12 01:51",
+      "summary": "The singer delivered her first full-length performance at the music festival and welcomed Maddie Ziegler to the stage"
+    },
+    {
+      "title": "Katseye Talks About Performing \u201cPinky Up\u201d For the First Time At Coachella & \u201cGolden\u201d With HUNTR/X | Billboard\u00a0News",
+      "link": "https://www.billboard.com/video/katseye-talks-about-performing-pinky-up-for-the-first-time-at-coachella/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-12 01:45",
+      "summary": "KATSEYE talks about performing their new song &#8220;Pinky Up&#8221; at Coachella 2026 weekend 1, how they feel about the choreography compared to some of the other songs and performing &#8220;Golden&..."
+    },
+    {
+      "title": "Christian Nodal\u2019s \u2018Un Vals\u2019 Director Responds to Controversy Over Model in Video: \u2018It Was Our\u00a0Mistake\u2019",
+      "link": "https://www.billboard.com/music/latin/christian-nodal-video-un-vals-controversy-director-responds-1236221009/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-12 00:39",
+      "summary": "The music video has sparked conversation due to the model's resemblance to both Cazzu and \u00c1ngela Aguilar."
+    },
+    {
+      "title": "Jack White Tears Through a Hit-Laden Last-Minute Set at Coachella",
+      "link": "https://www.rollingstone.com/music/music-news/jack-white-performance-coachella-2026-1235543501/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-12 00:19",
+      "summary": "The guitar hero revisits the desert fest to deliver a career-spanning retrospective"
+    },
+    {
+      "title": "Jack White Wasn\u2019t Even on the Coachella Lineup 2 Weeks Ago. He\u2019ll Probably Be Remembered As One of the Year\u2019s Best Sets.",
+      "link": "https://consequence.net/2026/04/jack-white-coachella-kick-ass/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-12 00:15",
+      "summary": "The Third Man rocker made the most of his last-minute allotted 45-minute set.\nJack White Wasn&#8217;t Even on the Coachella Lineup 2 Weeks Ago. He&#8217;ll Probably Be Remembered As One of the Year&#8..."
+    },
+    {
+      "title": "This Album Needs More Recognition",
+      "link": "https://www.youtube.com/shorts/Cve5IYOcPko",
+      "source": "The Needle Drop",
+      "category": "general",
+      "published": "2026-04-11 23:05",
+      "summary": "#music"
+    },
+    {
+      "title": "Zac Brown Band Steps Up to the Plate for NBC\u2019s \u2018Sunday Night Baseball\u2019\u00a0Opening",
+      "link": "https://www.billboard.com/music/music-news/zac-brown-band-sunday-night-baseball-song-nbc-1236220984/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-11 22:11",
+      "summary": "The band's MLB intro features a reimagined version of Emerson, Lake &#38; Palmer\u2019s \u201cKarn Evil 9, 1st Impression Part 2.\u201d"
+    },
+    {
+      "title": "Watch Slayyyter Tear Up Her First Coachella Performance",
+      "link": "https://pitchfork.com/news/watch-slayyyter-tear-up-her-first-coachella-performance/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-04-11 21:55",
+      "summary": "The Wor$t Girl in America played her new album for a massive Mojave Stage crowd on Friday"
+    },
+    {
+      "title": "Check out The Rolling Stones\u2019 taster of bluesy new music as The Cockroaches",
+      "link": "https://www.nme.com/news/music/check-out-the-rolling-stones-taster-of-bluesy-new-music-as-the-cockroaches-3939719?utm_source=rss&utm_medium=rss&utm_campaign=check-out-the-rolling-stones-taster-of-bluesy-new-music-as-the-cockroaches",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-11 21:31",
+      "summary": "\nThe band have been sharing cryptic clues around London about a new album in recent weeks\nThe post Check out The Rolling Stones&#8217; taster of bluesy new music as The Cockroaches appeared first on N..."
+    },
+    {
+      "title": "Watch Dijon Bring Out Mk.gee at Coachella 2026",
+      "link": "https://pitchfork.com/news/watch-dijon-bring-out-mkgee-at-coachella-2026/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-04-11 21:12",
+      "summary": "The Baby artist made his festival debut at the Outdoor Stage on Friday"
+    },
+    {
+      "title": "Deep Purple Meet Their Biggest Fan: Japanese Prime Minister Sanae Takaichi",
+      "link": "https://consequence.net/2026/04/deep-purple-japanese-pm-takaichi/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-11 18:29",
+      "summary": "\"You are my god,\" the PM told the band on Friday. \nDeep Purple Meet Their Biggest Fan: Japanese Prime Minister Sanae Takaichi\nChris Coplan"
+    },
+    {
+      "title": "Alabama Shakes Tackle These Crazy Times on New Song \u2018American Dream\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/alabama-shakes-new-song-american-dream-1235545402/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-11 18:13",
+      "summary": "Ahead of trio's North American spring tour, Brittany Howard and company share second new track since reuniting"
     },
     {
       "title": "Bruno Mars Says He\u2019s Debt Free: \u201cI Paid the Casino Off a Long Time Ago\u201d",
@@ -1167,373 +1527,13 @@
       "summary": "The pop star shared the update after his Silk Sonic bandmate Anderson .Paak joked about the infamous rumor.\nBruno Mars Says He&#8217;s Debt Free: &#8220;I Paid the Casino Off a Long Time Ago&#8221;\nJo..."
     },
     {
-      "title": "Turnstile Open Coachella Set With Video of Brendan Yates\u2019 Father Following Murder Attempt",
-      "link": "https://www.rollingstone.com/music/music-news/turnstile-coachella-brandon-yates-father-video-1235545359/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-11 16:06",
-      "summary": "The band offered a powerful dose of rock after ex guitarist was charged with attempted murder for attacking lead singer's father"
-    },
-    {
-      "title": "How to Watch \u2018Malcolm in the Middle: Life\u2019s Still Unfair\u2019\u00a0Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/watch-malcolm-in-the-middle-lifes-still-unfair-online-1236220486/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-11 15:55",
-      "summary": "After nearly 20 years, Malcom and his whimsical sitcom family are back. Start streaming the four-part miniseries today, April 10."
-    },
-    {
-      "title": "Turnstile Perform Emotional, Triumphant Set at Coachella 2026",
-      "link": "https://consequence.net/2026/04/turnstile-coachella-2026-performance/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-11 15:39",
-      "summary": "Turnstile ripped through NEVER ENOUGH and GLOW ON tracks like \"BIRDS,\" \"HOLIDAY,\" \"BLACKOUT,\" and \"MYSTERY.\"\nTurnstile Perform Emotional, Triumphant Set at Coachella 2026\nTrey Alston and Jonah Krueger"
-    },
-    {
-      "title": "DEVO Rip Through Pointed Performance of \u201cFreedom of Choice\u201d at Coachella 2026",
-      "link": "https://consequence.net/2026/04/devos-freedom-of-choice-coachella-2026/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-11 14:53",
-      "summary": "DEVO took to the Mojave stage for the first day of Coachella 2026, offering up a great set for those in attendance.\nDEVO Rip Through Pointed Performance of &#8220;Freedom of Choice&#8221; at Coachella..."
-    },
-    {
-      "title": "Morgan Wallen\u2019s Still The Problem Tour Kickoff in Minneapolis: Best\u00a0Moments",
-      "link": "https://www.billboard.com/lists/morgan-wallen-tour-minneapolis-best-moments/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-11 14:45",
-      "summary": "An affable Wallen brought his A game to U.S. Bank Stadium."
-    },
-    {
-      "title": "\u2018Saturday Night Live UK\u2019: Where to Watch the British Version of the Sketch Comedy Show Online for\u00a0Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-11 14:30",
-      "summary": "SNL UK has Jack Whitehall as host and Jorja Smith as musical guest."
-    },
-    {
-      "title": "Anyma\u2019s Late-Night Coachella Set Canceled Due to \u2018Strong Winds\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/anymas-late-night-coachella-set-canceled-strong-winds-1235545324/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-11 13:28",
-      "summary": "\"I\u2019m sorry everyone. We\u2019ve done everything in our control to build the show I\u2019ve worked an entire year on,\" EDM star says after midnight set called off"
-    },
-    {
-      "title": "Anyma\u2019s Coachella Set Called Off Due to Strong Wind Conditions",
-      "link": "https://consequence.net/2026/04/anymas-coachella-strong-wind/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-11 12:49",
-      "summary": "The DJ had been scheduled to close out the Coachella Stage around midnight local time following Sabrina Carpenter's headlining performance.\nAnyma&#8217;s Coachella Set Called Off Due to Strong Wind Co..."
-    },
-    {
-      "title": "Sabrina Carpenter Turns Coachella Into Sabrinawood",
-      "link": "https://consequence.net/2026/04/sabrina-carpenter-coachella-review/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-11 12:14",
-      "summary": "The pop star staged a charming, hits-filled ode to Hollywood with help from Susan Sarandon and Will Ferrell.\nSabrina Carpenter Turns Coachella Into Sabrinawood\nPaolo Ragusa"
-    },
-    {
-      "title": "Here\u2019s the Setlist for Bruno Mars\u2019 \u201cThe Romantic Tour\u201d Kick-Off",
-      "link": "https://consequence.net/2026/04/bruno-mars-the-romantic-tour-setlist/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-11 11:36",
-      "summary": "Mars kicked off his first national headlining tour in nearly a decade with a 26-song career-spanning performance.\nHere&#8217;s the Setlist for Bruno Mars&#8217; &#8220;The Romantic Tour&#8221; Kick-Of..."
-    },
-    {
-      "title": "Sabrina Carpenter, KATSEYE, Turnstile, John Summit & More: Best Moments From Coachella 2026\u00a0Day\u00a01",
-      "link": "https://www.billboard.com/lists/coachella-2026-day-one-best-sabrina-carpenter-katseye/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-11 11:35",
-      "summary": "Friday got this year's Coachella Valley Music &#38; Arts Festival off to a memorable start."
-    },
-    {
-      "title": "2026 Rock + Metal Festival + Cruise Guide",
-      "link": "https://loudwire.com/2026-rock-metal-festival-cruise-guide/",
+      "title": "David Lee Roth Makes Surprise Coachella Guest Appearance",
+      "link": "https://loudwire.com/david-lee-roth-teddy-swims-jump-coachella/",
       "source": "Loudwire",
       "category": "rock",
-      "published": "2026-04-11 11:30",
-      "summary": "Morgan Hancock, Getty Images"
-    },
-    {
-      "title": "Coachella\u2019s Do LaB stage reportedly closed after a speaker fell and injured festivalgoer",
-      "link": "https://www.nme.com/news/music/coachellas-do-lab-stage-reportedly-closed-after-a-speaker-fell-and-injured-festivalgoer-3939648?utm_source=rss&utm_medium=rss&utm_campaign=coachellas-do-lab-stage-reportedly-closed-after-a-speaker-fell-and-injured-festivalgoer",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-11 10:56",
-      "summary": "\nOne attendee claimed a woman was \"badly injured\", but there's been no official update from the festival as yet\nThe post Coachella&#8217;s Do LaB stage reportedly closed after a speaker fell and injur..."
-    },
-    {
-      "title": "Anyma\u2019s Coachella set cancelled due to \u201cstrong wind conditions\u201d",
-      "link": "https://www.nme.com/news/anymas-coachella-set-cancelled-due-to-strong-wind-conditions-3939671?utm_source=rss&utm_medium=rss&utm_campaign=anymas-coachella-set-cancelled-due-to-strong-wind-conditions",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-11 10:35",
-      "summary": "\nHe'd previously told NME that the Coachella crowd could expect \"new characters, new songs and different perspectives on the storytelling\" of his show\nThe post Anyma\u2019s Coachella set cancelled due to &..."
-    },
-    {
-      "title": "Watch Ninajirachi and Porter Robinson debut new song at Coachella 2026",
-      "link": "https://www.nme.com/news/music/watch-ninajirachi-and-porter-robinson-debut-new-song-at-coachella-2026-3939656?utm_source=rss&utm_medium=rss&utm_campaign=watch-ninajirachi-and-porter-robinson-debut-new-song-at-coachella-2026",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-11 10:29",
-      "summary": "\nThe first taste of the nostalgic, 2010s-EDM-inspired track comes after weeks of the pair teasing a potential collaboration\nThe post Watch Ninajirachi and Porter Robinson debut new song at Coachella 2..."
-    },
-    {
-      "title": "Anyma\u2019s Coachella 2026 Performance Cancelled Due to Strong Winds: \u2018We\u2019ve Done Everything In Our\u00a0Control\u2019",
-      "link": "https://www.billboard.com/music/music-news/anyma-coachella-2026-performance-cancelled-strong-winds-1236220758/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-11 10:27",
-      "summary": "The producer had been scheduled to close out the main stage on the first night of the 2026 festival."
-    },
-    {
-      "title": "Turnstile open Coachella set with recording of Brendan Yates\u2019 father after band\u2019s former guitarist was arrested for his attempted murder",
-      "link": "https://www.nme.com/news/music/turnstile-open-coachella-set-with-recording-of-brendan-yates-father-after-bands-former-guitarist-was-arrested-for-his-attempted-murder-3939624?utm_source=rss&utm_medium=rss&utm_campaign=turnstile-open-coachella-set-with-recording-of-brendan-yates-father-after-bands-former-guitarist-was-arrested-for-his-attempted-murder",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-11 09:48",
-      "summary": "\nOne fan described it as a \"heartfelt and smart way for them to address the elephant in the room before getting on with the show\"\nThe post Turnstile open Coachella set with recording of Brendan Yates\u2019..."
-    },
-    {
-      "title": "Sabrina Carpenter Turns Coachella Into \u2018SABRINAWOOD\u2019 With Superstar-Caliber Headline Performance: Recap and Best\u00a0Moments",
-      "link": "https://www.billboard.com/lists/sabrina-carpenter-coachella-2026-review-best-moments/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-11 09:21",
-      "summary": "Carpenter made good with her called-shot headlining slot, with the help of some actor friends and a whole lot of backing dancers and set design."
-    },
-    {
-      "title": "NASA wake up Artemis II crew on final day of mission with Zac Brown Band\u2019s \u2018Free\u2019 and message from singer",
-      "link": "https://www.nme.com/news/music/nasa-wake-up-artemis-ii-crew-on-final-day-of-mission-with-zac-brown-bands-free-and-message-from-singer-3939640?utm_source=rss&utm_medium=rss&utm_campaign=nasa-wake-up-artemis-ii-crew-on-final-day-of-mission-with-zac-brown-bands-free-and-message-from-singer",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-11 09:16",
-      "summary": "\n\u201cMillions back home are looking up and feeling more inspired because of you,\u201d Brown told the crew on the final day of their mission\nThe post NASA wake up Artemis II crew on final day of mission with ..."
-    },
-    {
-      "title": "KID PHENOMENON on the Evolution of Expression After SXSW 2026 & Presenting \u2018TOKYO NEO POP\u2019 to the\u00a0World",
-      "link": "https://www.billboard.com/music/music-news/kid-phenomenon-interview-sxsw-2026-tokyo-neo-pop-1236219075/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-11 09:00",
-      "summary": "The group sat down with Billboard Japan to chat about their takeaways from the SXSW experience."
-    },
-    {
-      "title": "Watch Teddy Swims bring out Joe Jonas, Vanessa Carlton and Van Halen\u2019s David Lee Roth at Coachella 2026",
-      "link": "https://www.nme.com/news/music/watch-teddy-swims-bring-out-joe-jonas-vanessa-carlton-and-van-halens-david-lee-roth-at-coachella-2026-3939615?utm_source=rss&utm_medium=rss&utm_campaign=watch-teddy-swims-bring-out-joe-jonas-vanessa-carlton-and-van-halens-david-lee-roth-at-coachella-2026",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-11 08:36",
-      "summary": "\nHe performed covers of his guests' biggest hits: 'When You Look Me in the Eyes', 'A Thousand Miles' and 'Jump'\nThe post Watch Teddy Swims bring out Joe Jonas, Vanessa Carlton and Van Halen&#8217;s Da..."
-    },
-    {
-      "title": "Offset leaves hospital and says he\u2019s focused on \u201crecovery\u201d after casino shooting",
-      "link": "https://www.nme.com/news/music/offset-released-from-hospital-and-says-hes-focussed-on-recovery-after-casino-shooting-3939609?utm_source=rss&utm_medium=rss&utm_campaign=offset-released-from-hospital-and-says-hes-focussed-on-recovery-after-casino-shooting",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-11 08:21",
-      "summary": "\n\"Life\u2019s a gamble and I\u2019m still playing to win,\" the former Migos member said in a statement\nThe post Offset leaves hospital and says he&#8217;s focused on &#8220;recovery&#8221; after casino shooting..."
-    },
-    {
-      "title": "Sabrina Carpenter revives spirit of Old Hollywood with Coachella set featuring Susan Saradon, Will Ferrell, and men dressed as dogs",
-      "link": "https://www.nme.com/news/music/sabrina-carpenter-revives-spirit-of-old-hollywood-with-coachella-set-featuring-susan-saradon-will-ferrell-and-men-dressed-as-dogs-3939607?utm_source=rss&utm_medium=rss&utm_campaign=sabrina-carpenter-revives-spirit-of-old-hollywood-with-coachella-set-featuring-susan-saradon-will-ferrell-and-men-dressed-as-dogs",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-11 07:55",
-      "summary": "\nMaking good on her previous promise to return to the festival on its main stage, she tapped Sam Elliott, Corey Fogelmanis, Samuel L. Jackson, and more for a walk through \"Sabrinawood\"\nThe post Sabrin..."
-    },
-    {
-      "title": "Katseye Make Coachella Debut Without Manon But Promise \u2018Many More\u2019 Appearances",
-      "link": "https://www.rollingstone.com/music/music-news/katseye-coachella-2026-performance-1235543469/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-11 06:53",
-      "summary": "The group's set included a live premiere of their single \"Pinky Up\" and a cameo from Huntr/x but was marked by the absence of Manon Bannerman"
-    },
-    {
-      "title": "Morgan Wallen\u2019s U.S. Bank Stadium Setlist: Every Song From Opening Night of His Still The Problem Tour in\u00a0Minneapolis",
-      "link": "https://www.billboard.com/lists/morgan-wallens-setlist-opening-night-still-the-problem-tour/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-11 06:05",
-      "summary": "The country superstar ran through a range of hits before an enthralled audience of 75,000."
-    },
-    {
-      "title": "Bruno Mars\u2019 The Romantic Tour Setlist: Every Song From Night\u00a01",
-      "link": "https://www.billboard.com/music/concerts/bruno-mars-the-romantic-tour-setlist-every-song-night-1-1236220593/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-11 06:01",
-      "summary": "His first concert tour in more than a decade is a two-hour maximalist soul, funk and pop jam session."
-    },
-    {
-      "title": "HUNTR/X Perform \u201cGolden\u201d with KATSEYE at Coachella: Watch",
-      "link": "https://consequence.net/2026/04/huntr-x-golden-kateye-coachella/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-11 04:19",
-      "summary": "HUNTR/X capped off their Golden year with a surprise appearance at Coachella on Friday night.\nHUNTR/X Perform &#8220;Golden&#8221; with KATSEYE at Coachella: Watch\nAlex Young"
-    },
-    {
-      "title": "Watch Brendan Yates\u2019 Dad Introduce Turnstile at Coachella 2026",
-      "link": "https://pitchfork.com/news/watch-brendan-yates-dad-introduce-turnstile-at-coachella-2026/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-04-11 04:06",
-      "summary": "\u201cWe love you and Turnstile loves you\u201d"
-    },
-    {
-      "title": "Watch Sabrina Carpenter Headline the First Night of Coachella 2026",
-      "link": "https://pitchfork.com/news/watch-sabrina-carpenter-headline-the-first-night-of-coachella-2026/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-04-11 04:00",
-      "summary": "The Man\u2019s Best Friend singer recruited Susan Sarandon and Sam Elliott for her desert set"
-    },
-    {
-      "title": "Coachella Saturday Livestream: Justin Bieber, The Strokes, Nine Inch Noize & More",
-      "link": "https://consequence.net/2026/04/coachella-2026-saturday-livestream-schedule/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-11 04:00",
-      "summary": "Coachella's Saturday livestream will also feature sets from Jack White, David Byrne, PinkPantheress, Geese, and Addison Rae.\nCoachella Saturday Livestream: Justin Bieber, The Strokes, Nine Inch Noize ..."
-    },
-    {
-      "title": "Recording from Brendan Yates\u2019 Father Opens Turnstile\u2019s Coachella Set",
-      "link": "https://consequence.net/2026/04/turnstile-coachella-william-yates/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-11 03:52",
-      "summary": "Earlier this month, William Yates was attacked by ex-Turnstile guitarist Brady Ebert.\nRecording from Brendan Yates&#8217; Father Opens Turnstile&#8217;s Coachella Set\nAlex Young"
-    },
-    {
-      "title": "David Lee Roth, Joe Jonas, Vanessa Carlton Join Teddy Swims at Coachella 2026",
-      "link": "https://www.rollingstone.com/music/music-news/teddy-swims-david-lee-roth-joe-jonas-perform-coachella-2026-1235545276/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-11 02:42",
-      "summary": "A ring of a doorbell ushered in the surprise guests during the artist's set on Friday"
-    },
-    {
-      "title": "Bini Become First Filipino Group to Perform at Coachella 2026",
-      "link": "https://www.rollingstone.com/music/music-news/bini-coachella-2026-performance-first-filipino-group-1235543475/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-11 02:10",
-      "summary": "The girl group stunned as they brought their Filipino pop to the desert on Friday night"
-    },
-    {
-      "title": "Cardi B Wants Blogger Tasha K to Face \u2018Economically Painful\u2019 Sanctions for \u2018Relentless\u2019 Harassment",
-      "link": "https://www.rollingstone.com/music/music-news/cardi-b-offset-tasha-k-sanctions-alleged-harassment-1235545253/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-11 01:06",
-      "summary": "Cardi claims the blogger has been using \"scantily veiled commentary and strategic provocation\" to target her online, despite agreeing to a non-disparagement deal"
-    },
-    {
-      "title": "Zac Brown Wakes Artemis II Crew in Space With Song \u2018Free\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/zac-brown-wakes-up-artemis-ii-crew-song-free-1235545255/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-11 00:16",
-      "summary": "\"It takes courage, grit, and freedom to chase the unknown. It\u2019s the purest kind of American spirit,\" said Brown in a voice recording played aboard Integrity"
-    },
-    {
-      "title": "Tour news: Jejune, Purity Ring, Bibi Club, Mosswood Meltdown, Khemmis, The Body / BIG|BRAVE, more",
-      "link": "https://www.brooklynvegan.com/tour-news-jejune-purity-ring-bibi-club-mosswood-meltdown-khemmis-the-body-bigbrave-more/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-04-10 22:27",
-      "summary": "Plus: Alabama Shakes, Jack White, Punk Island, and more tour and festival news."
-    },
-    {
-      "title": "Offset Shares Message After Hospital Release, Plans to Be Better",
-      "link": "https://www.xxlmag.com/offset-shares-heartfelt-message-on-his-plans-to-be-better-after-being-shot-and-released-from-the-hospital/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-04-10 22:19",
-      "summary": "Thaddaeus McAdams/Getty Images/offset/Instagram"
-    },
-    {
-      "title": "Staff Picks: Best Songs of the Week April 4th \u2013 April 10th",
-      "link": "https://consequence.net/2026/04/best-songs-of-the-week-april-3-arpil-10/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-10 21:23",
-      "summary": "Hear great new songs from artists like Kelela, Lip Critic, Dari Bay, Rob Milton, Bossman Dlow, Isaiah Rashad, and Otoboke Beaver.\nStaff Picks: Best Songs of the Week April 4th &#8211; April 10th\nJonah..."
-    },
-    {
-      "title": "Our Favorite Songs of the Week (Playlist)",
-      "link": "https://www.brooklynvegan.com/our-favorite-songs-of-the-week-playlist-237/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-04-10 21:09",
-      "summary": "This week: Kurt Vile, American Football ft Brendan Yates, Sleaford Mods ft Aldous Harding (Orbital remix), Slippers, My New Band Believe, Iceage, The Strokes, and more"
-    },
-    {
-      "title": "Rappers React to Gucci Mane's New Song 'Crash Dummy'",
-      "link": "https://www.xxlmag.com/gucci-mane-crash-dummy-rappers-react/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-04-10 21:03",
-      "summary": "1017 Global/Paras Griffin/Getty Images/XXL"
-    },
-    {
-      "title": "AP A-sides: 10 songs you need to hear",
-      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-april-10-2026/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-04-10 21:01",
-      "summary": "Our favorite new songs, updated weekly."
-    },
-    {
-      "title": "Gucci Mane Details Alleged Pooh Shiesty Robbery on 'Crash Dummy'",
-      "link": "https://www.xxlmag.com/gucci-mane-pooh-shiesty-robbery-crash-dummy/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-04-10 20:59",
-      "summary": "Gucci Mane/XXL/YouTube (2)/1017 Global"
-    },
-    {
-      "title": "14 New Songs Out Today",
-      "link": "https://www.brooklynvegan.com/14-new-songs-out-today-59/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-04-10 20:44",
-      "summary": "Listen to new songs by Lady Gaga &#038; Doechii, Foo Fighters, Maya Hawke, Allison Russell, Lady Gaga &#038; Doechii, Kehlani Ft Missy Elliot, Isaiah Rashad, Marbled Eye, and more."
-    },
-    {
-      "title": "Backstreet Boys\u2019 Ex Manager Admits to Undermining Band to Help \u2018NSYNC: \u2018I\u2019m Going to Turn All My Guns Against You\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/backstreet-boys-ex-manager-nsync-boy-band-confidential-1235544767/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-10 20:32",
-      "summary": "Music manager Johnny Wright makes the revelation in the new Investigation Discovery docuseries, \u2018Boy Band Confidential.' "
-    },
-    {
-      "title": "Offset Released From Hospital and Focused on \u2018Recovery\u2019 After Casino Shooting: \u2018Life\u2019s a Gamble\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/offset-released-from-hospital-after-shooting-1235545040/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-10 20:16",
-      "summary": "The Migos member is up and walking after being shot in Florida on Monday, a spokesperson said"
-    },
-    {
-      "title": "Kacey Musgraves Shares Video of \u201cCraziest UFO Orb Experience\u201d",
-      "link": "https://consequence.net/2026/04/kacey-musgraves-video-craziest-ufo-orb/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-10 19:51",
-      "summary": "Kacey Musgraves shared footage of what she called the \"craziest fucking UFO orb experience\" after flying from Fort Worth to Nashville.\nKacey Musgraves Shares Video of &#8220;Craziest UFO Orb Experienc..."
+      "published": "2026-04-11 15:52",
+      "summary": "Christopher Polk, Getty Images"
     }
   ],
-  "last_updated": "2026-04-11T17:36:13.663791"
+  "last_updated": "2026-04-12T17:39:13.394782"
 }

@@ -11,22 +11,22 @@
       "album_type": "single"
     },
     {
+      "name": "HunchO STEP! (feat. Quavo)",
+      "artists": "BNYX\u00ae, Quavo",
+      "release_date": "2026-04-17",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c126558877b154f8005e1c32",
+      "spotify_url": "https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT",
+      "apple_music_url": "https://music.apple.com/us/search?term=HunchO%20STEP%21%20BNYX%C2%AE",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Pull Over",
       "artists": "Ludacris",
       "release_date": "2026-04-17",
       "image": "https://i.scdn.co/image/ab67616d0000b273ec98fe4d8b1d574e0defd028",
       "spotify_url": "https://open.spotify.com/album/0fBFZblcPCYspMLHDR1IJu",
       "apple_music_url": "https://music.apple.com/us/album/pull-over-single/1891432239?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Have Mercy",
-      "artists": "Chip Fu, Busta Rhymes",
-      "release_date": "2026-04-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f00592d335a8069b9a9a4b20",
-      "spotify_url": "https://open.spotify.com/album/5TR3BoyUdSdjTB5QeFok3m",
-      "apple_music_url": "https://music.apple.com/us/search?term=Have%20Mercy%20Chip%20Fu",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -51,12 +51,12 @@
       "album_type": "album"
     },
     {
-      "name": "HunchO STEP! (feat. Quavo)",
-      "artists": "BNYX\u00ae, Quavo",
+      "name": "Have Mercy",
+      "artists": "Chip Fu, Busta Rhymes",
       "release_date": "2026-04-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c126558877b154f8005e1c32",
-      "spotify_url": "https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT",
-      "apple_music_url": "https://music.apple.com/us/search?term=HunchO%20STEP%21%20BNYX%C2%AE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f00592d335a8069b9a9a4b20",
+      "spotify_url": "https://open.spotify.com/album/5TR3BoyUdSdjTB5QeFok3m",
+      "apple_music_url": "https://music.apple.com/us/search?term=Have%20Mercy%20Chip%20Fu",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -91,16 +91,6 @@
       "album_type": "single"
     },
     {
-      "name": "10 Til' Midnight",
-      "artists": "Snoop Dogg",
-      "release_date": "2026-04-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732914d7ea3140a68e77a68545",
-      "spotify_url": "https://open.spotify.com/album/2A1wHE90Z5Aj3TSQVhyU4Y",
-      "apple_music_url": "https://music.apple.com/us/album/10-til-midnight/1893970586?uo=4",
-      "total_tracks": 14,
-      "album_type": "album"
-    },
-    {
       "name": "SAME SH!T",
       "artists": "Isaiah Rashad",
       "release_date": "2026-04-10",
@@ -109,6 +99,16 @@
       "apple_music_url": "https://music.apple.com/us/album/same-sh-t-single/1891835119?uo=4",
       "total_tracks": 1,
       "album_type": "single"
+    },
+    {
+      "name": "10 Til' Midnight",
+      "artists": "Snoop Dogg",
+      "release_date": "2026-04-10",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732914d7ea3140a68e77a68545",
+      "spotify_url": "https://open.spotify.com/album/2A1wHE90Z5Aj3TSQVhyU4Y",
+      "apple_music_url": "https://music.apple.com/us/album/10-til-midnight/1893970586?uo=4",
+      "total_tracks": 14,
+      "album_type": "album"
     },
     {
       "name": "G.O.A.T",
@@ -176,18 +176,8 @@
       "release_date": "2026-04-03",
       "image": "https://i.scdn.co/image/ab67616d0000b273d0dd1f9d86ba806ac0a23b85",
       "spotify_url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI",
-      "apple_music_url": "https://music.apple.com/us/search?term=AREA%2041%2041",
+      "apple_music_url": "https://music.apple.com/us/album/area-41/1888297414?uo=4",
       "total_tracks": 18,
-      "album_type": "album"
-    },
-    {
-      "name": "The Trippy Tapes Vol. 1",
-      "artists": "Juicy J, DJ Scream",
-      "release_date": "2026-04-03",
-      "image": "https://i.scdn.co/image/ab67616d0000b273420b8524f7a2a45069a3aaa6",
-      "spotify_url": "https://open.spotify.com/album/7qXn3yCmCiQMQ6kKxDQdDu",
-      "apple_music_url": "https://music.apple.com/us/search?term=The%20Trippy%20Tapes%20Juicy%20J",
-      "total_tracks": 31,
       "album_type": "album"
     },
     {
@@ -201,12 +191,32 @@
       "album_type": "single"
     },
     {
+      "name": "The Trippy Tapes Vol. 1",
+      "artists": "Juicy J, DJ Scream",
+      "release_date": "2026-04-03",
+      "image": "https://i.scdn.co/image/ab67616d0000b273420b8524f7a2a45069a3aaa6",
+      "spotify_url": "https://open.spotify.com/album/7qXn3yCmCiQMQ6kKxDQdDu",
+      "apple_music_url": "https://music.apple.com/us/search?term=The%20Trippy%20Tapes%20Juicy%20J",
+      "total_tracks": 31,
+      "album_type": "album"
+    },
+    {
+      "name": "Loco",
+      "artists": "Key Glock",
+      "release_date": "2026-04-03",
+      "image": "https://i.scdn.co/image/ab67616d0000b273509cf9888ce9f92d19c4c325",
+      "spotify_url": "https://open.spotify.com/album/2MrAeXVF8AF8jb3LSK4TIM",
+      "apple_music_url": "https://music.apple.com/us/album/loco-single/1888583267?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "DON'T PANIC",
       "artists": "Lil Peep",
       "release_date": "2026-04-03",
       "image": "https://i.scdn.co/image/ab67616d0000b273f8a6edbd70796aa3a305da7e",
       "spotify_url": "https://open.spotify.com/album/4wCSQIOYJ3st4yW4scmy6u",
-      "apple_music_url": "https://music.apple.com/us/album/dont-panic-single/1886753822?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=DON%27T%20PANIC%20Lil%20Peep",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -221,22 +231,12 @@
       "album_type": "single"
     },
     {
-      "name": "Loco",
-      "artists": "Key Glock",
-      "release_date": "2026-04-03",
-      "image": "https://i.scdn.co/image/ab67616d0000b273509cf9888ce9f92d19c4c325",
-      "spotify_url": "https://open.spotify.com/album/2MrAeXVF8AF8jb3LSK4TIM",
-      "apple_music_url": "https://music.apple.com/us/album/loco-single/1888583267?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Not Friendly",
       "artists": "DDG, Polo G",
       "release_date": "2026-04-03",
       "image": "https://i.scdn.co/image/ab67616d0000b27329bfba20b1b5d08cbb2ed6cf",
       "spotify_url": "https://open.spotify.com/album/0I52JJWvsh7IuKjb5xwjK5",
-      "apple_music_url": "https://music.apple.com/us/album/not-friendly-single/1889586797?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Not%20Friendly%20DDG",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -336,7 +336,7 @@
       "release_date": "2026-04-01",
       "image": "https://i.scdn.co/image/ab67616d0000b2735689e32a8e8205174c8b040a",
       "spotify_url": "https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb",
-      "apple_music_url": "https://music.apple.com/us/search?term=Paperbag%20Boy%20Trippie%20Redd",
+      "apple_music_url": "https://music.apple.com/us/album/paperbag-boy-single/1889349897?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -366,7 +366,7 @@
       "release_date": "2026-03-28",
       "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
       "spotify_url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS",
-      "apple_music_url": "https://music.apple.com/us/album/bully-ep/1872771948?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=BULLY%20Kanye%20West",
       "total_tracks": 18,
       "album_type": "album"
     },
@@ -376,7 +376,7 @@
       "release_date": "2026-03-27",
       "image": "https://i.scdn.co/image/ab67616d0000b273fd610e1f73791997614f4059",
       "spotify_url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID",
-      "apple_music_url": "https://music.apple.com/us/search?term=ALL%20ROADS%20LEAD%20HOME%20Central%20Cee",
+      "apple_music_url": "https://music.apple.com/us/album/all-roads-lead-home/1893138702?uo=4",
       "total_tracks": 7,
       "album_type": "album"
     },
@@ -1009,16 +1009,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Dedicated%20to%20Cadalee%20Biarritz%20%28Chopped%20Not%20Slopped%29%20Big%20K.R.I.T.",
       "total_tracks": 13,
       "album_type": "album"
-    },
-    {
-      "name": "HEY TONY!",
-      "artists": "JID, Tony the Tiger",
-      "release_date": "2026-02-18",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d11799835145c3b0b62e704d",
-      "spotify_url": "https://open.spotify.com/album/2zs0GVCzgBvCtDBSdRn8Q9",
-      "apple_music_url": "https://music.apple.com/us/search?term=HEY%20TONY%21%20JID",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -1038,7 +1028,7 @@
       "release_date": "2026-03-13",
       "image": "https://i.scdn.co/image/ab67616d0000b273884dd01508605dca727d8993",
       "spotify_url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc",
-      "apple_music_url": "https://music.apple.com/us/album/trying-times/1880811313?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Trying%20Times%20James%20Blake",
       "total_tracks": 13,
       "album_type": "album"
     },
@@ -1055,12 +1045,300 @@
   ],
   "news": [
     {
-      "title": "Zayn Malik and Louis Tomlinson Netflix documentary reportedly scrapped after claims of physical altercation between the two",
-      "link": "https://www.nme.com/news/music/zayn-malik-and-louis-tomlinson-netflix-documentary-reportedly-scrapped-after-claims-of-physical-altercation-between-the-two-3941105?utm_source=rss&utm_medium=rss&utm_campaign=zayn-malik-and-louis-tomlinson-netflix-documentary-reportedly-scrapped-after-claims-of-physical-altercation-between-the-two",
+      "title": "Watch Sombr joined by Billy Idol for \u2018Eyes Without A Face\u2019 at Coachella",
+      "link": "https://www.nme.com/news/music/watch-sombr-joined-by-billy-idol-for-eyes-without-a-face-at-coachella-3941192?utm_source=rss&utm_medium=rss&utm_campaign=watch-sombr-joined-by-billy-idol-for-eyes-without-a-face-at-coachella",
       "source": "NME",
       "category": "general",
-      "published": "2026-04-18 17:03",
-      "summary": "\nThe director of the project has responded: \u201cAnd there goes the last year of work\u201d\nThe post Zayn Malik and Louis Tomlinson Netflix documentary reportedly scrapped after claims of physical altercation ..."
+      "published": "2026-04-19 17:28",
+      "summary": "\nThe 20-year-old also covered Radiohead's 'Fake Plastic Trees' during his weekend two set\nThe post Watch Sombr joined by Billy Idol for &#8216;Eyes Without A Face&#8217; at Coachella appeared first on..."
+    },
+    {
+      "title": "PinkPantheress\u2019 Coachella Set Included Janelle Mon\u00e1e, Dev Hynes, Zara Larsson: Watch",
+      "link": "https://consequence.net/2026/04/pinkpantheress-coachella-janelle-monae/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-19 17:20",
+      "summary": "The stars were out during Weekend Two.\nPinkPantheress&#8217; Coachella Set Included Janelle Mon\u00e1e, Dev Hynes, Zara Larsson: Watch\nWren Graves"
+    },
+    {
+      "title": "Cardi B Nearly Pulls Plug on Atlanta Concert After Heated Backstage Clash With Venue\u00a0Staff",
+      "link": "https://www.billboard.com/music/music-news/cardi-b-nearly-cancels-atlanta-show-clash-venue-staff-1236226538/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-19 17:06",
+      "summary": "\u201cYour f\u2014king employees are being disrespectful,\" the rapper is heard yelling on Instagram Live."
+    },
+    {
+      "title": "Watch Bruce Springsteen join John Densmore for cover of The Doors\u2019 \u2018Light My Fire\u2019",
+      "link": "https://www.nme.com/news/music/watch-bruce-springsteen-join-john-densmore-for-cover-of-the-doors-light-my-fire-3941188?utm_source=rss&utm_medium=rss&utm_campaign=watch-bruce-springsteen-join-john-densmore-for-cover-of-the-doors-light-my-fire",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-19 16:52",
+      "summary": "\nIt came as the band picked up an American Music Honors prize in New Jersey\nThe post Watch Bruce Springsteen join John Densmore for cover of The Doors&#8217; &#8216;Light My Fire&#8217; appeared first..."
+    },
+    {
+      "title": "Tory Lanez sues California prisons system for $100m after stabbing incident",
+      "link": "https://www.nme.com/news/music/tory-lanez-sues-california-prisons-system-for-100m-after-stabbing-incident-3941185?utm_source=rss&utm_medium=rss&utm_campaign=tory-lanez-sues-california-prisons-system-for-100m-after-stabbing-incident",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-19 16:50",
+      "summary": "\nThe rapper, serving a 10-year sentence for shooting Megan Thee Stallion, was stabbed 16 times in prison last May\nThe post Tory Lanez sues California prisons system for $100m after stabbing incident a..."
+    },
+    {
+      "title": "Olivia Rodrigo Performs with Addison Rae at Coachella",
+      "link": "https://pitchfork.com/news/olivia-rodrigo-performs-with-addison-rae-at-coachella/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-04-19 16:38",
+      "summary": "The duo sang \u201cHeadphones On\u201d together before giving Rodrigo\u2019s new song \u201cDrop Dead\u201d its live debut"
+    },
+    {
+      "title": "U.K. Charity Cuts Ties With Osbourne Over Anti-Immigration Rally",
+      "link": "https://loudwire.com/uk-charity-severs-ties-sharon-osbourne-anti-immigration-rally/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-04-19 16:33",
+      "summary": "Justin Nunez, Variety via Getty Images / Centrepoint / centrepoint.org.uk / Canva"
+    },
+    {
+      "title": "sombr Covers Radiohead, Brings Out Billy Idol at Coachella: Watch",
+      "link": "https://consequence.net/2026/04/sombr-radiohead-billy-idol-coachella-watch/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-19 16:14",
+      "summary": "20-year-old sombr kept his breakout year rolling.\nsombr Covers Radiohead, Brings Out Billy Idol at Coachella: Watch\nWren Graves"
+    },
+    {
+      "title": "Andrea Bocelli & Los \u00c1ngeles Azules Celebrate Opera & Cumbia in Historic Show at Mexico City\u2019s\u00a0Z\u00f3calo",
+      "link": "https://www.billboard.com/music/latin/andrea-bocelli-angeles-azules-opera-cumbia-mexico-zocalo-1236226531/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-19 16:12",
+      "summary": "The city government estimates an attendance of more than 130,000 people at an emotional evening that also featured a performance by Ximena Sari\u00f1ana."
+    },
+    {
+      "title": "See Justin Bieber Bring Out Billie Eilish, SZA at Second Coachella Show",
+      "link": "https://www.rollingstone.com/music/music-news/justin-bieber-billie-eilish-sza-coachella-weekend-two-show-1235550107/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-19 16:01",
+      "summary": "Sexyy Red, Big Sean, and Dijon also stop by during singer's Weekend Two headlining gig"
+    },
+    {
+      "title": "Laufey Opens Up About Touring, Impostor Syndrome, & Being Independent | Billboard Women In Music\u00a02026",
+      "link": "https://www.billboard.com/video/laufey-opens-up-about-touring-impostor-syndrome-independent/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-19 16:00",
+      "summary": "Billboard Women in Music 2026 Innovator honoree Laufey shares why collaboration and innovation are central to her artistry. She explains how performing with artists from different genres, like Benson ..."
+    },
+    {
+      "title": "Madonna joined Sabrina Carpenter at Coachella, shares first single from \u2018Confessions II\u2019: \u201cI Feel So Free\u201d",
+      "link": "https://www.brooklynvegan.com/madonna-joined-sabrina-carpenter-at-coachella-shares-first-single-from-confessions-ii-i-feel-so-free/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-04-19 15:59",
+      "summary": "Madonna joined Sabrina to debut a new song from &#8216;Confessions II&#8217; plus classics &#8220;Vogue&#8221; and &#8220;Like a Prayer.&#8221;"
+    },
+    {
+      "title": "Watch Justin Bieber Bring Out SZA, Billie Eilish, and More at Coachella",
+      "link": "https://pitchfork.com/news/justin-bieber-brings-out-sza-billie-eilish-and-more-at-coachella/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-04-19 15:52",
+      "summary": "Sexy Redd, Dijon, and Big Sean also joined Bieber onstage for his Weekend Two headlining set"
+    },
+    {
+      "title": "Olivia Rodrigo didn\u2019t play \u2018Drop Dead\u2019 for Robert Smith, despite referencing The Cure icon: \u201cI played him a bunch of other songs\u201d",
+      "link": "https://www.nme.com/news/music/olivia-rodrigo-didnt-play-drop-dead-for-robert-smith-despite-referencing-the-cure-icon-i-played-him-a-bunch-of-other-songs-3941181?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-didnt-play-drop-dead-for-robert-smith-despite-referencing-the-cure-icon-i-played-him-a-bunch-of-other-songs",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-19 15:42",
+      "summary": "\nIn the song, she sings: \u201cYou know all the words to \u2018Just Like Heaven\u2019 / And I know why he wrote them now that you\u2019re standing right here\u201d\nThe post Olivia Rodrigo didn\u2019t play \u2018Drop Dead\u2019 for Robert Sm..."
+    },
+    {
+      "title": "Justin Bieber Serenades Billie Eilish, Duets With SZA During Guest-Filled Coachella Weekend 2\u00a0Set",
+      "link": "https://www.billboard.com/music/music-news/justin-bieber-billie-eilish-coachella-weekend-two-1236226510/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-19 15:38",
+      "summary": "Sexyy Red and Big Sean were among the surprise appearances at the superstar singer's April 18 performance."
+    },
+    {
+      "title": "Behold Dr. Dre, Flavor Flav, Springsteen, and Patti Smith Performing \u201cPeople Have the Power\u201d Together",
+      "link": "https://consequence.net/2026/04/dr-dre-springsteen-patti-smith-people-have-the-power/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-19 15:36",
+      "summary": "To close out the 2026 American Music Honors.\nBehold Dr. Dre, Flavor Flav, Springsteen, and Patti Smith Performing &#8220;People Have the Power&#8221; Together\nAlex Young"
+    },
+    {
+      "title": "The Strokes End Coachella Weekend Set With Fiery Political Video",
+      "link": "https://loudwire.com/the-strokes-coachella-fiery-political-video-us-government/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-04-19 14:52",
+      "summary": "YouTube: Coachella / YouTube: The Strokes / Coachella Live / Instagram: @Buenozaf"
+    },
+    {
+      "title": "Bruce Springsteen Joins John Densmore for Performance of The Doors\u2019 \u201cLight My Fire\u201d",
+      "link": "https://consequence.net/2026/04/bruce-springsteen-john-densmore-the-doors-light-my-fire/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-19 14:41",
+      "summary": "At the 2026 American Music Honors.\nBruce Springsteen Joins John Densmore for Performance of The Doors&#8217; &#8220;Light My Fire&#8221;\nAlex Young"
+    },
+    {
+      "title": "Listen to Madonna\u2019s New Song \u201cI Feel So Free\u201d",
+      "link": "https://pitchfork.com/news/listen-to-madonnas-new-song-i-feel-so-free/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-04-19 14:22",
+      "summary": "Fresh off her surprise appearance at Sabrina Carpenter\u2019s Coachella set, the first preview of Confessions II"
+    },
+    {
+      "title": "See Olivia Rodrigo Debut \u2018Drop Dead\u2019 Live During Addison Rae\u2019s Coachella Set",
+      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-drop-dead-live-addison-rae-coachella-set-1235550087/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-19 14:16",
+      "summary": "Singer makes another surprise Coachella appearance, joining Rae on \"Headphones On\" before live premiere of You Seem Pretty Sad for a Girl So in Love single"
+    },
+    {
+      "title": "Justin Bieber Brings Out Billie Eilish, SZA at Coachella Weekend Two",
+      "link": "https://consequence.net/2026/04/justin-bieber-coachella-billie-eilish-sza/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-19 13:26",
+      "summary": "Dijon, Big Sean, and Sexxy Red also joined Bieber on stage..\nJustin Bieber Brings Out Billie Eilish, SZA at Coachella Weekend Two\nAlex Young"
+    },
+    {
+      "title": "The Strokes End Coachella Set with Video Targeting CIA, US Actions in Gaza and Iran",
+      "link": "https://consequence.net/2026/04/the-strokes-coachella-political-statement/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-19 12:09",
+      "summary": "A video montage displayed images of leaders purportedly targeted by the CIA, as well as a university bombed in Gaza.\nThe Strokes End Coachella Set with Video Targeting CIA, US Actions in Gaza and Iran..."
+    },
+    {
+      "title": "Watch Justin Bieber bring out Billie Eilish as his \u2018One Less Lonely Girl\u2019 at weekend two of Coachella",
+      "link": "https://www.nme.com/news/music/watch-justin-bieber-bring-out-billie-eilish-as-his-one-less-lonely-girl-at-weekend-two-of-coachella-3941175?utm_source=rss&utm_medium=rss&utm_campaign=watch-justin-bieber-bring-out-billie-eilish-as-his-one-less-lonely-girl-at-weekend-two-of-coachella",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-19 10:37",
+      "summary": "\nSZA also joined Bieber near the end of his set for a rendition of 'Snooze'\nThe post Watch Justin Bieber bring out Billie Eilish as his &#8216;One Less Lonely Girl&#8217; at weekend two of Coachella a..."
+    },
+    {
+      "title": "The Strokes close Coachella set with politically charged montage calling out CIA and US government",
+      "link": "https://www.nme.com/news/music/the-strokes-close-coachella-set-with-politically-charged-montage-calling-out-cia-and-us-government-3941164?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-close-coachella-set-with-politically-charged-montage-calling-out-cia-and-us-government",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-19 10:37",
+      "summary": "\nIt follows their performance last weekend which saw them subtly take aim at Jeff Bezos\nThe post The Strokes close Coachella set with politically charged montage calling out CIA and US government appe..."
+    },
+    {
+      "title": "Cardi B almost cancels Atlanta show over clash with venue\u2019s staff",
+      "link": "https://www.nme.com/news/music/cardi-b-almost-cancels-atlanta-show-over-clash-with-venues-staff-3941163?utm_source=rss&utm_medium=rss&utm_campaign=cardi-b-almost-cancels-atlanta-show-over-clash-with-venues-staff",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-19 09:44",
+      "summary": "\n\"Your fucking employees are being disrespectful\u2026 I'm not performing today,\" she said on Instagram Live \nThe post Cardi B almost cancels Atlanta show over clash with venue&#8217;s staff appeared first..."
+    },
+    {
+      "title": "Lil Wayne opens up about \u201chumbling experience\u201d of not being invited to Coachella or Grammys",
+      "link": "https://www.nme.com/news/music/lil-wayne-opens-up-about-humbling-experience-of-not-being-invited-to-coachella-or-grammys-3941154?utm_source=rss&utm_medium=rss&utm_campaign=lil-wayne-opens-up-about-humbling-experience-of-not-being-invited-to-coachella-or-grammys",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-19 09:09",
+      "summary": "\nLimp Bizkit\u2019s Fred Durst came to the rapper's support, suggesting an event to \"welcome all of the uninvited\"\nThe post Lil Wayne opens up about &#8220;humbling experience&#8221; of not being invited t..."
+    },
+    {
+      "title": "Tyler, the Creator calls out fans for leaking security camera footage of him again",
+      "link": "https://www.nme.com/news/music/tyler-the-creator-hits-back-at-fans-leaking-security-camera-footage-of-him-again-3941146?utm_source=rss&utm_medium=rss&utm_campaign=tyler-the-creator-hits-back-at-fans-leaking-security-camera-footage-of-him-again",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-19 08:58",
+      "summary": "\n\"Space should be respected no matter how many lyrics you know\"\nThe post Tyler, the Creator calls out fans for leaking security camera footage of him again appeared first on NME."
+    },
+    {
+      "title": "Watch Kacey Musgraves debut new songs from upcoming album \u2018Middle Of Nowhere\u2019 during surprise Coachella set",
+      "link": "https://www.nme.com/news/music/watch-kacey-musgraves-debut-new-songs-from-upcoming-album-middle-of-nowhere-during-surprise-coachella-set-3941139?utm_source=rss&utm_medium=rss&utm_campaign=watch-kacey-musgraves-debut-new-songs-from-upcoming-album-middle-of-nowhere-during-surprise-coachella-set",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-19 08:27",
+      "summary": "\nThe performance saw her reference her viral \"yee haw\" moment from 2019\nThe post Watch Kacey Musgraves debut new songs from upcoming album &#8216;Middle Of Nowhere&#8217; during surprise Coachella set..."
+    },
+    {
+      "title": "PinkPantheress Brings Out Janelle Mon\u00e1e, Zara Larsson & More During Coachella\u00a0Set",
+      "link": "https://www.billboard.com/music/music-news/pinkpantheress-coachella-janelle-monae-zara-larsson-1236226504/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-19 07:00",
+      "summary": "The performance also saw appearances from Australian DJ Ninajirachi, alongside actor Tyriq Withers, Chase Infiniti, Slayyyter, and Manon."
+    },
+    {
+      "title": "Morgan Wallen and Ella Langley Premiere New Duet, \u2018I Can\u2019t Love You Anymore\u2019 On\u00a0Stage",
+      "link": "https://www.billboard.com/music/country/morgan-wallen-ella-langley-new-duet-i-cant-love-you-anymore-1236226502/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-19 06:46",
+      "summary": "The duo will drop the collaboration Friday, April 24."
+    },
+    {
+      "title": "Zayn Hints at Australia Tour: \u2018You Might Be Seeing Me\u00a0Soon\u2019",
+      "link": "https://www.billboard.com/music/pop/zayn-malik-hints-australia-tour-1236226499/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-19 04:54",
+      "summary": "\u201cI remember performing there in the band\u2026 what the crowds were like, what the people were like\u2026 I feel like I want to go back there.\u201d"
+    },
+    {
+      "title": "Olivia Rodrigo Debuts \u2018Drop Dead\u2019 Live With Addison Rae at\u00a0Coachella",
+      "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-drop-dead-addison-rae-coachella-1236226485/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-19 03:57",
+      "summary": "They sang \"Drop Dead\" -- as well as Rae's \"Headphones On\" -- as a duet."
+    },
+    {
+      "title": "Andrew Lloyd Webber Says He\u2019s a Recovering\u00a0Alcoholic",
+      "link": "https://www.billboard.com/music/music-news/andrew-lloyd-webber-sober-recovering-alcoholic-1236226424/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-19 02:27",
+      "summary": "The composer spoke about becoming sober in a new interview."
+    },
+    {
+      "title": "Olivia Rodrigo Makes Surprise Appearance at Coachella to Debut \u201cdrop dead\u201d",
+      "link": "https://consequence.net/2026/04/olivia-rodrigo-drop-dead-coachella/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-19 02:21",
+      "summary": "During Addison Rae's Saturday set.\nOlivia Rodrigo Makes Surprise Appearance at Coachella to Debut &#8220;drop dead&#8221;\nAlex Young"
+    },
+    {
+      "title": "TAEMIN on His Historic Coachella Debut and Why Second-Gen K-Pop Is the \u2018Generation of Dreams Coming\u00a0True\u2019",
+      "link": "https://www.billboard.com/music/pop/taemin-coachella-debut-interview-1236226096/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-19 01:43",
+      "summary": "After becoming the first Korean male K-pop soloist to take the festival's stage, the \"idol's idol\" is setting his sights on even loftier goals."
+    },
+    {
+      "title": "Charity Organization Cuts Ties with Sharon Osbourne After She Backs Tommy Robinson\u2019s Anti-Immigration Rally",
+      "link": "https://consequence.net/2026/04/sharon-osbourne-centrepoint-tommy-robinson/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-19 01:06",
+      "summary": "Osbourne indicated she plans to attend Robinson's \"Unite the Kingdom\" rally.\nCharity Organization Cuts Ties with Sharon Osbourne After She Backs Tommy Robinson&#8217;s Anti-Immigration Rally\nAlex Youn..."
+    },
+    {
+      "title": "Tory Lanez Sues California Prison System for $100 Million Over Stabbing",
+      "link": "https://www.rollingstone.com/music/music-news/tory-lanez-california-prison-system-lawsuit-stabbing-1235550012/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-18 18:31",
+      "summary": "Rapper was stabbed 16 times by fellow inmate in May 2025 while 10-year sentence in Megan Thee Stallion shooting case"
     },
     {
       "title": "Prince Wouldn\u2019t Let Bruce Springsteen and Madonna Use His Dressing Room Bathroom",
@@ -1071,68 +1349,12 @@
       "summary": "The late music legend's onetime drummer Bobby Z. recalls the \"hilarious moment.\"\nPrince Wouldn&#8217;t Let Bruce Springsteen and Madonna Use His Dressing Room Bathroom\nSpencer Kaufman"
     },
     {
-      "title": "Tory Lanez Sues California Prison System for $100M Over Stabbing by\u00a0Inmate",
-      "link": "https://www.billboard.com/business/legal/tory-lanez-sues-california-prison-system-inmate-stabbing-1236226246/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-18 16:44",
-      "summary": "The rapper was stabbed 16 times in May 2025."
-    },
-    {
-      "title": "Lil Wayne Calls It a \u2018Humbling Experience\u2019 Not Being Invited to Coachella or Grammy\u00a0Awards",
-      "link": "https://www.billboard.com/music/music-news/lil-wayne-not-invited-coachella-grammys-humbling-experience-1236226240/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-18 16:25",
-      "summary": "Limp Bizkit's Fred Durst jumped into the comments to offer Weezy some encouragement."
-    },
-    {
-      "title": "Ice Spice makes light of viral McDonald\u2019s fight video: \u201cThis wouldn\u2019t happen at Wendy\u2019s\u201d",
-      "link": "https://www.nme.com/news/music/ice-spice-makes-light-of-viral-mcdonalds-fight-video-this-wouldnt-happen-at-wendys-3941101?utm_source=rss&utm_medium=rss&utm_campaign=ice-spice-makes-light-of-viral-mcdonalds-fight-video-this-wouldnt-happen-at-wendys",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-18 16:17",
-      "summary": "\nCCTV footage shows the Bronx rapper getting in an altercation with a member of the public while sitting in a McDonald's in Hollywood\nThe post Ice Spice makes light of viral McDonald&#8217;s fight vid..."
-    },
-    {
-      "title": "Kehlani at 30: How \u2018Folded\u2019 Changed Everything | Billboard Women In Music\u00a02026",
-      "link": "https://www.billboard.com/video/kehlani-folded-changed-everything-billboard-women-in-music/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-18 16:00",
-      "summary": "Billboard Women in Music 2026 Impact Award recipient Kehlani takes us deep into her creative process and emotional journey behind her hit &#8220;Folded&#8221; and her self-titled album. From bedroom-r..."
-    },
-    {
       "title": "Showrunner Explains Why The Simpsons Has Phased Out Couch Gags",
       "link": "https://consequence.net/2026/04/showrunner-the-simpsons-phasing-out-couch-gags/",
       "source": "Consequence",
       "category": "general",
       "published": "2026-04-18 15:40",
       "summary": "Showrunner Matt Selman says the show doesn't want to sacrifice its storytelling.\nShowrunner Explains Why The Simpsons Has Phased Out Couch Gags\nSpencer Kaufman"
-    },
-    {
-      "title": "Victrola Teams Up With Jack White\u2019s Third Man Records on a New Turntable and Speakers\u00a0Set",
-      "link": "https://www.billboard.com/culture/product-recommendations/victrola-jack-white-third-man-records-turntables-buy-online-1236226053/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-18 15:40",
-      "summary": "For Record Store Day 2026, listen to your new stack of vinyl records in style \u2014\u00a0here's where to buy online."
-    },
-    {
-      "title": "Watch Muse\u2019s Matt Bellamy make surprise appearance during Anyma\u2019s Coachella set",
-      "link": "https://www.nme.com/news/music/watch-muses-matt-bellamy-make-surprise-appearance-during-anymas-coachella-set-3941097?utm_source=rss&utm_medium=rss&utm_campaign=watch-muses-matt-bellamy-make-surprise-appearance-during-anymas-coachella-set",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-18 15:29",
-      "summary": "\nThey performed an unreleased song titled 'Carrier Of Souls'\nThe post Watch Muse&#8217;s Matt Bellamy make surprise appearance during Anyma&#8217;s Coachella set appeared first on NME."
-    },
-    {
-      "title": "Madonna\u2019s \u2018I Feel So Free\u2019 Officially Released Following Surprise Coachella Appearance With Sabrina\u00a0Carpenter",
-      "link": "https://www.billboard.com/music/music-news/madonna-i-feel-so-free-released-after-coachella-appearance-1236226230/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-18 15:07",
-      "summary": "The Confessions II song first debuted on iHeartRadio\u2019s Pride Radio."
     },
     {
       "title": "Geena Davis Completes Sabrina Carpenter\u2019s Thelma & Louise Tribute at Coachella",
@@ -1151,28 +1373,12 @@
       "summary": "The first single from her upcoming album Confessions II.\nMadonna Releases &#8220;I Feel So Free&#8221; Following Surprise Coachella Appearance\nScoop Harrison"
     },
     {
-      "title": "WrestleMania 42: Here\u2019s Where to Watch WWE\u2019s Biggest Event\u00a0Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/wwe-wrestlemania-42-how-to-watch-online-1236226043/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-18 14:05",
-      "summary": "Don't miss Cody Rhodes vs. Randy Orton and CM Punk vs. Roman Reigns during the two-night wrestling event, with Joe Jonas set to perform."
-    },
-    {
-      "title": "Los Tigres del Norte \u2018Want to Help\u2019 Minnesota Fans Following ICE Surge, & More Uplifting Moments in Latin\u00a0Music",
-      "link": "https://www.billboard.com/music/latin/los-tigres-del-norte-uplifting-moments-in-latin-music-1236226205/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-18 14:00",
-      "summary": "Plus, see Ricardo Arjona's heartfelt message to Gaby Moreno on her \"shining\" role of playing Persephone in Hadestown on Broadway."
-    },
-    {
       "title": "Madonna Officially Releases \u2018Confessions II\u2019 Track \u2018I Feel So Free\u2019",
       "link": "https://www.rollingstone.com/music/music-news/madonna-confessions-ii-new-song-i-feel-so-free-1235549959/",
       "source": "Rolling Stone",
       "category": "general",
       "published": "2026-04-18 13:18",
-      "summary": "Soon after surprise Coachella performance with Sabrina Carpenter, Material Girl shares \"first taste\" of new album but not the \"lead single\""
+      "summary": "Soon after surprise Coachella performance with Sabrina Carpenter, Material Girl shares \u201cfirst taste\u201d of new album but not the \u201clead single\u201d"
     },
     {
       "title": "Oasis, Metallica, and Bad Bunny Named Tours of the Years at Pollstar Awards",
@@ -1183,84 +1389,12 @@
       "summary": "Kendrick Lamar and SZA, The Weeknd, and The Eagles were also awarded prizes.\nOasis, Metallica, and Bad Bunny Named Tours of the Years at Pollstar Awards\nScoop Harrison"
     },
     {
-      "title": "Anyma Delivers Striking Coachella 2026 Set With Special Guests LISA, Joji &\u00a0More",
-      "link": "https://www.billboard.com/music/music-news/anyma-coachella-weekend-two-performance-recap-lisa-joji-1236226209/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-18 12:29",
-      "summary": "The performance was the world debut of the producer's new show, \u00c6DEN."
-    },
-    {
       "title": "5 Death Metal Bands Whose Third Album Is Their Best",
       "link": "https://loudwire.com/death-metal-bands-third-album-best/",
       "source": "Loudwire",
       "category": "rock",
       "published": "2026-04-18 11:20",
       "summary": "Mark Horton, Getty Images, Christie Goodwin, Redferns/Getty Images, Relapse"
-    },
-    {
-      "title": "Record Store Day 2026 has fans flocking to stores for limited edition releases with exclusive Taylor Swift and Slipknot records up for grabs",
-      "link": "https://www.nme.com/news/music/record-store-day-2026-has-fans-flocking-to-stores-for-limited-edition-releases-3941064?utm_source=rss&utm_medium=rss&utm_campaign=record-store-day-2026-has-fans-flocking-to-stores-for-limited-edition-releases",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-18 10:46",
-      "summary": "\nThe annual event has seen stores report their largest ever queues, with the ultra-dedicated camping over 24 hours in advance\nThe post Record Store Day 2026 has fans flocking to stores for limited edi..."
-    },
-    {
-      "title": "Moby will donate all profits from Coachella 2026 to animal rights organisations",
-      "link": "https://www.nme.com/news/music/moby-will-donate-all-profits-from-coachella-2026-to-animal-rights-organisations-3941056?utm_source=rss&utm_medium=rss&utm_campaign=moby-will-donate-all-profits-from-coachella-2026-to-animal-rights-organisations",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-18 10:42",
-      "summary": "\n\"My main job in life is working as an animal rights activist\"\nThe post Moby will donate all profits from Coachella 2026 to animal rights organisations appeared first on NME."
-    },
-    {
-      "title": "Kneecap, The Mary Wallopers, Annie Mac and more back \u2018Stop The Game\u2019 campaign protesting Ireland v Israel game",
-      "link": "https://www.nme.com/news/music/kneecap-the-mary-wallopers-annie-mac-and-more-back-stop-the-game-campaign-protesting-ireland-v-israel-game-3941040?utm_source=rss&utm_medium=rss&utm_campaign=kneecap-the-mary-wallopers-annie-mac-and-more-back-stop-the-game-campaign-protesting-ireland-v-israel-game",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-18 09:53",
-      "summary": "\n\"We will not take part in this competition against a country that is slaughtering humans in front of our very eyes with impunity\"\nThe post Kneecap, The Mary Wallopers, Annie Mac and more back &#8216;..."
-    },
-    {
-      "title": "After calling it \u201can utter and complete load of bollocks\u201d, Iron Maiden will skip the Rock & Roll Hall Of Fame induction ceremony",
-      "link": "https://www.nme.com/news/music/after-calling-it-an-utter-and-complete-load-of-bollocks-iron-maiden-will-skip-the-rock-roll-hall-of-fame-induction-ceremony-3941020?utm_source=rss&utm_medium=rss&utm_campaign=after-calling-it-an-utter-and-complete-load-of-bollocks-iron-maiden-will-skip-the-rock-roll-hall-of-fame-induction-ceremony",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-18 09:26",
-      "summary": "\nBruce Dickinson previously said the organisation was run by \"a bunch of sanctimonious bloody Americans who wouldn\u2019t know rock and roll if it hit them in the face\"\nThe post After calling it &#8220;an ..."
-    },
-    {
-      "title": "Kanye West Poland gig cancelled after government backlash: \u201cWe cannot pretend that this is just entertainment\u201d",
-      "link": "https://www.nme.com/news/music/kanye-west-poland-gig-cancelled-after-government-backlash-we-cannot-pretend-that-this-is-just-entertainment-3941016?utm_source=rss&utm_medium=rss&utm_campaign=kanye-west-poland-gig-cancelled-after-government-backlash-we-cannot-pretend-that-this-is-just-entertainment",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-18 08:33",
-      "summary": "\nIt comes after the rapper was prevented from coming to the UK over his previous anti-Semitic comments\nThe post Kanye West Poland gig cancelled after government backlash: &#8220;We cannot pretend that..."
-    },
-    {
-      "title": "Check out Madonna\u2019s official release of intoxicating new song \u2018I Feel So Free\u2019",
-      "link": "https://www.nme.com/news/music/check-out-madonnas-official-release-of-intoxicating-new-song-i-feel-so-free-3941025?utm_source=rss&utm_medium=rss&utm_campaign=check-out-madonnas-official-release-of-intoxicating-new-song-i-feel-so-free",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-18 08:33",
-      "summary": "\nIt comes after the track was given its live debut during Sabrina Carpenter's headline Coachella performance \nThe post Check out Madonna&#8217;s official release of intoxicating new song &#8216;I Feel..."
-    },
-    {
-      "title": "Homelessness charity cuts ties with Sharon Osbourne after she appears to lend support to Tommy Robinson far-right rally: \u201cThis sort of event does not align with our values\u201d",
-      "link": "https://www.nme.com/news/music/homelessness-charity-cuts-ties-with-sharon-osbourne-after-she-appears-to-lend-support-to-tommy-robinson-far-right-rally-this-sort-of-event-does-not-align-with-our-values-3941007?utm_source=rss&utm_medium=rss&utm_campaign=homelessness-charity-cuts-ties-with-sharon-osbourne-after-she-appears-to-lend-support-to-tommy-robinson-far-right-rally-this-sort-of-event-does-not-align-with-our-values",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-18 07:49",
-      "summary": "\nOsbourne is facing criticism for commenting \u201csee you at the march\" under a post about the far-right gathering\nThe post Homelessness charity cuts ties with Sharon Osbourne after she appears to lend su..."
-    },
-    {
-      "title": "6LACK Shares New Single \u2018Sunday Again\u2019 Featuring 2\u00a0Chainz",
-      "link": "https://www.billboard.com/music/rb-hip-hop/6lack-new-single-sunday-again-featuring-2-chainz-1236226092/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-18 07:31",
-      "summary": "The track features additional vocal contributions from Serayah, Jordan Ward and Dos Dias, among others."
     },
     {
       "title": "Madonna, Sabrina Carpenter Make Coachella History With Stunning \u2018Vogue\u2019 and \u2018Like a Prayer\u2019 Duets",
@@ -1287,14 +1421,6 @@
       "summary": "Madge performed \"Vogue,\" \"Get Together,\" \"Like a Prayer,\" and a song from her upcoming Confessions II.\nMadonna Joins Sabrina Carpenter at Coachella for Surprise Performance, Astrology Lesson: Watch\nPa..."
     },
     {
-      "title": "Sabrina Carpenter Brought Out Madonna for Coachella Weekend Two\u00a0Performance",
-      "link": "https://www.billboard.com/music/concerts/madonna-sabrina-carpenter-coachella-2026-1236226082/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-18 05:46",
-      "summary": "The Queen of Pop emerged during Carpenter's performance of \"Juno\"."
-    },
-    {
       "title": "Dylan Sprouse Holds Home Intruder at Gun Point",
       "link": "https://consequence.net/2026/04/dylan-sprouse-home-intruder/",
       "source": "Consequence",
@@ -1317,143 +1443,7 @@
       "category": "general",
       "published": "2026-04-17 22:26",
       "summary": "Plus: The Fest, Iron Maiden, WU LYF, and more tour and festival news."
-    },
-    {
-      "title": "Staff Picks: Best Songs of the Week April 11th \u2013 April 17th",
-      "link": "https://consequence.net/2026/04/best-songs-of-the-week-april-11th-april-17th/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-17 22:10",
-      "summary": "New picks from Tyla and Zara Larsson, The Jungle Giants, Rosali, Fire-Toolz, and more.\nStaff Picks: Best Songs of the Week April 11th \u2013 April 17th\nPaolo Ragusa and Consequence Staff"
-    },
-    {
-      "title": "Hip-Hop Artists Who've Gone Diamond",
-      "link": "https://www.xxlmag.com/rappers-gone-diamond/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-04-17 21:43",
-      "summary": "Sergey Lifanov/Dia Dipasupil/Theo Wargo/Presley Ann/Steve Granitz/Getty Images (5)"
-    },
-    {
-      "title": "Every Hip-Hop Song and Album Certified Diamond in Music History",
-      "link": "https://www.xxlmag.com/hip-hop-songs-diamond/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-04-17 21:21",
-      "summary": "yuyanga/David Ramos/Carmen Mandato/Getty Images (3)/Aftermath Records/Death Row Records/Interscope Records"
-    },
-    {
-      "title": "Zayn Malik Says He\u2019s \u2018Unexpectedly Recovering\u2019 in the Hospital",
-      "link": "https://www.rollingstone.com/music/music-news/zayn-malik-hospital-recovering-1235549673/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-17 21:18",
-      "summary": "The pop star, who did not reveal the reason he was hospitalized, shared the health update via Instagram with a photo of himself in a hospital bed"
-    },
-    {
-      "title": "Iron Maiden Too Busy Being Iron Maiden to Attend Rock Hall Ceremony: \u2018Fans Always Come First\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/iron-maiden-rock-and-roll-hall-of-fame-will-not-attend-1235549576/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-17 21:10",
-      "summary": "\u201cThe shows will of course go on,\u201d manager Rod Smallwood says, noting band will stick to its Australia tour instead"
-    },
-    {
-      "title": "Our Favorite Songs of the Week (Playlist)",
-      "link": "https://www.brooklynvegan.com/our-favorite-songs-of-the-week-playlist-238/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-04-17 21:06",
-      "summary": "This week: Nine Inch Noize, Choir Boy, Olivia Rodrigo, Fire-Toolz, Kasey Musgraves, Waxahatchee, Rosali, Jessie Ware, and more"
-    },
-    {
-      "title": "Beastie Boys Release To the Five Boroughs Deluxe Reissue",
-      "link": "https://consequence.net/2026/04/beastie-boys-to-the-five-boroughs-reissue/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-17 20:27",
-      "summary": "Both the 3xLP and 2xCD sets come with 11 bonus tracks, including remixes and B-sides.\nBeastie Boys Release To the Five Boroughs Deluxe Reissue\nEddie Fu"
-    },
-    {
-      "title": "9 New Songs Out Today",
-      "link": "https://www.brooklynvegan.com/9-new-songs-out-today-51/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-04-17 20:21",
-      "summary": "Hear new songs from Kacey Musgraves, Slayyyter, S.G. Goodman, Jesse Malin, Stove God Cooks, Nigel Sylvester &#038; Cello, Pope ft. Ratboys&#8217; Julia Steiner, and more."
-    },
-    {
-      "title": "Behind Rosal\u00eda\u2019s bedazzled neck brace and Euphoria\u2019s mature new aesthetic",
-      "link": "https://www.thefader.com/2026/04/17/rosalia-neck-brace-euphoria-season-3-costumes-designer",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-04-17 20:16",
-      "summary": "Euphoria\u2019s new costume designer Natasha Newman-Thomas breaks down the show\u2019s post-high school wardrobes."
-    },
-    {
-      "title": "Ice Spice Attacked by Fan in Los Angeles McDonald's, Fights Back",
-      "link": "https://www.xxlmag.com/ice-spice-fan-attack-mcdonalds/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-04-17 20:15",
-      "summary": "TMZ/X/Charles Sykes/Bravo/Getty Images"
-    },
-    {
-      "title": "The Fest 2026 initial lineup: The Bouncing Souls, PUP, Texas is the Reason, Torche, more",
-      "link": "https://www.brooklynvegan.com/the-fest-2026-initial-lineup-the-bouncing-souls-pup-texas-is-the-reason-torche-more/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-04-17 19:57",
-      "summary": "The Fest happens October 23-25 in Gainesville, FL"
-    },
-    {
-      "title": "Kanye West\u2019s Concert in Poland Canceled",
-      "link": "https://consequence.net/2026/04/kanye-west-concert-poland-canceled/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-17 19:51",
-      "summary": "\"In a country scarred by the history of the Holocaust, we cannot pretend this is just entertainment.\"\nKanye West&#8217;s Concert in Poland Canceled\nAlex Young"
-    },
-    {
-      "title": "FernGully Returning as Live-Action Movie, Years After Those Avatar Jokes",
-      "link": "https://consequence.net/2026/04/ferngully-live-action-movie-marielle-heller/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-17 19:36",
-      "summary": "Marielle Heller is set to write and direct the new movie (don't call it a remake, though).\nFernGully Returning as Live-Action Movie, Years After Those Avatar Jokes\nLiz Shannon Miller"
-    },
-    {
-      "title": "AP A-sides: 10 songs you need to hear",
-      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-april-17-2026/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-04-17 19:29",
-      "summary": "Our favorite new songs, updated weekly."
-    },
-    {
-      "title": "Olivia Rodrigo Didn\u2019t Play \u2018Drop Dead\u2019 for Robert Smith: \u2018I Played Him a Bunch of Other Songs\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-drop-dead-robert-smith-reaction-1235549486/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-17 19:17",
-      "summary": "The pop star made the revelation during an appearance on Apple Music 1\u2019s\u00a0New Music Daily with Zane Lowe"
-    },
-    {
-      "title": "D4vd\u2019s Parents \u2018Sad and Disappointed\u2019 Over Arrest, Proclaim He\u2019s \u2018Innocent\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/d4vd-parents-arrest-celeste-rivas-1235549458/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-17 18:58",
-      "summary": "The Texas parents learned of the arrest while still fighting grand-jury subpoenas seeking to haul them in front of a panel in Los Angeles"
-    },
-    {
-      "title": "Stream Nine Inch Nails and Boys Noize\u2019s new LP Nine Inch Noize",
-      "link": "https://www.altpress.com/nine-inch-nails-boys-noize-nine-inch-noize-stream/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-04-17 18:58",
-      "summary": "The collaboration follows their work on the scores for Challengers and TRON."
     }
   ],
-  "last_updated": "2026-04-18T17:40:30.033130"
+  "last_updated": "2026-04-19T17:40:42.892618"
 }

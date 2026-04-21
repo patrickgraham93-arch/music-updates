@@ -1,6 +1,36 @@
 {
   "hiphop": [
     {
+      "name": "Life on Edge",
+      "artists": "Lil Tjay",
+      "release_date": "2026-04-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732484fdebb9612ca2d467fcad",
+      "spotify_url": "https://open.spotify.com/album/5WH0aPUYajhNJqRk4TipLW",
+      "apple_music_url": "https://music.apple.com/us/search?term=Life%20on%20Edge%20Lil%20Tjay",
+      "total_tracks": 2,
+      "album_type": "single"
+    },
+    {
+      "name": "FIX UR FACE (with Fred Durst)",
+      "artists": "mgk, Fred Durst",
+      "release_date": "2026-04-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d41cd67574906c8a8bda4f70",
+      "spotify_url": "https://open.spotify.com/album/5V2DOzyXq1zx7yRgebZZIv",
+      "apple_music_url": "https://music.apple.com/us/search?term=FIX%20UR%20FACE%20%28with%20Fred%20Durst%29%20mgk",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "No Questions Asked",
+      "artists": "3rd Eye Magic, C. Young, Charles Hamilton",
+      "release_date": "2026-04-19",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386c2751c09a00693e1a96e24",
+      "spotify_url": "https://open.spotify.com/album/729wQgfTtKYHoQ1mQiyNcP",
+      "apple_music_url": "https://music.apple.com/us/search?term=No%20Questions%20Asked%203rd%20Eye%20Magic",
+      "total_tracks": 16,
+      "album_type": "album"
+    },
+    {
       "name": "Sunday Again (with 2 Chainz)",
       "artists": "6LACK, 2 Chainz",
       "release_date": "2026-04-17",
@@ -226,7 +256,7 @@
       "release_date": "2026-04-03",
       "image": "https://i.scdn.co/image/ab67616d0000b273060e99d1f53ef78f0d4d166c",
       "spotify_url": "https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5",
-      "apple_music_url": "https://music.apple.com/us/album/600-racks-single/1890283791?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=600%20Racks%20Meek%20Mill",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -236,7 +266,7 @@
       "release_date": "2026-04-03",
       "image": "https://i.scdn.co/image/ab67616d0000b27329bfba20b1b5d08cbb2ed6cf",
       "spotify_url": "https://open.spotify.com/album/0I52JJWvsh7IuKjb5xwjK5",
-      "apple_music_url": "https://music.apple.com/us/search?term=Not%20Friendly%20DDG",
+      "apple_music_url": "https://music.apple.com/us/album/not-friendly-single/1889586797?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -251,6 +281,16 @@
       "album_type": "single"
     },
     {
+      "name": "still mine",
+      "artists": "Velous, Bryson Tiller",
+      "release_date": "2026-04-03",
+      "image": "https://i.scdn.co/image/ab67616d0000b27324debab513b4382abd7cf69e",
+      "spotify_url": "https://open.spotify.com/album/36OWNJvp0MLeDXa0zlWGNi",
+      "apple_music_url": "https://music.apple.com/us/search?term=still%20mine%20Velous",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "EASTMIX, Vol 3",
       "artists": "Dave East",
       "release_date": "2026-04-03",
@@ -259,16 +299,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=EASTMIX%20Dave%20East",
       "total_tracks": 10,
       "album_type": "album"
-    },
-    {
-      "name": "still mine",
-      "artists": "Velous, Bryson Tiller",
-      "release_date": "2026-04-03",
-      "image": "https://i.scdn.co/image/ab67616d0000b27324debab513b4382abd7cf69e",
-      "spotify_url": "https://open.spotify.com/album/36OWNJvp0MLeDXa0zlWGNi",
-      "apple_music_url": "https://music.apple.com/us/album/still-mine-single/1889870718?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
     },
     {
       "name": "So What Now",
@@ -366,7 +396,7 @@
       "release_date": "2026-03-28",
       "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
       "spotify_url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS",
-      "apple_music_url": "https://music.apple.com/us/album/bully-ep/1872771948?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=BULLY%20Kanye%20West",
       "total_tracks": 18,
       "album_type": "album"
     },
@@ -939,76 +969,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=War%20%28Snippet%29%20T.I.",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "Ca$ino",
-      "artists": "Baby Keem",
-      "release_date": "2026-02-20",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
-      "spotify_url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b",
-      "apple_music_url": "https://music.apple.com/us/search?term=Ca%24ino%20Baby%20Keem",
-      "total_tracks": 11,
-      "album_type": "album"
-    },
-    {
-      "name": "Spiral Staircases",
-      "artists": "Larry June, Curren$y, The Alchemist",
-      "release_date": "2026-02-20",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732602b00b6e1c090b26bb888b",
-      "spotify_url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ",
-      "apple_music_url": "https://music.apple.com/us/search?term=Spiral%20Staircases%20Larry%20June",
-      "total_tracks": 7,
-      "album_type": "album"
-    },
-    {
-      "name": "Save The Day (From \"Hoppers\")",
-      "artists": "SZA",
-      "release_date": "2026-02-20",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db6f5076ccf9576b773a9f53",
-      "spotify_url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL",
-      "apple_music_url": "https://music.apple.com/us/search?term=Save%20The%20Day%20%28From%20%22Hoppers%22%29%20SZA",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "miss u 2 (with Leon Thomas)",
-      "artists": "Ty Dolla $ign, Leon Thomas",
-      "release_date": "2026-02-20",
-      "image": "https://i.scdn.co/image/ab67616d0000b273665ac3164743147a69fa97c1",
-      "spotify_url": "https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo",
-      "apple_music_url": "https://music.apple.com/us/search?term=miss%20u%202%20%28with%20Leon%20Thomas%29%20Ty%20Dolla%20%24ign",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "FOR THE LOVE 2",
-      "artists": "Dave East, Scram Jones",
-      "release_date": "2026-02-20",
-      "image": "https://i.scdn.co/image/ab67616d0000b273973e852a397e9943396612e2",
-      "spotify_url": "https://open.spotify.com/album/30PWZtP8GqnGfoQrJV2lO6",
-      "apple_music_url": "https://music.apple.com/us/search?term=FOR%20THE%20LOVE%202%20Dave%20East",
-      "total_tracks": 7,
-      "album_type": "album"
-    },
-    {
-      "name": "Visions",
-      "artists": "Jay Worthy, Method Man",
-      "release_date": "2026-02-20",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c96e48373517612107f58470",
-      "spotify_url": "https://open.spotify.com/album/2FWrzqmke6PXcX2QhmRdg2",
-      "apple_music_url": "https://music.apple.com/us/search?term=Visions%20Jay%20Worthy",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Dedicated to Cadalee Biarritz (Chopped Not Slopped)",
-      "artists": "Big K.R.I.T., OG Ron C",
-      "release_date": "2026-02-20",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ee74f3bc4a676cc7c28774fa",
-      "spotify_url": "https://open.spotify.com/album/3GyXOZkODc4be2HRibXuIa",
-      "apple_music_url": "https://music.apple.com/us/search?term=Dedicated%20to%20Cadalee%20Biarritz%20%28Chopped%20Not%20Slopped%29%20Big%20K.R.I.T.",
-      "total_tracks": 13,
-      "album_type": "album"
     }
   ],
   "rock": [
@@ -1028,7 +988,7 @@
       "release_date": "2026-03-13",
       "image": "https://i.scdn.co/image/ab67616d0000b273884dd01508605dca727d8993",
       "spotify_url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc",
-      "apple_music_url": "https://music.apple.com/us/album/trying-times/1880811313?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Trying%20Times%20James%20Blake",
       "total_tracks": 13,
       "album_type": "album"
     },
@@ -1045,405 +1005,405 @@
   ],
   "news": [
     {
-      "title": "Suicidal Tendencies brought out Metallica\u2019s Robert Trujillo at Coachella, playing Decibel Metal & Beer Fest",
-      "link": "https://www.brooklynvegan.com/suicidal-tendencies-brought-out-metallicas-robert-trujillo-at-coachella-playing-decibel-metal-beer-fest/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-04-20 17:55",
-      "summary": "They had another former bandmember, Thundercat, join them during weekend one."
-    },
-    {
-      "title": "Chayanne Returns With 2026 Bailemos Otra Vez Tour: See the\u00a0Dates",
-      "link": "https://www.billboard.com/music/latin/chayanne-2026-tour-dates-bailemos-otra-vez-1236226952/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-20 17:53",
-      "summary": "\"This is the last opportunity to see Chayanne perform with the passion and excellence that has fueled his international success,\" states a press release."
-    },
-    {
-      "title": "BTS\u2019 \u2018Swim\u2019 Coasts to Fourth Week at No. 1 on Billboard Global\u00a0Charts",
-      "link": "https://www.billboard.com/music/chart-beat/bts-swim-global-charts-april-25-1236227080/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-20 17:52",
-      "summary": "Plus, Justin Bieber\u2019s \u201cBeauty and a Beat\u201d soars to the top five of both tallies and Ella Langley\u2019s \u201cChoosin\u2019 Texas\u201d goes top five on the Global 200."
-    },
-    {
-      "title": "Man/Woman/Chainsaw announce debut album Cannonball",
-      "link": "https://www.altpress.com/man-woman-chainsaw-nosedive-video-watch/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-04-20 17:51",
-      "summary": "The \u201cNosedive\u201d video features a man escaping his feelings with a bedroom dance party."
-    },
-    {
-      "title": "Billboard Hot 100 Top 10 Countdown For April 25th, 2026 | Billboard\u00a0News",
-      "link": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-for-april-25th-2026/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-20 17:48",
-      "summary": "Ella Langley\u2019s \u201cBe Her\u201d jumps up in the top 10 of the Billboard Hot 100, and so does \u201cStateside\u201d and Kehlani\u2019s \u201cFolded.\u201d Tetris Kelly: This is the Billboard Hot 100 top 10 for the week dated April 25t..."
-    },
-    {
-      "title": "Why Did Coachella Save All the Big Guests for Weekend 2?",
-      "link": "https://consequence.net/2026/04/coachella-weekend-2-guest-stars-better/",
+      "title": "Billy Idol Saw It Coming",
+      "link": "https://consequence.net/2026/04/billy-idol-saw-it-coming-interview/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-04-20 17:44",
-      "summary": "Madonna, Olivia Rodrigo, and Billie Eilish are some of the biggest names in pop, and they had major guest moments on stage during Weekend 2 this year.\nWhy Did Coachella Save All the Big Guests for Wee..."
+      "published": "2026-04-21 18:00",
+      "summary": "Billy Idol and Steve Stevens on 45 years as partners, a Rock Hall induction, and why the album Idol got laughed at for in 1993 turned out to be the blueprint.\nBilly Idol Saw It Coming\nWren Graves"
     },
     {
-      "title": "Tiga, Massive Attack, and Nine Inch Noize: This Week\u2019s Pitchfork Selects Playlist",
-      "link": "https://pitchfork.com/news/tiga-massive-attack-and-nine-inch-noize-this-weeks-pitchfork-selects-playlist/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-04-20 17:43",
-      "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat"
-    },
-    {
-      "title": "R&B/Hip-Hop Fresh Picks of the Week: JT, Chris Patrick, Trap Dickey, MexikoDro &\u00a0More",
-      "link": "https://www.billboard.com/lists/rb-hip-hop-fresh-picks-jt-chris-patrick-trap-dickey-retch/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-20 17:43",
-      "summary": "Listen to new must-hear songs from R&#38;B/hip-hop artists such as cortex and Jenevieve."
-    },
-    {
-      "title": "Billy Strings Breaks Leg in Backstage Skateboarding Accident During Charlottesville\u00a0Show",
-      "link": "https://www.billboard.com/music/country/billy-strings-breaks-leg-backstage-skateboard-accident-1236226954/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-20 17:36",
-      "summary": "The guitar picker shared a picture of the bad break on Instagram on Sunday (April 19)."
-    },
-    {
-      "title": "Blossoms return with jaunty new single \u2018Joke About Divorce\u2019",
-      "link": "https://www.nme.com/news/music/blossoms-return-with-jaunty-new-single-joke-about-divorce-3941422?utm_source=rss&utm_medium=rss&utm_campaign=blossoms-return-with-jaunty-new-single-joke-about-divorce",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-20 17:30",
-      "summary": "\nIt is the first new music from the Stockport band since 2024 album 'Gary'\nThe post Blossoms return with jaunty new single &#8216;Joke About Divorce&#8217; appeared first on NME."
-    },
-    {
-      "title": "d4vd Arrested for Murder of 14-Year-Old Girl Found in Tesla [Updated]",
-      "link": "https://consequence.net/2026/04/d4vd-arrested/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-20 17:27",
-      "summary": "Celeste Rivas Hernandez's decomposed remains were found in his impounded Tesla in September 2025.\nd4vd Arrested for Murder of 14-Year-Old Girl Found in Tesla [Updated]\nEddie Fu"
-    },
-    {
-      "title": "Jung Kook Explains Why He Has \u2018Regrets\u2019 About the Making of BTS\u2019 New Album \u2018ARIRANG\u2019",
-      "link": "https://www.billboard.com/music/music-news/bts-jung-kook-arirang-1236226879/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-20 17:19",
-      "summary": "\"There's one thing I still think about,\" the K-pop star said of the creative process."
-    },
-    {
-      "title": "Live Nation & Ticketmaster To Pay $9.9M to Settle Claims Over \u2018Predatory\u2019 Hidden Fees to D.C.\u00a0Fans",
-      "link": "https://www.billboard.com/pro/live-nation-ticketmaster-pay-9-9m-settle-hidden-fee-claims/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-20 17:13",
-      "summary": "The deal, which is separate from Live Nation's huge antitrust case, will resolve accusations that Ticketmaster \"hid the true price of tickets\" until checkout."
-    },
-    {
-      "title": "Billy Corgan\u2019s National Wrestling Alliance Inks New Broadcast Television Deal",
-      "link": "https://consequence.net/2026/04/billy-corgan-national-wrestling-alliance-new-broadcast-television-deal/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-20 17:08",
-      "summary": "The flagship program NWA Powerrr will start airing on Comet TV in May.\nBilly Corgan&#8217;s National Wrestling Alliance Inks New Broadcast Television Deal\nLangdon Hickman"
-    },
-    {
-      "title": "Cardi B\u2019s Little Miss Drama Tour: Here Are All the Surprise Guests (So\u00a0Far)",
-      "link": "https://www.billboard.com/lists/cardi-b-little-miss-drama-tour-surprise-guests/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-04-20 17:08",
-      "summary": "The Grammy winner kicked off her first arena headlining trek on Feb. 11 in California."
-    },
-    {
-      "title": "D4vd Charged With First-Degree Murder of Celeste Rivas Hernandez",
-      "link": "https://www.rollingstone.com/music/music-news/d4vd-charged-murder-celeste-rivas-hernandez-1235550294/",
+      "title": "Prince\u2019s Estate Unveils \u2018With This Tear,\u2019 the First of Several Unreleased Recordings Planned for 2026",
+      "link": "https://www.rollingstone.com/music/music-news/prince-with-this-tear-vault-song-1235551270/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-04-20 17:07",
-      "summary": "The Los Angeles County district attorney revealed that before her death, Rivas was a witness in an investigation into the singer for sexual acts with a person under 14"
+      "published": "2026-04-21 17:59",
+      "summary": "The late musician's upcoming vault songs are billed to be from a previously unreleased album project"
     },
     {
-      "title": "Kelsey Lu began Blue Note residency in NYC (pics)",
-      "link": "https://www.brooklynvegan.com/kelsey-lu-began-blue-note-residency-in-nyc-pics/",
+      "title": "Machine Gun Kelly and Fred Durst Team Up on New Song \u201cFIX UR FACE\u201d: Stream",
+      "link": "https://consequence.net/2026/04/machine-gun-kelly-fred-durst-fix-ur-face/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-21 17:51",
+      "summary": "The Limp Bizkit singer serves as hype man on the nu-metal track.\nMachine Gun Kelly and Fred Durst Team Up on New Song &#8220;FIX UR FACE&#8221;: Stream\nSpencer Kaufman"
+    },
+    {
+      "title": "Looks Like Foogiano May Be Free From Prison, New Photo Appears",
+      "link": "https://www.xxlmag.com/foogiano-released-from-prison/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-04-21 17:47",
+      "summary": "spiffomadeit/Instagram"
+    },
+    {
+      "title": "The Charlatans announce fall North American tour",
+      "link": "https://www.brooklynvegan.com/the-charlatans-announce-fall-north-american-tour/",
       "source": "Brooklyn Vegan",
       "category": "general",
-      "published": "2026-04-20 17:06",
-      "summary": "They have four more Blue Note shows coming up ahead of the release of their new album, in Los Angeles next week."
+      "published": "2026-04-21 17:46",
+      "summary": "The tour kicks off September 3 in Santa Ana and runs through September 26 in Brooklyn"
     },
     {
-      "title": "Jane Remover Lines Up North American Tour",
-      "link": "https://pitchfork.com/news/jane-remover-lines-up-north-american-tour/",
+      "title": "Pitchfork Founder Ryan Schreiber Is Releasing a Memoir",
+      "link": "https://pitchfork.com/news/pitchfork-founder-ryan-schreiber-is-releasing-a-memoir/",
       "source": "Pitchfork",
       "category": "general",
-      "published": "2026-04-20 17:05",
-      "summary": "The Live Exhibit tour comes with support from Dazegxd"
+      "published": "2026-04-21 17:40",
+      "summary": "Weird Era: How Pitchfork Changed Music Forever is \u201can Almost Famous-like memoir for the 21st century\u201d"
     },
     {
-      "title": "Billie Eilish on Co-Directing Concert Film With James Cameron: \u2018He Treated Me Like His Equal\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/billie-eilish-james-cameron-concert-film-exclusive-1235550416/",
-      "source": "Rolling Stone",
+      "title": "Michael Director Antoine Fuqua Isn\u2019t Convinced by the Allegations Against Michael Jackson",
+      "link": "https://consequence.net/2026/04/antoine-fuqua-michael-jackson-allegations/",
+      "source": "Consequence",
       "category": "general",
-      "published": "2026-04-20 17:00",
-      "summary": "Hit Me Hard and Soft: The Tour (Live in 3D), out May 8, was captured during Eilish\u2019s stretch of shows in Manchester, England, in July 2025, but maintained the integrity of her live show despite the ca..."
+      "published": "2026-04-21 17:39",
+      "summary": "\u201cSometimes people do some nasty things for some money,\" Fuqua told The New Yorker.\nMichael Director Antoine Fuqua Isn&#8217;t Convinced by the Allegations Against Michael Jackson\nLiz Shannon Miller"
     },
     {
-      "title": "Graham Coxon to release never-heard-before 2011 album \u2018Castle Park\u2019 as he reissues solo catalogue",
-      "link": "https://www.nme.com/news/music/graham-coxon-to-release-never-heard-before-2011-album-castle-park-as-he-reissues-solo-catalogue-3941391?utm_source=rss&utm_medium=rss&utm_campaign=graham-coxon-to-release-never-heard-before-2011-album-castle-park-as-he-reissues-solo-catalogue",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-20 17:00",
-      "summary": "\nCheck out new single 'Billy Says' as the Blur and Waeve guitarist also announces details of a special London show this November\nThe post Graham Coxon to release never-heard-before 2011 album &#8216;C..."
-    },
-    {
-      "title": "Ella Langley\u2019s \u2018Choosin\u2019 Texas\u2019 No. 1 on Hot 100 for 7th Week as \u2018Dandelion\u2019 Debuts Atop Billboard\u00a0200",
-      "link": "https://www.billboard.com/lists/ella-langley-choosin-texas-hot-100-number-one-seventh-week/",
+      "title": "Alan Osmond, Eldest Brother in The Osmonds Family Band Dies at\u00a076",
+      "link": "https://www.billboard.com/music/pop/alan-osmond-death-eldest-brother-osmonds-band-dies-obituary-1236227913/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-04-20 16:57",
-      "summary": "Langley joins Taylor Swift as the only women to top the Hot 100 and Billboard 200 with country titles simultaneously."
+      "published": "2026-04-21 17:39",
+      "summary": "The Osmonds band consisted of brothers Alan, Wayne, Merrill and Jay, with younger brothers Donny and Jimmy eventually joining the group."
+    },
+    {
+      "title": "Karol G announces \u2018Viajando Por El Mundo Tropitour\u2019 world stadium tour \u2013 including huge London show in 2027",
+      "link": "https://www.nme.com/news/music/karol-g-announces-viajando-por-el-mundo-tropitour-world-stadium-tour-including-huge-london-show-in-2027-3941722?utm_source=rss&utm_medium=rss&utm_campaign=karol-g-announces-viajando-por-el-mundo-tropitour-world-stadium-tour-including-huge-london-show-in-2027",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-21 17:38",
+      "summary": "\nIt comes hot on the heels of the Colombian's historic headline show at Coachella\nThe post Karol G announces &#8216;Viajando Por El Mundo Tropitour&#8217; world stadium tour \u2013 including huge London sh..."
     },
     {
       "title": "Billboard\u2019s Music Industry Events\u00a0Calendar",
       "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-04-20 16:51",
+      "published": "2026-04-21 17:33",
       "summary": "A complete rundown of the most important events across the music business."
     },
     {
-      "title": "Sandra Bullock and Nicole Kidman Are Still Cursed in Practical Magic 2 Trailer: Watch",
-      "link": "https://consequence.net/2026/04/practical-magic-2-trailer-nicole-kidman/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-20 16:39",
-      "summary": "The sequel, also starring Maisie Williams, Lee Pace, and Joey King, arrives in theaters this September. \nSandra Bullock and Nicole Kidman Are Still Cursed in Practical Magic 2 Trailer: Watch\nLiz Shann..."
-    },
-    {
-      "title": "Coachella weekend 2 surprise guests: best link ups and viral moments",
-      "link": "https://www.thefader.com/2026/04/20/coachella-weekend-2-surprise-guests-madonna-sza-billie-eilish",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-04-20 16:38",
-      "summary": "Coachella weekend 2 brought the heat, and the FOMO."
-    },
-    {
-      "title": "Man/Woman/Chainsaw announce long-awaited debut album \u2018Cannonball\u2019 with pulsating single \u2018Nosedive\u2019",
-      "link": "https://www.nme.com/news/music/man-woman-chainsaw-announce-long-awaited-debut-album-cannonball-with-pulsating-single-nosedive-3941447?utm_source=rss&utm_medium=rss&utm_campaign=man-woman-chainsaw-announce-long-awaited-debut-album-cannonball-with-pulsating-single-nosedive",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-04-20 16:30",
-      "summary": "\n\u201cIt's\u00a0a song about longing for both comfort and freedom simultaneously in a relationship\"\nThe post Man/Woman/Chainsaw announce long-awaited debut album &#8216;Cannonball&#8217; with pulsating single ..."
-    },
-    {
-      "title": "Fred Durst to Lil Wayne: Let\u2019s Start a \u201cGathering\u201d for Artists \u201cUninvited\u201d by Coachella and Grammys",
-      "link": "https://consequence.net/2026/04/fred-durst-lil-wayne-uninvited-gathering/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-20 16:24",
-      "summary": "The Limp Bizkit singer mentioned the idea to the rapper in an exchange on X/Twitter.\nFred Durst to Lil Wayne: Let&#8217;s Start a &#8220;Gathering&#8221; for Artists &#8220;Uninvited&#8221; by Coachel..."
-    },
-    {
-      "title": "The Strokes Condemn Decades of U.S. Imperialism and War at Coachella",
-      "link": "https://www.rollingstone.com/music/music-news/the-strokes-us-imperialism-coachella-1235550436/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-20 16:16",
-      "summary": "The band\u2019s performance of \u201cOblivius\u201d included a montage calling out U.S.-backed assassinations of foreign leaders, as well as more recent footage of destruction in Gaza and Iran"
-    },
-    {
-      "title": "Drake Surrounded by Massive Blocks of Ice for Rumored New Video",
-      "link": "https://www.xxlmag.com/drake-blocks-ice-new-music-video-set/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-04-20 16:10",
-      "summary": "nightowlsHQx/X"
-    },
-    {
-      "title": "Lorde, Geese, Turnstile, and More to Play Form Arcosanti 2026",
-      "link": "https://pitchfork.com/news/lorde-geese-turnstile-and-more-to-play-form-arcosanti-2026/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-04-20 16:08",
-      "summary": "Adrianne Lenker, Blood Orange, Kamasi Washington, and Disclosure are also performing at the Arizona festival this year"
-    },
-    {
-      "title": "Beck Wants to \u201cRide Lonesome\u201d on New Song: Stream",
-      "link": "https://consequence.net/2026/04/beck-new-song-ride-lonesome/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-20 16:04",
-      "summary": "A folksy ballad revisiting the sound of Beck's 2014 album, Morning Phase.\nBeck Wants to &#8220;Ride Lonesome&#8221; on New Song: Stream\nEddie Fu"
-    },
-    {
-      "title": "FORM Arcosanti 2026 lineup (Turnstile, Lorde, Geese, Adrianne Lenker, Blood Orange, Fcukers, more)",
-      "link": "https://www.brooklynvegan.com/form-arcosanti-2026-lineup-turnstile-lorde-geese-adrianne-lenker-blood-orange-fcukers-more/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-04-20 15:41",
-      "summary": "Plus Avalon Emerson, Kamasi Washington, keiyaA, Nourished by Time, ML Buch, Underscores, and more."
-    },
-    {
-      "title": "Ceremony share first new song in over 5 years, \u201cOther Hells\u201d",
-      "link": "https://www.brooklynvegan.com/ceremony-share-first-new-song-in-over-5-years-other-hells/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-04-20 15:16",
-      "summary": "\u201dThis is a constant theme in the work of Ceremony; beauty juxtaposed with the intensity of aggressive music, seeking to create a single, cohesive work through audible, visual, and structural elements,..."
-    },
-    {
-      "title": "FORM\u2019s 2026 Lineup Is Led by Lorde, Geese, Turnstile, Adrianne Lenker",
-      "link": "https://consequence.net/2026/04/form-2026-lineup/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-20 15:15",
-      "summary": "Blood Orange, Kamasi Washington, and Disclosure also top the Arizona festival.\nFORM&#8217;s 2026 Lineup Is Led by Lorde, Geese, Turnstile, Adrianne Lenker\nEddie Fu"
-    },
-    {
-      "title": "Ceremony Return With \u201cOther Hells,\u201d First New Song in Four Years: Stream",
-      "link": "https://consequence.net/2026/04/ceremony-other-hells/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-20 15:01",
-      "summary": "The band returns to their hardcore roots with this direct rager.\nCeremony Return With &#8220;Other Hells,&#8221; First New Song in Four Years: Stream\nLangdon Hickman"
-    },
-    {
-      "title": "System of a Down Drummer Wants Actress Jailed Over False Quote",
-      "link": "https://loudwire.com/system-of-a-down-john-dolmayan-charlize-theron-jail-gender-identity/",
+      "title": "Jason Newsted and the Chophouse Band Announce Summer 2026 Tour",
+      "link": "https://loudwire.com/jason-newsted-chophouse-band-tour-2026/",
       "source": "Loudwire",
       "category": "rock",
-      "published": "2026-04-20 15:00",
-      "summary": "Ethan Miller / Matt Winkelmeyer, Getty Images"
+      "published": "2026-04-21 17:29",
+      "summary": "Dylan Rives, Getty Images, Q Prime"
     },
     {
-      "title": "Touching Tributes to Bo Lueders Made During WrestleMania Weekend",
-      "link": "https://loudwire.com/bo-lueders-wrestlemania-cm-punk/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-04-20 14:51",
-      "summary": "HardLore via YouTube/Getty Images"
-    },
-    {
-      "title": "Ruth Garbus Readies New Album Profound",
-      "link": "https://pitchfork.com/news/ruth-garbus-readies-new-album-profound/",
-      "source": "Pitchfork",
+      "title": "KATSEYE Set to Perform on 2026 American Music\u00a0Awards",
+      "link": "https://www.billboard.com/music/awards/katseye-2026-american-music-awards-1236227930/",
+      "source": "Billboard",
       "category": "general",
-      "published": "2026-04-20 14:48",
-      "summary": "\u201cI Think I\u2019m Ready Now\u201d leads the Alive People follow-up"
+      "published": "2026-04-21 17:23",
+      "summary": "The group has three AMAs nominations this year."
     },
     {
-      "title": "How to Get Tickets for Usher and Chris Brown\u2019s 2026 Co-Headlining Tour",
-      "link": "https://consequence.net/2026/04/usher-chris-brown-how-to-get-tickets/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-20 14:43",
-      "summary": "The R&#038;B heavyweights will co-headline a 33-date stadium run across North America in 2026. Learn how to get tickets and what else to know.\nHow to Get Tickets for Usher and Chris Brown&#8217;s 2026..."
-    },
-    {
-      "title": "Steve Albini\u2019s Hard-Earned Nirvana Gold Record Is Now for Sale",
-      "link": "https://www.rollingstone.com/music/music-news/steve-albini-nirvana-in-utero-gold-record-award-sale-1235550256/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-04-20 14:40",
-      "summary": "Record label had pressured Kurt Cobain to remix famed engineer\u2019s In Utero recordings"
-    },
-    {
-      "title": "\u2018Mile End Kicks\u2019 director Chandler Levack on recreating Montreal\u2019s \u201900s music scene, working with Adam Sandler, more (BV Interviews)",
-      "link": "https://www.brooklynvegan.com/mile-end-kicks-director-chandler-levack-on-recreating-montreals-00s-music-scene-working-with-adam-sandler-more-bv-interviews/",
+      "title": "Newport Jazz Fest has Angine de Poitrine, Herbie Hancock, Thundercat, Little Simz, Flea, Coltrane & Miles tribute, Vulfpeck, more",
+      "link": "https://www.brooklynvegan.com/newport-jazz-fest-has-angine-de-poitrine-herbie-hancock-thundercat-little-simz-flea-coltrane-miles-tribute-vulfpeck-more/",
       "source": "Brooklyn Vegan",
       "category": "general",
-      "published": "2026-04-20 14:29",
-      "summary": "We talked to \u2019Mile End Kicks\u2019 director Chandler Levack on the April 20 episode of the BV Interviews podcast."
+      "published": "2026-04-21 17:18",
+      "summary": "The Newport Jazz Fest lineup also has Gary Clark Jr, Robert Glasper, Arlo Parks, jazz-electronica collective SML, The Bad Plus, more"
     },
     {
-      "title": "Erykah Badu announces Forest Hills Stadium show",
-      "link": "https://www.brooklynvegan.com/erykah-badu-announces-forest-hills-stadium-show/",
-      "source": "Brooklyn Vegan",
+      "title": "Noah Kahan Sings 2 Unreleased \u2018The Great Divide\u2019 Songs & Leaves Behind His Lexapro on \u2018Tiny\u00a0Desk\u2019",
+      "link": "https://www.billboard.com/music/music-news/noah-kahan-tiny-desk-concert-1236227872/",
+      "source": "Billboard",
       "category": "general",
-      "published": "2026-04-20 14:28",
-      "summary": "She hasn\u2019t announced a full tour, but she does currently. have a few shows lined up."
+      "published": "2026-04-21 17:13",
+      "summary": "The performance arrives just a few days ahead of the star's new album."
     },
     {
-      "title": "Fred Durst Invites Huge Rapper to Start New Musical 'Gathering'",
-      "link": "https://loudwire.com/limp-bizkit-fred-durst-lil-wayne-start-new-gathering-excluded-musicians/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-04-20 14:22",
-      "summary": "Theo Wargo, Getty Images / Paras Griffin, Getty Images"
-    },
-    {
-      "title": "Barbie Ferreira, Devon Bostick, and Chandler Levack on the Messy Indie Sleaze of Mile End Kicks: Podcast",
-      "link": "https://consequence.net/2026/04/mile-end-kicks-barbie-ferreira-devon-bostick-chandler-levack/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-04-20 14:17",
-      "summary": "Levack's indie film is set in Montreal\u2019s 2011 blog rock scene.\nBarbie Ferreira, Devon Bostick, and Chandler Levack on the Messy Indie Sleaze of Mile End Kicks: Podcast\nKyle Meredith"
-    },
-    {
-      "title": "New Pooh Shiesty Mugshot Surfaces",
-      "link": "https://www.xxlmag.com/new-pooh-shiesty-mugshot/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-04-20 14:03",
-      "summary": "Kaufman County Jail"
-    },
-    {
-      "title": "Beth Orton announces new album and tour, shares \u201cWaiting\u201d",
-      "link": "https://www.brooklynvegan.com/beth-orton-announces-new-album-and-tour-shares-waiting/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-04-20 14:00",
-      "summary": "&#8216;The Ground Above&#8217; will be out June 26 and features Nick Hakim, Tom Skinner, Shahzad Ismaily, and more"
-    },
-    {
-      "title": "Death Lens and Militarie Gun throw a house party in \u201cWaiting to Know\u201d video",
-      "link": "https://www.altpress.com/death-lens-waiting-to-know-militarie-gun-video-watch/",
+      "title": "SOFIA ISELLA joins the latest episode of AltPress: In Session",
+      "link": "https://www.altpress.com/alt-press-in-session-sofia-isella-episode/",
       "source": "Alternative Press",
       "category": "rock",
-      "published": "2026-04-20 14:00",
-      "summary": "\u201cWe made a melancholy song you can jump to,\u201d frontman Bryan Torres says."
+      "published": "2026-04-21 17:09",
+      "summary": "She opens up about her new Something is a shell . EP, her songwriting process, and how her music makes her feel exposed."
     },
     {
-      "title": "Guns N\u2019 Roses Perform Rare Sex Pistols / Runaways Song \u201cBlack Leather\u201d Live for First Time: Watch",
-      "link": "https://consequence.net/2026/04/guns-n-roses-perform-black-leather-live-first-time/",
+      "title": "Breaking Down the Viral Reparto Hit \u2018Dichavate\u2019: \u2018The Song Has\u00a0Magic\u2019",
+      "link": "https://www.billboard.com/music/latin/breaking-down-viral-reparto-song-dichavate-ya-ice-dilan-1236221748/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-21 17:08",
+      "summary": "After running nearly four months on social media, the viral track makes history as the first reparto song to reach No. 1 on a Billboard chart."
+    },
+    {
+      "title": "Signed: Massive Attack Inks Record Deal for New Music; Rising Pop Artist Tiffany Day Goes for\u00a0Broke",
+      "link": "https://www.billboard.com/lists/massive-attack-tiffany-day-record-deals-artist-signings/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-21 17:08",
+      "summary": "Other recent signings include Dylan Gossett, Purity Ring's mj, Late Night Thoughts and Mae Muller."
+    },
+    {
+      "title": "Thundercat, Angine de Poitrine to Play Newport Jazz Festival 2026",
+      "link": "https://pitchfork.com/news/thundercat-angine-de-poitrine-to-play-newport-jazz-festival-2026/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-04-21 17:02",
+      "summary": "The 72nd edition will take over Rhode Island\u2019s Fort Adams State Park from July 31 through August 2"
+    },
+    {
+      "title": "Clink, Connect & Sip \u2013 Heineken\u2019s Latest Gadget Marries Love of Music With an Ice Cold Beer for Coachella\u00a02026",
+      "link": "https://www.billboard.com/culture/product-recommendations/heineken-the-clinker-coachella-2026-1236227809/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-21 17:01",
+      "summary": "Heineken unveiled \"The Clinker,\" an innovative koozie-type tech that allows music lovers to connect with beers in hand."
+    },
+    {
+      "title": "Sentury\u2019s \u2018Forever\u2019 Completes 30-Week Journey to No. 1 on Adult R&B\u00a0Airplay",
+      "link": "https://www.billboard.com/music/chart-beat/sentury-forever-number-1-adult-rb-airplay-radio-chart-1236227813/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-21 16:52",
+      "summary": "The Houston quartet takes the top spot from Olivia Dean\u2019s \"Man I Need.\""
+    },
+    {
+      "title": "Slayer Announce Two 2026 US Shows Celebrating Reign in Blood\u2019s 40th Anniversary",
+      "link": "https://consequence.net/2026/04/slayer-shows-40th-anniversary-reign-in-blood/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-04-20 13:54",
-      "summary": "The band covered the song for its 1993 album \"The Spaghetti Incident\" but never played it live until now.\nGuns N&#8217; Roses Perform Rare Sex Pistols / Runaways Song &#8220;Black Leather&#8221; Live ..."
+      "published": "2026-04-21 16:49",
+      "summary": "The special gigs will take place in Minnesota and California.\nSlayer Announce Two 2026 US Shows Celebrating Reign in Blood&#8217;s 40th Anniversary\nLangdon Hickman"
     },
     {
-      "title": "Lambrini Girls\u2019 Phoebe Lunny shares story of harassment case after calling out \u201cdodgy\u201d male musician: \u201cThe system is there to aid and protect dangerous men\u201d",
-      "link": "https://www.nme.com/news/music/lambrini-girls-phoebe-lunny-shares-story-of-harassment-case-after-calling-out-dodgy-male-musician-the-system-is-there-to-aid-and-protect-dangerous-men-3941403?utm_source=rss&utm_medium=rss&utm_campaign=lambrini-girls-phoebe-lunny-shares-story-of-harassment-case-after-calling-out-dodgy-male-musician-the-system-is-there-to-aid-and-protect-dangerous-men",
+      "title": "Beck Rolls Out Dates For 2026 North American Ride Lonesome\u00a0Tour",
+      "link": "https://www.billboard.com/music/rock/beck-dates-2026-north-american-ride-lonesome-tour-single-1236227888/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-21 16:48",
+      "summary": "The outing is named after the singer's winsome new surprise single."
+    },
+    {
+      "title": "CBGB Festival returns with 2026 lineup",
+      "link": "https://www.altpress.com/cbgb-festival-lineup-2026/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-04-21 16:44",
+      "summary": "Patti Smith, Bikini Kill, Mannequin Pussy, and more will play the one-day event at Under the K Bridge Park in Brooklyn."
+    },
+    {
+      "title": "Karol G Readies Yearlong World Tour",
+      "link": "https://pitchfork.com/news/karol-g-readies-a-year-long-world-tour/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-04-21 16:40",
+      "summary": "The singer will bring Tropicoqueta to over 39 stadiums across North America, South America, and Europe"
+    },
+    {
+      "title": "Noah Kahan Debuts Two New \u2018Great Divide\u2019 Songs on NPR\u2019s \u2018Tiny Desk\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/noah-kahan-tiny-desk-new-great-divide-songs-1235551292/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-21 16:38",
+      "summary": "The singer-songwriter included \u201cAmerican Cars\u201d and \u201cPaid Time Off\u201d in his four-song set, which also featured an old Stick Season favorite"
+    },
+    {
+      "title": "Jack White adds more dates to North American tour",
+      "link": "https://www.brooklynvegan.com/jack-white-adds-more-dates-to-north-american-tour/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-04-21 16:38",
+      "summary": "Jack&#8217;s North American tour starts July 10 in Washington, DC"
+    },
+    {
+      "title": "How Mile End Kicks enshrined 2011 Montreal\u2019s cool indie scene",
+      "link": "https://www.thefader.com/2026/04/21/mile-end-kicks-director-chandler-levack-montreal-indie-interview",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-04-21 16:28",
+      "summary": "Mile End Kicks director Chandler Levack chats with The FADER about music criticism and 2011 Montreal feeling like \u201cthe center of the universe.\u201d"
+    },
+    {
+      "title": "Travis Barker Smooches Wife Kourtney Kardashian\u2019s Toes in Sweet Birthday Post: \u2018Love You\u00a0Forever\u2019",
+      "link": "https://www.billboard.com/music/music-news/travis-barker-kisses-kourtney-kardashian-toes-birthday-post-1236227806/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-04-21 16:19",
+      "summary": "\"I love this post and all of these pics,\" commented Kim Kardashian."
+    },
+    {
+      "title": "Show Me the Body Unleash Single \u201cDance in the USA\u201d Ahead of Spring Tour: Stream",
+      "link": "https://consequence.net/2026/04/show-me-the-body-dance-in-the-usa/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-21 16:04",
+      "summary": "Vocalist Julian Cashwann Pratt has also unveiled a new conversation series via YouTube.\nShow Me the Body Unleash Single &#8220;Dance in the USA&#8221; Ahead of Spring Tour: Stream\nLangdon Hickman"
+    },
+    {
+      "title": "Show Me the Body move through struggle on \u201cDance In The USA\u201d",
+      "link": "https://www.altpress.com/show-me-the-body-dance-in-the-usa-video-watch/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-04-21 15:42",
+      "summary": "The track teases the follow-up to 2022\u2019s Trouble the Water."
+    },
+    {
+      "title": "Yard Act tease new album, announce 2026 US summer tour",
+      "link": "https://www.brooklynvegan.com/yard-act-tease-new-album-announce-2026-us-summer-tour/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-04-21 15:36",
+      "summary": "An announcement of Yard Act&#8217;s third album is imminent"
+    },
+    {
+      "title": "Fans Make Drastic Moves on Drake\u2019s Ice Block to Find Release Date",
+      "link": "https://www.xxlmag.com/drake-ice-structure-release-date-fans/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-04-21 15:33",
+      "summary": "kingjared300/X/Andrew Lahodynskyj/Getty Images"
+    },
+    {
+      "title": "Eldest The Osmonds sibling Alan Osmond dies, aged 76: \u201cA deeply loving soul whose life blessed many\u201d",
+      "link": "https://www.nme.com/news/music/eldest-the-osmonds-sibling-alan-osmond-dies-aged-76-a-deeply-loving-soul-whose-life-blessed-many-3941708?utm_source=rss&utm_medium=rss&utm_campaign=eldest-the-osmonds-sibling-alan-osmond-dies-aged-76-a-deeply-loving-soul-whose-life-blessed-many",
       "source": "NME",
       "category": "general",
-      "published": "2026-04-20 13:42",
-      "summary": "\nThe singer shared the personal story during an appearance on 'A View From A Bridge'\nThe post Lambrini Girls&#8217; Phoebe Lunny shares story of harassment case after calling out &#8220;dodgy&#8221; m..."
+      "published": "2026-04-21 15:32",
+      "summary": "\nHis brother, Donny, paid tribute, calling him \"the one who quietly carried so much responsibility so the rest of us could shine\"\nThe post Eldest The Osmonds sibling Alan Osmond dies, aged 76: &#8220;..."
     },
     {
-      "title": "Dave Chappelle Says He May Bring Back Chappelle\u2019s Show \u2014 With Eddie Murphy\u2019s Help",
-      "link": "https://consequence.net/2026/04/dave-chappelle-chappelles-show-eddie-murphy/",
-      "source": "Consequence",
+      "title": "How Long Until Drake\u2019s Iceman Sculpture Melts? A Quantum Physicist Weighs In",
+      "link": "https://pitchfork.com/news/how-long-until-drakes-iceman-sculpture-melts-a-quantum-physicist-weighs-in/",
+      "source": "Pitchfork",
       "category": "general",
-      "published": "2026-04-20 13:31",
-      "summary": "He wants Eddie Murphy to take over for his late brother Charlie\u2019s parts.\nDave Chappelle Says He May Bring Back Chappelle&#8217;s Show &#8212; With Eddie Murphy&#8217;s Help\nAlex Young"
+      "published": "2026-04-21 15:29",
+      "summary": "Drake has hidden his new album\u2019s drop date in a massive Toronto ice sculpture. Can thermodynamics tell us more?"
     },
     {
-      "title": "BTS at MetLife Stadium: How to Get Tickets for Sold-Out New York Shows",
-      "link": "https://consequence.net/2026/04/bts-metlife-new-york-tickets/",
+      "title": "Audioslave\u2019s Out of Exile Gets Vinyl Reissue, Including First-Ever Liquid Vinyl Release",
+      "link": "https://consequence.net/2026/04/audioslave-out-of-exile-vinyl-reissue/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-04-20 13:05",
-      "summary": "If you missed your chance to buy tickets for BTS's East Rutherford shows, fret not: there are still a few ways to get in before they hit the stage.\nBTS at MetLife Stadium: How to Get Tickets for Sold-..."
+      "published": "2026-04-21 15:24",
+      "summary": "Original vinyl pressings of the band's acclaimed second LP sell for hundreds of dollars per copy.\nAudioslave&#8217;s Out of Exile Gets Vinyl Reissue, Including First-Ever Liquid Vinyl Release\nLangdon ..."
+    },
+    {
+      "title": "David Byrne Adds New 2026 Tour Dates",
+      "link": "https://consequence.net/2026/04/david-byrne-summer-2026-tour-dates/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-21 15:20",
+      "summary": "Byrne will continue his tour in support of Who Is the Sky? through August and September 2026.\nDavid Byrne Adds New 2026 Tour Dates\nPaolo Ragusa"
+    },
+    {
+      "title": "The Damned announce 50th Anniversary \u2018Final Damnation\u2019 US tour with The Flamin\u2019 Groovies",
+      "link": "https://www.brooklynvegan.com/the-damned-announce-50th-anniversary-final-damnation-us-tour-with-the-flamin-groovies/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-04-21 15:13",
+      "summary": "\u201dIt\u2019s fairly unlikely we\u2019ll undertake anything quite like this again,\u201d The Damned say"
+    },
+    {
+      "title": "Patti Smith, Morrissey Booked for CBGB Festival 2026",
+      "link": "https://pitchfork.com/news/patti-smith-morrissey-booked-for-cbgb-festival-2026/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-04-21 15:11",
+      "summary": "The one-day event returns to Brooklyn\u2019s Under the K Bridge Park on September 26"
+    },
+    {
+      "title": "Top Gun to Be Re-Released in IMAX for 40th Anniversary",
+      "link": "https://consequence.net/2026/04/top-gun-imax-40th-anniversary/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-21 15:10",
+      "summary": "The 1986 blockbuster will be paired with its sequel, Top Gun: Maverick, for a back-to-back double feature.\nTop Gun to Be Re-Released in IMAX for 40th Anniversary\nEddie Fu"
+    },
+    {
+      "title": "Karol G announces stadium tour, brought out Peso Pluma, J Balvin, Becky G, more at Coachella",
+      "link": "https://www.brooklynvegan.com/karol-g-announces-stadium-tour-brought-out-peso-pluma-j-balvin-becky-g-more-at-coachella/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-04-21 14:57",
+      "summary": "Shows begin in July and continue through 2027."
+    },
+    {
+      "title": "Beck Readies North American Tour, Shares Video for New Song",
+      "link": "https://pitchfork.com/news/beck-readies-north-american-tour-shares-video-for-new-song/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-04-21 14:53",
+      "summary": "\u201cRide Lonesome\u201d marks a reunion with producer Nigel Godrich"
+    },
+    {
+      "title": "Karol G Announces World Stadium Tour",
+      "link": "https://consequence.net/2026/04/karol-g-world-tour-viajando-por-el-mundo-tropitour/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-21 14:44",
+      "summary": "The Colombian pop star will visit North America, Latin America, and Europe over the next year and a half.\u00a0\nKarol G Announces World Stadium Tour\nScoop Harrison"
+    },
+    {
+      "title": "David Byrne adds more tour dates, including Hollywood Bowl and Forest Hills Stadium (BV presale)",
+      "link": "https://www.brooklynvegan.com/david-byrne-adds-more-tour-dates-including-hollywood-bowl-and-forest-hills-stadium-bv-presale/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-04-21 14:40",
+      "summary": "Our presale for Forest Hills Stadium runs Thursday, April 23 from 10 AM &#8211; 10 PM."
+    },
+    {
+      "title": "GEN F: Quiet Light\u2019s pop songs ebb and flow like life",
+      "link": "https://www.thefader.com/2026/04/21/quiet-light-interview-blue-angel-sparkling-silver-2-gen-f",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-04-21 14:31",
+      "summary": "The musician\u2019s free-form music has given her a record deal and career but she\u2019s not rushing things."
+    },
+    {
+      "title": "CBGB Fest 2026 lineup (Morrissey, Patti Smith, Interpol, Sex Pistols ft. Frank Carter, Bikini Kill, more)",
+      "link": "https://www.brooklynvegan.com/cbgb-fest-2026-lineup-morrissey-patti-smith-interpol-sex-pistols-ft-frank-carter-bikini-kill-more/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-04-21 14:28",
+      "summary": "Plus Circle Jerks, Agnostic Front, Buzzcocks, Mannequin Pussy, Haywire, Militarie Gun, Upchuck, and more."
+    },
+    {
+      "title": "Alan Osmond, Eldest Brother and Creative Force in the Osmonds Family Band, Dead at 76",
+      "link": "https://www.rollingstone.com/music/music-news/alan-osmond-osmond-family-band-dead-obituary-1235551156/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-04-21 14:25",
+      "summary": "Alan co-wrote many of the group's biggest hits and served as lead producer on several of their album"
+    },
+    {
+      "title": "CBGB Festival Reveals 2026 Lineup: Morrissey, Patti Smith, and Interpol",
+      "link": "https://consequence.net/2026/04/cbgb-festival-2026-lineup-morrissey-patti-smith/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-04-21 14:23",
+      "summary": "Plus, Bikini Kill, Mannequin Pussy, Buzzcocks, the Sex Pistols with Frank Carter, and more.\nCBGB Festival Reveals 2026 Lineup: Morrissey, Patti Smith, and Interpol\nPaolo Ragusa"
+    },
+    {
+      "title": "Bob Dylan adds more tour dates, playing Forest Hills Stadium with Lucinda Williams and Jimmie Vaughan",
+      "link": "https://www.brooklynvegan.com/bob-dylan-adds-more-tour-dates-playing-forest-hills-stadium-with-lucinda-williams-and-jimmie-vaughan/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-04-21 14:18",
+      "summary": "This will be Bob&#8217;s first show at Forest Hills Stadium in a decade."
+    },
+    {
+      "title": "Failure and Hayley Williams team up on \u201cThe Rising Skyline\u201d",
+      "link": "https://www.altpress.com/failure-the-rising-skyline-hayley-williams-video-watch/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-04-21 14:14",
+      "summary": "The Location Lost collab follows Williams\u2019 long admiration for the band."
+    },
+    {
+      "title": "Modest Mouse announce new album \u2018An Eraser And A Maze\u2019 with eccentric new song \u2018Picking Dragon\u2019s Pockets\u2019",
+      "link": "https://www.nme.com/news/music/modest-mouse-announce-new-album-an-eraser-and-a-maze-with-eccentric-new-song-picking-dragons-pockets-3941690?utm_source=rss&utm_medium=rss&utm_campaign=modest-mouse-announce-new-album-an-eraser-and-a-maze-with-eccentric-new-song-picking-dragons-pockets",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-04-21 14:12",
+      "summary": "\nIt marks their first album in five years, following on from 2021's 'The Golden Casket'\nThe post Modest Mouse announce new album &#8216;An Eraser And A Maze&#8217; with eccentric new song \u2018Picking Dra..."
     }
   ],
-  "last_updated": "2026-04-20T18:02:33.321914"
+  "last_updated": "2026-04-21T18:02:56.242286"
 }

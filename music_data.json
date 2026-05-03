@@ -1,6 +1,16 @@
 {
   "hiphop": [
     {
+      "name": "IT'S BEEN AWFUL",
+      "artists": "Isaiah Rashad",
+      "release_date": "2026-05-01",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f595e5f39c4050805de5caf5",
+      "spotify_url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH",
+      "apple_music_url": "https://music.apple.com/us/album/its-been-awful/1893464553?uo=4",
+      "total_tracks": 16,
+      "album_type": "album"
+    },
+    {
       "name": "They Just Ain't You",
       "artists": "Lil Tjay",
       "release_date": "2026-05-01",
@@ -31,16 +41,6 @@
       "album_type": "single"
     },
     {
-      "name": "MUTT",
-      "artists": "NAV, Quavo",
-      "release_date": "2026-05-01",
-      "image": "https://i.scdn.co/image/ab67616d0000b273420eefb933c51061bb171bad",
-      "spotify_url": "https://open.spotify.com/album/6VJdbNVxpftbKMglMUevox",
-      "apple_music_url": "https://music.apple.com/us/album/mutt-single/1895850183?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Sunset Vet",
       "artists": "Big K.R.I.T.",
       "release_date": "2026-05-01",
@@ -49,16 +49,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Sunset%20Vet%20Big%20K.R.I.T.",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "IT'S BEEN AWFUL",
-      "artists": "Isaiah Rashad",
-      "release_date": "2026-05-01",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f595e5f39c4050805de5caf5",
-      "spotify_url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH",
-      "apple_music_url": "https://music.apple.com/us/album/its-been-awful/1893464553?uo=4",
-      "total_tracks": 16,
-      "album_type": "album"
     },
     {
       "name": "babygirl",
@@ -71,22 +61,22 @@
       "album_type": "single"
     },
     {
-      "name": "POP DAT THANG (feat. GloRilla, Yung Miami & YKNIECE) [Official Remix]",
-      "artists": "DaBaby, GloRilla, YKNIECE",
-      "release_date": "2026-04-30",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733f0ab926fa320be452200ab7",
-      "spotify_url": "https://open.spotify.com/album/1FImCeC98YBvwSnoNifxCc",
-      "apple_music_url": "https://music.apple.com/us/album/pop-dat-thang-official-remix-feat-yung-miami-single/1896059242?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "BOY IN RED",
       "artists": "Isaiah Rashad, SZA",
       "release_date": "2026-04-30",
       "image": "https://i.scdn.co/image/ab67616d0000b273e64a8ce90ccb943e158478c9",
       "spotify_url": "https://open.spotify.com/album/3wL2XkG72RlS17lxbESDBX",
       "apple_music_url": "https://music.apple.com/us/search?term=BOY%20IN%20RED%20Isaiah%20Rashad",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "POP DAT THANG (feat. GloRilla, Yung Miami & YKNIECE) [Official Remix]",
+      "artists": "DaBaby, GloRilla, YKNIECE",
+      "release_date": "2026-04-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f0ab926fa320be452200ab7",
+      "spotify_url": "https://open.spotify.com/album/1FImCeC98YBvwSnoNifxCc",
+      "apple_music_url": "https://music.apple.com/us/album/pop-dat-thang-official-remix-feat-yung-miami-single/1896059242?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -161,16 +151,6 @@
       "album_type": "single"
     },
     {
-      "name": "Cheesing",
-      "artists": "Bfb Da Packman, Key Glock",
-      "release_date": "2026-04-24",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b0a65bd2718eeedb0df9beb1",
-      "spotify_url": "https://open.spotify.com/album/58lQ5r90oOtncXKvJOfIqw",
-      "apple_music_url": "https://music.apple.com/us/search?term=Cheesing%20Bfb%20Da%20Packman",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Hard to Kill (20th Anniversary Deluxe Edition)",
       "artists": "Gucci Mane",
       "release_date": "2026-04-24",
@@ -179,6 +159,16 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Hard%20to%20Kill%20Gucci%20Mane",
       "total_tracks": 18,
       "album_type": "album"
+    },
+    {
+      "name": "Cheesing",
+      "artists": "Bfb Da Packman, Key Glock",
+      "release_date": "2026-04-24",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b0a65bd2718eeedb0df9beb1",
+      "spotify_url": "https://open.spotify.com/album/58lQ5r90oOtncXKvJOfIqw",
+      "apple_music_url": "https://music.apple.com/us/search?term=Cheesing%20Bfb%20Da%20Packman",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "Pocket (feat. Cardi B)",
@@ -336,7 +326,7 @@
       "release_date": "2026-04-17",
       "image": "https://i.scdn.co/image/ab67616d0000b27348e51070062ac5cfb243de1c",
       "spotify_url": "https://open.spotify.com/album/4Yqwii1Awg1nTLcSOgL6el",
-      "apple_music_url": "https://music.apple.com/us/search?term=Rock%20Solid%20TAEYONG",
+      "apple_music_url": "https://music.apple.com/us/album/rock-solid-feat-anderson-paak-single/1891234588?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1089,66 +1079,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=girl%20music%20Ty%20Dolla%20%24ign",
       "total_tracks": 6,
       "album_type": "single"
-    },
-    {
-      "name": "bad bitch alert",
-      "artists": "Ty Dolla $ign",
-      "release_date": "2026-03-04",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a93004727d3006da7d6e0b18",
-      "spotify_url": "https://open.spotify.com/album/5uUtc6ORn7VrJIJ3Z6QqKH",
-      "apple_music_url": "https://music.apple.com/us/search?term=bad%20bitch%20alert%20Ty%20Dolla%20%24ign",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "nobody has to know (with Ronald Isley)",
-      "artists": "Ty Dolla $ign, Ronald Isley",
-      "release_date": "2026-03-04",
-      "image": "https://i.scdn.co/image/ab67616d0000b273887e26b8a8da2a63622f0e63",
-      "spotify_url": "https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd",
-      "apple_music_url": "https://music.apple.com/us/search?term=nobody%20has%20to%20know%20%28with%20Ronald%20Isley%29%20Ty%20Dolla%20%24ign",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "intention (with Brandy)",
-      "artists": "Ty Dolla $ign, Brandy",
-      "release_date": "2026-03-04",
-      "image": "https://i.scdn.co/image/ab67616d0000b27366f683171a1cad4a7543c11e",
-      "spotify_url": "https://open.spotify.com/album/4vQ7Xl7x3uSbtrxDsY9UbS",
-      "apple_music_url": "https://music.apple.com/us/search?term=intention%20%28with%20Brandy%29%20Ty%20Dolla%20%24ign",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "PHONY [Feat. Juicy J, Key Nyata & A$AP Ferg]",
-      "artists": "Denzel Curry, Juicy J, Key Nyata, A$AP Ferg",
-      "release_date": "2026-03-04",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737fcf511bee4f9c562b65cf2d",
-      "spotify_url": "https://open.spotify.com/album/1jc9h77MZj9mpo3rO7e3OQ",
-      "apple_music_url": "https://music.apple.com/us/search?term=PHONY%20Denzel%20Curry",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "HOOPTY [Feat. TiaCorine & Smino]",
-      "artists": "The Scythe, Denzel Curry, Smino",
-      "release_date": "2026-03-04",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735853f5a39b036bd510c93108",
-      "spotify_url": "https://open.spotify.com/album/6yEv8WgHTFKoy9ECnBeUQ0",
-      "apple_music_url": "https://music.apple.com/us/search?term=HOOPTY%20The%20Scythe",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "UP [Feat. Rich The Kid, A$AP Ferg & SadBoi]",
-      "artists": "Denzel Curry, Rich The Kid, A$AP Ferg, SadBoi",
-      "release_date": "2026-03-04",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d816a008787408a5ad0c1259",
-      "spotify_url": "https://open.spotify.com/album/1tmOxOhW1g4MHIRa42WAUL",
-      "apple_music_url": "https://music.apple.com/us/search?term=UP%20Denzel%20Curry",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -1185,12 +1115,276 @@
   ],
   "news": [
     {
-      "title": "Madonna & Anna Wintour Appear in \u2018Confessions II\u2019 Theatrical Promo Ahead of \u2018Devil Wears Prada\u00a02\u2019",
-      "link": "https://www.billboard.com/culture/tv-film/madonna-anna-wintour-confessions-promo-devil-wears-prada-2-1236237633/",
+      "title": "Laura Pausini Fulfills Her Dream of Singing \u2018Hijo de la Luna\u2019 With Ana Torroja in\u00a0Mexico",
+      "link": "https://www.billboard.com/music/latin/laura-pausini-ana-torroja-sing-hijo-de-la-luna-tour-mexico-1236237887/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-05-02 17:47",
-      "summary": "The pop icon's 15th studio album arrives on July 3."
+      "published": "2026-05-03 17:47",
+      "summary": "The Italian star had Achille Lauro as a guest at her May 2 show in Mexico City."
+    },
+    {
+      "title": "Connor Storrie Makes Surprise \u2018SNL\u2019 Cameo to Introduce Olivia Rodrigo\u2019s New Song:\u00a0Watch",
+      "link": "https://www.billboard.com/music/music-news/connor-storrie-snl-olivia-rodrigo-new-song-begged-1236237883/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-03 17:27",
+      "summary": "The Heated Rivalry star hosted the comedy show earlier in the year."
+    },
+    {
+      "title": "Nia Archives fires back at ex on fizzing single \u2018Boys In Blue\u2019 and announces new album \u2018Emotional Junglist\u2019",
+      "link": "https://www.nme.com/news/music/nia-archives-fires-back-at-ex-on-fizzing-single-boys-in-blue-and-announces-new-album-emotional-junglist-3943847?utm_source=rss&utm_medium=rss&utm_campaign=nia-archives-fires-back-at-ex-on-fizzing-single-boys-in-blue-and-announces-new-album-emotional-junglist",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-03 17:02",
+      "summary": "\nThe follow-up to her 2024 debut 'Silence Is Loud' will feature appearances from Jorja Smith and Sampha\nThe post Nia Archives fires back at ex on fizzing single &#8216;Boys In Blue&#8217; and announce..."
+    },
+    {
+      "title": "\u2018This Is Very Different From the Sphere\u2019: Eagles\u2019 Full Setlist for 2026 New Orleans Jazz\u00a0Fest",
+      "link": "https://www.billboard.com/lists/eagles-jazz-fest-2026-setlist-recap-new-orleans/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-03 16:57",
+      "summary": "The country rock vets played to a sold-out &#38; sunshiny festival crowd as they returned to the fest for the first time since 2012."
+    },
+    {
+      "title": "Shakira Brings Her Biggest Hits To Free Rio de Janeiro Show",
+      "link": "https://pitchfork.com/news/shakira-brings-her-biggest-hits-to-free-rio-de-janeiro-show/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-05-03 16:41",
+      "summary": "The artist performed for an estimated crowd of two million at the city\u2019s Copacabana Beach"
+    },
+    {
+      "title": "Shakira\u2019s \u2018Wolfpack\u2019 Takes Over Copacabana Ahead of Free Rio\u00a0Concert",
+      "link": "https://www.billboard.com/music/latin/shakira-copacabana-beach-rio-concert-wolfpack-takes-over-1236237833/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-03 16:37",
+      "summary": "Fans held a vigil at the hotel, donned costumes, and boosted local street trade."
+    },
+    {
+      "title": "Shakira Celebrates Latina Pride at the Biggest Show of Her Career in\u00a0Copacabana",
+      "link": "https://www.billboard.com/music/latin/shakira-celebrates-latina-pride-copacabana-rio-concert-1236237822/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-03 16:19",
+      "summary": "The Rio show drew approximately 2 million people on May 2."
+    },
+    {
+      "title": "Former Metallica bassist Jason Newsted reveals throat cancer battle",
+      "link": "https://www.nme.com/news/music/former-metallica-bassist-jason-newsted-reveals-throat-cancer-battle-3943843?utm_source=rss&utm_medium=rss&utm_campaign=former-metallica-bassist-jason-newsted-reveals-throat-cancer-battle",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-03 16:17",
+      "summary": "\nHe has recently been declared \"free and clear\", one year after undergoing surgery\nThe post Former Metallica bassist Jason Newsted reveals throat cancer battle appeared first on NME."
+    },
+    {
+      "title": "Shannon Larkin Says Sully Erna 'Understood' Why He Left Godsmack",
+      "link": "https://loudwire.com/no-hard-feelings-shannon-larkin-sully-erna-understood-why-he-left-godsmack/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-05-03 15:55",
+      "summary": "YouTube: Shannon Larkin\u2019s Inside Skinny Productions / YouTube: Loudwire /  Canva"
+    },
+    {
+      "title": "Sugar roared back to life at their first show in 31 years (Webster Hall Night 1 video, pics, setlist)",
+      "link": "https://www.brooklynvegan.com/sugar-roared-back-to-life-at-their-first-show-in-31-years-webster-hall-night-1-video-pics-setlist/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-05-03 15:47",
+      "summary": "&#8220;Hi we&#8217;re a band called Sugar,&#8221; Bob Mould told the packed house at Webster Hall on Saturday night, &#8220;It&#8217;s been a little bit since our last show.&#8221;"
+    },
+    {
+      "title": "Watch Olivia Rodrigo Perform New Song with Weyes Blood on SNL",
+      "link": "https://pitchfork.com/news/watch-olivia-rodrigo-debut-music-with-weyes-blood-on-snl/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-05-03 15:38",
+      "summary": "Rodrigo played double duty last night, hosting and performing alongside guests including Debbie Harry and Aziz Ansari"
+    },
+    {
+      "title": "Watch Mel B and Mel C reunite for Spice Girls\u2019 \u2018Spice Up Your Life\u2019 in Leeds",
+      "link": "https://www.nme.com/news/music/watch-mel-b-and-mel-c-reunite-for-spice-girls-spice-up-your-life-in-leeds-3943839?utm_source=rss&utm_medium=rss&utm_campaign=watch-mel-b-and-mel-c-reunite-for-spice-girls-spice-up-your-life-in-leeds",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-03 15:37",
+      "summary": "\nIt was their first time on stage together since the last Spice Girls tour in 2019\nThe post Watch Mel B and Mel C reunite for Spice Girls&#8217; &#8216;Spice Up Your Life&#8217; in Leeds appeared firs..."
+    },
+    {
+      "title": "Ex-Metallica Bassist Jason Newsted Reveals Throat Cancer Battle",
+      "link": "https://consequence.net/2026/05/jason-newsted-throat-cancer-battle/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-03 15:27",
+      "summary": "It was caught early and the metal veteran is cancer-free as of a few weeks ago.\nEx-Metallica Bassist Jason Newsted Reveals Throat Cancer Battle\nSpencer Kaufman"
+    },
+    {
+      "title": "Shakira Thrills Crowd of 2 Million With Free Concert on Brazil\u2019s Copacabana\u00a0Beach",
+      "link": "https://www.billboard.com/music/latin/shakira-copacabana-beach-rio-concert-two-million-people-1236237790/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-03 15:14",
+      "summary": "\"Life is magical,\" the Colombian superstar told the Rio crowd on May 2."
+    },
+    {
+      "title": "Ex-Turnstile Guitarist Facing Life in Prison After Attempted Murder Charge Upgraded",
+      "link": "https://www.rollingstone.com/music/music-news/ex-turnstile-guitarist-life-prison-murder-charge-upgraded-1235557033/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-05-03 14:46",
+      "summary": "Brady Ebert now charged with attempted first-degree murder, attempted second-degree murder, first-degree assault and two counts of second-degree assault following incident with singer's father"
+    },
+    {
+      "title": "Shakira Performs to 2 Million People at Copacabana Beach in Rio de Janeiro",
+      "link": "https://consequence.net/2026/05/shakira-performs-free-rio-beach-concert/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-03 14:42",
+      "summary": "She performed at the Todo Mundo no Rio\" festival, which had Madonna and Lady Gaga perform to massive crowds in prior years.\nShakira Performs to 2 Million People at Copacabana Beach in Rio de Janeiro\nT..."
+    },
+    {
+      "title": "Olivia Rodrigo\u2019s \u201cThe Unraveled Tour\u201d: How to Get Tickets",
+      "link": "https://consequence.net/2026/05/olivia-rodrigo-unraveled-tour-how-to-get-tickets/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-03 14:20",
+      "summary": "Rodrigo will support her third album with a massive world tour. Here's how you can get tickets.\nOlivia Rodrigo&#8217;s &#8220;The Unraveled Tour&#8221;: How to Get Tickets\nPaolo Ragusa"
+    },
+    {
+      "title": "Meryl Streep says Hollywood tendency to \u201cMarvel-ize\u201d characters is \u201cso boring\u201d",
+      "link": "https://www.nme.com/news/music/meryl-streep-says-hollywood-tendency-to-marvel-ize-characters-is-so-boring-3943828?utm_source=rss&utm_medium=rss&utm_campaign=meryl-streep-says-hollywood-tendency-to-marvel-ize-characters-is-so-boring",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-03 13:53",
+      "summary": "\nThe Oscar-winner said that flattening characters into either villains or heroes was uninteresting to her\nThe post Meryl Streep says Hollywood tendency to \u201cMarvel-ize\u201d characters is \u201cso boring\u201d appear..."
+    },
+    {
+      "title": "Olivia Rodrigo Performs \u201cdrop dead\u201d and \u201cbegged\u201d on SNL: Watch",
+      "link": "https://consequence.net/2026/05/olivia-rodrigo-snl-performances-highlights/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-03 13:32",
+      "summary": "The pop star pulled double duty as host and musical guest on this week's episode. Watch the highlights here.\nOlivia Rodrigo Performs &#8220;drop dead&#8221; and &#8220;begged&#8221; on SNL: Watch\nAlex..."
+    },
+    {
+      "title": "Jason Newsted Celebrates 'Free and Clear' Cancer Update",
+      "link": "https://loudwire.com/jason-newsted-free-and-clear-cancer-clear-headed-lifestyle/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-05-03 13:17",
+      "summary": "Jason Koerner, Getty Images"
+    },
+    {
+      "title": "Foo Fighters were forced to rename their new album over \u2018Wicked: For Good\u2019 conflict, Dave Grohl reveals",
+      "link": "https://www.nme.com/news/music/foo-fighters-were-forced-to-rename-their-new-album-over-wicked-for-good-conflict-dave-grohl-reveals-3943820?utm_source=rss&utm_medium=rss&utm_campaign=foo-fighters-were-forced-to-rename-their-new-album-over-wicked-for-good-conflict-dave-grohl-reveals",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-03 13:07",
+      "summary": "\n\"I was so pissed\"\nThe post Foo Fighters were forced to rename their new album over \u2018Wicked: For Good\u2019 conflict, Dave Grohl reveals appeared first on NME."
+    },
+    {
+      "title": "Trump claims his dancing sent \u201cgay national anthem\u201d \u2018Y.M.C.A\u2019 to Number One in charts for months",
+      "link": "https://www.nme.com/news/music/trump-claims-his-dancing-sent-gay-national-anthem-y-m-c-a-to-number-one-in-charts-for-months-3943808?utm_source=rss&utm_medium=rss&utm_campaign=trump-claims-his-dancing-sent-gay-national-anthem-y-m-c-a-to-number-one-in-charts-for-months",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-03 12:25",
+      "summary": "\nThe track only spent six weeks at the top spot following its repeated use at his rallies\nThe post Trump claims his dancing sent \u201cgay national anthem\u201d \u2018Y.M.C.A\u2019 to Number One in charts for months appe..."
+    },
+    {
+      "title": "Anne Hathaway talks Jack Antonoff music collaboration for new film \u2018Mother Mary\u2019",
+      "link": "https://www.nme.com/news/music/anne-hathaway-talks-jack-antonoff-music-collaboration-for-new-film-mother-mary-3943776?utm_source=rss&utm_medium=rss&utm_campaign=anne-hathaway-talks-jack-antonoff-music-collaboration-for-new-film-mother-mary",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-03 10:26",
+      "summary": "\nThe new thriller sees Hathaway play a pop star and perform original music written by Charli XCX\nThe post Anne Hathaway talks Jack Antonoff music collaboration for new film &#8216;Mother Mary&#8217; a..."
+    },
+    {
+      "title": "Barbie Ferreira claims she starred in a scrapped Beyonc\u00e9 music video that will \u201cnever come out\u2019",
+      "link": "https://www.nme.com/news/music/barbie-ferreira-claims-she-starred-in-a-scrapped-beyonce-music-video-that-will-never-come-out-3943758?utm_source=rss&utm_medium=rss&utm_campaign=barbie-ferreira-claims-she-starred-in-a-scrapped-beyonce-music-video-that-will-never-come-out",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-03 09:29",
+      "summary": "\nThe former \u2018Euphoria\u2019 star said Shygirl, Carmen Electra and Megan Thee Stallion also featured in the axed visuals for \u2018Thique'\nThe post Barbie Ferreira claims she starred in a scrapped Beyonc\u00e9 music ..."
+    },
+    {
+      "title": "Watch Olivia Dean and Sam Fender celebrate nine weeks at UK Number One with surprise live performance of \u2018Rein Me In\u2019",
+      "link": "https://www.nme.com/news/music/watch-olivia-dean-and-sam-fender-celebrate-nine-weeks-at-uk-number-one-with-surprise-live-performance-of-rein-me-in-3943750?utm_source=rss&utm_medium=rss&utm_campaign=watch-olivia-dean-and-sam-fender-celebrate-nine-weeks-at-uk-number-one-with-surprise-live-performance-of-rein-me-in",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-03 09:17",
+      "summary": "\nThey recently picked up the BRIT Award for Song Of The Year for their collaborative rendition of the track\nThe post Watch Olivia Dean and Sam Fender celebrate nine weeks at UK Number One with surpris..."
+    },
+    {
+      "title": "Barry Manilow postpones Las Vegas residency shows amid cancer recovery",
+      "link": "https://www.nme.com/news/music/barry-manilow-postpones-las-vegas-residency-shows-amid-cancer-recovery-3943733?utm_source=rss&utm_medium=rss&utm_campaign=barry-manilow-postpones-las-vegas-residency-shows-amid-cancer-recovery",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-03 08:20",
+      "summary": "\nThe singer told fans that he's \"making great progress\" and expects to return to the stage soon for his upcoming UK tour\nThe post Barry Manilow postpones Las Vegas residency shows amid cancer recovery..."
+    },
+    {
+      "title": "ARIA Hall of Fame 2026 Inductees Revealed as Awards Mark 40th\u00a0Anniversary",
+      "link": "https://www.billboard.com/music/awards/aria-hall-of-fame-2026-inductees-1236237787/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-03 06:55",
+      "summary": "ARIA CEO Annabelle Herd said that the inductees \"represent the depth, diversity and enduring influence of Australian music across generations.\""
+    },
+    {
+      "title": "Debbie Harry Makes \u2018SNL\u2019 Cameo to Introduce Olivia Rodrigo\u2019s \u2018drop dead\u2019\u00a0Performance",
+      "link": "https://www.billboard.com/culture/tv-film/debbie-harry-snl-cameo-olivia-rodrigo-1236237766/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-03 06:35",
+      "summary": "Harry's appearance was one of several surprise cameos on the night."
+    },
+    {
+      "title": "\u2018SNL\u2019: Watch Olivia Rodrigo Perform \u2018Drop Dead,\u2019 \u2018Begged\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/snl-watch-olivia-rodrigo-perform-drop-dead-begged-new-album-1235556878/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-05-03 06:11",
+      "summary": "Both are from the singer-songwriter's upcoming third studio album, You Seem Pretty Sad for a Girl So in Love"
+    },
+    {
+      "title": "Olivia Rodrigo Performs New Track \u2018begged\u2019 in \u2018SNL\u2019 Hosting\u00a0Debut",
+      "link": "https://www.billboard.com/culture/tv-film/olivia-rodrigo-debuts-begging-snl-1236237765/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-03 05:48",
+      "summary": "Connor Storrie introduced Rodrigo's performance of \"begged,\" a previously unreleased track from her forthcoming album."
+    },
+    {
+      "title": "A Vinyl Update For Trying Times",
+      "link": "https://www.youtube.com/watch?v=opw8r0duFqA",
+      "source": "The Needle Drop",
+      "category": "general",
+      "published": "2026-05-03 05:16",
+      "summary": "Our Patreon: https://www.patreon.com/theneedledrop\n\nAlbums getting added to Anthony's collection:\nBoko Yout - Gusto\nNaughty by Nature - The Naughtiest\nHillbillies in Hell: Wake Me Up! Brimstone and Be..."
+    },
+    {
+      "title": "Aziz Ansari Plays Kash Patel on SNL: \u201cI\u2019m the First Indian Person to Suck At Their Job\u201d",
+      "link": "https://consequence.net/2026/05/aziz-ansari-kash-patel-snl/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-03 04:08",
+      "summary": "Ansari joined SNL's cinematic universe of characters portraying the Trump administration, appearing as the FBI Director in this week's cold open.\nAziz Ansari Plays Kash Patel on SNL: &#8220;I&#8217;m ..."
+    },
+    {
+      "title": "Gracie Abrams Announces New Song \u2018Hit the\u00a0Wall\u2019",
+      "link": "https://www.billboard.com/music/music-news/gracie-abrams-hit-the-wall-song-release-date-1236237728/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-03 00:53",
+      "summary": "\"Hit the Wall\" will be Abrams' first new release post-The Secret of Us era."
+    },
+    {
+      "title": "Why is this in my collection \ud83d\ude33",
+      "link": "https://www.youtube.com/shorts/LvMnyE2l_dI",
+      "source": "The Needle Drop",
+      "category": "general",
+      "published": "2026-05-02 22:30",
+      "summary": "#music #vinyl #recordcollection"
     },
     {
       "title": "Barry Manilow Again Postpones Las Vegas Shows, Making \u2018Great Progress\u2019 After Lung Cancer Battle",
@@ -1201,14 +1395,6 @@
       "summary": "\"All the training and exercising I\u2019ve put in is paying off,\" singer wrote. \"[The doctor] did say, however, that I\u2019m not quite ready for Vegas\""
     },
     {
-      "title": "Every Song That Topped the UK Chart for 8 or More Weeks, But Didn\u2019t Make the Top 10 on the Hot\u00a0100",
-      "link": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-02 16:58",
-      "summary": "\"Rein Me In\u201d by Sam Fender and Olivia Dean is now in its ninth week at No. 1 in the U.K., but it\u2019s been slower breaking through on the Hot 100."
-    },
-    {
       "title": "BTS at Stanford Stadium: How to Get Last-Minute Tickets",
       "link": "https://consequence.net/2026/05/bts-at-stanford-stadium-how-to-get-last-minute-tickets/",
       "source": "Consequence",
@@ -1217,28 +1403,12 @@
       "summary": "BTS is playing Stanford Stadium in the Bay Area \u2014 May 16th, 17th, and 19th, 2026 \u2014 as part of the \"ARIRANG World Tour.\" Learn how to get last minute tickets.\nBTS at Stanford Stadium: How to Get Last-M..."
     },
     {
-      "title": "Olivia Rodrigo on \u2018SNL\u2019: How to Watch the Pop Star Host and Perform as Music Guest Live Online for\u00a0Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/olivia-rodrigo-saturday-night-live-watch-livestream-free-1236234206/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-02 14:53",
-      "summary": "The singer-songwriter hosts and performs as musical guest on May 2."
-    },
-    {
       "title": "Kid Rock Rides Apache Helicopter with Pete Hegseth in Video to Open New Tour",
       "link": "https://consequence.net/2026/05/kid-rock-rides-apache-helicopter-with-pete-hegseth-in-video-to-open-kid-rocks-new-tour/",
       "source": "Consequence",
       "category": "general",
       "published": "2026-05-02 14:44",
       "summary": "The Secretary of War gives Kid Rock a joyride and shows off his tattoos .\nKid Rock Rides Apache Helicopter with Pete Hegseth in Video to Open New Tour\nAlex Young"
-    },
-    {
-      "title": "Marc Anthony Brings Stars to the Golf Course for Maestro Cares & More Uplifting Moments in Latin\u00a0Music",
-      "link": "https://www.billboard.com/music/latin/marc-anthony-maestro-cares-uplifting-moments-in-latin-music-1236237470/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-02 14:00",
-      "summary": "Plus, Los Tigres del Norte support St. Jude; BRESH expands in U.S. and Julieta Venegas discusses her new memoir and album Norte\u00f1a."
     },
     {
       "title": "Tim Heidecker Debuts New InfoWars: \u201cI Am Wearing His Skin\u201d",
@@ -1257,94 +1427,6 @@
       "summary": "\"The truth is, I promised y\u2019all beautiful people new music, and I don\u2019t have the time to finish it before tour starts,\" singer says after canceling first six shows"
     },
     {
-      "title": "\u2018Saturday Night Live UK\u2019: Where to Watch the British Version of the Sketch Comedy Show\u00a0Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-02 13:00",
-      "summary": "SNL UK has Aimee Lou Wood as host and MEEK as musical guest."
-    },
-    {
-      "title": "Ice Spice stars in Wendy\u2019s ad following viral McDonald\u2019s fight video",
-      "link": "https://www.nme.com/news/music/ice-spice-stars-in-wendys-ad-following-viral-mcdonalds-fight-video-3943705?utm_source=rss&utm_medium=rss&utm_campaign=ice-spice-stars-in-wendys-ad-following-viral-mcdonalds-fight-video",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-02 10:29",
-      "summary": "\nShe famously worked at Wendy's before her rap career took off\nThe post Ice Spice stars in Wendy&#8217;s ad following viral McDonald&#8217;s fight video appeared first on NME."
-    },
-    {
-      "title": "Billie Eilish fans are moshing at cinema screenings for new concert film",
-      "link": "https://www.nme.com/news/music/billie-eilish-fans-are-moshing-at-cinema-screenings-for-new-concert-film-3943697?utm_source=rss&utm_medium=rss&utm_campaign=billie-eilish-fans-are-moshing-at-cinema-screenings-for-new-concert-film",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-02 10:28",
-      "summary": "\n\"I'm sorry to the theatres,\" Eilish joked at the London premiere\nThe post Billie Eilish fans are moshing at cinema screenings for new concert film appeared first on NME."
-    },
-    {
-      "title": "Charli XCX shares studio footage making new song \u2018Rock Music\u2019 \u201cthat\u2019s not actually rock music\u201d",
-      "link": "https://www.nme.com/news/music/charli-xcx-shares-studio-footage-making-new-song-rock-music-thats-not-actually-rock-music-3943679?utm_source=rss&utm_medium=rss&utm_campaign=charli-xcx-shares-studio-footage-making-new-song-rock-music-thats-not-actually-rock-music",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-02 09:23",
-      "summary": "\n\"I never said i was making a rock album\"\nThe post Charli XCX shares studio footage making new song &#8216;Rock Music&#8217; &#8220;that&#8217;s not actually rock music&#8221; appeared first on NME."
-    },
-    {
-      "title": "Post Malone cancels start of \u2018Big Ass Stadium\u2019 tour with Jelly Roll: \u201cWe ain\u2019t ready for tour just yet\u201d",
-      "link": "https://www.nme.com/news/music/post-malone-cancels-start-of-big-ass-stadium-tour-with-jelly-roll-we-aint-ready-for-tour-just-yet-3943677?utm_source=rss&utm_medium=rss&utm_campaign=post-malone-cancels-start-of-big-ass-stadium-tour-with-jelly-roll-we-aint-ready-for-tour-just-yet",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-02 09:22",
-      "summary": "\n\"The truth is, I promised y\u2019all beautiful people new music, and I don\u2019t have the time to finish it before tour starts\"\nThe post Post Malone cancels start of \u2018Big Ass Stadium\u2019 tour with Jelly Roll: &#..."
-    },
-    {
-      "title": "Ex-Turnstile guitarist Brady Ebert facing life in prison following new charge",
-      "link": "https://www.nme.com/news/music/ex-turnstile-guitarist-brady-ebert-facing-life-in-prison-following-new-charge-3943658?utm_source=rss&utm_medium=rss&utm_campaign=ex-turnstile-guitarist-brady-ebert-facing-life-in-prison-following-new-charge",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-02 08:39",
-      "summary": "\nHe was arrested in March after allegedly running over his ex-bandmate Brendan Yates\u2019 father, William, with his car\nThe post Ex-Turnstile guitarist Brady Ebert facing life in prison following new char..."
-    },
-    {
-      "title": "Dave Grohl says his boozy vocal regimen was \u201call a lie\u201d",
-      "link": "https://www.nme.com/news/music/dave-grohl-says-his-boozy-vocal-regimen-was-all-a-lie-3943663?utm_source=rss&utm_medium=rss&utm_campaign=dave-grohl-says-his-boozy-vocal-regimen-was-all-a-lie",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-02 08:19",
-      "summary": "\n\"I\u2019ve been working on this scream for 30 years now\"\nThe post Dave Grohl says his boozy vocal regimen was &#8220;all a lie&#8221; appeared first on NME."
-    },
-    {
-      "title": "Zayn Malik cancels US tour and cuts UK dates following hospitalisation",
-      "link": "https://www.nme.com/news/music/zayn-malik-cancels-us-tour-and-cuts-uk-dates-following-hospitalisation-3943644?utm_source=rss&utm_medium=rss&utm_campaign=zayn-malik-cancels-us-tour-and-cuts-uk-dates-following-hospitalisation",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-02 07:39",
-      "summary": "\nMalik was due to begin his biggest-ever solo tour later this month, and told fans he hopes to be \"better and stronger than ever before\" as he recovers\nThe post Zayn Malik cancels US tour and cuts UK ..."
-    },
-    {
-      "title": "Post Malone Delays Start of \u2018Big Ass Stadium Tour\u2019 With Jelly Roll to Finish New\u00a0Album",
-      "link": "https://www.billboard.com/music/music-news/post-malone-delays-big-ass-stadium-tour-jelly-roll-1236237615/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-02 07:17",
-      "summary": "\"I came to the realization that what we\u2019re trying to do, and what\u2019s possible, isn\u2019t really lining up,\u201d he wrote."
-    },
-    {
-      "title": "Barry Manilow Postpones May Las Vegas Shows Amid Cancer\u00a0Recovery",
-      "link": "https://www.billboard.com/music/music-news/barry-manilow-postpones-residency-dates-1236237606/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-02 05:36",
-      "summary": "The postponement is the latest in a series of delays since Manilow revealed his Stage 1 lung cancer diagnosis in December 2025."
-    },
-    {
-      "title": "Record Store Day 2026\u2019s Top Sellers: Taylor Swift, Pink Floyd, Bruno Mars &\u00a0More",
-      "link": "https://www.billboard.com/music/chart-beat/record-store-day-2026-charts-1236237603/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-02 03:38",
-      "summary": "More than 350 titles were released for Record Store Day 2026, exclusively sold via independent record stores."
-    },
-    {
       "title": "THIS OR THAT: albums that're 10 now",
       "link": "https://www.youtube.com/shorts/8zVqvbXYO0U",
       "source": "The Needle Drop",
@@ -1359,22 +1441,6 @@
       "category": "general",
       "published": "2026-05-02 02:17",
       "summary": "Malone says it's so he can finish his next album, though several of the impacted shows had struggled to sell tickets.\nPost Malone Postpones Start of Stadium Tour with Jelly Roll, Cancels Several Dates..."
-    },
-    {
-      "title": "Ice Spice Stars in Spicy Wendy\u2019s Ad Following McDonald\u2019s Scuffle:\u00a0Watch",
-      "link": "https://www.billboard.com/music/rb-hip-hop/ice-spice-spicy-chicken-sandwich-wendys-mcondalds-1236237531/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-02 01:15",
-      "summary": "\"Spice recognize spice,\" the Bronx rapper says."
-    },
-    {
-      "title": "\u2018ONE PIECE CHOPPER\u2019s Vol. 1\u2019 Debuts at No. 1 on Billboard Japan Book Hot\u00a0100",
-      "link": "https://www.billboard.com/music/chart-beat/one-piece-choppers-vol-1-number-1-billboard-japan-book-hot-100-1236237570/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-02 00:28",
-      "summary": "The title is the debut volume of CHOPPER's, a spinoff project centered on the character Chopper from Eiichiro Oda's ONE PIECE."
     },
     {
       "title": "Pras Michel Begins 14-Year Prison Sentence for Money Laundering",
@@ -1447,143 +1513,7 @@
       "category": "general",
       "published": "2026-05-01 21:15",
       "summary": "Hear new songs by Hannah Cohen, Floating Points, OSEES&#8217; John Dwyer, corook, Ziggy Marley ft Big Boi, and more"
-    },
-    {
-      "title": "James Broadnax Executed After Failed Petitions From Travis Scott, Young Thug",
-      "link": "https://pitchfork.com/news/james-broadnax-executed-after-failed-petitions-from-travis-scott-young-thug/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-05-01 20:41",
-      "summary": "Broadnax\u2019s longstanding murder case had become a cause c\u00e9l\u00e8bre in ongoing debates over the use of rap lyrics in court"
-    },
-    {
-      "title": "Oscars Change Rules to Keep AI Out of the Acting and Writing Categories",
-      "link": "https://consequence.net/2026/05/oscars-rules-change-ban-ai-acting-writing/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-01 20:30",
-      "summary": "Actors can now be nominated multiple times in the same category, per an update from the Academy of Motion Picture Arts and Sciences. \nOscars Change Rules to Keep AI Out of the Acting and Writing Categ..."
-    },
-    {
-      "title": "Drug Church, White Reaper, Spy & Public Opinion played Warsaw (pics, video)",
-      "link": "https://www.brooklynvegan.com/drug-church-white-reaper-spy-public-opinion-played-warsaw-pics-video/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-05-01 20:26",
-      "summary": "Drug Church and White Reaper\u2019s co-headlining tour hit Brooklyn on Thursday night."
-    },
-    {
-      "title": "Prog Band The Dear Hunter Cover Hall & Oates\u2019 \u201cManeater\u201d on the Spot: Watch",
-      "link": "https://consequence.net/2026/05/the-dear-hunter-hall-oates-maneater-on-the-spot/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-01 20:15",
-      "summary": "The cover sees the band transform the pop classic into their atmospheric, textural style as part of the ongoing Musora series.\nProg Band The Dear Hunter Cover Hall &amp; Oates&#8217; &#8220;Maneater&#..."
-    },
-    {
-      "title": "See exclusive BTS photos from Skrilla's new album 'Z\u2019",
-      "link": "https://www.thefader.com/2026/05/01/skrilla-major-label-debut-z-exclusive-photos",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-05-01 20:07",
-      "summary": "An inside look at the sessions and inspirations behind the Philly rapper\u2019s latest album."
-    },
-    {
-      "title": "Foo Fighters played Irving Plaza (pics, video, setlist)",
-      "link": "https://www.brooklynvegan.com/foo-fighters-played-irving-plaza-pics-video-setlist/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-05-01 20:04",
-      "summary": "It was their first of a pair of last-minute, intimate NYC-area shows."
-    },
-    {
-      "title": "King Ultramega Cover Chris Cornell\u2019s \u201cDead Wishes\u201d with Mastodon\u2019s Brann Dailor on Lead Vocals: Stream",
-      "link": "https://consequence.net/2026/05/chris-cornell-king-ultramega-dead-wishes-brann-dailor/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-01 19:53",
-      "summary": "The song is part of a series of Cornell tribute songs by the all-star collective.\nKing Ultramega Cover Chris Cornell&#8217;s &#8220;Dead Wishes&#8221; with Mastodon&#8217;s Brann Dailor on Lead Vocals..."
-    },
-    {
-      "title": "Mr. Fantasy\u2019s Star-Studded \u2018Do Me Right\u2019 Video Doubles as a \u2018Riverdale\u2019 Reunion",
-      "link": "https://www.rollingstone.com/music/music-news/mr-fantasy-do-me-right-video-riverdale-cast-1235556694/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-05-01 19:52",
-      "summary": "Lili Reinhart, Camila Mendes, and Madelaine Petsch are among the long list of guest appearances"
-    },
-    {
-      "title": "AP A-sides: 10 songs you need to hear",
-      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-may-1-2026/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-05-01 19:51",
-      "summary": "Our favorite new songs, updated weekly."
-    },
-    {
-      "title": "Heavy Song of the Week: Loathe Fuse the Arthouse and the Accessible on \u201cRevenant\u201d",
-      "link": "https://consequence.net/2026/05/heavy-song-of-the-week-loathe-revenant/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-01 19:38",
-      "summary": "Loathe showcase how forward-thinking innovation, emotional force and popular accessibility are not necessarily opposites with their new single \"Revenant.\"\nHeavy Song of the Week: Loathe Fuse the Artho..."
-    },
-    {
-      "title": "Ex-Turnstile Guitarist Brady Ebert Facing Life in Prison After Indictment on Upgraded Charge",
-      "link": "https://consequence.net/2026/05/ex-turnstile-guitarist-brady-ebert-facing-life-in-prison/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-01 19:17",
-      "summary": "A new first-degree attempted murder charge can lead to life imprisonment.\nEx-Turnstile Guitarist Brady Ebert Facing Life in Prison After Indictment on Upgraded Charge\nSpencer Kaufman"
-    },
-    {
-      "title": "Quiet Light\u2019s liminal bedroom pop",
-      "link": "https://www.altpress.com/quiet-light-blue-angel-sparkling-silver-2-interview/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-05-01 19:04",
-      "summary": "Riya Mahesh opens up about her Blue Angel Sparkling Silver 2 mixtape, skirting burnout, and David Lynch."
-    },
-    {
-      "title": "Zara Larsson\u2019s \u201cSaturn\u2019s Return\u201d remix is ambient heaven",
-      "link": "https://www.thefader.com/2026/05/01/zara-larsson-saturns-return-girls-trip-remix-malibu-helena-gao-review",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-05-01 18:55",
-      "summary": "A never ending midnight sound bath."
-    },
-    {
-      "title": "Foo Fighters Put On a World-Class Underplay at New York\u2019s Irving Plaza: Recap + Photos",
-      "link": "https://consequence.net/2026/05/foo-fighters-nyc-irving-plaza-recap-photos/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-01 18:40",
-      "summary": "With crowd surfers galore and a whole lot of energy, Foo Fighters brought deep cuts and celebrated Your Favorite Toy during their intimate NYC club show.\nFoo Fighters Put On a World-Class Underplay at..."
-    },
-    {
-      "title": "Eyedress launches label & skate collective Psychedelic Industries with new song \u2018Stoner Olympics\u2019",
-      "link": "https://www.brooklynvegan.com/eyedress-launches-label-skate-collective-psychedelic-industries-with-new-song-stoner-olympics/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-05-01 18:26",
-      "summary": "\u201d\u2019Stoner Olympics\u2019 is really all about sharing and being generous,\u201d he says. Watch the guest-filled video."
-    },
-    {
-      "title": "North West gives SoundCloud rap an intense update on N0rth4evr",
-      "link": "https://www.thefader.com/2026/05/01/north-west-n0rth4evr-review-rage-digicore-nu-metal",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-05-01 17:55",
-      "summary": "The 12-year-old\u2019s debut EP is a post-digicore bonanza with touches of rage and nu-metal."
-    },
-    {
-      "title": "Inside Lip Critic\u2019s Theft Saga boxing ring show",
-      "link": "https://www.altpress.com/lip-critic-theft-saga-boxing-ring-show-photos-2026/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-05-01 17:46",
-      "summary": "Their third studio album, Theft World, is out now via Partisan, with more tour dates ahead."
     }
   ],
-  "last_updated": "2026-05-02T17:48:09.557160"
+  "last_updated": "2026-05-03T17:52:03.267774"
 }

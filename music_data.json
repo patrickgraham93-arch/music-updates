@@ -1,16 +1,6 @@
 {
   "hiphop": [
     {
-      "name": "GEEKIN (feat. Lil Yachty)",
-      "artists": "Nemzzz, Lil Yachty",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736e1bbf0d594da7124f8d0707",
-      "spotify_url": "https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG",
-      "apple_music_url": "https://music.apple.com/us/search?term=GEEKIN%20Nemzzz",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "PLANET FROG",
       "artists": "Action Bronson",
       "release_date": "2026-05-08",
@@ -31,6 +21,16 @@
       "album_type": "single"
     },
     {
+      "name": "GEEKIN (feat. Lil Yachty)",
+      "artists": "Nemzzz, Lil Yachty",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e1bbf0d594da7124f8d0707",
+      "spotify_url": "https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG",
+      "apple_music_url": "https://music.apple.com/us/search?term=GEEKIN%20Nemzzz",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "POP DAT THANG (David Guetta Mix)",
       "artists": "DaBaby, David Guetta",
       "release_date": "2026-05-08",
@@ -38,26 +38,6 @@
       "spotify_url": "https://open.spotify.com/album/7rtul2MGOdXBk485Ua18L6",
       "apple_music_url": "https://music.apple.com/us/search?term=POP%20DAT%20THANG%20%28David%20Guetta%20Mix%29%20DaBaby",
       "total_tracks": 2,
-      "album_type": "single"
-    },
-    {
-      "name": "Alicia (with Lil Baby)",
-      "artists": "Hotboii, Lil Baby",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b27304e75ac819c2ee51774fff6e",
-      "spotify_url": "https://open.spotify.com/album/1miVPmKXGnxetl1HF4MXvU",
-      "apple_music_url": "https://music.apple.com/us/search?term=Alicia%20%28with%20Lil%20Baby%29%20Hotboii",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Bed of Roses (with Wale)",
-      "artists": "Teyana Taylor, Wale",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f05036d93f29cbfb67013948",
-      "spotify_url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3",
-      "apple_music_url": "https://music.apple.com/us/album/bed-of-roses-single/1896005623?uo=4",
-      "total_tracks": 1,
       "album_type": "single"
     },
     {
@@ -71,12 +51,52 @@
       "album_type": "single"
     },
     {
+      "name": "Alicia (with Lil Baby)",
+      "artists": "Hotboii, Lil Baby",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304e75ac819c2ee51774fff6e",
+      "spotify_url": "https://open.spotify.com/album/1miVPmKXGnxetl1HF4MXvU",
+      "apple_music_url": "https://music.apple.com/us/search?term=Alicia%20%28with%20Lil%20Baby%29%20Hotboii",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Aftertaste (from Original Motion Picture Soundtrack K-POPS!)",
+      "artists": "DEAN, Anderson .Paak",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b27369f8c4e4f81e890c948c0efa",
+      "spotify_url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd",
+      "apple_music_url": "https://music.apple.com/us/album/aftertaste-from-original-motion-picture-soundtrack/6766316765?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Smoking pt. 2",
       "artists": "French Montana, Max B, Rick Ross",
       "release_date": "2026-05-08",
       "image": "https://i.scdn.co/image/ab67616d0000b273484dba1d9e9eaee69e47d051",
       "spotify_url": "https://open.spotify.com/album/6NsTk0mMFPriN6n1NVfRwd",
       "apple_music_url": "https://music.apple.com/us/album/smoking-pt-2-single/6766534761?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Dedicated to Cadalee Biarritz (Deluxe)",
+      "artists": "Big K.R.I.T.",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b273971f0dbdb62b9c677e82f335",
+      "spotify_url": "https://open.spotify.com/album/0TDEs54q2V22zVPgkkAZp1",
+      "apple_music_url": "https://music.apple.com/us/search?term=Dedicated%20to%20Cadalee%20Biarritz%20%28Deluxe%29%20Big%20K.R.I.T.",
+      "total_tracks": 25,
+      "album_type": "album"
+    },
+    {
+      "name": "Bed of Roses (with Wale)",
+      "artists": "Teyana Taylor, Wale",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f05036d93f29cbfb67013948",
+      "spotify_url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3",
+      "apple_music_url": "https://music.apple.com/us/album/bed-of-roses-single/1896005623?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -101,32 +121,12 @@
       "album_type": "single"
     },
     {
-      "name": "Dedicated to Cadalee Biarritz (Deluxe)",
-      "artists": "Big K.R.I.T.",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b273971f0dbdb62b9c677e82f335",
-      "spotify_url": "https://open.spotify.com/album/0TDEs54q2V22zVPgkkAZp1",
-      "apple_music_url": "https://music.apple.com/us/search?term=Dedicated%20to%20Cadalee%20Biarritz%20%28Deluxe%29%20Big%20K.R.I.T.",
-      "total_tracks": 25,
-      "album_type": "album"
-    },
-    {
       "name": "The Main Line",
       "artists": "38 Spesh, Method Man",
       "release_date": "2026-05-08",
       "image": "https://i.scdn.co/image/ab67616d0000b27339ed46737c808339920fd327",
       "spotify_url": "https://open.spotify.com/album/6yiijYl2UNga7ot3hJkADu",
       "apple_music_url": "https://music.apple.com/us/search?term=The%20Main%20Line%2038%20Spesh",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Aftertaste (from Original Motion Picture Soundtrack K-POPS!)",
-      "artists": "DEAN, Anderson .Paak",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b27369f8c4e4f81e890c948c0efa",
-      "spotify_url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd",
-      "apple_music_url": "https://music.apple.com/us/album/aftertaste-from-original-motion-picture-soundtrack/6766316765?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -201,22 +201,22 @@
       "album_type": "single"
     },
     {
-      "name": "babygirl",
-      "artists": "JPEGMAFIA",
-      "release_date": "2026-04-30",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738165237ed8dd82547fbf2e49",
-      "spotify_url": "https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL",
-      "apple_music_url": "https://music.apple.com/us/search?term=babygirl%20JPEGMAFIA",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "BOY IN RED",
       "artists": "Isaiah Rashad, SZA",
       "release_date": "2026-04-30",
       "image": "https://i.scdn.co/image/ab67616d0000b273e64a8ce90ccb943e158478c9",
       "spotify_url": "https://open.spotify.com/album/3wL2XkG72RlS17lxbESDBX",
       "apple_music_url": "https://music.apple.com/us/search?term=BOY%20IN%20RED%20Isaiah%20Rashad",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "babygirl",
+      "artists": "JPEGMAFIA",
+      "release_date": "2026-04-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738165237ed8dd82547fbf2e49",
+      "spotify_url": "https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL",
+      "apple_music_url": "https://music.apple.com/us/search?term=babygirl%20JPEGMAFIA",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -241,16 +241,6 @@
       "album_type": "single"
     },
     {
-      "name": "Roofless Records For Drop Tops: Disc 2",
-      "artists": "Curren$y, Wiz Khalifa, Harry Fraud",
-      "release_date": "2026-04-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ac26ec4a8d8358c76824d03",
-      "spotify_url": "https://open.spotify.com/album/7A6d4aereF1Qy7HrtuohpW",
-      "apple_music_url": "https://music.apple.com/us/search?term=Roofless%20Records%20For%20Drop%20Tops%3A%20Disc%202%20Curren%24y",
-      "total_tracks": 8,
-      "album_type": "album"
-    },
-    {
       "name": "IT'S OK",
       "artists": "Bryson Tiller",
       "release_date": "2026-04-28",
@@ -259,6 +249,16 @@
       "apple_music_url": "https://music.apple.com/us/search?term=IT%27S%20OK%20Bryson%20Tiller",
       "total_tracks": 1,
       "album_type": "single"
+    },
+    {
+      "name": "Roofless Records For Drop Tops: Disc 2",
+      "artists": "Curren$y, Wiz Khalifa, Harry Fraud",
+      "release_date": "2026-04-28",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ac26ec4a8d8358c76824d03",
+      "spotify_url": "https://open.spotify.com/album/7A6d4aereF1Qy7HrtuohpW",
+      "apple_music_url": "https://music.apple.com/us/search?term=Roofless%20Records%20For%20Drop%20Tops%3A%20Disc%202%20Curren%24y",
+      "total_tracks": 8,
+      "album_type": "album"
     },
     {
       "name": "Blackberry Marmalade",
@@ -536,7 +536,7 @@
       "release_date": "2026-04-10",
       "image": "https://i.scdn.co/image/ab67616d0000b273206e8a5b9b1777386fab64b5",
       "spotify_url": "https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d",
-      "apple_music_url": "https://music.apple.com/us/album/same-sh-t-single/1891835119?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=SAME%20SH%21T%20Isaiah%20Rashad",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1148,7 +1148,7 @@
       "release_date": "2026-05-07",
       "image": "https://i.scdn.co/image/ab67616d0000b273ed3fde1048b49a896ceb1fdc",
       "spotify_url": "https://open.spotify.com/album/3FQ7iNikcCjaEdbm4pByre",
-      "apple_music_url": "https://music.apple.com/us/album/trying-times-a-colors-show-single/1895832124?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Trying%20Times%20-%20A%20COLORS%20SHOW%20James%20Blake",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1178,7 +1178,7 @@
       "release_date": "2026-03-13",
       "image": "https://i.scdn.co/image/ab67616d0000b273884dd01508605dca727d8993",
       "spotify_url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc",
-      "apple_music_url": "https://music.apple.com/us/album/trying-times/1880811313?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Trying%20Times%20James%20Blake",
       "total_tracks": 13,
       "album_type": "album"
     },
@@ -1195,12 +1195,276 @@
   ],
   "news": [
     {
-      "title": "Poppy\u2019s Rockville set shut down one minute into performance due to extreme weather",
-      "link": "https://www.nme.com/news/music/poppys-rockville-set-shut-down-one-minute-into-performance-due-to-extreme-weather-3944720?utm_source=rss&utm_medium=rss&utm_campaign=poppys-rockville-set-shut-down-one-minute-into-performance-due-to-extreme-weather",
+      "title": "EJAE, Hayley Kiyoko, Bowen Yang & More Celebrate Asian Pacific & Multicultural Leaders at 2026 Gold\u00a0Gala",
+      "link": "https://www.billboard.com/music/awards/gold-gala-2026-photos-ejae-hayley-kiyoko-bowen-yang-1236243798/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-10 17:54",
+      "summary": "The annual event returned to Los Angeles for its fifth edition on May 9."
+    },
+    {
+      "title": "6,500 counterfeit vinyl records seized by police in UK raid",
+      "link": "https://www.nme.com/news/music/6500-counterfeit-vinyl-records-seized-by-police-in-uk-raid-3944794?utm_source=rss&utm_medium=rss&utm_campaign=6500-counterfeit-vinyl-records-seized-by-police-in-uk-raid",
       "source": "NME",
       "category": "general",
-      "published": "2026-05-09 17:27",
-      "summary": "\nFans were evacuated from the Daytona Beach, Florida site due to an incoming thunderstorm\nThe post Poppy&#8217;s Rockville set shut down one minute into performance due to extreme weather appeared fir..."
+      "published": "2026-05-10 16:37",
+      "summary": "\nThe records are thought to have a combined retail value of over \u00a3250,000\nThe post 6,500 counterfeit vinyl records seized by police in UK raid appeared first on NME."
+    },
+    {
+      "title": "RHCP Sell Recorded Music Catalog for a Staggering Amount of Money",
+      "link": "https://loudwire.com/red-hot-chili-peppers-sell-music-warner-music-group-staggering-amount-money/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-05-10 16:19",
+      "summary": "Scott Dudelson/Getty Images for FIREAID / Anton Zacon, iStock/Getty Images Plus"
+    },
+    {
+      "title": "Charli XCX Drops New Song \u201cI Keep On Thinking Bout You Every Single Day and Night\u201d",
+      "link": "https://pitchfork.com/news/charli-xcx-drops-new-song-i-keep-on-thinking-bout-you-every-single-day-and-night/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-05-10 16:18",
+      "summary": "The track, which is only available on vinyl and the singer\u2019s Instagram, is the B-side to \u201cRock Music\u201d"
+    },
+    {
+      "title": "Dua Lipa Sues Samsung for $15 Million Over Unauthorized Use of Image on TV Boxes",
+      "link": "https://www.rollingstone.com/music/music-news/dua-lipa-samsung-lawsuit-unauthorized-use-image-tv-boxes-1235560333/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-05-10 16:02",
+      "summary": "Singer's complaint accuses electronics company of \"copyright infringement, trademark infringement, and violation of her right of publicity\" after ACL Fest backstage photo appears on television boxes"
+    },
+    {
+      "title": "Two men stabbed at Birmingham dance music event as police launch investigation",
+      "link": "https://www.nme.com/news/music/two-men-stabbed-at-birmingham-dance-music-event-as-police-launch-investigation-3944790?utm_source=rss&utm_medium=rss&utm_campaign=two-men-stabbed-at-birmingham-dance-music-event-as-police-launch-investigation",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-10 16:00",
+      "summary": "\nThe incident happened at the 'Cru2' drum'n'bass night in Digbeth on Saturday night \nThe post Two men stabbed at Birmingham dance music event as police launch investigation appeared first on NME."
+    },
+    {
+      "title": "Dua Lipa files $15million lawsuit against Samsung for using her face to sell TVs",
+      "link": "https://www.nme.com/news/music/dua-lipa-files-15million-lawsuit-against-samsung-for-using-her-face-to-sell-tvs-3944775?utm_source=rss&utm_medium=rss&utm_campaign=dua-lipa-files-15million-lawsuit-against-samsung-for-using-her-face-to-sell-tvs",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-10 15:32",
+      "summary": "\nThe pop star is alleging that Samsung used a photo of her on some products, making it seem as if she endorsed them \nThe post Dua Lipa files $15million lawsuit against Samsung for using her face to se..."
+    },
+    {
+      "title": "Red Hot Chili Peppers sell music catalogue to Warner Music Group for $300m",
+      "link": "https://www.nme.com/news/music/red-hot-chili-peppers-sell-music-catalogue-to-warner-music-group-for-300m-3944786?utm_source=rss&utm_medium=rss&utm_campaign=red-hot-chili-peppers-sell-music-catalogue-to-warner-music-group-for-300m",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-10 15:31",
+      "summary": "\nThe band have been signed with the label since 1991's 'Blood Sugar Sex Magik'\nThe post Red Hot Chili Peppers sell music catalogue to Warner Music Group for $300m appeared first on NME."
+    },
+    {
+      "title": "'We\u2019re Back, Baby!' - Greta Van Fleet Share New Song Snippet",
+      "link": "https://loudwire.com/greta-van-fleet-breakup-rumor-new-song-snippet/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-05-10 14:34",
+      "summary": "Per Ole Hagen, Redferns / YouTube: @darrenfortner59 / Canva / Befunky"
+    },
+    {
+      "title": "Here\u2019s Where to Watch 2026 WNBA Games\u00a0Online",
+      "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-wnba-games-stream-live-no-cable-free-1235673620/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-10 14:30",
+      "summary": "The WNBA is back in action with a new season of women's pro basketball -- watch games for free."
+    },
+    {
+      "title": "Phoebe Bridgers Premieres New Music at First Solo Show Since 2023",
+      "link": "https://pitchfork.com/news/phoebe-bridgers-premieres-new-music-at-first-solo-show-since-2023/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-05-10 14:08",
+      "summary": "The artist reportedly played multiple new songs at the no-phones-allowed performance in Roswell, New Mexico"
+    },
+    {
+      "title": "Red Hot Chili Peppers Sell Recorded Music Catalog for Over $300 Million",
+      "link": "https://www.rollingstone.com/music/music-news/red-hot-chili-peppers-recorded-music-catalog-300-million-1235560319/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-05-10 14:04",
+      "summary": "Warner Music Group, the band's home since 1991's Blood Sugar Sex Magik, acquires the Peppers' catalog as part of Bain Capital joint venture"
+    },
+    {
+      "title": "Phoebe Bridgers debuted new music at surprise shows (setlists)",
+      "link": "https://www.brooklynvegan.com/phoebe-bridgers-debuted-new-music-at-surprise-shows-setlists/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-05-10 13:59",
+      "summary": "The last-minute shows happened in Roswell, New Mexico and Lubbock, Texas, both places connected with extraterrestrial lore."
+    },
+    {
+      "title": "Protect on the Bills, Ballhog, and Gossip Girl",
+      "link": "https://www.thefader.com/2026/05/10/protect-interview-rolling-loud-2026",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-05-10 13:52",
+      "summary": "Following the success of \u201cFall Guys\u201d and \u201cIon Wanna Talk,\u201d The FADER caught up with Buffalo, NY, rapper Protect at Rolling Loud 2026 in Orlando."
+    },
+    {
+      "title": "Tour news: Olivia Rodrigo, Hayley Williams, L7, WU LYF, The Psychedelic Furs, Four Chord Music Fest, more",
+      "link": "https://www.brooklynvegan.com/tour-news-olivia-rodrigo-hayley-williams-l7-wu-lyf-the-psychedelic-furs-four-chord-music-fest-more/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-05-10 13:42",
+      "summary": "Plus: Frankie Cosmos, and more tour and festival news"
+    },
+    {
+      "title": "Photos of 25 Rock Stars With Their Moms",
+      "link": "https://loudwire.com/rock-stars-moms-photos/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-05-10 11:00",
+      "summary": "Various, Getty Images"
+    },
+    {
+      "title": "Sleep Token surprise-release instrumental version of \u2018Even In Arcadia\u2019",
+      "link": "https://www.nme.com/news/music/sleep-token-surprise-release-instrumental-version-of-even-in-arcadia-3944781?utm_source=rss&utm_medium=rss&utm_campaign=sleep-token-surprise-release-instrumental-version-of-even-in-arcadia",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-10 10:34",
+      "summary": "\nThe album topped the charts in the UK and the US and earned the band their first Grammy nominations\nThe post Sleep Token surprise-release instrumental version of &#8216;Even In Arcadia&#8217; appeare..."
+    },
+    {
+      "title": "Janet Jackson\u2019s \u2018Rhythm Nation 1814\u2019 inducted into Grammy Hall of Fame",
+      "link": "https://www.nme.com/news/music/janet-jacksons-rhythm-nation-1814-inducted-into-grammy-hall-of-fame-3944760?utm_source=rss&utm_medium=rss&utm_campaign=janet-jacksons-rhythm-nation-1814-inducted-into-grammy-hall-of-fame",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-10 09:10",
+      "summary": "\n\"It\u2019s an ongoing force that fights bigotry and promotes understanding,\" Jackson said of her 1989 album\nThe post Janet Jackson\u2019s \u2018Rhythm Nation 1814\u2019 inducted into Grammy Hall of Fame appeared first o..."
+    },
+    {
+      "title": "Watch Noah Kahan perform \u2018The Great Divide\u2019 and \u2018Doors\u2019 on \u2018SNL\u2019",
+      "link": "https://www.nme.com/news/music/watch-noah-kahan-perform-the-great-divide-and-doors-on-snl-3944753?utm_source=rss&utm_medium=rss&utm_campaign=watch-noah-kahan-perform-the-great-divide-and-doors-on-snl",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-10 08:26",
+      "summary": "\nThe Vermont singer-songwriter's latest album was released last month\nThe post Watch Noah Kahan perform &#8216;The Great Divide&#8217; and &#8216;Doors&#8217; on &#8216;SNL&#8217; appeared first on NM..."
+    },
+    {
+      "title": "High Court rules in favour of Brockwell Park festivals following dispute from local residents",
+      "link": "https://www.nme.com/news/music/high-court-rules-in-favour-of-brockwell-park-festivals-following-dispute-from-local-residents-3944751?utm_source=rss&utm_medium=rss&utm_campaign=high-court-rules-in-favour-of-brockwell-park-festivals-following-dispute-from-local-residents",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-10 08:21",
+      "summary": "\nThe South London park is the home of Mighty Hoopla,\u00a0Wide Awake\u00a0and\u00a0Field Day\nThe post High Court rules in favour of Brockwell Park festivals following dispute from local residents appeared first on N..."
+    },
+    {
+      "title": "Father John Misty shares baroque single \u2018The Payoff\u2019 and adds London headline gig to summer 2026 tour",
+      "link": "https://www.nme.com/news/music/father-john-misty-shares-baroque-single-the-payoff-and-adds-london-headline-gig-to-summer-2026-tour-3944743?utm_source=rss&utm_medium=rss&utm_campaign=father-john-misty-shares-baroque-single-the-payoff-and-adds-london-headline-gig-to-summer-2026-tour",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-10 07:35",
+      "summary": "\nHis show at the O2 Shepherds Bush Empire in June replaces his cancelled appearance at LIDO Festival\nThe post Father John Misty shares baroque single &#8216;The Payoff&#8217; and adds London headline ..."
+    },
+    {
+      "title": "Charli XCX shares pensive new b-side \u2018I Keep On Thinking Bout You Every Single Day And Night\u2019",
+      "link": "https://www.nme.com/news/music/charli-xcx-shares-pensive-new-b-side-i-keep-on-thinking-bout-you-every-single-day-and-night-3944738?utm_source=rss&utm_medium=rss&utm_campaign=charli-xcx-shares-pensive-new-b-side-i-keep-on-thinking-bout-you-every-single-day-and-night",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-10 07:35",
+      "summary": "\nIt follows her latest single 'Rock Music'\nThe post Charli XCX shares pensive new b-side &#8216;I Keep On Thinking Bout You Every Single Day And Night&#8217; appeared first on NME."
+    },
+    {
+      "title": "\u2018SNL\u2019 Weekend Update: Tucker Carlson Rants About the Met\u00a0Gala",
+      "link": "https://www.billboard.com/culture/tv-film/snl-weekend-update-tucker-carlson-met-gala-1236243754/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-10 07:19",
+      "summary": "The former Fox News host was portrayed by featured player Jeremy Culhane."
+    },
+    {
+      "title": "\u2018SNL\u2019: Watch Noah Kahan Perform \u2018The Great Divide,\u2019 \u2018Doors\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/snl-watch-noah-kahan-perform-great-divide-doors-1235560165/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-05-10 06:52",
+      "summary": "Indie singer-songwriter performs two songs from his latest album, The Great Divide"
+    },
+    {
+      "title": "Noah Kahan Performs \u2018Doors\u2019 and \u2018The Great Divide\u2019 on \u2018SNL\u2019 in Second Musical Guest\u00a0Appearance",
+      "link": "https://www.billboard.com/culture/tv-film/noah-kahan-snl-musical-guest-host-matt-damon-1236243751/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-10 06:45",
+      "summary": "The Grammy-nominated singer-songwriter appeared on the show two weeks after releasing The Great Divide."
+    },
+    {
+      "title": "Aitana Kicks Off Her Cuarto Azul World Tour With Intimate, Emotional Show: Full\u00a0Setlist",
+      "link": "https://www.billboard.com/lists/aitana-kuarto-azul-tour-setlist-songs-almeria-spain/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-10 03:15",
+      "summary": "Here are all the songs the star performed at her inaugural concert on May 9 in Almer\u00eda, Spain."
+    },
+    {
+      "title": "Kneecap - FENIAN ALBUM REVIEW",
+      "link": "https://www.youtube.com/watch?v=RUmHk3xLZfs",
+      "source": "The Needle Drop",
+      "category": "general",
+      "published": "2026-05-09 23:44",
+      "summary": "Listen: https://kneecap.bandcamp.com/album/fenian\n\nKneecap are sounding rightfully triumphant on FENIAN.\n\nMore rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP\n\n==..."
+    },
+    {
+      "title": "Riley Green Joining \u2018The Voice\u2019 as Coach for Season\u00a030",
+      "link": "https://www.billboard.com/culture/tv-film/riley-green-the-voice-coach-season-30-1236243535/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-09 22:56",
+      "summary": "The country star will serve alongside previously announced coaches Kelly Clarkson and Adam Levine."
+    },
+    {
+      "title": "Charli xcx Releases \u2018I Keep On Thinking Bout You Every Single Day and Night\u2019 as \u2018Rock Music\u2019 Vinyl\u00a0B-Side",
+      "link": "https://www.billboard.com/music/music-news/charli-xcx-keep-on-thinking-bout-you-every-single-day-night-1236243591/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-09 22:44",
+      "summary": "There's a music video on Charli's Instagram side account, but the track is otherwise exclusive to the \"Rock Music\" 7\" single."
+    },
+    {
+      "title": "Charli XCX Doubles Down on Chaos with New Song \u201cI Keep Thinking About You Every Single Day And Night\u201d",
+      "link": "https://consequence.net/2026/05/charli-xcx-new-song-i-keep-thinking/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-09 19:31",
+      "summary": "The B-side to \"Rock Music\" is also a pivot from pop-punk snarl to club music cool.\nCharli XCX Doubles Down on Chaos with New Song &#8220;I Keep Thinking About You Every Single Day And Night&#8221;\nChr..."
+    },
+    {
+      "title": "6ix9ine Makes Shocking Comments About Girlfriend\u2019s Pregnancy at Gender Reveal\u00a0Party",
+      "link": "https://www.billboard.com/music/music-news/tekashi-6ix9ine-girlfriend-abortion-if-not-boy-1236243588/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-09 19:22",
+      "summary": "The rapper\u2019s girlfriend, Aliday Alter, revealed her pregnancy in April."
+    },
+    {
+      "title": "Noah Kahan on Phoebe Bridgers\u2019 Return: \u2018I Can\u2019t Wait for Whatever She Does Next\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/noah-kahan-response-phoebe-bridgers-return-1235560247/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-05-09 18:23",
+      "summary": "In an interview for his recent Rolling Stone cover story, the songwriter opened up about how Punisher influenced his music"
+    },
+    {
+      "title": "Charli XCX Is \u2018Thinking Bout You Every Single Day and Night\u2019 in New Song",
+      "link": "https://www.rollingstone.com/music/music-news/charli-xcx-thinking-bout-you-day-night-new-song-video-1235560252/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-05-09 18:01",
+      "summary": "The musician\u2019s \u201cI Keep on Thinking Bout You Every Single Day and Night\u201d follows \u201cRock Music\u201d and is only available via vinyl and on Instagram"
+    },
+    {
+      "title": "8 Highlights From 2026 Grammy Hall of Fame Gala: Janet Jackson, Heart, Lucinda Williams &\u00a0More",
+      "link": "https://www.billboard.com/lists/grammy-hall-of-fame-gala-2026-highlights-janet-jackson/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-09 18:01",
+      "summary": "The third annual gala was a diverse and eclectic program."
     },
     {
       "title": "Olivia Rodrigo \u2018Unraveled\u2019 Tour 2026-27: Here\u2019s Where to Get Affordable Concert Tickets\u00a0Online",
@@ -1219,92 +1483,12 @@
       "summary": "Bridgers played an intimate concert in Roswell, New Mexico.\nPhoebe Bridgers Debuts New Music at First Show in Three Years\nChris Coplan"
     },
     {
-      "title": "Slipknot\u2019s Clown needs heart surgery, says sometimes \u201cI feel like I\u2019m dying\u201d",
-      "link": "https://www.nme.com/news/music/slipknots-clown-needs-heart-surgery-says-sometimes-i-feel-like-im-dying-3944716?utm_source=rss&utm_medium=rss&utm_campaign=slipknots-clown-needs-heart-surgery-says-sometimes-i-feel-like-im-dying",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-09 16:51",
-      "summary": "\n\"It\u2019s a very easy surgery\"\nThe post Slipknot\u2019s Clown needs heart surgery, says sometimes \u201cI feel like I\u2019m dying\u201d appeared first on NME."
-    },
-    {
       "title": "Janet Jackson\u2019s \u2018Rhythm Nation\u2019 Inducted Into Grammy Hall of Fame: It \u2018Fights Bigotry and Promotes Understanding\u2019",
       "link": "https://www.rollingstone.com/music/music-news/janet-jackson-grammy-hall-fame-rhythm-nation-performances-1235560217/",
       "source": "Rolling Stone",
       "category": "general",
       "published": "2026-05-09 16:24",
       "summary": "George Clinton, Erykah Badu, Heart\u2019s Ann and Nancy Wilson, Lucinda Williams, and Taylor Hanson were among those who performed selections from inducted recordings"
-    },
-    {
-      "title": "Eric Clapton ends gig early after having object thrown at his chest",
-      "link": "https://www.nme.com/news/music/eric-clapton-ends-gig-early-after-having-object-thrown-at-his-chest-3944712?utm_source=rss&utm_medium=rss&utm_campaign=eric-clapton-ends-gig-early-after-having-object-thrown-at-his-chest",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-09 16:13",
-      "summary": "\nHe did not return for an encore after the incident in Madrid\nThe post Eric Clapton ends gig early after having object thrown at his chest appeared first on NME."
-    },
-    {
-      "title": "Liam Gallagher speaks out after he and John Squire were both spotted leaving Abbey Road Studios",
-      "link": "https://www.nme.com/news/music/liam-gallagher-speaks-out-after-he-and-john-squire-were-both-spotted-leaving-abbey-road-studios-3944708?utm_source=rss&utm_medium=rss&utm_campaign=liam-gallagher-speaks-out-after-he-and-john-squire-were-both-spotted-leaving-abbey-road-studios",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-09 15:39",
-      "summary": "\nThe Oasis frontman said he can't reveal why he was there \"for security reasons\" but has said \"it\u2019s fucking BIBLICAL\u201d\nThe post Liam Gallagher speaks out after he and John Squire were both spotted leav..."
-    },
-    {
-      "title": "Matt Damon and Noah Kahan on \u2018SNL\u2019: How to Watch the Sketch Comedy TV Series Live\u00a0Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/matt-damon-noah-kahan-snl-watch-livestream-free-1236243383/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-09 15:37",
-      "summary": "Livestream a new episode of Saturday Night Live on May 9 for free."
-    },
-    {
-      "title": "UFC 328 Livestream: Here\u2019s Where to Watch Khamzat Chimaev vs. Sean Strickland Live Online for\u00a0Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/ufc-328-chimaev-strickland-how-to-watch-mma-online-free-1236239553/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-09 14:58",
-      "summary": "Watch the entire MMA event for free, including the middleweight title bout, live on May 9."
-    },
-    {
-      "title": "Peso Pluma Speaks at First CUNY-Wide Mexican-American Graduation & More Uplifting Moments in Latin\u00a0Music",
-      "link": "https://www.billboard.com/music/latin/peso-pluma-cuny-graduation-guest-speaker-uplifting-moments-1236243438/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-09 14:54",
-      "summary": "Plus, Venezuelan singer Eduardo Gal\u00e1n opens his own art exhibition in Venice."
-    },
-    {
-      "title": "5 Highlights From Olivia Rodrigo\u2019s Invite-OnlySpotify Billions Club Live Show in Barcelona: \u2018The Most Beautiful City\u00a0Ever\u2019",
-      "link": "https://www.billboard.com/lists/olivia-rodrigo-barcelona-spotify-billions-club-live-recap/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-09 14:51",
-      "summary": "Billboard was onsite for the concert featuring Rodrigo's biggest hits ahead of the major El Cl\u00e1sico match at Spotify Camp Nou."
-    },
-    {
-      "title": "Don Toliver Brings High-\u2018Octane\u2019 & YEAT to Rolling Loud Orlando for Electric Headlining\u00a0Performance",
-      "link": "https://www.billboard.com/music/rb-hip-hop/don-toliver-rolling-loud-orlando-night-one-recap-1236243411/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-09 14:38",
-      "summary": "The Cactus Jack artist used Rolling Loud Orlando to kick off his Octane Tour."
-    },
-    {
-      "title": "At Grammy Hall of Fame Event, Aaron Bay-Schuck Recalls the Advice Mo Ostin Gave Him About Running One of the Industry\u2019s Most Respected\u00a0Labels",
-      "link": "https://www.billboard.com/pro/grammy-hall-of-fame-2026-warner-records-label-honoree/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-09 12:55",
-      "summary": "Warner artists Teddy Swims and Josh Groban each performed two songs as part of the salute."
-    },
-    {
-      "title": "\u2018Saturday Night Live UK\u2019: Where to Watch the British Sketch Comedy TV Show\u00a0Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-09 12:00",
-      "summary": "SNL UK has Hannah Waddingham as host and Myles Smith as musical guest."
     },
     {
       "title": "11 \u201870s Rock Albums That Used To Be Considered Metal",
@@ -1315,76 +1499,12 @@
       "summary": "Warner Bros. / Casablanca / Atlantic"
     },
     {
-      "title": "Boards Of Canada release trippy double A-side \u2018 \u2018Introit\u2019 and \u2018Prophecy At 1420 MHz\u2019",
-      "link": "https://www.nme.com/news/music/boards-of-canada-release-trippy-double-a-side-introit-and-prophecy-at-1420-mhz-3944701?utm_source=rss&utm_medium=rss&utm_campaign=boards-of-canada-release-trippy-double-a-side-introit-and-prophecy-at-1420-mhz",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-09 10:34",
-      "summary": "\nThe duo will release 'Inferno', their first album in 13 years, later this month\nThe post Boards Of Canada release trippy double A-side &#8216; &#8216;Introit&#8217; and &#8216;Prophecy At 1420 MHz&#8..."
-    },
-    {
-      "title": "Mick Jagger reveals he\u2019s been a fan of Zara Larsson since 2018",
-      "link": "https://www.nme.com/news/music/mick-jagger-reveals-hes-been-a-fan-of-zara-larsson-since-2018-3944687?utm_source=rss&utm_medium=rss&utm_campaign=mick-jagger-reveals-hes-been-a-fan-of-zara-larsson-since-2018",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-09 10:30",
-      "summary": "\n\u201cMy son said, \u2018Zara Larsson\u2019s having a comeback.\u2019 I said, \u2018But she never went away for me'\"\nThe post Mick Jagger reveals he&#8217;s been a fan of Zara Larsson since 2018 appeared first on NME."
-    },
-    {
       "title": "You Could Win a Trip to New Orleans to See Bruno Mars in Concert",
       "link": "https://www.xxlmag.com/bruno-mars-new-orleans/",
       "source": "XXL Mag",
       "category": "hiphop",
       "published": "2026-05-09 10:00",
       "summary": "Atlantic"
-    },
-    {
-      "title": "Watch No Doubt play rarities and fan favourites as they kick off their Las Vegas Sphere residency \u2013 check out the full setlist",
-      "link": "https://www.nme.com/news/music/watch-no-doubt-play-rarities-and-fan-favourites-as-they-kick-off-their-las-vegas-sphere-residency-check-out-the-full-setlist-3944683?utm_source=rss&utm_medium=rss&utm_campaign=watch-no-doubt-play-rarities-and-fan-favourites-as-they-kick-off-their-las-vegas-sphere-residency-check-out-the-full-setlist",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-09 09:32",
-      "summary": "\nIt was their first show in two years and the opening of an 18-night run at the venue\nThe post Watch No Doubt play rarities and fan favourites as they kick off their Las Vegas Sphere residency \u2013 check..."
-    },
-    {
-      "title": "Watch Dua Lipa join Tame Impala in London to perform \u2018Houdini\u2019 at The O2",
-      "link": "https://www.nme.com/news/music/watch-dua-lipa-join-tame-impala-in-london-to-perform-houdini-at-the-o2-3944678?utm_source=rss&utm_medium=rss&utm_campaign=watch-dua-lipa-join-tame-impala-in-london-to-perform-houdini-at-the-o2",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-09 09:23",
-      "summary": "\nKevin Parker served as producer for much of Lipa's 2024 album 'Radical Optimism'\nThe post Watch Dua Lipa join Tame Impala in London to perform \u2018Houdini\u2019 at The O2 appeared first on NME."
-    },
-    {
-      "title": "Katy Perry, Future, Lisa, Tyla, and more to headline US World Cup opening ceremony",
-      "link": "https://www.nme.com/news/music/katy-perry-future-lisa-tyla-and-more-to-headline-us-world-cup-opening-ceremony-3944665?utm_source=rss&utm_medium=rss&utm_campaign=katy-perry-future-lisa-tyla-and-more-to-headline-us-world-cup-opening-ceremony",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-09 08:41",
-      "summary": "\nMore celebrations will be held in Mexico and Toronto \u2013 marking the first time FIFA has featured multiple opening ceremonies across different countries for a single tournament\nThe post Katy Perry, Fut..."
-    },
-    {
-      "title": "The Rolling Stones\u2019 new album \u2018Foreign Tongues\u2019 also features an Amy Winehouse cover",
-      "link": "https://www.nme.com/news/music/the-rolling-stones-new-album-foreign-tongues-also-features-an-amy-winehouse-cover-3944671?utm_source=rss&utm_medium=rss&utm_campaign=the-rolling-stones-new-album-foreign-tongues-also-features-an-amy-winehouse-cover",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-09 08:40",
-      "summary": "\nThe two artists performed 'Ain't Too Proud To Beg' together at the 2007 Isle Of Wight Festival\nThe post The Rolling Stones&#8217; new album &#8216;Foreign Tongues&#8217; also features an Amy Winehous..."
-    },
-    {
-      "title": "Dua Lipa Makes Surprise Appearance at Tame Impala\u2019s London O2\u00a0Show",
-      "link": "https://www.billboard.com/music/concerts/dua-lipa-surprise-appearance-tame-impala-london-1236243418/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-09 06:57",
-      "summary": "\"Let's play a song that we made together!\" he announced, before the pair broke into Lipa's 2024 hit \"Houdini\""
-    },
-    {
-      "title": "Joey Valence & Brae Turn \u2018Security\u2019 Into Dance-Rap Chaos on \u2018Like A\u00a0Version\u2019",
-      "link": "https://www.billboard.com/music/music-news/joey-valence-brae-like-a-version-1236243408/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-09 05:19",
-      "summary": "Their Like A Version appearance arrived during the Australian leg of the HYPERYOUTH World Tour."
     },
     {
       "title": "Katy Perry, Future, Lisa, Tyla, and More to Headline U.S. World Cup Opening Ceremony",
@@ -1473,127 +1593,7 @@
       "category": "general",
       "published": "2026-05-08 21:15",
       "summary": "Great new tracks from Aldous Harding, Deante' Hitchcock, ear, Vundabar, RIP Magic, and more.\u00a0\nStaff Picks: Best Songs of the Week May 2nd \u2013 May 8th\nKelly Darroch"
-    },
-    {
-      "title": "20 New Songs Out Today",
-      "link": "https://www.brooklynvegan.com/20-new-songs-out-today-87/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-05-08 21:01",
-      "summary": "Hear new songs by Porches, Kesha, Allison Russell, ear, The Last Dinner Party, Navy Blue, Bodega, and more."
-    },
-    {
-      "title": "Young Thug Claims Rich Homie Quan Was to Testify Before His Death",
-      "link": "https://www.xxlmag.com/young-thug-rich-homie-quan-testify-before-death/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-05-08 20:39",
-      "summary": "Thaddaeus McAdams/Aaron J. Thornton/Prince Williams/Getty Images (3)"
-    },
-    {
-      "title": "Psychedelic Furs Cancel Spring and Summer 2026 Tours Due to \u201cSerious Medical Issue\u201d",
-      "link": "https://consequence.net/2026/05/psychedelic-furs-cancel-2026-tours-serious-medical-issue/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-08 20:29",
-      "summary": "The new wave legends had just announced a tour with Living Colour.\nPsychedelic Furs Cancel Spring and Summer 2026 Tours Due to &#8220;Serious Medical Issue&#8221;\nSpencer Kaufman"
-    },
-    {
-      "title": "Muna Announce 2026 Tour",
-      "link": "https://pitchfork.com/news/muna-announce-2026-tour/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-05-08 20:13",
-      "summary": "A sprawling run of shows across the U.S., UK, and Europe supports the trio\u2019s new album, Dancing on the Wall"
-    },
-    {
-      "title": "AP A-sides: 10 songs you need to hear",
-      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-may-8-2026/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-05-08 19:10",
-      "summary": "Our favorite new songs, updated weekly."
-    },
-    {
-      "title": "Here\u2019s how to stream Rolling Loud Orlando 2026",
-      "link": "https://www.thefader.com/2026/05/08/heres-how-to-stream-rolling-loud-orlando-2026",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-05-08 19:08",
-      "summary": "Watch on Twitch, Prime Video, and the Amazon Music app."
-    },
-    {
-      "title": "Debbie Harry and Pamela Anderson to Play Mother and Daughter in Indie Comedy Maitreya",
-      "link": "https://consequence.net/2026/05/debbie-harry-pamela-anderson-maitreya/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-08 19:06",
-      "summary": "The in-the-works film is written by The Whale's Samuel D. Hunting and directed by comedy maestro Jonathan Krisel. \nDebbie Harry and Pamela Anderson to Play Mother and Daughter in Indie Comedy Maitreya..."
-    },
-    {
-      "title": "Trial Date Set for Man Accused of Stealing Hard Drives Containing Unreleased Beyonc\u00e9 Music",
-      "link": "https://www.rollingstone.com/music/music-news/unreleased-beyonce-music-stolen-theft-case-heads-to-trial-1235559867/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-05-08 19:06",
-      "summary": "Kelvin Evans, who pleaded not guilty to theft charges, is accused of lifting hard drives containing singer's music and tour plans from a rental car in Atlanta last summer"
-    },
-    {
-      "title": "MUNA announce tour with hemlocke springs, share \u201cEastside Girls\u201d video",
-      "link": "https://www.brooklynvegan.com/muna-announce-tour-with-hemlocke-springs-share-eastside-girls-video/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-05-08 19:01",
-      "summary": "Their new album \u2019Dancing on the Wall\u2019\u00a0is out today."
-    },
-    {
-      "title": "The Oasis Reunion Tour Doc Is Coming to Theaters But No Longer Has a Title",
-      "link": "https://pitchfork.com/news/oasis-reunion-concert-documentary-theaters-disney-plus-hulu/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-05-08 19:00",
-      "summary": "It arrives in cinemas September 11"
-    },
-    {
-      "title": "Alanis Morissette, Katy Perry, Future to Perform at FIFA World Cup Opening Ceremonies",
-      "link": "https://consequence.net/2026/05/fifa-world-cup-opening-ceremonies-performances-alanis-morissette-katy-perry-future/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-08 18:43",
-      "summary": "Plus, additional performances from Michael Bubl\u00e9, Lisa, Tyla, Alessia Cara, and Man\u00e1 at opening games in Mexico, Canada, and the United States.\nAlanis Morissette, Katy Perry, Future to Perform at FIFA..."
-    },
-    {
-      "title": "Sleep Token Surprise Release Even in Arcadia Instrumental Album: Stream",
-      "link": "https://consequence.net/2026/05/sleep-token-even-in-arcadia-instrumental/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-08 18:25",
-      "summary": "The digital version is available for streaming now with the vinyl LP arriving August 7th.\nSleep Token Surprise Release Even in Arcadia Instrumental Album: Stream\nLangdon Hickman"
-    },
-    {
-      "title": "Dua Lipa Brings \u2018Radical Optimism\u2019 to Tame Impala\u2019s London Show",
-      "link": "https://www.rollingstone.com/music/music-news/dua-lipa-tame-impala-perform-london-show-1235559778/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-05-08 18:05",
-      "summary": "The pop star came out to sing \"Houdini\" and Tame Impala's \"After Thought\" on Thursday night"
-    },
-    {
-      "title": "Heavy Song of the Week: Darkthrone Unite Badass Metal and Cerebral Prog on \u201cThey Found One of My Graves\u201d",
-      "link": "https://consequence.net/2026/05/heavy-song-of-the-week-darkthrone-they-found-one-of-my-graves/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-08 18:03",
-      "summary": "Darkthrone find the common ground between the metallic fun of Motorhead and the progressive phantasia of Hawkwind on \"They Found One of My Graves.\"\nHeavy Song of the Week: Darkthrone Unite Badass Meta..."
-    },
-    {
-      "title": "Foolio Murder Suspect Starts Arguing at Trial, Removed in Cuffs",
-      "link": "https://www.xxlmag.com/foolio-murder-suspect-removed-trial-handcuffs/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-05-08 17:51",
-      "summary": "Law&amp;Crime Trials/YouTube/Julio Folio/YouTube/"
     }
   ],
-  "last_updated": "2026-05-09T17:55:24.890753"
+  "last_updated": "2026-05-10T17:56:42.991669"
 }

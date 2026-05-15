@@ -31,36 +31,6 @@
       "album_type": "album"
     },
     {
-      "name": "MAID OF HONOUR",
-      "artists": "Drake",
-      "release_date": "2026-05-15",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f512aace13a844ea3a2427fa",
-      "spotify_url": "https://open.spotify.com/album/1gVm3KpC3Mf4mvARQR36lH",
-      "apple_music_url": "https://music.apple.com/us/album/maid-of-honour/6769648970?uo=4",
-      "total_tracks": 14,
-      "album_type": "album"
-    },
-    {
-      "name": "ICEMAN",
-      "artists": "Drake",
-      "release_date": "2026-05-15",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-      "spotify_url": "https://open.spotify.com/album/55HAHT4BN3wHSqr4NFMRfm",
-      "apple_music_url": "https://music.apple.com/us/album/iceman/6769649287?uo=4",
-      "total_tracks": 18,
-      "album_type": "album"
-    },
-    {
-      "name": "HABIBTI",
-      "artists": "Drake",
-      "release_date": "2026-05-15",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bb0ef065b3eecc5f1c9ab26b",
-      "spotify_url": "https://open.spotify.com/album/57od8OD4RYQiCe9jKKiUCW",
-      "apple_music_url": "https://music.apple.com/us/album/habibti/6769647917?uo=4",
-      "total_tracks": 11,
-      "album_type": "album"
-    },
-    {
       "name": "HABIBTI",
       "artists": "Drake",
       "release_date": "2026-05-15",
@@ -69,6 +39,16 @@
       "apple_music_url": "https://music.apple.com/us/album/habibti/6769647917?uo=4",
       "total_tracks": 11,
       "album_type": "album"
+    },
+    {
+      "name": "Spin On Who (Remix)",
+      "artists": "Mig Arogan, Fivio Foreign, Lucii, MC LUUKY",
+      "release_date": "2026-05-15",
+      "image": "https://i.scdn.co/image/ab67616d0000b273087da42b265688b6dae52070",
+      "spotify_url": "https://open.spotify.com/album/1cWyF3a9FkEVO0cGmWMXzR",
+      "apple_music_url": "https://music.apple.com/us/search?term=Spin%20On%20Who%20%28Remix%29%20Mig%20Arogan",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "UP & AWAY!",
@@ -148,16 +128,6 @@
       "spotify_url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL",
       "apple_music_url": "https://music.apple.com/us/album/ashin-the-blunt-single/1895960623?uo=4",
       "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "POP DAT THANG (David Guetta Mix)",
-      "artists": "DaBaby, David Guetta",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ac67fb1301bd452b255b1948",
-      "spotify_url": "https://open.spotify.com/album/7rtul2MGOdXBk485Ua18L6",
-      "apple_music_url": "https://music.apple.com/us/search?term=POP%20DAT%20THANG%20%28David%20Guetta%20Mix%29%20DaBaby",
-      "total_tracks": 2,
       "album_type": "single"
     },
     {
@@ -261,6 +231,16 @@
       "album_type": "single"
     },
     {
+      "name": "GEEKIN (feat. Lil Yachty)",
+      "artists": "Nemzzz, Lil Yachty",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b27322c1ed233b0cf05345c29844",
+      "spotify_url": "https://open.spotify.com/album/3p3rk95jqISXQf26v9cz3u",
+      "apple_music_url": "https://music.apple.com/us/search?term=GEEKIN%20Nemzzz",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "MR HIM",
       "artists": "T.I.",
       "release_date": "2026-05-07",
@@ -347,16 +327,6 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e64a8ce90ccb943e158478c9",
       "spotify_url": "https://open.spotify.com/album/3wL2XkG72RlS17lxbESDBX",
       "apple_music_url": "https://music.apple.com/us/search?term=BOY%20IN%20RED%20Isaiah%20Rashad",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "POP DAT THANG (feat. GloRilla, Yung Miami & YKNIECE) [Official Remix]",
-      "artists": "DaBaby, GloRilla, YKNIECE",
-      "release_date": "2026-04-30",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733f0ab926fa320be452200ab7",
-      "spotify_url": "https://open.spotify.com/album/1FImCeC98YBvwSnoNifxCc",
-      "apple_music_url": "https://music.apple.com/us/album/pop-dat-thang-official-remix-feat-yung-miami-single/1896059242?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -626,7 +596,7 @@
       "release_date": "2026-04-17",
       "image": "https://i.scdn.co/image/ab67616d0000b27348e51070062ac5cfb243de1c",
       "spotify_url": "https://open.spotify.com/album/4Yqwii1Awg1nTLcSOgL6el",
-      "apple_music_url": "https://music.apple.com/us/search?term=Rock%20Solid%20TAEYONG",
+      "apple_music_url": "https://music.apple.com/us/album/rock-solid-feat-anderson-paak-single/1891234588?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1225,405 +1195,405 @@
   ],
   "news": [
     {
-      "title": "The Strokes Send Off Stephen Colbert With Late Night \u2018Falling Out of Love\u2019 Performance:\u00a0Watch",
-      "link": "https://www.billboard.com/music/rock/the-strokes-stephen-colbert-falling-out-of-love-performance-1236248921/",
+      "title": "Every Time Taylor Swift Has Ever Referenced Cars in Her\u00a0Lyrics",
+      "link": "https://www.billboard.com/lists/taylor-swift-car-lyrics-mentions-cars-songs/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-05-15 08:45",
-      "summary": "The NYC indie rockers set the tempo to cool for their \"Late Show\" premiere."
+      "published": "2026-05-15 18:11",
+      "summary": "Fasten your seatbelts."
     },
     {
-      "title": "The Avalanches get nostalgic on joyous new single \u2018Together\u2019 featuring Nikki Nair, Jessy Lanza, and Prentiss",
-      "link": "https://www.nme.com/news/music/the-avalanches-get-nostalgic-on-joyous-new-single-together-featuring-nikki-nair-jessy-lanza-and-prentiss-3945564?utm_source=rss&utm_medium=rss&utm_campaign=the-avalanches-get-nostalgic-on-joyous-new-single-together-featuring-nikki-nair-jessy-lanza-and-prentiss",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-15 08:44",
-      "summary": "\nThe Melbourne group have not released new music since 2020's 'We Will Always Love You'\nThe post The Avalanches get nostalgic on joyous new single &#8216;Together&#8217; featuring Nikki Nair, Jessy La..."
-    },
-    {
-      "title": "Salem surprise release new album \u2018Red Dragon\u2019",
-      "link": "https://www.nme.com/news/music/salem-surprise-release-new-album-red-dragon-3945563?utm_source=rss&utm_medium=rss&utm_campaign=salem-surprise-release-new-album-red-dragon",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-15 08:40",
-      "summary": "\nThe record comes in at nearly two-hours long, and seemingly features vocals from former member Heather Marlatt\nThe post Salem surprise release new album &#8216;Red Dragon\u2019 appeared first on NME."
-    },
-    {
-      "title": "Release date revealed for Green Day\u2019s movie \u2018Nimrods\u2019",
-      "link": "https://www.nme.com/news/music/release-date-revealed-for-green-days-movie-nimrods-3945558?utm_source=rss&utm_medium=rss&utm_campaign=release-date-revealed-for-green-days-movie-nimrods",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-15 08:07",
-      "summary": "\nIt follows three friends who embark on a road trip in the mistaken belief that they have secured a Green Day support slot at a New Year\u2019s Eve show\nThe post Release date revealed for Green Day&#8217;s..."
-    },
-    {
-      "title": "Ella Langley\u2019s \u2018Choosin\u2019 Texas\u2019 Rides to No. 1 on ARIA\u00a0Chart",
-      "link": "https://www.billboard.com/music/chart-beat/ella-langley-choosin-texas-no-1-aria-chart-1236248885/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-15 07:35",
-      "summary": "Ella Langley\u2019s \u201cChoosin\u2019 Texas\u201d which ascends to the summit some six months after its release."
-    },
-    {
-      "title": "The Strokes guitarist Nick Valensi to take \u201ctemporary break\u201d from band\u2019s 2026 world tour",
-      "link": "https://www.nme.com/news/music/the-strokes-guitarist-nick-valensi-to-take-temporary-break-from-bands-2026-world-tour-3945551?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-guitarist-nick-valensi-to-take-temporary-break-from-bands-2026-world-tour",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-15 07:18",
-      "summary": "\nFilling in for him will be Longwave guitarist Steve Schiltz, a friend from the band's early days in New York\nThe post The Strokes guitarist Nick Valensi to take &#8220;temporary break&#8221; from ban..."
-    },
-    {
-      "title": "Future, Revelations & Revenge: Everything That Happened in Drake\u2019s \u2018Iceman\u2019 Episode 4\u00a0Livestream",
-      "link": "https://www.billboard.com/music/rb-hip-hop/drake-iceman-episode-4-livestream-recap-1236248778/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-15 06:48",
-      "summary": "In addition to Iceman, Drake dropped two more albums titled Habibti and Maid of Honour on Friday (May 15)."
-    },
-    {
-      "title": "Watch de-aged deepfake The Rolling Stones in video for new single \u2018In The Stars\u2019",
-      "link": "https://www.nme.com/news/music/watch-de-aged-deepfake-the-rolling-stones-in-video-for-new-single-in-the-stars-3945535?utm_source=rss&utm_medium=rss&utm_campaign=watch-de-aged-deepfake-the-rolling-stones-in-video-for-new-single-in-the-stars",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-15 06:35",
-      "summary": "\nThe video also features 'Marty Supreme's Odessa A'zion, who has described it as \"my dream\"\nThe post Watch de-aged deepfake The Rolling Stones in video for new single &#8216;In The Stars&#8217; appear..."
-    },
-    {
-      "title": "Madonna Taps Peggy Gou for Buoyant \u2018I Feel So Free\u2019 Remix",
-      "link": "https://www.rollingstone.com/music/music-news/madonna-peggy-gou-i-feel-so-free-remix-1235563313/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-05-15 06:22",
-      "summary": "The pop star will release her long-awaited LP, Confessions II, on July 3"
-    },
-    {
-      "title": "Noel and Liam Gallagher, Paul McCartney, the Eavis family among wealthiest names in music in Sunday Times rich list",
-      "link": "https://www.nme.com/news/music/noel-and-liam-gallagher-paul-mccartney-the-eavis-family-among-wealthiest-names-in-music-in-sunday-times-rich-list-3945477?utm_source=rss&utm_medium=rss&utm_campaign=noel-and-liam-gallagher-paul-mccartney-the-eavis-family-among-wealthiest-names-in-music-in-sunday-times-rich-list",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-05-15 06:02",
-      "summary": "\nThe Oasis siblings make their debut on the list thanks to the Live '25 reunion tour, clocking up a net worth of \u00a3375million\nThe post Noel and Liam Gallagher, Paul McCartney, the Eavis family among we..."
-    },
-    {
-      "title": "Maren Morris Debuts Uplifting New Single \u2018Parachute\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/maren-morris-parachute-single-cbs-sheriff-country-1235563297/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-05-15 05:39",
-      "summary": "The song was written for CBS series Sheriff Country, in which the singer is set to guest star"
-    },
-    {
-      "title": "Drake Reveals That His Father Has Cancer on \u2018Iceman\u2019 Track",
-      "link": "https://www.rollingstone.com/music/music-news/drake-iceman-album-father-cancer-1235563275/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-05-15 04:51",
-      "summary": "The artist rapped about his father's illness on his new Iceman album, which released alongside two surprise LPs"
-    },
-    {
-      "title": "Five Finger Death Punch Crush With 'Eye of the Storm'",
-      "link": "https://loudwire.com/five-finger-death-punch-eye-of-the-storm-lyrics-video/",
-      "source": "Loudwire",
+      "title": "The All-American Rejects break down every song on Sandbox",
+      "link": "https://www.altpress.com/the-all-american-rejects-sandbox-song-breakdown/",
+      "source": "Alternative Press",
       "category": "rock",
-      "published": "2026-05-15 04:41",
-      "summary": "Gary Miller, Getty Images, Better Noise Music"
+      "published": "2026-05-15 18:06",
+      "summary": "They are about to embark on their Recess tour across Europe in support of the new LP."
     },
     {
-      "title": "Gracie Abrams, Drake, Tove Lo & More: New Music\u00a0Friday\u00a0Guide",
-      "link": "https://www.billboard.com/music/music-news/gracie-abrams-drake-new-music-friday-guide-1236246816/",
+      "title": "Jermaine Jackson Told to Pay $6.5 Million After Failing to Contest Rape Case",
+      "link": "https://pitchfork.com/news/jermaine-jackson-told-to-pay-6-5-million-dollars-after-failing-to-contest-rape-lawsuit/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-05-15 18:03",
+      "summary": "A default judgment was delivered in a lawsuit accusing Jackson of a 1988 rape"
+    },
+    {
+      "title": "New York Dance Venue Brooklyn Storehouse Closing This Fall: \u2018Our Tenancy Was Always Time-Limited\u2019",
+      "link": "https://www.billboard.com/pro/brooklyn-storehouse-closing-this-fall-dance-venue/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-05-15 04:40",
-      "summary": "Check out the must-hear releases of the week."
+      "published": "2026-05-15 18:00",
+      "summary": "A rep for the space confirms that the warehouse will be repurposed for climate infrastructure and clean energy production."
     },
     {
-      "title": "Drake and Future Reunite After Beef on New Song 'Ran to Atlanta'",
-      "link": "https://www.xxlmag.com/drake-and-future-reunite-new-song-ran-to-atlanta/",
+      "title": "Sound & Fury reveal final 2026 lineup, add Breakdown, No Pressure, End It, Haywire, more",
+      "link": "https://www.brooklynvegan.com/sound-fury-reveal-final-2026-lineup-add-breakdown-no-pressure-end-it-haywire-more/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-05-15 18:00",
+      "summary": "The lineup also includes The Rival Mob\u2019s first show since 2016, Carry On\u2019s first show since a surprise partial reunion last year, Saves the Day, Obituary, Oakwood, Incendiary, Warthog, Angel Du$t, Mer..."
+    },
+    {
+      "title": "Foollio Killers Sentenced to Life",
+      "link": "https://www.xxlmag.com/foolio-killers-sentenced-life-prison/",
       "source": "XXL Mag",
       "category": "hiphop",
-      "published": "2026-05-15 04:30",
-      "summary": "Simone Joyner/Prince Williams/Getty Images (2)"
+      "published": "2026-05-15 17:58",
+      "summary": "JULIO FOOLIO/YouTube/Law&amp;Crime Trials/YouTube"
     },
     {
-      "title": "Drake Drops Three New Albums: Iceman, Habibti and Maid of Honour",
-      "link": "https://www.xxlmag.com/drake-drops-three-new-albums-iceman-habibti-and-maid-of-honour/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-05-15 04:07",
-      "summary": "Prince Williams/Getty Images/OVO/UMG"
-    },
-    {
-      "title": "Listen to Anthrax's New Song 'It's for the Kids'",
-      "link": "https://loudwire.com/anthrax-its-for-the-kids/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-05-15 04:06",
-      "summary": "Medios y Media, Getty Images, Megaforce"
-    },
-    {
-      "title": "Madonna & Peggy Gou Release \u2018I Feel So Free\u2019 Remix: Stream It\u00a0Now",
-      "link": "https://www.billboard.com/music/pop/madonna-peggy-gou-i-feel-so-free-remix-confessions-ii-1236248719/",
+      "title": "Claudine Longet, Adult Contemporary Hitmaker of the 1960s Who Fatally Shot an Olympic Skier in 1976, Dies at\u00a084",
+      "link": "https://www.billboard.com/music/music-news/claudine-longet-dead-at-84-1236249104/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-05-15 04:05",
-      "summary": "The release is the first official remix from Madonna's Confessions II era."
+      "published": "2026-05-15 17:49",
+      "summary": "She recorded five albums for A&#38;M Records, the first of which reached No. 11 on the Billboard 200."
     },
     {
-      "title": "Drake surprise drops three albums: Iceman, Habibti, and Maid of Honor",
-      "link": "https://www.thefader.com/2026/05/15/drake-iceman-habibti-maid-of-honor-features",
+      "title": "Here\u2019s How Niall Horan Reacted When Asked If He\u2019s Attending Harry Styles & Zoe Kravitz\u2019s\u00a0Wedding",
+      "link": "https://www.billboard.com/music/music-news/niall-horan-responds-harry-styles-zoe-kravitz-wedding-1236249196/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-15 17:45",
+      "summary": "\u201cI\u2019m a busy man,\" the singer quipped."
+    },
+    {
+      "title": "Levitation 2026 initial lineup (Angine de Poitrine, Die Spitz, Gibby Haynes, Peter Hook & the Light, more)",
+      "link": "https://www.brooklynvegan.com/levitation-2026-initial-lineup-angine-de-poitrine-die-spitz-gibby-haynes-peter-hook-the-light-more/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-05-15 17:36",
+      "summary": "Plus Molchat Doma, Arlo Parks, Cabaret Voltaire, Uncle Acid &#038; The Deadbeats, Smerz, and more."
+    },
+    {
+      "title": "Janet Jackson Has One More Year on Top in 2001 With the Legacy-Confirming \u2018All for You\u2019 Era: Greatest Pop Stars\u00a0Podcast",
+      "link": "https://www.billboard.com/music/pop/janet-jackson-2001-greatest-pop-stars-podcast-all-for-you-1236248950/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-15 17:30",
+      "summary": "Our Janet Jackson Vintage Pop Stardom Week wraps in 2001, with a year in which she was rightly celebrated as a legend while also reigning as a contemporary hitmaker."
+    },
+    {
+      "title": "Billboard\u2019s Music Industry Events\u00a0Calendar",
+      "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-15 17:30",
+      "summary": "A complete rundown of the most important events across the music business."
+    },
+    {
+      "title": "Maluma Went Back Home For His Best Album In Years: Here\u2019s How He Did\u00a0It",
+      "link": "https://www.billboard.com/lists/maluma-lovo-x-volver-5-top-songs/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-15 17:29",
+      "summary": "The Colombian star returns to his roots in 'Loco X Volver.\" Here are 5 key tracks."
+    },
+    {
+      "title": "5 Drake songs you should actually listen to from his new albums",
+      "link": "https://www.thefader.com/2026/05/15/drake-iceman-habibti-maid-of-honour-",
       "source": "The FADER",
       "category": "hiphop",
-      "published": "2026-05-15 04:05",
-      "summary": "The rapper previewed the trio of records early via a YouTube livestream under the title \u201cIceman episode 4.\u201d"
+      "published": "2026-05-15 17:24",
+      "summary": "And three of them are from Maid of Honour."
     },
     {
-      "title": "Drake Drops Three Albums at Once",
-      "link": "https://pitchfork.com/news/drake-drops-three-albums-at-once/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-05-15 04:04",
-      "summary": "Surprise! Iceman has two siblings, Habibti and Maid of Honour"
-    },
-    {
-      "title": "Drake Finally Unveils \u2018Iceman\u2019 \u2014 and Surprise Drops 2 More Albums",
-      "link": "https://www.rollingstone.com/music/music-news/drake-iceman-three-albums-habibti-maid-of-honour-1235563246/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-05-15 04:01",
-      "summary": "The rapper premiered the new record alongside Habibti and Maid Of Honour"
-    },
-    {
-      "title": "Drake Returns With Three New Albums as \u2018Iceman,\u2019  \u2018Maid of Honour\u2019 & \u2018Habibti\u2019 Arrive: Stream Them\u00a0Now",
-      "link": "https://www.billboard.com/music/rb-hip-hop/drake-iceman-album-stream-1236248614/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-15 04:01",
-      "summary": "Freeze the world."
-    },
-    {
-      "title": "Stephen Colbert Has No More Fucks to Give",
-      "link": "https://consequence.net/2026/05/stephen-colbert-has-no-more-fucks-to-give/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-15 03:57",
-      "summary": "Colbert mocked his soon-to-be-former CBS colleagues in a clip to open Thursday's episode of the Late Show.\nStephen Colbert Has No More Fucks to Give\nAlex Young"
-    },
-    {
-      "title": "Fire-Toolz - Lavender Networks ALBUM REVIEW",
-      "link": "https://www.youtube.com/watch?v=KQ9Rh8k2J88",
-      "source": "The Needle Drop",
-      "category": "general",
-      "published": "2026-05-15 03:54",
-      "summary": "Listen: https://fire-toolz.bandcamp.com/album/lavender-networks\n\nLavender Networks makes for a nice gateway to Angel's mind-blowing soundworld.\n\nInterview w/ Fire-Toolz: https://www.youtube.com/watch?..."
-    },
-    {
-      "title": "Bono & The Edge Join Claudia Sheinbaum at Street Child World Cup Event: \u2018My President\u2019",
-      "link": "https://www.billboard.com/music/music-news/bono-the-edge-mexico-president-street-child-world-cup-event-1236248785/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-15 03:43",
-      "summary": "The U2 members and the Mexican leader surprised participants in the competition, which is focused on social inclusion and children's rights."
-    },
-    {
-      "title": "Drake Releases Three New Albums: Iceman, Habibti, and Maid of Honour",
-      "link": "https://consequence.net/2026/05/drake-three-new-albums-iceman-habibti-maid-of-honour/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-15 03:40",
-      "summary": "All three projects are now streaming.\nDrake Releases Three New Albums: Iceman, Habibti, and Maid of Honour\nTravis Bland"
-    },
-    {
-      "title": "Anastacia Gets Down to Funny Business For Australian Comedy Show \u2018Urzila\u2019:\u00a0Watch",
-      "link": "https://www.billboard.com/music/music-news/anastacia-sketch-australian-abc-comedy-show-urzila-1236248794/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-15 03:40",
-      "summary": "The U.S. singer and songwriter makes an hilarious cameo in the new Australian comedy series Urzila."
-    },
-    {
-      "title": "Lady Gaga Releases New Live Album Mayhem Requiem",
-      "link": "https://pitchfork.com/news/lady-gaga-releases-new-live-album-mayhem-requiem/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-05-15 03:13",
-      "summary": "The LP captures a performance recorded at Los Angeles\u2019 Wiltern Theatre in January"
-    },
-    {
-      "title": "NMPA Honors \u2018Losin Control\u2019 Singer-Songwriter Russ for Racking Up 26 Gold & Platinum\u00a0Songs",
-      "link": "https://www.billboard.com/pro/russ-honored-nmpa-songwriting-music-biz/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-15 02:44",
-      "summary": "As a songwriter, Russ has racked up 12 gold records, eight platinum records and six multiplatinum records."
-    },
-    {
-      "title": "Jack White Can Name Any Beatles Song Within a Single Second of Hearing It",
-      "link": "https://www.rollingstone.com/music/music-news/jack-white-beatles-songs-one-second-1235563242/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-05-15 01:40",
-      "summary": "Resurfaced video shows the guitarist nailing classics like \"And Your Bird Can Sing\" and \"I'm Looking Through You\""
-    },
-    {
-      "title": "The Avalanches Release New Single \u201cTogether\u201d: Stream",
-      "link": "https://consequence.net/2026/05/the-avalanches-release-single-together/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-15 01:32",
-      "summary": "The Australian electronic duo feature Nikki Nair, Jessy Lanza and Prentiss on the song.\nThe Avalanches Release New Single &#8220;Together&#8221;: Stream\nTravis Bland"
-    },
-    {
-      "title": "Will Paul McCartney Perform \u2018Despacito\u2019 on \u2018SNL\u2019? Will Ferrell & Marcello Hernandez Sure Think\u00a0So",
-      "link": "https://www.billboard.com/culture/tv-film/paul-mccartney-snl-promos-will-ferrell-despacito-1236248764/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-05-15 01:32",
-      "summary": "The Beatles singer/songwriter will make his fifth appearance as musical guest, almost 46 years to the day after his 1980 SNL debut."
-    },
-    {
-      "title": "Nick Valensi to Miss The Strokes\u2019 Upcoming Tour Dates",
-      "link": "https://consequence.net/2026/05/nick-valensi-to-miss-the-strokes-upcoming-tour-dates/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-15 01:24",
-      "summary": "Steve Schlitz will fill in on guitar.\nNick Valensi to Miss The Strokes&#8217; Upcoming Tour Dates\nAlex Young"
-    },
-    {
-      "title": "Paul McCartney on New Song \u2018Salesman Saint,\u2019 How Wartime Resilience Shaped the Beatles",
-      "link": "https://www.rollingstone.com/music/music-news/paul-mccartney-salesman-saint-new-song-1235563234/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-05-15 01:18",
-      "summary": "The legendary musician previewed his new single from his latest solo album, The Boys of Dungeon Lane, out May 29"
-    },
-    {
-      "title": "Gracie Abrams Kicks off New Era With Devastatingly Great \u2018Hit the Wall\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/gracie-abrams-hit-the-wall-video-1235556615/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-05-15 00:13",
-      "summary": "Track is the lead single off upcoming album Daughter From Hell"
-    },
-    {
-      "title": "Angine de Poitrine Announce New North American Tour Dates",
-      "link": "https://consequence.net/2026/05/angine-de-poitrine-2026-north-american-tour/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-14 22:00",
-      "summary": "The new dates will bring the band\u2019s chaotic, precision-driven noise rock to Brooklyn, Los Angeles, Denver, Toronto, and beyond.\nAngine de Poitrine Announce New North American Tour Dates\nAlex Krinsky"
-    },
-    {
-      "title": "Paul McCartney Says He \u201cCouldn\u2019t Tell\u201d What Songs Bob Dylan Was Playing Live",
-      "link": "https://consequence.net/2026/05/paul-mccartney-bob-dylan-live/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-14 21:36",
-      "summary": "Macca contrasted their differing approaches to playing the hits during a recent podcast appearance.\nPaul McCartney Says He &#8220;Couldn&#8217;t Tell&#8221; What Songs Bob Dylan Was Playing Live\nEddie..."
-    },
-    {
-      "title": "World Cup Ticket Prices Have Dropped 24% Over the Last 30 Days",
-      "link": "https://consequence.net/2026/05/fifa-world-cup-ticket-prices-dropping/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-05-14 21:12",
-      "summary": "The 2026 FIFA World Cup kicks off in just under a month, and ticket prices are dropping in a big way.\nWorld Cup Ticket Prices Have Dropped 24% Over the Last 30 Days\nPaolo Ragusa"
-    },
-    {
-      "title": "Watch an iPod and a Floppy Disk Dance in the Avalanches\u2019 New Video",
-      "link": "https://pitchfork.com/news/watch-an-ipod-and-a-floppy-disc-dance-in-the-avalanches-new-video/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-05-14 21:07",
-      "summary": "Nikki Nair and Jessy Lanza guest on the Australian trio's first proper single in six years"
-    },
-    {
-      "title": "Ben10 Shot Again in Louisiana After Houston Shooting - Report",
-      "link": "https://www.xxlmag.com/ben10-shot-again-baton-rouge-shooting/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-05-14 20:56",
-      "summary": "loverboyTEN/YouTube"
-    },
-    {
-      "title": "TiaCorine and Ilykimchi chat first impressions, anime, and collaborating.",
-      "link": "https://www.thefader.com/2026/05/14/tiacorine-ilykimchi-interview-gas-station-rolling-loud-anime",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-05-14 20:54",
-      "summary": "The minds behind \u201cGas Station\u201d linked up at Rolling Loud for a joint interview with The FADER."
-    },
-    {
-      "title": "Jason Newsted Doesn't Want More Bass on '...And Justice for All'",
-      "link": "https://loudwire.com/jason-newsted-doesnt-want-bass-metallica-and-justice-for-all-remixed/",
-      "source": "Loudwire",
+      "title": "Watch Evanescence explore a collapsing world in \u201cWho Will You Follow\u201d video",
+      "link": "https://www.altpress.com/evanescence-who-will-you-follow-video-watch/",
+      "source": "Alternative Press",
       "category": "rock",
-      "published": "2026-05-14 20:41",
-      "summary": "Dylan Rives, Getty Images, Elektra"
+      "published": "2026-05-15 17:23",
+      "summary": "Their global tour begins in June with support from Spiritbox, Nova Twins, Poppy, and K.Flay."
     },
     {
-      "title": "Nicki Minaj Explains How Swatting Calls Led Her to Trump Support",
-      "link": "https://www.xxlmag.com/nicki-minaj-explains-origin-support-president-trump/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-05-14 20:36",
-      "summary": "Win McNamee/Getty Images"
+      "title": "Drake\u2019s \u2018ICEMAN\u2019 Album: All 18 Tracks\u00a0Ranked",
+      "link": "https://www.billboard.com/lists/drake-iceman-album-tracks-ranked/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-15 17:20",
+      "summary": "On Friday (May 15), Drake crashed the internet when he released three albums, anchored by his highly anticipated ICEMAN."
     },
     {
-      "title": "Kanye West\u2019s Unlikely New Concert Partner: Live Nation Israel",
-      "link": "https://www.rollingstone.com/music/music-news/ye-kanye-west-tbilisi-georgia-concert-live-nation-israel-1235561670/",
+      "title": "V and J-Hope Are in Shock Over Drake\u2019s BTS Shoutout on \u2018Iceman\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/bts-react-to-drake-name-dropping-iceman-1235563486/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-05-14 20:27",
-      "summary": "\u201cIt raises difficult questions about where the industry draws the line between business, entertainment, and accountability,\u201d says one Israeli industry insider"
+      "published": "2026-05-15 17:13",
+      "summary": "\"I'm feeling like BTS 'cause it took the whole career for me to be so discovered,\" Drake raps on \"Make Them Cry\""
     },
     {
-      "title": "Britney Spears\u2019 Rep Denies Singer Was Walking Around Restaurant With a Knife: \u2018This Is Ridiculous\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/britney-spears-rep-denies-singer-erratic-restuarant-knife-1235562818/",
+      "title": "The Strokes Guitarist Nick Valensi Taking \u2018Temporary Break\u2019 From Band\u2019s Reality Awaits Tour",
+      "link": "https://www.rollingstone.com/music/music-news/the-strokes-guitarist-nick-valensi-temporary-break-tour-1235563538/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-05-14 20:00",
-      "summary": "While at dinner Wednesday night, Spears was reportedly seen barking and acting erratically, but a rep for the singer says the events are being \"completely blown out of proportion.\""
+      "published": "2026-05-15 17:07",
+      "summary": "Longwave's Steve Schiltz will fill in for the founding guitarist on the summer tour"
     },
     {
-      "title": "Paul McCartney Says Playing \u201cHey Jude\u201d Unites Fans in \u201cTrump\u2019s America\u201d",
-      "link": "https://consequence.net/2026/05/paul-mccartney-hey-jude-trump-america/",
+      "title": "Stream On This Week: The Best Trashy TV Knows That It\u2019s Trash",
+      "link": "https://consequence.net/2026/05/stream-on-rivals-families-like-ours-off-campus/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-05-14 19:41",
-      "summary": "Macca said the Beatles classic temporarily unites Republicans and Democrats during his live shows.\nPaul McCartney Says Playing &#8220;Hey Jude&#8221; Unites Fans in &#8220;Trump&#8217;s America&#8221;..."
+      "published": "2026-05-15 17:00",
+      "summary": "Here's what to stream the weekend of May 15th. \nStream On This Week: The Best Trashy TV Knows That It&#8217;s Trash\nLiz Shannon Miller"
     },
     {
-      "title": "Planningtorock and Romy team up for new version of \u2018The One\u2019: \u201cShe\u2019s managed to take its original queer longing for love to another level of tenderness\u201d",
-      "link": "https://www.nme.com/news/music/planningtorock-and-romy-team-up-for-new-version-of-the-one-shes-managed-to-take-its-original-queer-longing-for-love-to-another-level-of-tenderness-3945473?utm_source=rss&utm_medium=rss&utm_campaign=planningtorock-and-romy-team-up-for-new-version-of-the-one-shes-managed-to-take-its-original-queer-longing-for-love-to-another-level-of-tenderness",
+      "title": "Shakira on Performing at the First FIFA World Cup 2026 Final Halftime Show With BTS & Madonna | Billboard\u00a0News",
+      "link": "https://www.billboard.com/video/shakira-performing-fifa-world-cup-2026-final-halftime-show/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-15 16:58",
+      "summary": "Shakira and Global Citizen cofounder and CEO Hugh Evans talk about being a part of and performing at the first ever FIFA World Cup 2026 final halftime show with BTS and Madonna. Shakira: First of all,..."
+    },
+    {
+      "title": "Bladee Reveals New Album Sulfur Surfer",
+      "link": "https://pitchfork.com/news/bladee-reveals-new-album-sulfur-surfer/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-05-15 16:56",
+      "summary": "\u201cBlondie\u201d leads the Drain Gang enigma\u2019s follow-up to 2024\u2019s Cold Visions"
+    },
+    {
+      "title": "The Late Show with Stephen Colbert Reveals Final Guests and Plans for Last Week of Shows",
+      "link": "https://consequence.net/2026/05/late-show-with-stephen-colbert-last-guests/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-15 16:55",
+      "summary": "The final (announced) guests will include Jon Stewart, Steven Spielberg, David Byrne, and Bruce Springsteen. \nThe Late Show with Stephen Colbert Reveals Final Guests and Plans for Last Week of Shows\nL..."
+    },
+    {
+      "title": "Action Bronson played Katz\u2019s Deli (pics)",
+      "link": "https://www.brooklynvegan.com/action-bronson-played-katzs-deli-pics/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-05-15 16:54",
+      "summary": "The show at the iconic Lower East Side deli celebrated Action Bronson&#8217;s new album &#8216;Planet Frog.&#8217;"
+    },
+    {
+      "title": "Spotify Discontinues Viral\u00a0Charts",
+      "link": "https://www.billboard.com/pro/spotify-discontinues-its-viral-charts/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-05-15 16:52",
+      "summary": "Now, Spotify is prioritizing its Viral Hits playlist, which is selected by editors based on popularity metrics, over its algorithmically-based viral charts."
+    },
+    {
+      "title": "Ella Langley\u2019s 2026 Tour: How to Get Tickets",
+      "link": "https://consequence.net/2026/05/ella-langley-2026-tour-how-to-get-tickets/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-15 16:28",
+      "summary": "The country star is celebrating her breakout year with her biggest shows to-date. Learn how to get tickets.\nElla Langley&#8217;s 2026 Tour: How to Get Tickets\nPaolo Ragusa"
+    },
+    {
+      "title": "Lagunitas and Consequence Crack Open Six-Pack Stories, A New Artist-on-Artist Video Interview Series",
+      "link": "https://consequence.net/2026/05/six-pack-stories-lagunitas-interview/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-15 16:15",
+      "summary": "Watch your favorite artists chill out with a six-pack of interesting, funny, boundary-breaking questions.\nLagunitas and Consequence Crack Open Six-Pack Stories, A New Artist-on-Artist Video Interview ..."
+    },
+    {
+      "title": "Lords of Acid Unveil Single \u201cDream Boy\u201d Featuring Their New Acid Queen Carla Harvey: Stream",
+      "link": "https://consequence.net/2026/05/lords-of-acid-dream-boy-carla-harvey/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-15 16:14",
+      "summary": "The industrial-dance act will release a new album in late 2026.\nLords of Acid Unveil Single &#8220;Dream Boy&#8221; Featuring Their New Acid Queen Carla Harvey: Stream\nSpencer Kaufman"
+    },
+    {
+      "title": "From Kendrick Lamar to LeBron James: All of Drake\u2019s Disses on Iceman",
+      "link": "https://consequence.net/2026/05/drakes-iceman-album-disses/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-15 16:02",
+      "summary": "J. Cole, JAY-Z, A$AP Rocky, Pusha T, and Travis Scott are among the others targeted on the album.\nFrom Kendrick Lamar to LeBron James: All of Drake&#8217;s Disses on Iceman\nEddie Fu"
+    },
+    {
+      "title": "Bruce Springsteen & The E Street Band\u2019s NYC run underway: Barclays Center pics, setlists, video",
+      "link": "https://www.brooklynvegan.com/bruce-springsteen-the-e-street-bands-nyc-run-underway-barclays-center-pics-setlists-video/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-05-15 15:56",
+      "summary": "Bruce Springsteen &#038; The E Street Band are in the middle of their &#8220;NO KINGS&#8221; Land Of Hope And Dreams American Tour, and wrap up their 3-show NYC run on Saturday"
+    },
+    {
+      "title": "Charli XCX responds to reactions to her pivot on \u2018Rock Music\u2019",
+      "link": "https://www.nme.com/news/music/charli-xcx-responds-to-reactions-to-her-pivot-on-rock-music-3945658?utm_source=rss&utm_medium=rss&utm_campaign=charli-xcx-responds-to-reactions-to-her-pivot-on-rock-music",
       "source": "NME",
       "category": "general",
-      "published": "2026-05-14 19:22",
-      "summary": "\nThe original track was included on Planningtorock's 2011 album 'W'\nThe post Planningtorock and Romy team up for new version of &#8216;The One&#8217;: &#8220;She\u2019s managed to take its original queer l..."
+      "published": "2026-05-15 15:48",
+      "summary": "\n\u201cThings can be funny, earnest, sincere, and joyful all at the same time\u201d\nThe post Charli XCX responds to reactions to her pivot on &#8216;Rock Music\u2019 appeared first on NME."
     },
     {
-      "title": "My Morning Jacket Announce One Big Holiday 2027 Lineup: Modest Mouse, Spoon, Wednesday",
-      "link": "https://consequence.net/2026/05/my-morning-jacket-one-big-holiday-2027-lineup/",
+      "title": "13 Biggest Heavy Music Stars That Don't Have Tattoos (and Why)",
+      "link": "https://loudwire.com/heavy-music-stars-without-tattoos/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-05-15 15:43",
+      "summary": "Christian Petersen, Getty Images, Ethan Miller, Getty Images"
+    },
+    {
+      "title": "Primus Surprise-Release A Handful of Nuggs EP, Including New Song \u201cThe Ol\u2019 Grizz\u201d: Stream",
+      "link": "https://consequence.net/2026/05/primus-new-ep-new-song-the-ol-grizz/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-05-14 19:21",
-      "summary": "Durand Jones, Bonny Light Horseman, Kevin Morby, Chromeo, and La Lom will also perform as the event returns to Riviera Maya, Mexico.\nMy Morning Jacket Announce One Big Holiday 2027 Lineup: Modest Mous..."
+      "published": "2026-05-15 15:41",
+      "summary": "The physical edition of the new EP is slated for release on July 22nd.\nPrimus Surprise-Release A Handful of Nuggs EP, Including New Song &#8220;The Ol\u2019 Grizz&#8221;: Stream\nSpencer Kaufman and Langdon..."
     },
     {
-      "title": "KATSEYE\u2019s 2026 \u201cWILDWORLD TOUR\u201d: How to Get Tickets",
-      "link": "https://consequence.net/2026/05/katseye-2026-wildworld-tour-how-to-get-tickets/",
-      "source": "Consequence",
+      "title": "Trump White House Uses Drake\u2019s \u2018Iceman\u2019 Release to Push MAGA Agenda",
+      "link": "https://www.rollingstone.com/music/music-news/trump-white-house-drake-iceman-maga-agenda-1235563429/",
+      "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-05-14 19:20",
-      "summary": "The group will hit arenas across North America this fall. Learn how to get tickets.\nKATSEYE&#8217;s 2026 &#8220;WILDWORLD TOUR&#8221;: How to Get Tickets\nPaolo Ragusa"
+      "published": "2026-05-15 15:38",
+      "summary": "Trump administration continues their trend of turning pop culture moments into controversy-seeking social media posts"
     },
     {
-      "title": "There\u2019s a New Salem Album Out Today",
-      "link": "https://pitchfork.com/news/theres-a-new-salem-album-out/",
+      "title": "Fan poll: 5 best Chicago bands",
+      "link": "https://www.altpress.com/fan-poll-best-chicago-bands/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-05-15 15:36",
+      "summary": "See which ones made the list."
+    },
+    {
+      "title": "The Strokes\u2019 Nick Valensi Drops Out of Upcoming Tour",
+      "link": "https://pitchfork.com/news/nick-valensi-drops-out-of-upcoming-strokes-tour/",
       "source": "Pitchfork",
       "category": "general",
-      "published": "2026-05-14 18:58",
-      "summary": "Red Dragon is the witch house pioneers\u2019 first full-length release since 2020\u2019s Fires in Heaven"
+      "published": "2026-05-15 15:26",
+      "summary": "The band\u2019s longtime guitarist was also absent from their Colbert performance last night"
+    },
+    {
+      "title": "Viva El Gonzo 2026 Saw Goose, My Morning Jacket, The Disco Biscuits, and More Jam in the Jungle of San Jos\u00e9 del Cabo: Recap + Photos",
+      "link": "https://consequence.net/2026/05/viva-el-gonzo-2026-goose-recap-photos/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-15 15:17",
+      "summary": "In addition to the killer lineup, the jam band performed a whopping fives sets at their signature destination festival.\nViva El Gonzo 2026 Saw Goose, My Morning Jacket, The Disco Biscuits, and More Ja..."
+    },
+    {
+      "title": "15 New Albums You Should Listen to Now: Kevin Morby, Drake, Smerz, and More",
+      "link": "https://pitchfork.com/news/15-new-albums-you-should-listen-to-now-kevin-morby-drake-smerz-and-more/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-05-15 15:07",
+      "summary": "Stream new releases from Kevin Morby, Drake, Smerz, and Jeff Parker"
+    },
+    {
+      "title": "Not Just Kate Bush: How Netflix Shows and Movies Make Musical Megahits",
+      "link": "https://consequence.net/2026/05/netflix-music-stranger-things-bridgerton/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-15 15:00",
+      "summary": "The platform's power to drive plays is immense from Stranger Things to KPop Demon Hunters.\nNot Just Kate Bush: How Netflix Shows and Movies Make Musical Megahits\nLiz Shannon Miller"
+    },
+    {
+      "title": "Anthrax share first new song in 10 years, \u201cIt\u2019s For the Kids\u201d",
+      "link": "https://www.brooklynvegan.com/anthrax-share-first-new-song-in-10-years-its-for-the-kids/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-05-15 14:59",
+      "summary": "\u201dThe album needed a four-minute thrash song that harkened back to our first era,\u201d guitarist Scott Ian says."
+    },
+    {
+      "title": "Hans Zimmer surprises RAYE at LA gig: \u201cTo say I adore her is a complete understatement\u201d",
+      "link": "https://www.nme.com/news/music/hans-zimmer-surprises-raye-at-la-gig-to-say-i-adore-her-is-a-complete-understatement-3945654?utm_source=rss&utm_medium=rss&utm_campaign=hans-zimmer-surprises-raye-at-la-gig-to-say-i-adore-her-is-a-complete-understatement",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-15 14:49",
+      "summary": "\nThe legendary film composer described her as an \u201castonishing singer\u201d who \u201cknows how to tackle quite serious subjects with a London wit\u201d\nThe post Hans Zimmer surprises RAYE at LA gig: \u201cTo say I adore ..."
+    },
+    {
+      "title": "Anthrax Announce First Album in 10 Years, Unleash Single \u201cIt\u2019s For the Kids\u201d: Stream",
+      "link": "https://consequence.net/2026/05/anthrax-cursum-perficio-single-its-for-the-kids/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-15 14:40",
+      "summary": "The legendary thrash band's upcoming 12th studio album Cursum Perficio is out September 18th.\nAnthrax Announce First Album in 10 Years, Unleash Single &#8220;It&#8217;s For the Kids&#8221;: Stream\nLan..."
+    },
+    {
+      "title": "Nick Valensi taking a \u201ctemporary break\u201d from touring with The Strokes (who played Colbert)",
+      "link": "https://www.brooklynvegan.com/nick-valensi-taking-a-temporary-break-from-touring-with-the-strokes-who-played-colbert/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-05-15 14:34",
+      "summary": "Filling in for Nick is Steve Schiltz of fellow NYC band Longwave"
+    },
+    {
+      "title": "Drake made an album release feel like an event again",
+      "link": "https://www.thefader.com/2026/05/15/drake-iceman-habibti-maid-of-honour-album-rollout-op-ed",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-05-15 14:29",
+      "summary": "The Iceman rollout was simultaneously annoying, unpredictable, and genuinely exciting. That\u2019s a rarity these days."
+    },
+    {
+      "title": "Luxury Brand Chrome Hearts Drops Lawsuit Against Neil Young Over Band Name",
+      "link": "https://www.rollingstone.com/music/music-news/chrome-hearts-drops-lawsuit-neil-young-band-name-1235563373/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-05-15 14:27",
+      "summary": "Fashion label sued rocker in September 2025 over the Chrome Hearts backing band, but voluntarily dismissed the copyright infringement lawsuit Thursday"
+    },
+    {
+      "title": "Paul McCartney Doesn\u2019t Want to Feel Like a Monkey. That\u2019s Why He Doesn\u2019t Do Fan Selfies",
+      "link": "https://consequence.net/2026/05/paul-mccartney-on-fan-selfies/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-15 14:12",
+      "summary": "The Beatles bass player said doing selfies with fans takes away a sense of normalcy.\nPaul McCartney Doesn&#8217;t Want to Feel Like a Monkey. That&#8217;s Why He Doesn&#8217;t Do Fan Selfies\nTravis Bl..."
+    },
+    {
+      "title": "The Strokes Debut New Song \u201cFalling Out of Love\u201d on Colbert: Watch",
+      "link": "https://consequence.net/2026/05/the-strokes-falling-out-of-love-colbert/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-05-15 14:07",
+      "summary": "Reality Awaits, The Strokes' long-awaited sixth album, arrives next month.\nThe Strokes Debut New Song &#8220;Falling Out of Love&#8221; on Colbert: Watch\nPaolo Ragusa"
+    },
+    {
+      "title": "Paris Jackson wins legal battle for $625k to be returned to Michael Jackson\u2019s estate",
+      "link": "https://www.nme.com/news/music/paris-jackson-wins-legal-battle-for-625k-to-be-returned-to-michael-jacksons-estate-3945642?utm_source=rss&utm_medium=rss&utm_campaign=paris-jackson-wins-legal-battle-for-625k-to-be-returned-to-michael-jacksons-estate",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-15 13:59",
+      "summary": "\nAttorneys for Jackson's estate have said that while they \u201cdisagree\u201d with the ruling, they \u201cfully respect it and plan to move forward accordingly\u201d\nThe post Paris Jackson wins legal battle for $625k to..."
+    },
+    {
+      "title": "Primus release new EP ft. new track (exclusive vinyl), Les Claypool talks Angine de Poitrine: \u201cbrilliant!\u201d",
+      "link": "https://www.brooklynvegan.com/primus-release-new-ep-ft-new-track-exclusive-vinyl-les-claypool-talks-angine-de-poitrine-brilliant/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-05-15 13:56",
+      "summary": "\u2019A Handful of Nuggs\u2019 also features a cover of Dio\u2019s \u201dHoly Diver\u201d with Puddles Pity Party, and more."
+    },
+    {
+      "title": "Notable Releases of the Week (5/15)",
+      "link": "https://www.brooklynvegan.com/spencer-krug-genesis-owusu-dua-saleh-reviews/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-05-15 13:55",
+      "summary": "This week&#8217;s Notable Releases include Spencer Krug, Genesis Owusu, Dua Saleh, and more."
+    },
+    {
+      "title": "5 highlights from Welcome to Rockville 2026",
+      "link": "https://www.altpress.com/welcome-to-rockville-2026-best-moments/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-05-15 13:51",
+      "summary": "Celebrating four days that were jam-packed with music."
+    },
+    {
+      "title": "Chrome Hearts fashion brand drop lawsuit against Neil Young",
+      "link": "https://www.nme.com/news/music/chrome-hearts-fashion-brand-drop-lawsuit-against-neil-young-3945647?utm_source=rss&utm_medium=rss&utm_campaign=chrome-hearts-fashion-brand-drop-lawsuit-against-neil-young",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-05-15 13:50",
+      "summary": "\nIt related to the use of the brand's name in Young's current backing group The Chrome Hearts\nThe post Chrome Hearts fashion brand drop lawsuit against Neil Young appeared first on NME."
     }
   ],
-  "last_updated": "2026-05-15T08:46:56.292940"
+  "last_updated": "2026-05-15T18:26:45.262351"
 }

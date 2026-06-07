@@ -131,6 +131,16 @@
       "album_type": "single"
     },
     {
+      "name": "GANG BIZNESS feat paygotti",
+      "artists": "YG, PayGotti",
+      "release_date": "2026-05-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b273055f9e3e25fff57298ff87a4",
+      "spotify_url": "https://open.spotify.com/album/3Vp1rLcTwVrCMJoXY5xLLx",
+      "apple_music_url": "https://music.apple.com/us/search?term=GANG%20BIZNESS%20feat%20paygotti%20YG",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Deep End",
       "artists": "Calboy, NLE Choppa",
       "release_date": "2026-05-29",
@@ -161,22 +171,12 @@
       "album_type": "single"
     },
     {
-      "name": "GANG BIZNESS feat paygotti",
-      "artists": "YG, PayGotti",
-      "release_date": "2026-05-29",
-      "image": "https://i.scdn.co/image/ab67616d0000b273055f9e3e25fff57298ff87a4",
-      "spotify_url": "https://open.spotify.com/album/3Vp1rLcTwVrCMJoXY5xLLx",
-      "apple_music_url": "https://music.apple.com/us/search?term=GANG%20BIZNESS%20feat%20paygotti%20YG",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Flowers",
       "artists": "AJ McLean, Ty Dolla $ign",
       "release_date": "2026-05-29",
       "image": "https://i.scdn.co/image/ab67616d0000b273b80a32e8a5c780bf4f00c5e3",
       "spotify_url": "https://open.spotify.com/album/4GtRdEdQ7t6kN87rg97xor",
-      "apple_music_url": "https://music.apple.com/us/search?term=Flowers%20AJ%20McLean",
+      "apple_music_url": "https://music.apple.com/us/album/flowers-single/1895973096?uo=4",
       "total_tracks": 2,
       "album_type": "single"
     },
@@ -211,16 +211,6 @@
       "album_type": "single"
     },
     {
-      "name": "Love is the New Gangsta",
-      "artists": "6LACK",
-      "release_date": "2026-05-22",
-      "image": "https://i.scdn.co/image/ab67616d0000b273484f545b4c03adfff5a39ebe",
-      "spotify_url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd",
-      "apple_music_url": "https://music.apple.com/us/album/love-is-the-new-gangsta/6769897654?uo=4",
-      "total_tracks": 15,
-      "album_type": "album"
-    },
-    {
       "name": "blog era boyz",
       "artists": "mgk, Wiz Khalifa",
       "release_date": "2026-05-22",
@@ -228,6 +218,16 @@
       "spotify_url": "https://open.spotify.com/album/0luMDIjG1HiinBas3na7vc",
       "apple_music_url": "https://music.apple.com/us/search?term=blog%20era%20boyz%20mgk",
       "total_tracks": 9,
+      "album_type": "album"
+    },
+    {
+      "name": "Love is the New Gangsta",
+      "artists": "6LACK",
+      "release_date": "2026-05-22",
+      "image": "https://i.scdn.co/image/ab67616d0000b273484f545b4c03adfff5a39ebe",
+      "spotify_url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd",
+      "apple_music_url": "https://music.apple.com/us/album/love-is-the-new-gangsta/6769897654?uo=4",
+      "total_tracks": 15,
       "album_type": "album"
     },
     {
@@ -336,7 +336,7 @@
       "release_date": "2026-05-21",
       "image": "https://i.scdn.co/image/ab67616d0000b27395a4757e5b5f2396ff2162bd",
       "spotify_url": "https://open.spotify.com/album/7jFizWkFhD0gBHO1qnNsUV",
-      "apple_music_url": "https://music.apple.com/us/album/out-of-body-single/6771138169?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Out%20of%20Body%20%28with%20QUIN%29%206LACK",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -951,22 +951,22 @@
       "album_type": "single"
     },
     {
-      "name": "HunchO STEP! (feat. Quavo)",
-      "artists": "BNYX\u00ae, Quavo",
-      "release_date": "2026-04-17",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c126558877b154f8005e1c32",
-      "spotify_url": "https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT",
-      "apple_music_url": "https://music.apple.com/us/search?term=HunchO%20STEP%21%20BNYX%C2%AE",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Pull Over",
       "artists": "Ludacris",
       "release_date": "2026-04-17",
       "image": "https://i.scdn.co/image/ab67616d0000b273ec98fe4d8b1d574e0defd028",
       "spotify_url": "https://open.spotify.com/album/0fBFZblcPCYspMLHDR1IJu",
       "apple_music_url": "https://music.apple.com/us/search?term=Pull%20Over%20Ludacris",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "HunchO STEP! (feat. Quavo)",
+      "artists": "BNYX\u00ae, Quavo",
+      "release_date": "2026-04-17",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c126558877b154f8005e1c32",
+      "spotify_url": "https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT",
+      "apple_music_url": "https://music.apple.com/us/search?term=HunchO%20STEP%21%20BNYX%C2%AE",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1089,16 +1089,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=CRASH%20OUT%20Chill%27s%20Spotlight",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "VINYL(s): LUCID EDITION [Slowed & Shroomed]",
-      "artists": "Roman Toyi, Mick Jenkins",
-      "release_date": "2026-04-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cf946fe7b739bea9832a94c9",
-      "spotify_url": "https://open.spotify.com/album/63mizS310g5j30haNcXfz1",
-      "apple_music_url": "https://music.apple.com/us/search?term=VINYL%28s%29%3A%20LUCID%20EDITION%20%5BSlowed%20%26%20Shroomed%5D%20Roman%20Toyi",
-      "total_tracks": 2,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -1108,7 +1098,7 @@
       "release_date": "2026-05-29",
       "image": "https://i.scdn.co/image/ab67616d0000b2736fc26b002a2cf7d25f90cd72",
       "spotify_url": "https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI",
-      "apple_music_url": "https://music.apple.com/us/search?term=Philadelphia%27s%20been%20good%20to%20me%20Kurt%20Vile",
+      "apple_music_url": "https://music.apple.com/us/album/philadelphias-been-good-to-me/1884970572?uo=4",
       "total_tracks": 12,
       "album_type": "album"
     },
@@ -1118,7 +1108,7 @@
       "release_date": "2026-05-22",
       "image": "https://i.scdn.co/image/ab67616d0000b273077d76816deabe0f17fcf8fd",
       "spotify_url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u",
-      "apple_music_url": "https://music.apple.com/us/search?term=From%20Down%20Here%20Lola%20Young",
+      "apple_music_url": "https://music.apple.com/us/album/from-down-here-single/6768357139?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1128,7 +1118,7 @@
       "release_date": "2026-05-07",
       "image": "https://i.scdn.co/image/ab67616d0000b273ed3fde1048b49a896ceb1fdc",
       "spotify_url": "https://open.spotify.com/album/3FQ7iNikcCjaEdbm4pByre",
-      "apple_music_url": "https://music.apple.com/us/search?term=Trying%20Times%20-%20A%20COLORS%20SHOW%20James%20Blake",
+      "apple_music_url": "https://music.apple.com/us/album/trying-times-a-colors-show-single/1895832124?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1145,12 +1135,276 @@
   ],
   "news": [
     {
-      "title": "Olivia Rodrigo Announces Surprise Set at 2026 Primavera\u00a0Sound",
-      "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-primavera-sound-2026-surprise-set-1236266140/",
+      "title": "Pixies announce \u2018Bossanova\u2019 and \u2018Trompe le Monde\u2019 reissues with unreleased tracks",
+      "link": "https://www.nme.com/news/music/pixies-announce-bossanova-and-trompe-le-monde-reissues-with-unreleased-tracks-3949547?utm_source=rss&utm_medium=rss&utm_campaign=pixies-announce-bossanova-and-trompe-le-monde-reissues-with-unreleased-tracks",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-07 17:26",
+      "summary": "\nThe Boston indie legends are celebrating their 40th anniversary this year\nThe post Pixies announce &#8216;Bossanova&#8217; and &#8216;Trompe le Monde&#8217; reissues with unreleased tracks appeared f..."
+    },
+    {
+      "title": "Ariana Grande Launches First Tour Since 2019",
+      "link": "https://pitchfork.com/news/ariana-grande-launches-first-tour-since-2019/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-06-07 17:10",
+      "summary": "The Oakland Arena show featured live debuts of a number of songs and the return of older hits like \u201cBreak Free\u201d and \u201cInto You\u201d"
+    },
+    {
+      "title": "Dua Lipa and Callum Turner Celebrate Second Wedding Ceremony in\u00a0Sicily",
+      "link": "https://www.billboard.com/music/music-news/dua-lipa-callum-turner-marry-second-wedding-sicily-italy-1236266408/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-06-06 17:48",
-      "summary": "\"Spilling our guts,\" the Barcelona festival wrote."
+      "published": "2026-06-07 17:04",
+      "summary": "The couple first tied the knot during an intimate ceremony in London in May."
+    },
+    {
+      "title": "Ariana Grande Kicks off \u201cThe Eternal Sunshine Tour: See Setlist + Photos",
+      "link": "https://consequence.net/2026/06/setlist-for-ariana-grandes-eternal-sunshine-tour/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-07 17:03",
+      "summary": "The setlist at Oakland Arena leaned on songs from her last studio album punctuated by hits across her career.\nAriana Grande Kicks off &#8220;The Eternal Sunshine Tour: See Setlist + Photos\nTravis Blan..."
+    },
+    {
+      "title": "Watch Bruce Springsteen joined by Bon Jovi, Public Enemy and others at star-studded New Jersey show",
+      "link": "https://www.nme.com/news/music/watch-bruce-springsteen-joined-by-bon-jovi-public-enemy-and-others-at-star-studded-new-jersey-show-3949543?utm_source=rss&utm_medium=rss&utm_campaign=watch-bruce-springsteen-joined-by-bon-jovi-public-enemy-and-others-at-star-studded-new-jersey-show",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-07 16:45",
+      "summary": "\nThe event marked the opening of the new Bruce Springsteen Center for American Music in West Long Branch, NJ\nThe post Watch Bruce Springsteen joined by Bon Jovi, Public Enemy and others at star-studde..."
+    },
+    {
+      "title": "Watch Fontaines D.C.\u2019s Grian Chatten join Kneecap on stage and rock out to The Cure at Primavera Sound 2026",
+      "link": "https://www.nme.com/news/music/watch-fontaines-d-c-s-grian-chatten-join-kneecap-on-stage-and-rock-out-to-the-cure-at-primavera-sound-2026-3949539?utm_source=rss&utm_medium=rss&utm_campaign=watch-fontaines-d-c-s-grian-chatten-join-kneecap-on-stage-and-rock-out-to-the-cure-at-primavera-sound-2026",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-07 16:03",
+      "summary": "\nChatten and Kneecap performed their 2023 collaboration 'Better Way To Live'\nThe post Watch Fontaines D.C.&#8217;s Grian Chatten join Kneecap on stage and rock out to The Cure at Primavera Sound 2026 ..."
+    },
+    {
+      "title": "Judge Rejects Manson's Request to Dismiss Sexual Assault Lawsuit",
+      "link": "https://loudwire.com/judge-rejects-marilyn-manson-request-dismiss-former-assistant-sexual-assault-lawsuit/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-06-07 16:02",
+      "summary": "Paul Bergen, Redferns / AnnaStills, iStock/Getty Images Plus"
+    },
+    {
+      "title": "Tony Awards 2026: Here\u2019s Where to Watch the 79th Awards Ceremony Live\u00a0Online",
+      "link": "https://www.billboard.com/culture/product-recommendations/tony-awards-2026-how-to-watch-online-free-livestream-1236265186/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-07 15:47",
+      "summary": "Hosted by P!nk, you can livestream the ceremony, with performances from Queen Latifah, Leslie Odom, Jr. and others on June 7."
+    },
+    {
+      "title": "Gorillaz introduced at Primavera Sound by Palestinian activist Aarab Barghouti",
+      "link": "https://www.nme.com/news/music/gorillaz-introduced-at-primavera-sound-by-palestinian-activist-aarab-barghouti-3949535?utm_source=rss&utm_medium=rss&utm_campaign=gorillaz-introduced-at-primavera-sound-by-palestinian-activist-aarab-barghouti",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-07 15:32",
+      "summary": "\nMassive Attack's Robert Del Naja said he had also invited Barghouti to speak at the Barcelona festival, before their set was cancelled due to extreme weather\nThe post Gorillaz introduced at Primavera..."
+    },
+    {
+      "title": "Trump Administration Lawsuit Against Kennedy Center Christmas Jazz Musician Dismissed",
+      "link": "https://www.rollingstone.com/music/music-news/trump-lawsuit-kennedy-center-musician-dismissed-1235573577/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-06-07 15:26",
+      "summary": "Judge withdraws $1 million breach of contract lawsuit against Chuck Redd, citing Washington, D.C.'s anti-SLAPP protections"
+    },
+    {
+      "title": "Morgan Wallen Snatches Security Guard\u2019s Phone and Chucks It Into Crowd",
+      "link": "https://consequence.net/2026/06/morgan-wallen-throws-security-phone-pittsburgh/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-07 14:48",
+      "summary": "At the Pittsburgh concert he *didn't* cancel.\nMorgan Wallen Snatches Security Guard&#8217;s Phone and Chucks It Into Crowd\nAlex Young"
+    },
+    {
+      "title": "Watch Olivia Rodrigo Debut a New Song With the Cure\u2019s Robert Smith",
+      "link": "https://pitchfork.com/news/watch-olivia-rodrigo-debut-a-new-song-with-the-cures-robert-smith/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-06-07 14:37",
+      "summary": "The duo performed \u201cWhat\u2019s Wrong With Me\u201d at Rodrigo\u2019s surprise Primavera Sound set last night"
+    },
+    {
+      "title": "See Olivia Rodrigo Reunite With the Cure\u2019s Robert Smith for New Song \u2018What\u2019s Wrong With Me\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-the-cure-robert-smith-whats-wrong-with-me-1235573569/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-06-07 14:04",
+      "summary": "Singer debuts her latest You Seem Pretty Sad for a Girl So in Love track during surprise set at Primavera Sound"
+    },
+    {
+      "title": "Judge Tosses Trump Team\u2019s Suit Against Drummer for Canceling Kennedy Center Concert",
+      "link": "https://consequence.net/2026/06/trump-kennedy-center-cancellation-suit/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-07 14:01",
+      "summary": "Drummer Chuck Redd had backed out of the show after Trump's name was added to the Kennedy Center.\nJudge Tosses Trump Team&#8217;s Suit Against Drummer for Canceling Kennedy Center Concert\nTravis Bland"
+    },
+    {
+      "title": "Gorillaz Introduced by Palestinian Activist at Primavera Sound",
+      "link": "https://consequence.net/2026/06/gorillaz-introduced-by-palestinian-activist-at-primavera-sound/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-07 13:41",
+      "summary": "Aarab Barghouti, a Palestinian activist and son of imprisoned Palestinian political leader Marwan Barghouti, spoke prior to the band's performance.\nGorillaz Introduced by Palestinian Activist at Prima..."
+    },
+    {
+      "title": "Christian 'CC' Coma Exits Black Veil Brides' 2026 European Tour",
+      "link": "https://loudwire.com/christian-coma-exits-black-veil-brides-2026-european-tour-statements-replacement/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-06-07 13:39",
+      "summary": "Scott Legato, Getty Images"
+    },
+    {
+      "title": "The Best Song on Every Motley Crue Album",
+      "link": "https://loudwire.com/best-song-every-motley-crue-album/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-06-07 11:10",
+      "summary": "Leath\u00fcr / Elektra Records / Chris Walter/WireImage, Getty Images"
+    },
+    {
+      "title": "Watch Shania Twain play intimate, 200-capacity show at The Shacklewell Arms in London",
+      "link": "https://www.nme.com/news/music/watch-shania-twain-play-intimate-200-capacity-show-at-the-shacklewell-arms-in-london-3949521?utm_source=rss&utm_medium=rss&utm_campaign=watch-shania-twain-play-intimate-200-capacity-show-at-the-shacklewell-arms-in-london",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-07 10:40",
+      "summary": "\nIt comes ahead of her opening for Harry Styles on his record-breaking 12-night run at Wembley Stadium next week\nThe post Watch Shania Twain play intimate, 200-capacity show at The Shacklewell Arms in..."
+    },
+    {
+      "title": "Ariana Grande Embraces Every Version of Herself on Eternal Sunshine Tour: 5 Best\u00a0Moments",
+      "link": "https://www.billboard.com/lists/ariana-grande-eternal-sunshine-tour-best-moments-recap/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-07 10:18",
+      "summary": "At long last, Ari returns to the stage -- and the ponytail and stilettos came too."
+    },
+    {
+      "title": "Watch Ariana Grande kick off her \u2018Eternal Sunshine\u2019 tour with her first concert since 2019",
+      "link": "https://www.nme.com/news/music/watch-ariana-grande-kick-off-her-eternal-sunshine-tour-with-her-first-concert-since-2019-3949509?utm_source=rss&utm_medium=rss&utm_campaign=watch-ariana-grande-kick-off-her-eternal-sunshine-tour-with-her-first-concert-since-2019",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-07 10:04",
+      "summary": "\nThe tour is set to feature a huge 10-show residency at The O2 in London\u00a0\nThe post Watch Ariana Grande kick off her &#8216;Eternal Sunshine&#8217; tour with her first concert since 2019 appeared first..."
+    },
+    {
+      "title": "Madonna urges fans to \u201cput your fucking phones down and connect\u201d after returning to the stage",
+      "link": "https://www.nme.com/news/music/madonna-urges-fans-to-put-your-fucking-phones-down-and-connect-after-returning-to-the-stage-3949501?utm_source=rss&utm_medium=rss&utm_campaign=madonna-urges-fans-to-put-your-fucking-phones-down-and-connect-after-returning-to-the-stage",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-07 08:37",
+      "summary": "\n\u201cI came to this earth to be a doer, not a watcher\"\nThe post Madonna urges fans to &#8220;put your fucking phones down and connect&#8221; after returning to the stage appeared first on NME."
+    },
+    {
+      "title": "Ariana Grande\u2019s Eternal Sunshine Tour 2026 Setlist: Every Song Played at the\u00a0First\u00a0Show",
+      "link": "https://www.billboard.com/lists/ariana-grande-eternal-sunshine-tour-opening-night-setlist/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-07 08:36",
+      "summary": "The pop star launched her long-awaited tour at Oakland Arena on Saturday, June 6."
+    },
+    {
+      "title": "Olivia Rodrigo debuts first ever duet \u2018What\u2019s Wrong With Me\u2019 with The Cure\u2019s Robert Smith during surprise Primavera Sound set",
+      "link": "https://www.nme.com/news/music/olivia-rodrigo-debuts-first-ever-duet-whats-wrong-with-me-with-the-cures-robert-smith-during-surprise-primavera-sound-set-3949493?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-debuts-first-ever-duet-whats-wrong-with-me-with-the-cures-robert-smith-during-surprise-primavera-sound-set",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-07 07:51",
+      "summary": "\n\"I can\u2019t believe this song exists with the person that it exists with. I\u2019m just so fucking over the moon\"\nThe post Olivia Rodrigo debuts first ever duet &#8216;What&#8217;s Wrong With Me&#8217; with ..."
+    },
+    {
+      "title": "The 10 Best Moments From Primavera Sound Festival\u00a02026",
+      "link": "https://www.billboard.com/lists/primavera-sound-barcelona-2026-best-moments-olivia-cure/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-07 06:02",
+      "summary": "From legendary late-night headliners to exciting early-day up-and-comers, the best things we saw from a weekend by the water in Barcelona."
+    },
+    {
+      "title": "Bruce Springsteen, Bon Jovi and Public Enemy Deliver Star-Studded Music America\u00a0Concert",
+      "link": "https://www.billboard.com/music/music-news/bruce-springsteen-bon-jovi-public-enemy-music-america-concert-1236266302/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-07 05:38",
+      "summary": "The concert marked Bon Jovi's first public performance in New Jersey since 2018."
+    },
+    {
+      "title": "Olivia Rodrigo Rocks Primavera Sound 2026 With Surprise Set: Recap, Best Moments &\u00a0Setlist",
+      "link": "https://www.billboard.com/lists/olivia-rodrigo-primavera-sound-2026-surprise-recap-setlist/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-07 05:23",
+      "summary": "The pop superstar delivered one of the tightest sets of her career in a (mostly) unexpected appearance at the Barcelona festival \u2014\u00a0including the debut of a starry new duet."
+    },
+    {
+      "title": "Duffy Announces Surprise Return With First Live Concert in 15\u00a0Years",
+      "link": "https://www.billboard.com/music/music-news/duffy-first-live-concert-15-years-1236266280/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-07 05:06",
+      "summary": "\u201cI would love nothing more than for some of you to attend,\u201d the Welsh singer said."
+    },
+    {
+      "title": "Morgan Wallen Criticized for Canceling Pittsburgh Show After Severe Weather Fails to Materialize",
+      "link": "https://consequence.net/2026/06/morgan-wallen-criticized-for-canceling-pittsburgh-show-after-severe-weather-fails-to-materialize/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-07 04:00",
+      "summary": "While storms did roll through the area around 3:00 p.m., the weather cleared well before the show\u2019s scheduled 8:00 p.m.\nMorgan Wallen Criticized for Canceling Pittsburgh Show After Severe Weather Fail..."
+    },
+    {
+      "title": "Charlie Puth Cancels Orlando Concert Due to Illness: \u2018So Devastated\u2019",
+      "link": "https://www.billboard.com/music/music-news/charlie-puth-cancels-orlando-concert-statement-1236266242/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-07 00:20",
+      "summary": "He called off Saturday night's (June 6) stop on the Whatever's Clever! World Tour just hours before showtime."
+    },
+    {
+      "title": "Peso Pluma & Kenia Os Break Up, Say Split Ends \u2018With Love, Respect and On the Best\u00a0Terms\u2019",
+      "link": "https://www.billboard.com/music/latin/peso-pluma-kenia-os-breakup-split-statement-1236266207/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-06 23:10",
+      "summary": "The former couple were first linked through Peso's 2024 \u201cTommy &#38; Pamela,\u201d which peaked at No. 20 on Hot Latin Songs."
+    },
+    {
+      "title": "Olivia Rodrigo Debuts New Song with Robert Smith During Surprise Set at Primavera Sound",
+      "link": "https://consequence.net/2026/06/olivia-rodrigo-robert-smith-new-song-primavera-song/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-06 22:08",
+      "summary": "\"what's wrong with me\" marks Rodrigo's first-ever collaboration and comes from her upcoming album you seem pretty sad for a girl so in love.\nOlivia Rodrigo Debuts New Song with Robert Smith During Sur..."
+    },
+    {
+      "title": "Duffy announces first live show in 15 years after kidnapping ordeal",
+      "link": "https://www.nme.com/news/music/duffy-announces-first-live-show-in-15-years-after-kidnapping-ordeal-3949478?utm_source=rss&utm_medium=rss&utm_campaign=duffy-announces-first-live-show-in-15-years-after-kidnapping-ordeal",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-06 21:25",
+      "summary": "\nShe will play at a \"secret intimate\" venue in London next month, with fans able to enter a free ballot for tickets\nThe post Duffy announces first live show in 15 years after kidnapping ordeal appeare..."
+    },
+    {
+      "title": "Olivia Rodrigo to play secret set at Primavera Sound tonight",
+      "link": "https://www.nme.com/news/music/olivia-rodrigo-to-play-secret-set-at-primavera-sound-tonight-3949474?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-to-play-secret-set-at-primavera-sound-tonight",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-06 19:31",
+      "summary": "\n\"Surprise!!! See you tonight @primavera_sound,\" Rodrigo has written on Instagram. \"I'm excited\"\nThe post Olivia Rodrigo to play secret set at Primavera Sound tonight appeared first on NME."
+    },
+    {
+      "title": "See the Cure Unearth Deep Cuts at Primavera Sound Headlining Set",
+      "link": "https://www.rollingstone.com/music/music-news/the-cure-deep-cuts-primavera-sound-1235573435/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-06-06 18:33",
+      "summary": "\"2 Late,\" \"Wrong Number,\" and \"Mint Car\" among the rarities at Robert Smith and company's first concert since Nov. 2024"
     },
     {
       "title": "Sean Penn Attributes Hatred of Selfies and Schmoozing for Skipping Oscars",
@@ -1167,22 +1421,6 @@
       "category": "general",
       "published": "2026-06-06 16:02",
       "summary": "At the second and final 'Songs that Shaped Us' concert, Springsteen covered Elvis Presley, Bob Dylan, Eddie Floyd, and Southside Johnny before wrapping up with one of his own songs"
-    },
-    {
-      "title": "Shame Give SXSW London a Searing Finale: 5 Best\u00a0Moments",
-      "link": "https://www.billboard.com/lists/shame-sxsw-london-2026-best-moments/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-06 15:30",
-      "summary": "The festival wrapped its music programme on June 5."
-    },
-    {
-      "title": "Knicks Tickets Are the Most Expensive Ever, But These Sites Offer Promo Codes That Could Save You\u00a0Thousands",
-      "link": "https://www.billboard.com/culture/product-recommendations/knicks-nba-finals-ticket-price-deals-find-cheap-seats-online-1236266067/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-06 15:16",
-      "summary": "The cheapest way to get NBA finals tickets? Try a third-party site promo code, to pick up a rare discount on Knicks vs. Spurs stubs."
     },
     {
       "title": "\u2018It\u2019s a Sex Call!\u2019: Earth, Wind and Fire Singer Shares the Real Story Behind a Wedding Classic",
@@ -1209,28 +1447,12 @@
       "summary": "The band's 29-song set included the inclusions of several deep cuts not played in a decade.\nThe Cure Make Glorious Return to the Stage at Primavera Stage\nAlex Young"
     },
     {
-      "title": "Boza Serves as Panama\u2019s Musical Ambassador for World Cup 2026 & More Uplifting Moments in Latin\u00a0Music",
-      "link": "https://www.billboard.com/music/latin/boza-panama-world-cup-2026-mana-met-uplifting-moments-1236265801/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-06 14:00",
-      "summary": "Plus, Man\u00e1's drumkit lands at The Met, and Hamilton, RaiNao and other Latin artists join YouTube Foundry\u2019s 2026 class."
-    },
-    {
       "title": "\u2018Toy Story 5\u2019 VFX Supervisor Says \u2018Decoy Version\u2019 of Film Was Made to Hide Taylor Swift\u2019s Involvement",
       "link": "https://www.rollingstone.com/music/music-news/toy-story-5-decoy-version-hide-taylor-swift-song-1235573400/",
       "source": "Rolling Stone",
       "category": "general",
       "published": "2026-06-06 13:19",
       "summary": "\u201cThe crew that made Toy Story 5 did not know about this secret until last week,\u201d Thomas Jordan said Friday of \"I Knew It, I Knew You\""
-    },
-    {
-      "title": "Phoebe Bridgers\u2019 \u201cThe Lost Tour:\u201d How to Get Tickets",
-      "link": "https://consequence.net/2026/06/phoebe-bridgers-lost-tour-2026-how-to-get-tickets/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-06 13:00",
-      "summary": "For her first solo tour in three years, Bridgers will bring along Alex G and former Black Country, New Road frontman Isaac Wood for select dates. Learn how to get tickets.\nPhoebe Bridgers&#8217; &#822..."
     },
     {
       "title": "5 Best Black Metal Covers of Iron Maiden Songs",
@@ -1249,38 +1471,6 @@
       "summary": "Maverick / Warner Bros., Flip / Interscope, Warner Bros., Roadrunner"
     },
     {
-      "title": "The Offspring\u2019s Dexter Holland Joins Electric Callboy on New Single \u2018Let the Good Times\u00a0Roll\u2019",
-      "link": "https://www.billboard.com/music/music-news/the-offspring-dexter-holland-electric-callboy-let-the-good-times-roll-1236266009/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-06 07:53",
-      "summary": "\"When Electric Callboy sent us the track, it immediately put a grin on our faces,\" the Offspring frontman said."
-    },
-    {
-      "title": "Tucker Wetmore Brings an Effervescent Energy to Billboard Country Live\u2019s Night\u00a0Two",
-      "link": "https://www.billboard.com/lists/tucker-wetmore-stella-lefty-billboard-country-live-night-2/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-06 05:46",
-      "summary": "Newcomer Stella Lefty also won over the overflowing crowd."
-    },
-    {
-      "title": "\u2018Don\u2019t Look for Me, I\u2019m Gone\u2019: Lorde Premieres Unreleased Song, Puts Personal Spin on \u2018Girl, So Confusing\u2019 & More at Gov Ball\u00a02026",
-      "link": "https://www.billboard.com/music/music-news/lorde-gov-ball-2026-setlist-new-song-girl-so-confusing-1236265732/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-06 05:43",
-      "summary": "\"This is the most nervous I've been for a show in a while,\" the festival headliner confessed."
-    },
-    {
-      "title": "The Black Crowes\u2019 Chris Robinson Addresses Backlash Over Onstage\u00a0Comments",
-      "link": "https://www.billboard.com/music/music-news/the-black-crowes-chris-robinson-addresses-backlash-1236265977/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-06 05:42",
-      "summary": "\"No matter what I ever would say or do or feel about things, there's no way I would disrespect our veterans,\" Robinson said."
-    },
-    {
       "title": "Jessie Is the Star of Taylor Swift\u2019s Deeply Nostalgic \u2018Toy Story\u2019 Music Video",
       "link": "https://www.rollingstone.com/music/music-news/taylor-swift-toy-story-5-music-video-i-knew-it-i-knew-you-1235573265/",
       "source": "Rolling Stone",
@@ -1289,60 +1479,12 @@
       "summary": "Warning: The footage may make you a little weepy, too"
     },
     {
-      "title": "Lizzo Seemingly Takes Aim at Nicki Minaj on Alternate Edition of \u2018BITCH\u2019 & Says She \u2018Used to Be the Biggest\u00a0Fan\u2019",
-      "link": "https://www.billboard.com/music/rb-hip-hop/lizzo-nicki-minaj-dis-bitch-remix-1236265514/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-05 23:30",
-      "summary": "The singer/rapper posted a snippet of her new song over a mean X post Minaj posted back in February."
-    },
-    {
-      "title": "The Cure dusted off \u201cMint Car,\u201d \u201calt.end\u201d & more for hit-filled Primavera set (1st show since 2024)",
-      "link": "https://www.brooklynvegan.com/the-cure-dusted-off-mint-car-alt-end-more-for-hit-filled-primavera-set-1st-show-since-2024/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-06-05 22:58",
-      "summary": "Primavera Sound was also the kick-off to The Cure&#8217;s 2026 tour."
-    },
-    {
-      "title": "Tour news: Earl Sweatshirt, Phoebe Bridgers, The Fest, Yaeji, The Menzingers, more",
-      "link": "https://www.brooklynvegan.com/tour-news-earl-sweatshirt-phoebe-bridgers-the-fest-yaeji-the-menzingers-more/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-06-05 22:34",
-      "summary": "Plus: April + Vista, Arima Ederra, and more tour and festival news."
-    },
-    {
-      "title": "In Canada: bbno$ Found Sanctuary Online. Now, He Wants to Pay It Forward to\u00a0Others",
-      "link": "https://www.billboard.com/pro/bbnos-billboard-canada-cover-story-canadian-music-news/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-05 22:26",
-      "summary": "Also up north this week: Billboard Canada reveals its music managers to watch, and Diljit Dosanjh meets students enrolled in a university course dedicated to him."
-    },
-    {
       "title": "Teenage Mutant Ninja Turtles: The Last Ronin Game Revealed with First Trailer: Watch",
       "link": "https://consequence.net/2026/06/teenage-mutant-ninja-turtles-the-last-ronin-game-trailer/",
       "source": "Consequence",
       "category": "general",
       "published": "2026-06-05 22:03",
       "summary": "The game arrives in lieu of the scrapped R-rated movie\u00a0based on the dark and gritty storyline.\nTeenage Mutant Ninja Turtles: The Last Ronin Game Revealed with First Trailer: Watch\nEddie Fu"
-    },
-    {
-      "title": "19 New Songs Out Today",
-      "link": "https://www.brooklynvegan.com/19-new-songs-out-today-95/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-06-05 22:01",
-      "summary": "Hear new songs by Floating Points, Taylor Swift, Madonna, Nia Archives, Big Freedia &#038; SOPHIE, Tinashe, Laura Marling (Raffi covers), Ibeyi, Brutalismus 3000, and more."
-    },
-    {
-      "title": "Our Favorite Songs of the Week (Playlist)",
-      "link": "https://www.brooklynvegan.com/our-favorite-songs-of-the-week-playlist-245/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-06-05 21:58",
-      "summary": "Featuring: Ibibio Sound Machine, Vince Staples, Weezer &#038; Karly Hartzman, Death Cab for Cutie, Rico Nasty, Mastodon, Kelela,  Lee \u201cScratch\u201d Perry &#038; Mouse on Mars, more"
     },
     {
       "title": "Tupac Lives\u2026 in New Video Game Stranger than Heaven",
@@ -1391,159 +1533,7 @@
       "category": "general",
       "published": "2026-06-05 20:55",
       "summary": "A journey back through all of the group's AMAs wins and performances.\nThe History of BTS at the AMAs: Stanning BTS\nTyler Franklin"
-    },
-    {
-      "title": "YG Says Kendrick Told Him Never Drop Albums Just to Exit a Deal",
-      "link": "https://www.xxlmag.com/yg-kendrick-lamar-album-advice-deal/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-06-05 20:28",
-      "summary": "YG/YouTube/Lester Cohen/Getty Images"
-    },
-    {
-      "title": "Sus? Among Us TV Show Gets Surprise Streaming Release on Paramount+",
-      "link": "https://consequence.net/2026/06/among-us-tv-show-paramount-plus/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-05 20:27",
-      "summary": "The adaptation voice cast includes Yvette Nicole Brown, Wayne Knight, Randall Park, Dan Stevens, Elijah Wood, and Patton Oswalt.\nSus? Among Us TV Show Gets Surprise Streaming Release on Paramount+\nLiz..."
-    },
-    {
-      "title": "Protect\u2019s Slimedude2003 is a perfect introduction",
-      "link": "https://www.thefader.com/2026/06/05/protect-slimedude2003-review-perfect-introduction",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-06-05 19:45",
-      "summary": "This collection of leaks spotlights the Buffalo rapper at his most versatile -- and unexpectedly introspective."
-    },
-    {
-      "title": "AP A-sides: 10 songs you need to hear",
-      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-june-5-2026/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-06-05 19:29",
-      "summary": "Our favorite new songs, updated weekly."
-    },
-    {
-      "title": "Feds Show Lil Durk Killing Quando Rondo Look-Alike in Music Video",
-      "link": "https://www.xxlmag.com/lil-durk-new-charges-quando-rondo-text-slide-king-von/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-06-05 18:58",
-      "summary": "Pacer"
-    },
-    {
-      "title": "Marilyn Manson Loses Latest Bid to Toss Ex-Assistant\u2019s Sex Assault Lawsuit",
-      "link": "https://www.rollingstone.com/music/music-news/marilyn-manson-ex-assistant-sex-assault-lawsuit-evan-rachel-1235573134/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-06-05 18:46",
-      "summary": "Judge said he\u2019d \u201chave trouble sleeping\u201d if he dismissed the lawsuit so soon after reviving it"
-    },
-    {
-      "title": "The 9 Biggest Rock + Metal Stars From Indiana",
-      "link": "https://loudwire.com/biggest-rock-metal-stars-from-indiana/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-06-05 18:45",
-      "summary": "Scott Olson, Getty Images, Ross Marino, Getty Images"
-    },
-    {
-      "title": "Steve Lacy announces new LP \u2018Oh yeah?,\u2019 shares \u201cThe Feeling\u201d",
-      "link": "https://www.brooklynvegan.com/steve-lacy-announces-new-lp-oh-yeah-shares-the-feeling/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-06-05 18:09",
-      "summary": "It\u2019s his third solo album, the follow-up to 2022\u2019s \u2019Gemini Rights.\u2019"
-    },
-    {
-      "title": "The Paradox begin a new era with \u201cGood for Me\u201d",
-      "link": "https://www.altpress.com/the-paradox-good-for-me-listen/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-06-05 17:54",
-      "summary": "Their latest single was co-written by blink-182 collaborator Nick Furlong and co-produced by Andrew Goldstein."
-    },
-    {
-      "title": "Mastodon Debut \u201cYour Ghost Again\u201d Live with Dedication to Brent Hinds: Watch",
-      "link": "https://consequence.net/2026/06/mastodon-debut-your-ghost-again-live-with-dedication-to-brent-hinds/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-05 17:48",
-      "summary": "Mastodon played the debut on June 3rd in Prague, Czech Republic, preceded by a moving dedication to Brent Hinds by Troy Sanders.\nMastodon Debut &#8220;Your Ghost Again&#8221; Live with Dedication to B..."
-    },
-    {
-      "title": "Shakira Shuts Down \u2018Fake\u2019 Campaign Images Supporting Colombia Presidential Candidates",
-      "link": "https://www.rollingstone.com/music/music-news/shakira-slams-use-images-colombia-presidential-campaigns-1235573087/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-06-05 17:40",
-      "summary": "\u201cI do not support any candidate, nor have I authorized the use of my image in any campaign,\u201d the singer said"
-    },
-    {
-      "title": "Electric Callboy and The Offspring Join Forces on \u201cLet the Good Times Roll\u201d: Stream",
-      "link": "https://consequence.net/2026/06/electric-callboy-let-the-good-times-roll-the-offspring/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-05 17:24",
-      "summary": "Electric Callboy showcase their defiance of genre on the pop-filled track featuring the Offspring's Dexter Holland.\nElectric Callboy and The Offspring Join Forces on &#8220;Let the Good Times Roll&#82..."
-    },
-    {
-      "title": "Hear South Arcade\u2019s take on Romeo and Juliet with \u201cDEADMEAT\u201d",
-      "link": "https://www.altpress.com/south-arcade-deadmeat-listen/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-06-05 17:09",
-      "summary": "The new single arrives ahead of performances at Download, TRNSMT, and Warped Tour."
-    },
-    {
-      "title": "Stream On This Week: A Tight Little Thriller, a Cute Little Rom-Com, and a Reminder of Elvis\u2019s Powers",
-      "link": "https://consequence.net/2026/06/stream-on-relay-not-suitable-for-work-hoppers/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-05 17:00",
-      "summary": "Here's what to stream the weekend of June 5th.\nStream On This Week: A Tight Little Thriller, a Cute Little Rom-Com, and a Reminder of Elvis&#8217;s Powers\nLiz Shannon Miller"
-    },
-    {
-      "title": "Gracie Abrams\u2019 \u201cThe Look at My Life Tour\u201d Is Selling Out \u2014 Here\u2019s How to Still Get Tickets",
-      "link": "https://consequence.net/2026/06/gracie-abrams-2026-2027-tour-sold-out-ticket-guide/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-05 16:40",
-      "summary": "If you missed out on the on-sale for Gracie Abrams' upcoming tour, don't lose hope \u2014 there are still ways to get tickets before the run begins.\nGracie Abrams&#8217; &#8220;The Look at My Life Tour&#82..."
-    },
-    {
-      "title": "Stream Skrillex\u2019s new surprise album SOMA",
-      "link": "https://www.altpress.com/skrillex-soma-stream/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-06-05 16:35",
-      "summary": "The release coincides with his new event platform, CONTRA."
-    },
-    {
-      "title": "Tierra Whack Announces New Mixtape WHACK\u2019S MUSEUM, Shares \u201cWAX PAPER\u201d: Stream",
-      "link": "https://consequence.net/2026/06/tierra-whack-new-mixtape-whacks-museum-wax-paper/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-05 16:26",
-      "summary": "The follow-up to her 2024 debut,\u00a0WORLD WIDE WHACK, drops on Juneteenth.\nTierra Whack Announces New Mixtape WHACK&#8217;S MUSEUM, Shares &#8220;WAX PAPER&#8221;: Stream\nEddie Fu"
-    },
-    {
-      "title": "Phoebe Bridgers Put on the Tiniest Show Possible in a Phone-Free Madison Square Garden: Review",
-      "link": "https://consequence.net/2026/06/phoebe-bridgers-madison-square-garden-review/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-05 16:16",
-      "summary": "An acoustic set debuting new material also highlighted a new way through a struggling music industry.\nPhoebe Bridgers Put on the Tiniest Show Possible in a Phone-Free Madison Square Garden: Review\nBen..."
-    },
-    {
-      "title": "OSEES surprise release new album \u2018OFF COURSE\u2019 (listen)",
-      "link": "https://www.brooklynvegan.com/osees-surprise-release-new-album-off-course-listen/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-06-05 16:15",
-      "summary": "&#8220;We went back to an older method of writing for this one,&#8221; John Dwyer says. &#8220;We jammed and jammed and jammed."
     }
   ],
-  "last_updated": "2026-06-06T18:09:07.411591"
+  "last_updated": "2026-06-07T18:08:19.788186"
 }

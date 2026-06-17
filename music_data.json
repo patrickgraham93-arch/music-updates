@@ -1,6 +1,36 @@
 {
   "hiphop": [
     {
+      "name": "Nobody Speak Part 2",
+      "artists": "DJ Shadow, Run The Jewels, Denzel Curry, TiaCorine",
+      "release_date": "2026-06-17",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739e87b8989a17726cdbfdd1bc",
+      "spotify_url": "https://open.spotify.com/album/4Fi6GMtpuR7OADGKUxeVDC",
+      "apple_music_url": "https://music.apple.com/us/search?term=Nobody%20Speak%20DJ%20Shadow",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "in the bedroom, i confess",
+      "artists": "Lil Peep, OmenXIII",
+      "release_date": "2026-06-17",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f924e4c318604c75e11fc838",
+      "spotify_url": "https://open.spotify.com/album/1wnbX6p6c5t9ntWL37yaEH",
+      "apple_music_url": "https://music.apple.com/us/search?term=in%20the%20bedroom%2C%20i%20confess%20Lil%20Peep",
+      "total_tracks": 6,
+      "album_type": "single"
+    },
+    {
+      "name": "TOTEM",
+      "artists": "Tierra Whack",
+      "release_date": "2026-06-16",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733104295b5d907391e95464d4",
+      "spotify_url": "https://open.spotify.com/album/3bmHABMiifGn5Z0DxdXBdW",
+      "apple_music_url": "https://music.apple.com/us/search?term=TOTEM%20Tierra%20Whack",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Kodak The Blessing",
       "artists": "Kodak Black",
       "release_date": "2026-06-12",
@@ -21,12 +51,22 @@
       "album_type": "single"
     },
     {
-      "name": "Weight On My Shoulders",
-      "artists": "Polo G",
+      "name": "Lil Herb: Lil Heroin Edition",
+      "artists": "G Herbo",
       "release_date": "2026-06-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db552beabeccfc199ab50d58",
-      "spotify_url": "https://open.spotify.com/album/2BWPGVKmzvbIM4fuwHM7jw",
-      "apple_music_url": "https://music.apple.com/us/search?term=Weight%20On%20My%20Shoulders%20Polo%20G",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735edf493cc8f6d942cc32bfd1",
+      "spotify_url": "https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW",
+      "apple_music_url": "https://music.apple.com/us/album/lil-herb-lil-heroin-edition/6774507041?uo=4",
+      "total_tracks": 35,
+      "album_type": "album"
+    },
+    {
+      "name": "Body Drop",
+      "artists": "HUGEL, Big Sean, Scott Storch",
+      "release_date": "2026-06-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d4c9f6fd9875be66ae13a51",
+      "spotify_url": "https://open.spotify.com/album/1gb4DyWRIyxRM0Iz6hsNNo",
+      "apple_music_url": "https://music.apple.com/us/search?term=Body%20Drop%20HUGEL",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -41,12 +81,82 @@
       "album_type": "single"
     },
     {
+      "name": "Weight On My Shoulders",
+      "artists": "Polo G",
+      "release_date": "2026-06-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db552beabeccfc199ab50d58",
+      "spotify_url": "https://open.spotify.com/album/2BWPGVKmzvbIM4fuwHM7jw",
+      "apple_music_url": "https://music.apple.com/us/search?term=Weight%20On%20My%20Shoulders%20Polo%20G",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Mahogany Caskets",
+      "artists": "Rick Ross",
+      "release_date": "2026-06-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b273589f12a732c59dd3fc71f2aa",
+      "spotify_url": "https://open.spotify.com/album/2cglrltJot3acS6kTOOxJj",
+      "apple_music_url": "https://music.apple.com/us/search?term=Mahogany%20Caskets%20Rick%20Ross",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Real Hustla (ft. GloRilla)",
+      "artists": "Ludacris, GloRilla",
+      "release_date": "2026-06-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734e4963d20c8d047531ae8b8c",
+      "spotify_url": "https://open.spotify.com/album/72RV7iDvkVQdqELmYtw5xF",
+      "apple_music_url": "https://music.apple.com/us/search?term=Real%20Hustla%20%28ft.%20GloRilla%29%20Ludacris",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Sacrifices (feat. James Fauntleroy)",
+      "artists": "Nipsey Hussle, Bino Rideaux, James Fauntleroy",
+      "release_date": "2026-06-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a283eab81af8377f85462559",
+      "spotify_url": "https://open.spotify.com/album/38l98Pl2npTFNM3tl9tife",
+      "apple_music_url": "https://music.apple.com/us/album/if-u-were-mine-feat-james-fauntleroy-single/1791114103?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "God Gotta Afro",
+      "artists": "Rapsody",
+      "release_date": "2026-06-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376f95c317b6f90c051cd1ba0",
+      "spotify_url": "https://open.spotify.com/album/35Roh9uaOwBIvJcuMts4wk",
+      "apple_music_url": "https://music.apple.com/us/album/god-gotta-afro-feat-karabo-ya-morena-single/6777269737?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Gotta Be Us (Be The People)",
       "artists": "Momo Boyd, Trevor Jackson, Smino",
       "release_date": "2026-06-12",
       "image": "https://i.scdn.co/image/ab67616d0000b273c7664f90e96e507104c800e1",
       "spotify_url": "https://open.spotify.com/album/6DB9aJSH9YGNlQLWBRYalw",
       "apple_music_url": "https://music.apple.com/us/album/gotta-be-us-be-the-people-feat-luke-borchelt-sadie/6775906931?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Can't Get Enough (From Original Motion Picture K-POPS!)",
+      "artists": "Alissia, Anderson .Paak",
+      "release_date": "2026-06-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d369fba46cc551e5086a28ac",
+      "spotify_url": "https://open.spotify.com/album/2gcqcUvDmxgDrasQ8S8Gi3",
+      "apple_music_url": "https://music.apple.com/us/album/cant-get-enough-from-original-motion-picture-k-pops-single/6778595054?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Posted Alone (Remix)",
+      "artists": "4Fargo, Ty Dolla $ign",
+      "release_date": "2026-06-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f247ff2f21eb068eb3803ea3",
+      "spotify_url": "https://open.spotify.com/album/5Nb3ziFV641od9Vp7mTOSz",
+      "apple_music_url": "https://music.apple.com/us/search?term=Posted%20Alone%20%28Remix%29%204Fargo",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -76,9 +186,29 @@
       "release_date": "2026-06-08",
       "image": "https://i.scdn.co/image/ab67616d0000b2734864b69b7aff79e082e62233",
       "spotify_url": "https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc",
-      "apple_music_url": "https://music.apple.com/us/album/gemini-season-single/6778145473?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=GEMINI%20SEASON%20Kanye%20West",
       "total_tracks": 1,
       "album_type": "single"
+    },
+    {
+      "name": "Cry Baby",
+      "artists": "Vince Staples",
+      "release_date": "2026-06-05",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dd168c97fdd98891f1f5ca26",
+      "spotify_url": "https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs",
+      "apple_music_url": "https://music.apple.com/us/search?term=Cry%20Baby%20Vince%20Staples",
+      "total_tracks": 10,
+      "album_type": "album"
+    },
+    {
+      "name": "You Only Die 1nce (Deluxe)",
+      "artists": "Freddie Gibbs",
+      "release_date": "2026-06-05",
+      "image": "https://i.scdn.co/image/ab67616d0000b27371bd9e2dd0ff7066599bfd43",
+      "spotify_url": "https://open.spotify.com/album/11iqEmiRj6IJ0eXj4VrhQq",
+      "apple_music_url": "https://music.apple.com/us/search?term=You%20Only%20Die%201nce%20%28Deluxe%29%20Freddie%20Gibbs",
+      "total_tracks": 22,
+      "album_type": "album"
     },
     {
       "name": "Drop The Lo",
@@ -96,7 +226,17 @@
       "release_date": "2026-06-05",
       "image": "https://i.scdn.co/image/ab67616d0000b273dbbd80e89f08a37aec3ae9f6",
       "spotify_url": "https://open.spotify.com/album/4THqnp5AGT1ZtA94wtcrYb",
-      "apple_music_url": "https://music.apple.com/us/album/lay-it-down-single/6771479797?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Lay%20It%20Down%20FattMack",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "WAX PAPER",
+      "artists": "Tierra Whack",
+      "release_date": "2026-06-05",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f93f8ceea49aa12f198af40d",
+      "spotify_url": "https://open.spotify.com/album/6zj9XJYbvNjJIJD5ItS4n6",
+      "apple_music_url": "https://music.apple.com/us/search?term=WAX%20PAPER%20Tierra%20Whack",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -119,6 +259,36 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Craner%20Anthem%204zz",
       "total_tracks": 1,
       "album_type": "single"
+    },
+    {
+      "name": "Come Up Off (feat. Ty Dolla $ign)",
+      "artists": "Luh Tyler, Ty Dolla $ign",
+      "release_date": "2026-06-04",
+      "image": "https://i.scdn.co/image/ab67616d0000b273949de63f5a3e0ea7ba291484",
+      "spotify_url": "https://open.spotify.com/album/1SiGCSewHZeGpT1yq3RFkD",
+      "apple_music_url": "https://music.apple.com/us/search?term=Come%20Up%20Off%20Luh%20Tyler",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Cotton",
+      "artists": "Vince Staples",
+      "release_date": "2026-06-02",
+      "image": "https://i.scdn.co/image/ab67616d0000b27361796c8a96db3d3a1497fbd6",
+      "spotify_url": "https://open.spotify.com/album/5Mtmv7PjVAPSikP9ZOWFzj",
+      "apple_music_url": "https://music.apple.com/us/search?term=Cotton%20Vince%20Staples",
+      "total_tracks": 3,
+      "album_type": "single"
+    },
+    {
+      "name": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
+      "artists": "Anderson .Paak",
+      "release_date": "2026-05-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f3d3f124c2b8bc2e993b6a84",
+      "spotify_url": "https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS",
+      "apple_music_url": "https://music.apple.com/us/album/k-pops-music-from-and-inspired-by-k-pops-motion-picture/6774773710?uo=4",
+      "total_tracks": 17,
+      "album_type": "album"
     },
     {
       "name": "Motion Party (Remix)",
@@ -151,6 +321,26 @@
       "album_type": "single"
     },
     {
+      "name": "Body Tea",
+      "artists": "Nic Nac, G-Eazy, Bobby Brackins",
+      "release_date": "2026-05-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d349d2d91f2340c307409836",
+      "spotify_url": "https://open.spotify.com/album/4LUtHRp5IuhhW7rpbzbOv7",
+      "apple_music_url": "https://music.apple.com/us/search?term=Body%20Tea%20Nic%20Nac",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "You See What We On",
+      "artists": "JasonMartin, E-40, G-Eazy",
+      "release_date": "2026-05-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bcf69fcb265006ab93ab964a",
+      "spotify_url": "https://open.spotify.com/album/5Oxu7KLIM4Y797UzdkCUDL",
+      "apple_music_url": "https://music.apple.com/us/search?term=You%20See%20What%20We%20On%20JasonMartin",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Deep End",
       "artists": "Calboy, NLE Choppa",
       "release_date": "2026-05-29",
@@ -158,6 +348,26 @@
       "spotify_url": "https://open.spotify.com/album/7lLJ7RUjj8nBFt6OgtRvy9",
       "apple_music_url": "https://music.apple.com/us/search?term=Deep%20End%20Calboy",
       "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Chippie",
+      "artists": "Aya Nakamura, Skepta",
+      "release_date": "2026-05-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736080c5b4d8cca2c0b63a749b",
+      "spotify_url": "https://open.spotify.com/album/0USuOPTt7aGCv2cL44dG9e",
+      "apple_music_url": "https://music.apple.com/us/search?term=Chippie%20Aya%20Nakamura",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Flowers",
+      "artists": "AJ McLean, Ty Dolla $ign",
+      "release_date": "2026-05-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b80a32e8a5c780bf4f00c5e3",
+      "spotify_url": "https://open.spotify.com/album/4GtRdEdQ7t6kN87rg97xor",
+      "apple_music_url": "https://music.apple.com/us/search?term=Flowers%20AJ%20McLean",
+      "total_tracks": 2,
       "album_type": "single"
     },
     {
@@ -171,14 +381,34 @@
       "album_type": "single"
     },
     {
-      "name": "bye bye",
-      "artists": "IDK, Endru",
-      "release_date": "2026-05-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b27344d6db1a20bc38878364d371",
-      "spotify_url": "https://open.spotify.com/album/2iKWv9x4Qe3WOvidaejpgB",
-      "apple_music_url": "https://music.apple.com/us/album/bye-bye-single/1884937971?uo=4",
+      "name": "Hostage (feat. 21 Savage)",
+      "artists": "Latto, 21 Savage",
+      "release_date": "2026-05-27",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c531eacac7b34323673bca72",
+      "spotify_url": "https://open.spotify.com/album/5GoqDWareMSCUY6vucaH7g",
+      "apple_music_url": "https://music.apple.com/us/search?term=Hostage%20Latto",
       "total_tracks": 1,
       "album_type": "single"
+    },
+    {
+      "name": "Okayyy",
+      "artists": "Latto, Doja Cat",
+      "release_date": "2026-05-26",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4bbfd2ccdf327f464cdeff0",
+      "spotify_url": "https://open.spotify.com/album/6TEo60to35PCEUfUsrwIVI",
+      "apple_music_url": "https://music.apple.com/us/search?term=Okayyy%20Latto",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Love is the New Gangsta",
+      "artists": "6LACK",
+      "release_date": "2026-05-22",
+      "image": "https://i.scdn.co/image/ab67616d0000b273484f545b4c03adfff5a39ebe",
+      "spotify_url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd",
+      "apple_music_url": "https://music.apple.com/us/album/love-is-the-new-gangsta/6769897654?uo=4",
+      "total_tracks": 15,
+      "album_type": "album"
     },
     {
       "name": "blog era boyz",
@@ -201,6 +431,46 @@
       "album_type": "single"
     },
     {
+      "name": "Wave Gods 2: Cosmos Brothers",
+      "artists": "French Montana, Max B",
+      "release_date": "2026-05-22",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f495a9a480c0aeedf91e5d3e",
+      "spotify_url": "https://open.spotify.com/album/1xrYyIlIIW1GbTsmbog6DU",
+      "apple_music_url": "https://music.apple.com/us/search?term=Wave%20Gods%202%3A%20Cosmos%20Brothers%20French%20Montana",
+      "total_tracks": 26,
+      "album_type": "album"
+    },
+    {
+      "name": "Smaxk Or Die (feat. Playboi Carti)",
+      "artists": "Fatt Smaxk, Playboi Carti",
+      "release_date": "2026-05-22",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5fc4df8b9e2c15bf846ca7",
+      "spotify_url": "https://open.spotify.com/album/0X1jRt7ic4faNgXBHPD7L7",
+      "apple_music_url": "https://music.apple.com/us/search?term=Smaxk%20Or%20Die%20Fatt%20Smaxk",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "ALL THAT A$$",
+      "artists": "Keith Turner, Ty Dolla $ign, Coi Leray, KDDO",
+      "release_date": "2026-05-22",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa7163a6890f4b39c6db29fa",
+      "spotify_url": "https://open.spotify.com/album/5xeFd90zKWinkCA3vKLVAg",
+      "apple_music_url": "https://music.apple.com/us/search?term=ALL%20THAT%20A%24%24%20Keith%20Turner",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Cold War",
+      "artists": "38 Spesh, Busta Rhymes",
+      "release_date": "2026-05-22",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cf5f2cf304e427fd0ba06545",
+      "spotify_url": "https://open.spotify.com/album/2TXv67pbVlPRu1Il3rwXAz",
+      "apple_music_url": "https://music.apple.com/us/search?term=Cold%20War%2038%20Spesh",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "EXPERIMENTAL RAP",
       "artists": "JPEGMAFIA",
       "release_date": "2026-05-21",
@@ -209,6 +479,66 @@
       "apple_music_url": "https://music.apple.com/us/search?term=EXPERIMENTAL%20RAP%20JPEGMAFIA",
       "total_tracks": 25,
       "album_type": "album"
+    },
+    {
+      "name": "White Flag",
+      "artists": "Vince Staples",
+      "release_date": "2026-05-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348418a717ca4c8f0dbf65ccb",
+      "spotify_url": "https://open.spotify.com/album/7gKMZSHTgUjLN32eMPFeXa",
+      "apple_music_url": "https://music.apple.com/us/search?term=White%20Flag%20Vince%20Staples",
+      "total_tracks": 2,
+      "album_type": "single"
+    },
+    {
+      "name": "On Me (with Odeal)",
+      "artists": "6LACK, Odeal",
+      "release_date": "2026-05-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7da74cbf7304a7155ca0bd4",
+      "spotify_url": "https://open.spotify.com/album/1Bb1GCv8qo94WPKA6qpjBh",
+      "apple_music_url": "https://music.apple.com/us/search?term=On%20Me%20%28with%20Odeal%29%206LACK",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "All That Matters (with Leon Thomas & AZ Chike)",
+      "artists": "6LACK, Leon Thomas, AZ Chike",
+      "release_date": "2026-05-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730f653677e51d7872167f09e1",
+      "spotify_url": "https://open.spotify.com/album/3364Jv1uxGjRhJXGjjnFXF",
+      "apple_music_url": "https://music.apple.com/us/search?term=All%20That%20Matters%20%28with%20Leon%20Thomas%20%26%20AZ%20Chike%29%206LACK",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "RUNNING LATE FREESTYLE (with Mereba)",
+      "artists": "6LACK, Mereba",
+      "release_date": "2026-05-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df3dd4ef07769f1c83b590a7",
+      "spotify_url": "https://open.spotify.com/album/6AhyzPar1h00rNvC6T9FMQ",
+      "apple_music_url": "https://music.apple.com/us/search?term=RUNNING%20LATE%20FREESTYLE%20%28with%20Mereba%29%206LACK",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Out of Body (with QUIN)",
+      "artists": "6LACK, QUIN",
+      "release_date": "2026-05-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395a4757e5b5f2396ff2162bd",
+      "spotify_url": "https://open.spotify.com/album/7jFizWkFhD0gBHO1qnNsUV",
+      "apple_music_url": "https://music.apple.com/us/search?term=Out%20of%20Body%20%28with%20QUIN%29%206LACK",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Ever Since U Left Me (West Coast Remix)",
+      "artists": "French Montana, Max B, Ty Dolla $ign",
+      "release_date": "2026-05-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a9f7fd7d11bfeac8f066e566",
+      "spotify_url": "https://open.spotify.com/album/3Slaf3gWTjXE3TUlJHQunD",
+      "apple_music_url": "https://music.apple.com/us/search?term=Ever%20Since%20U%20Left%20Me%20%28West%20Coast%20Remix%29%20French%20Montana",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "EXPERIMENTAL RAP",
@@ -276,7 +606,7 @@
       "release_date": "2026-05-15",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "spotify_url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY",
-      "apple_music_url": "https://music.apple.com/us/album/iceman/6769649287?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=ICEMAN%20Drake",
       "total_tracks": 18,
       "album_type": "album"
     },
@@ -296,7 +626,7 @@
       "release_date": "2026-05-15",
       "image": "https://i.scdn.co/image/ab67616d0000b273b92879e45761d711016476df",
       "spotify_url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno",
-      "apple_music_url": "https://music.apple.com/us/search?term=HABIBTI%20Drake",
+      "apple_music_url": "https://music.apple.com/us/album/habibti/6769647917?uo=4",
       "total_tracks": 11,
       "album_type": "album"
     },
@@ -307,6 +637,26 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27333de9da4cba65a67445a29e8",
       "spotify_url": "https://open.spotify.com/album/2jlmcvz0xlwOsOGbiMFz7b",
       "apple_music_url": "https://music.apple.com/us/search?term=UP%20%26%20AWAY%21%20Stoic",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Outside",
+      "artists": "Desiigner",
+      "release_date": "2026-05-15",
+      "image": "https://i.scdn.co/image/ab67616d0000b27351bf0bfd1ffce87cbebc0a29",
+      "spotify_url": "https://open.spotify.com/album/5Os7wz6ccNhHPg5aKCiESn",
+      "apple_music_url": "https://music.apple.com/us/search?term=Outside%20Desiigner",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "BOSS",
+      "artists": "Lacrim, Rick Ross",
+      "release_date": "2026-05-14",
+      "image": "https://i.scdn.co/image/ab67616d0000b273659192f7b7685924c042c6ac",
+      "spotify_url": "https://open.spotify.com/album/1Fp8MtozDn3BjKabseQ4Ms",
+      "apple_music_url": "https://music.apple.com/us/search?term=BOSS%20Lacrim",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -331,6 +681,16 @@
       "album_type": "single"
     },
     {
+      "name": "TEST ME (feat. JID)",
+      "artists": "Kenny Mason, JID",
+      "release_date": "2026-05-11",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308d663da676a43587c4c239c",
+      "spotify_url": "https://open.spotify.com/album/1d472UD9qNkrHxIMq9Ixmt",
+      "apple_music_url": "https://music.apple.com/us/search?term=TEST%20ME%20Kenny%20Mason",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "PLANET FROG",
       "artists": "Action Bronson",
       "release_date": "2026-05-08",
@@ -338,6 +698,76 @@
       "spotify_url": "https://open.spotify.com/album/5zRHU8HegfzTYosVvihqet",
       "apple_music_url": "https://music.apple.com/us/search?term=PLANET%20FROG%20Action%20Bronson",
       "total_tracks": 13,
+      "album_type": "album"
+    },
+    {
+      "name": "GEEKIN (feat. Lil Yachty)",
+      "artists": "Nemzzz, Lil Yachty",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b27322c1ed233b0cf05345c29844",
+      "spotify_url": "https://open.spotify.com/album/3p3rk95jqISXQf26v9cz3u",
+      "apple_music_url": "https://music.apple.com/us/search?term=GEEKIN%20Nemzzz",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Ashin' the Blunt (with Young Thug)",
+      "artists": "6LACK, Young Thug",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735009296e840cdf541731f01b",
+      "spotify_url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL",
+      "apple_music_url": "https://music.apple.com/us/search?term=Ashin%27%20the%20Blunt%20%28with%20Young%20Thug%29%206LACK",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
+      "artists": "DEAN, Anderson .Paak",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b27369f8c4e4f81e890c948c0efa",
+      "spotify_url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd",
+      "apple_music_url": "https://music.apple.com/us/search?term=Aftertaste%20%28Inspired%20by%20the%20Original%20Motion%20Picture%20K-POPS%21%29%20DEAN",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Alicia (with Lil Baby)",
+      "artists": "Hotboii, Lil Baby",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304e75ac819c2ee51774fff6e",
+      "spotify_url": "https://open.spotify.com/album/1miVPmKXGnxetl1HF4MXvU",
+      "apple_music_url": "https://music.apple.com/us/search?term=Alicia%20%28with%20Lil%20Baby%29%20Hotboii",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Go",
+      "artists": "Key Glock",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352cae755a8c1c5fa700fb544",
+      "spotify_url": "https://open.spotify.com/album/7eBEI7DmvyUC9loMP0FlPN",
+      "apple_music_url": "https://music.apple.com/us/search?term=Go%20Key%20Glock",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Bed of Roses (with Wale)",
+      "artists": "Teyana Taylor, Wale",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f05036d93f29cbfb67013948",
+      "spotify_url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3",
+      "apple_music_url": "https://music.apple.com/us/search?term=Bed%20of%20Roses%20%28with%20Wale%29%20Teyana%20Taylor",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "FOR THE LOVE 2.5",
+      "artists": "Dave East, Scram Jones, Mike & Keys",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b273881d6e54d1a2cf93aa7de120",
+      "spotify_url": "https://open.spotify.com/album/2tvu2468mKzI99cKvOHTKU",
+      "apple_music_url": "https://music.apple.com/us/search?term=FOR%20THE%20LOVE%202.5%20Dave%20East",
+      "total_tracks": 19,
       "album_type": "album"
     },
     {
@@ -351,6 +781,16 @@
       "album_type": "album"
     },
     {
+      "name": "Everybody (G-Mix)",
+      "artists": "Saint Lamaar, Trippie Redd, Babyy Bumpstock",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b27367214a469b31322c67d8f6de",
+      "spotify_url": "https://open.spotify.com/album/5YkI9R4VqX0RSilFHPB7yD",
+      "apple_music_url": "https://music.apple.com/us/search?term=Everybody%20%28G-Mix%29%20Saint%20Lamaar",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "The Main Line",
       "artists": "38 Spesh, Method Man",
       "release_date": "2026-05-08",
@@ -358,6 +798,26 @@
       "spotify_url": "https://open.spotify.com/album/6yiijYl2UNga7ot3hJkADu",
       "apple_music_url": "https://music.apple.com/us/search?term=The%20Main%20Line%2038%20Spesh",
       "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Nirvana",
+      "artists": "PNAU, EARTHGANG, sadMONTH",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b27309d3c9782d80b86a0e1f9d6b",
+      "spotify_url": "https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI",
+      "apple_music_url": "https://music.apple.com/us/search?term=Nirvana%20PNAU",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "POP DAT THANG (David Guetta Mix)",
+      "artists": "DaBaby, David Guetta",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733e2a310eb78f1d4d320bb027",
+      "spotify_url": "https://open.spotify.com/album/6V1lmFqpNZqyRgOZY64HYf",
+      "apple_music_url": "https://music.apple.com/us/search?term=POP%20DAT%20THANG%20%28David%20Guetta%20Mix%29%20DaBaby",
+      "total_tracks": 3,
       "album_type": "single"
     },
     {
@@ -391,6 +851,16 @@
       "album_type": "single"
     },
     {
+      "name": "IT'S BEEN AWFUL",
+      "artists": "Isaiah Rashad",
+      "release_date": "2026-05-01",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f595e5f39c4050805de5caf5",
+      "spotify_url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH",
+      "apple_music_url": "https://music.apple.com/us/search?term=IT%27S%20BEEN%20AWFUL%20Isaiah%20Rashad",
+      "total_tracks": 16,
+      "album_type": "album"
+    },
+    {
       "name": "They Just Ain't You",
       "artists": "Lil Tjay",
       "release_date": "2026-05-01",
@@ -399,6 +869,26 @@
       "apple_music_url": "https://music.apple.com/us/search?term=They%20Just%20Ain%27t%20You%20Lil%20Tjay",
       "total_tracks": 13,
       "album_type": "album"
+    },
+    {
+      "name": "POP DAT THANG (feat. GloRilla, Yung Miami & YKNIECE) [Official Remix]",
+      "artists": "DaBaby, GloRilla, YKNIECE",
+      "release_date": "2026-05-01",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c143c67b0ead20672d77a0ed",
+      "spotify_url": "https://open.spotify.com/album/1w388FR5FmKmAa6Ju1lrW1",
+      "apple_music_url": "https://music.apple.com/us/search?term=POP%20DAT%20THANG%20%5BOfficial%20Remix%5D%20DaBaby",
+      "total_tracks": 2,
+      "album_type": "single"
+    },
+    {
+      "name": "MUTT",
+      "artists": "NAV, Quavo",
+      "release_date": "2026-05-01",
+      "image": "https://i.scdn.co/image/ab67616d0000b27302e14c3900a02d50f75220ba",
+      "spotify_url": "https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm",
+      "apple_music_url": "https://music.apple.com/us/search?term=MUTT%20NAV",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "BOY IN RED",
@@ -441,6 +931,16 @@
       "album_type": "single"
     },
     {
+      "name": "Blackberry Marmalade",
+      "artists": "Vince Staples",
+      "release_date": "2026-04-28",
+      "image": "https://i.scdn.co/image/ab67616d0000b27377447f74b15bb80e6d590374",
+      "spotify_url": "https://open.spotify.com/album/109EG53gglqHzxhMHUR916",
+      "apple_music_url": "https://music.apple.com/us/search?term=Blackberry%20Marmalade%20Vince%20Staples",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Roofless Records For Drop Tops: Disc 2",
       "artists": "Curren$y, Wiz Khalifa, Harry Fraud",
       "release_date": "2026-04-28",
@@ -449,6 +949,26 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Roofless%20Records%20For%20Drop%20Tops%3A%20Disc%202%20Curren%24y",
       "total_tracks": 8,
       "album_type": "album"
+    },
+    {
+      "name": "STORM",
+      "artists": "GENER8ION, Yung Lean",
+      "release_date": "2026-04-24",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5a3e8908f546883d245acc8",
+      "spotify_url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA",
+      "apple_music_url": "https://music.apple.com/us/search?term=STORM%20GENER8ION",
+      "total_tracks": 2,
+      "album_type": "single"
+    },
+    {
+      "name": "GOMF (feat. GloRilla)",
+      "artists": "Latto, GloRilla",
+      "release_date": "2026-04-24",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5b0b674e2abf67ac06c957a",
+      "spotify_url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO",
+      "apple_music_url": "https://music.apple.com/us/search?term=GOMF%20Latto",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "TRICERATOPS",
@@ -461,12 +981,52 @@
       "album_type": "single"
     },
     {
+      "name": "M\u00e1s Tiempo Vol. 2",
+      "artists": "Skepta",
+      "release_date": "2026-04-24",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359feb5dcd719a1d952e2bd5c",
+      "spotify_url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA",
+      "apple_music_url": "https://music.apple.com/us/search?term=M%C3%A1s%20Tiempo%20Skepta",
+      "total_tracks": 3,
+      "album_type": "single"
+    },
+    {
+      "name": "Cheesing",
+      "artists": "Bfb Da Packman, Key Glock",
+      "release_date": "2026-04-24",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b0a65bd2718eeedb0df9beb1",
+      "spotify_url": "https://open.spotify.com/album/58lQ5r90oOtncXKvJOfIqw",
+      "apple_music_url": "https://music.apple.com/us/search?term=Cheesing%20Bfb%20Da%20Packman",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Hard to Kill (20th Anniversary Deluxe Edition)",
+      "artists": "Gucci Mane",
+      "release_date": "2026-04-24",
+      "image": "https://i.scdn.co/image/ab67616d0000b273145e2f3ea9d36bc280ce997c",
+      "spotify_url": "https://open.spotify.com/album/7GeBy9VtSnh1D5SIRfcTPL",
+      "apple_music_url": "https://music.apple.com/us/search?term=Hard%20to%20Kill%20Gucci%20Mane",
+      "total_tracks": 18,
+      "album_type": "album"
+    },
+    {
       "name": "Pocket (feat. Cardi B)",
       "artists": "Kehlani, Cardi B",
       "release_date": "2026-04-23",
       "image": "https://i.scdn.co/image/ab67616d0000b27387713080274236a0f1e4b30c",
       "spotify_url": "https://open.spotify.com/album/4xGIbSnqkqLeYKvMCSX8QG",
       "apple_music_url": "https://music.apple.com/us/search?term=Pocket%20Kehlani",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "No Such Thing (feat. Clipse)",
+      "artists": "Kehlani, Clipse",
+      "release_date": "2026-04-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b273029190c4de0256b493b933cc",
+      "spotify_url": "https://open.spotify.com/album/7KiE06K1XOFkiyZLGuFaQV",
+      "apple_music_url": "https://music.apple.com/us/search?term=No%20Such%20Thing%20Kehlani",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -481,6 +1041,26 @@
       "album_type": "single"
     },
     {
+      "name": "Lights On (feat. Big Sean)",
+      "artists": "Kehlani, Big Sean",
+      "release_date": "2026-04-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317d0677ce58675002ceba866",
+      "spotify_url": "https://open.spotify.com/album/6KX8HwnLauq6zMyiSd2Z8m",
+      "apple_music_url": "https://music.apple.com/us/search?term=Lights%20On%20Kehlani",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Bando (feat. Pharrell Williams & Quavo)",
+      "artists": "Angelique Kidjo, Pharrell Williams, Quavo",
+      "release_date": "2026-04-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c3c275602cd87fad00703a70",
+      "spotify_url": "https://open.spotify.com/album/7j3AHLGLBUOCLWpfOL53bF",
+      "apple_music_url": "https://music.apple.com/us/search?term=Bando%20Angelique%20Kidjo",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Fire in the Booth, Pt. 2 - Fivio Foreign",
       "artists": "Fivio Foreign, Charlie Sloth, Fire In The Booth",
       "release_date": "2026-04-23",
@@ -489,6 +1069,16 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Fire%20in%20the%20Booth%20-%20Fivio%20Foreign%20Fivio%20Foreign",
       "total_tracks": 1,
       "album_type": "single"
+    },
+    {
+      "name": "Ashes In The Safe",
+      "artists": "Benny The Butcher, Fuego Base, Black Soprano Family",
+      "release_date": "2026-04-22",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731b4ef21b5f9959ed7c0cedd2",
+      "spotify_url": "https://open.spotify.com/album/4GembTjeFLOee4JQwXCDuu",
+      "apple_music_url": "https://music.apple.com/us/search?term=Ashes%20In%20The%20Safe%20Benny%20The%20Butcher",
+      "total_tracks": 9,
+      "album_type": "album"
     },
     {
       "name": "melting clocks",
@@ -519,6 +1109,26 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Life%20on%20Edge%20Lil%20Tjay",
       "total_tracks": 2,
       "album_type": "single"
+    },
+    {
+      "name": "Yoppenheimer (Remix)",
+      "artists": "Lelo, Joey Bada$$",
+      "release_date": "2026-04-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4d13a237c5b46ea21d05fcd",
+      "spotify_url": "https://open.spotify.com/album/6elhoYIFHIWDx96tw7iY3K",
+      "apple_music_url": "https://music.apple.com/us/search?term=Yoppenheimer%20%28Remix%29%20Lelo",
+      "total_tracks": 2,
+      "album_type": "single"
+    },
+    {
+      "name": "No Questions Asked",
+      "artists": "3rd Eye Magic, C. Young, Charles Hamilton",
+      "release_date": "2026-04-19",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386c2751c09a00693e1a96e24",
+      "spotify_url": "https://open.spotify.com/album/729wQgfTtKYHoQ1mQiyNcP",
+      "apple_music_url": "https://music.apple.com/us/search?term=No%20Questions%20Asked%203rd%20Eye%20Magic",
+      "total_tracks": 16,
+      "album_type": "album"
     }
   ],
   "rock": [
@@ -528,7 +1138,7 @@
       "release_date": "2026-05-29",
       "image": "https://i.scdn.co/image/ab67616d0000b2736fc26b002a2cf7d25f90cd72",
       "spotify_url": "https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI",
-      "apple_music_url": "https://music.apple.com/us/album/philadelphias-been-good-to-me/1884970572?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Philadelphia%27s%20been%20good%20to%20me%20Kurt%20Vile",
       "total_tracks": 12,
       "album_type": "album"
     },
@@ -548,7 +1158,7 @@
       "release_date": "2026-05-07",
       "image": "https://i.scdn.co/image/ab67616d0000b273ed3fde1048b49a896ceb1fdc",
       "spotify_url": "https://open.spotify.com/album/3FQ7iNikcCjaEdbm4pByre",
-      "apple_music_url": "https://music.apple.com/us/album/trying-times-a-colors-show-single/1895832124?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Trying%20Times%20-%20A%20COLORS%20SHOW%20James%20Blake",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -565,405 +1175,405 @@
   ],
   "news": [
     {
-      "title": "YHWH Nailgun Are Taking Magazine on Tour",
-      "link": "https://pitchfork.com/news/yhwh-nailgun-are-taking-magazine-on-tour/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-06-16 20:08",
-      "summary": "Will all the shows be 11 minutes?"
+      "title": "Your next favorite rapper performed at Summer Smash 2026",
+      "link": "https://www.thefader.com/2026/06/17/summer-smash-2026-portraits",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-06-17 19:27",
+      "summary": "The FADER was backstage at Summer Smash last weekend capturing portraits of everyone from diamond* and Tezzus to PlaqueBoyMax and prettifun."
     },
     {
-      "title": "Grammys adding 5 new categories for 2027, loosen Best New Artist eligibility rules",
-      "link": "https://www.brooklynvegan.com/grammys-adding-5-new-categories-for-2027-loosen-best-new-artist-eligibility-rules/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-06-16 20:07",
-      "summary": "New Grammy categories for 2027 include Best Asian Pop Music Performance, Best Latin Song, and Best R&#038;B Collaboration or Duo/Group Performance."
-    },
-    {
-      "title": "Man Acquitted in Young Dolph's Murder in Court for Cyberstalking",
-      "link": "https://www.xxlmag.com/man-acquitted-young-dolph-murder-cyberstalking/",
+      "title": "The Summer's Most Unexpected Rap Win Might Belong to Yung Miami",
+      "link": "https://www.xxlmag.com/yung-miami-spend-dat-viral/",
       "source": "XXL Mag",
       "category": "hiphop",
-      "published": "2026-06-16 20:02",
-      "summary": "ABC24 Memphis/YouTube"
+      "published": "2026-06-17 19:05",
+      "summary": "Prince Williams/WireImage/UMG Recordings"
     },
     {
-      "title": "The Dillinger Escape Plan Announce Final Reunion Tour Dates",
-      "link": "https://loudwire.com/dillinger-escape-plan-final-calculating-infinity-reunion-tour-dates/",
+      "title": "Spider-Man Faces a Very Hulk-y Hulk in Brand New Day Trailer: Watch",
+      "link": "https://consequence.net/2026/06/spider-man-brand-new-day-trailer-hulk/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-17 19:04",
+      "summary": "On July 31st, the next Sony/MCU adventure swings into theaters. \nSpider-Man Faces a Very Hulk-y Hulk in Brand New Day Trailer: Watch\nLiz Shannon Miller"
+    },
+    {
+      "title": "Faith No More Bassist Talks About Upcoming Reunion",
+      "link": "https://loudwire.com/faith-no-more-billy-gould-reunion/",
       "source": "Loudwire",
       "category": "rock",
-      "published": "2026-06-16 19:59",
-      "summary": "Elsie Roymans, Getty Images"
+      "published": "2026-06-17 19:04",
+      "summary": "YouTube: Jadranka Jankovic Nesic"
     },
     {
-      "title": "Molly Santana and North West announce 14-date Kimokawaii tour",
-      "link": "https://www.thefader.com/2026/06/16/molly-santana-north-west-kimokawaii-tour-dates-announce",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-06-16 19:58",
-      "summary": "The co-headlining U.S. tour will also cross into Canada for a single show in Toronto."
-    },
-    {
-      "title": "Grammys introduce new category Best Asian Pop Music Performance",
-      "link": "https://www.thefader.com/2026/06/16/grammys-new-category-best-asian-pop-music-performance",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-06-16 19:53",
-      "summary": "The announcement is already stirring up discourse."
-    },
-    {
-      "title": "North West Announces Tour Dates with Molly Santana",
-      "link": "https://consequence.net/2026/06/north-west-tour-dates-molly-santana/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-16 19:50",
-      "summary": "The 14-city run marks West's debut headline outing.\nNorth West Announces Tour Dates with Molly Santana\nScoop Harrison"
-    },
-    {
-      "title": "\u2018The Valley\u2019 Star\u00a0Michelle Saniei Confirms She\u2019s Dating Dr. Dre: \u2018We Love Being in Each Other\u2019s Company\u2019",
-      "link": "https://www.billboard.com/music/rb-hip-hop/the-valley-michelle-saniei-dating-dr-dre-1236274427/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-16 19:46",
-      "summary": "The couple was spotted holding hands in Malibu in April."
-    },
-    {
-      "title": "Built to Spill Announce Second Half of 2026 Fall US Tour",
-      "link": "https://consequence.net/2026/06/built-to-spill-announce-second-half-of-2026-fall-tour/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-16 19:42",
-      "summary": "Built to Spill hits Brooklyn, NY, Baltimore, Richmond, VA, Cambridge, MA, and more on the latter leg of their fall U.S. tour\nBuilt to Spill Announce Second Half of 2026 Fall US Tour\nTravis Bland"
-    },
-    {
-      "title": "Daughtry Announce \u201c20 Years Unplugged\u201d 2026 US Tour",
-      "link": "https://consequence.net/2026/06/daughtry-20-years-unplugged-2026-us-tour/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-16 19:41",
-      "summary": "The acoustic trek runs from mid October through mid November.\nDaughtry Announce &#8220;20 Years Unplugged&#8221; 2026 US Tour\nSpencer Kaufman"
-    },
-    {
-      "title": "Here Are All the Official FIFA World Cup Songs & Anthems,\u00a0Ranked",
-      "link": "https://www.billboard.com/lists/world-cup-songs-anthems-list/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-16 19:40",
-      "summary": "There are many World Cup Songs, but these are the tracks officially adopted by FIFA for each soccer tournament since 1990. Find out which one is our favorite."
-    },
-    {
-      "title": "Squirrel Flower announces new album & fall tour, shares \u201cReelin'\u201d",
-      "link": "https://www.brooklynvegan.com/squirrel-flower-announces-new-album-fall-tour-shares-reelin/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-06-16 19:39",
-      "summary": "&#8216;Say a Prayer to the Gods of Getting Going&#8217; will be out August 21 and Squirrel Flower&#8217;s tour schedule includes dates with Spoon, The Beths, youbet and more."
-    },
-    {
-      "title": "Kelela Can\u2019t Work it Out With A.K. Paul on New Single \u201cOutta Time\u201d",
-      "link": "https://pitchfork.com/news/watch-kelela-sing-to-ak-paul-on-new-single-outta-time/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-06-16 19:35",
-      "summary": "It was originally written for her 2017 album, Take Me Apart"
-    },
-    {
-      "title": "YouTube AI Lawsuit, Lionel Richie Trademark, Diddy Case Ruling & More Top Music Law\u00a0News",
-      "link": "https://www.billboard.com/pro/youtube-ai-lawsuit-lionel-richie-trademark-music-law-news/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-16 19:35",
-      "summary": "In this week's Legal Beat newsletter, YouTube makes a surprising argument, Lionel Richie protects his voice, Diddy wins another civil case and much more."
-    },
-    {
-      "title": "Big Freedia is keeping SOPHIE\u2019s legacy alive with new EP \u2019Released At Last\u2019",
-      "link": "https://www.thefader.com/2026/06/16/big-freedia-sophie-ep-released-at-last-interview-",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-06-16 19:32",
-      "summary": "The new project comes 10 years after the two musical trailblazers had one \u201cmagical\u201d session."
-    },
-    {
-      "title": "Lola Young, Roger Daltrey & FLO Lead Winners at 2026 ASCAP London\u00a0Awards",
-      "link": "https://www.billboard.com/pro/ascap-london-winners-2026-lola-young-roger-daltrey/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-16 19:30",
-      "summary": "Figures from music, film and TV were recognized at the London ceremony on Tuesday (June 16)."
-    },
-    {
-      "title": "Grammys to Make Best New Artist Category Even More Confusing",
-      "link": "https://pitchfork.com/news/grammys-to-make-best-new-artist-even-more-confusing/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-06-16 19:27",
-      "summary": "The number of times an artist can submit themselves for a nomination has increased"
-    },
-    {
-      "title": "ASAP Rocky Pulls Fan On Stage After Dad Error, Invited to Wedding",
-      "link": "https://www.xxlmag.com/asap-rocky-pulls-womans-fiance-stage-wedding-invite/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-06-16 18:58",
-      "summary": "Ava Klein/Instagram"
-    },
-    {
-      "title": "Lil Durk Codefendants Insist on Getting Their Own Separate Trials",
-      "link": "https://www.xxlmag.com/lil-durk-codefendants-want-separate-trials/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-06-16 18:57",
-      "summary": "Broward Sheriff's Office"
-    },
-    {
-      "title": "Acid Bath add more US shows to tour, playing NYC\u2019s Rooftop at Pier 17 w/ Obituary and Thou",
-      "link": "https://www.brooklynvegan.com/acid-bath-add-more-us-shows-to-tour-playing-nycs-rooftop-at-pier-17-w-obituary-and-thou/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-06-16 18:55",
-      "summary": "The Louisiana sludge metal legends are also playing Red Rocks, Chicago&#8217;s Salt Shed and more."
-    },
-    {
-      "title": "Riley Green & Blake Pendergrass Take Early Honors Ahead of Nashville Songwriter\u00a0Awards",
-      "link": "https://www.billboard.com/music/awards/riley-green-blake-pendergrass-win-nashville-songwriter-awards-1236274213/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-16 18:40",
-      "summary": "The ninth annual Nashville Songwriter Awards will be held in September."
-    },
-    {
-      "title": "Johnny Marr Announces New Album, The Age of Everything, Unveils First Single: Stream",
-      "link": "https://consequence.net/2026/06/johnny-marr-announces-album-the-age-of-everything/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-16 18:31",
-      "summary": "The new effort from The Smiths guitarist and songwriter will be his fifth solo studio album.\nJohnny Marr Announces New Album, The Age of Everything, Unveils First Single: Stream\nTravis Bland"
-    },
-    {
-      "title": "Mojave 3\u2019s Discography Getting Reissued by 4AD",
-      "link": "https://consequence.net/2026/06/4ad-reissuing-mojave-3-albums/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-16 18:27",
-      "summary": "All five albums by the band that came out of Slowdive's 1995 dissolution were remastered in Abbey Road Studio.\nMojave 3&#8217;s Discography Getting Reissued by 4AD\nTravis Bland"
-    },
-    {
-      "title": "Chris Brown Dog-Mauling Trial Delayed Over Mistrial",
-      "link": "https://www.rollingstone.com/music/music-news/chris-brown-dog-mauling-trial-mistrial-1235578789/",
+      "title": "OG Anunoby Tells Alicia Keys \u2018The City\u2019s Asking for You\u2019 Ahead of Knicks Ceremony Performance",
+      "link": "https://www.rollingstone.com/music/music-news/alicia-keys-perform-new-york-knicks-city-hall-ceremony-1235579698/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-06-16 18:27",
-      "summary": "A Los Angeles judge excused jurors, citing misconduct by a panel member, and ordered Brown back on Thursday for the start of testimony in a new trial"
+      "published": "2026-06-17 19:02",
+      "summary": "The New York-born and raised musician will perform at City Hall on Thursday, June 18, following the championship parade"
     },
     {
-      "title": "Built to Spill & Quasi announce fall tour",
-      "link": "https://www.brooklynvegan.com/built-to-spill-quasi-announce-fall-tour/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-06-16 18:23",
-      "summary": "The fall tour opens with two Brooklyn shows at Music Hall of Williamsburg"
-    },
-    {
-      "title": "CBS Signs Deal to Avoid Legal Trouble From Stephen Colbert Playing Copyrighted \u2018Peanuts\u2019 Song",
-      "link": "https://www.billboard.com/pro/cbs-deal-avoid-legal-trouble-stephen-colbert-peanuts-song/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-16 18:18",
-      "summary": "The departing Late Night host jokingly hoped playing a Charlie Brown song wouldn't \"cost CBS any money!\" It apparently did."
-    },
-    {
-      "title": "A Timeline of Jelly Roll & Bunnie Xo\u2019s\u00a0Relationship",
-      "link": "https://www.billboard.com/lists/jelly-roll-bunnie-xo-relationship-timeline/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-16 18:17",
-      "summary": "The country star filed for divorce after 10 years of marriage to the podcaster."
-    },
-    {
-      "title": "Flaming Lips cancel show as they share photo of Wayne Coyne hospitalised with pneumonia",
-      "link": "https://www.nme.com/news/music/flaming-lips-cancel-show-as-they-share-photo-of-wayne-coyne-hospitalised-with-pneumonia-3951329?utm_source=rss&utm_medium=rss&utm_campaign=flaming-lips-cancel-show-as-they-share-photo-of-wayne-coyne-hospitalised-with-pneumonia",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-06-16 18:15",
-      "summary": "\n\"Wayne has pneumonia and has been ordered to bed rest\"\nThe post Flaming Lips cancel show as they share photo of Wayne Coyne hospitalised with pneumonia appeared first on NME."
-    },
-    {
-      "title": "Ceremony Announce New Album and 2026 Tour, Unleash \u201cDeath Destruction Mayhem\u201d: Stream",
-      "link": "https://consequence.net/2026/06/ceremony-new-album-tour-single-death-destruction-mayhem/",
+      "title": "Radiohead\u2019s Kid A Mnesia Motion Picture House Is a Bridge Between Generations",
+      "link": "https://consequence.net/2026/06/radioheads-kid-a-mnesia-bridge-between-generations/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-06-16 18:13",
-      "summary": "The punk rock band's seventh LP Tell Me Your Dream will be out August 7th.\nCeremony Announce New Album and 2026 Tour, Unleash &#8220;Death Destruction Mayhem&#8221;: Stream\nLangdon Hickman"
+      "published": "2026-06-17 19:00",
+      "summary": "The band's immersive exhibit is great for older Radiohead fans and even more thoughtful for newer ones.\nRadiohead&#8217;s Kid A Mnesia Motion Picture House Is a Bridge Between Generations\nPaolo Ragusa"
     },
     {
-      "title": "Tom Morello Responds to 'Music Shouldn't Be Political' Argument",
-      "link": "https://loudwire.com/tom-morello-argument-musicians-political/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-06-16 18:09",
-      "summary": "Arturo Holmes, Getty Images"
-    },
-    {
-      "title": "How a Grammy Rule Change Gave 5 Artists Another Chance at a 2027 Best New Artist Nomination \u2014\u00a0UPDATE",
-      "link": "https://www.billboard.com/music/awards/grammys-best-new-artist-nomination-2027-not-eligible-1236262170/",
+      "title": "Carlos Vives & Silvestre Dangond Bring Rhythm to Colombia\u2019s World Cup 2026 Debut in\u00a0Mexico",
+      "link": "https://www.billboard.com/music/latin/carlos-vives-silvestre-dangond-colombia-mexico-world-cup-2026-1236275348/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-06-16 18:00",
-      "summary": "They would have been ineligible under the old rules."
+      "published": "2026-06-17 18:56",
+      "summary": "The lineup for the vallenato party at the GNP Seguros Stadium also included ChocQuibTown."
     },
     {
-      "title": "Vince Staples announces full band \u2018Cry Baby\u2019 tour",
-      "link": "https://www.brooklynvegan.com/vince-staples-announces-full-band-cry-baby-tour/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-06-16 17:56",
-      "summary": "Dates kick off October 19 in Atlanta and wrap November 15 in San Francisco."
-    },
-    {
-      "title": "Signed: Faith No More Pacts With Brazil\u2019s 30e for Global Tour; Hatebreed Inks Deal for New\u00a0Album",
-      "link": "https://www.billboard.com/lists/faith-no-more-deal-world-tour-artist-signings/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-16 17:54",
-      "summary": "Other recent artist signings include The Linda Lindas, Imminence, Jason Zhang, Ryan Hurd and Brittney Spencer."
-    },
-    {
-      "title": "Meet the Ballerina Behind Olivia Rodrigo\u2019s \u2018Stupid Song\u2019 Music Video: \u2018She Was Just Down for\u00a0Anything\u2019",
-      "link": "https://www.billboard.com/music/pop/olivia-rodrigo-stupid-song-tiler-peck-video-ballerina-1236273274/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-16 17:42",
-      "summary": "New York City Ballet's Tiler Peck choreographed and danced in the video \u2014 and gave Rodrigo some good ballet gossip, too."
-    },
-    {
-      "title": "CBS Paid Fee for The Late Show\u2019s Unauthorized Use of Peanuts Music",
-      "link": "https://consequence.net/2026/06/late-show-peanuts-music-vince-guaraldi-cbs/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-16 17:40",
-      "summary": "The licensing fee was then donated to World Central Kitchen. \nCBS Paid Fee for The Late Show\u2019s Unauthorized Use of Peanuts Music\nLiz Shannon Miller"
-    },
-    {
-      "title": "Florida Leaders Protest Ye's Upcoming Shows Due to Hate Speech",
-      "link": "https://www.xxlmag.com/kanye-west-florida-leaders-jewish-oppose-stadium-shows/",
+      "title": "Judge Declares Mistrial in Chris Brown Dog Attack Case",
+      "link": "https://www.xxlmag.com/judge-declares-mistrial-chris-brown-dog-attack-case/",
       "source": "XXL Mag",
       "category": "hiphop",
-      "published": "2026-06-16 17:38",
-      "summary": "Graeme Sloan/Bloomberg/Eric Lee/Bloomberg/Muhammed Ali Yigit/Anadolu/Getty Images (3)"
+      "published": "2026-06-17 18:55",
+      "summary": "TMZ"
     },
     {
-      "title": "Mojave 3 discography finally getting reissued by 4AD",
-      "link": "https://www.brooklynvegan.com/mojave-3-discography-finally-getting-reissued-by-4ad/",
+      "title": "Small Brown Bike announce \u2018Dead Reckoning\u2019 25th anniversary tour",
+      "link": "https://www.brooklynvegan.com/small-brown-bike-announce-dead-reckoning-25th-anniversary-tour/",
       "source": "Brooklyn Vegan",
       "category": "general",
-      "published": "2026-06-16 17:32",
-      "summary": "This will be the first time Rachel Goswell and Neil Halstead&#8217;s jangly post-Slowdive band&#8217;s five albums will be available physically since their initial release."
+      "published": "2026-06-17 18:53",
+      "summary": "This will be Small Brown Bike&#8217;s first tour in a decade."
     },
     {
-      "title": "The Garden Announce 2026 North American Tour, Unveil \u201cEve of Nothing\u201d: Stream",
-      "link": "https://consequence.net/2026/06/the-garden-2026-north-american-tour-eve-of-nothing-single/",
+      "title": "Olivia Wilde Says Relationship With Harry Styles Was \u2018Wholesome & Sweet\u2019 Despite \u2018Parasocial\u2019 Backlash",
+      "link": "https://www.billboard.com/music/music-news/olivia-wilde-harry-styles-romance-sweet-backlash-1236275275/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-17 18:41",
+      "summary": "\"I would go to his shows and dance, and people were like, 'Oh, how could she?'\" she recalled."
+    },
+    {
+      "title": "Poppy Unveils Scorching \u201cDying to Forget\u201d Video with Members of Knocked Loose and House of Protection",
+      "link": "https://consequence.net/2026/06/poppy-dying-to-forget-video/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-06-16 17:14",
-      "summary": "The tour sees support from her new knife, bar italia, Ghost Mountain, and Thaiboy Digital.\nThe Garden Announce 2026 North American Tour, Unveil &#8220;Eve of Nothing&#8221;: Stream\nLangdon Hickman"
+      "published": "2026-06-17 18:37",
+      "summary": "The singer launches a headlining summer tour in early July.\nPoppy Unveils Scorching &#8220;Dying to Forget&#8221; Video with Members of Knocked Loose and House of Protection\nSpencer Kaufman"
     },
     {
-      "title": "Faith No More tease 2027 reunion",
-      "link": "https://www.altpress.com/faith-no-more-2027-reunion/",
+      "title": "Kenny Beats\u2019 group FATHERS announce debut album, share \u201cPEARL\u201d",
+      "link": "https://www.brooklynvegan.com/kenny-beats-group-fathers-announce-debut-album-share-pearl/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-06-17 18:28",
+      "summary": "FATHERS other members are jazz heavyweights: keyboardist Kiefer (Kiefer Shackelford), bassist CARRTOONS (Ben Carr), and drummer Nate Smith. The album&#8217;s out July 10 via Blue Note."
+    },
+    {
+      "title": "Gracie Abrams Reveals \u2018Daughter From Hell\u2019 Track List",
+      "link": "https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-track-list-1235579647/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-06-17 18:27",
+      "summary": "The singer-songwriter's third album will feature 16 tracks, including lead single \"Hit the Wall\""
+    },
+    {
+      "title": "\u2018Tu C\u00e1rcel,\u2019 40 Years Later: Los Bukis\u2019 Classic vs. Morat\u2019s Revamped\u00a0Version",
+      "link": "https://www.billboard.com/music/latin/tu-carcel-los-bukis-morat-comparison-1236275176/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-17 18:20",
+      "summary": "Billboard compares the 1986 and 2026 versions to compare what's different."
+    },
+    {
+      "title": "Best Early Amazon Prime Day 2026 AirPods Deals",
+      "link": "https://consequence.net/2026/06/best-airpods-deals-june-2026/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-17 18:15",
+      "summary": "Find discounts on AirPods Pro 3, AirPods 4, and even the AirPods Max 2.\nBest Early Amazon Prime Day 2026 AirPods Deals\nEddie Fu"
+    },
+    {
+      "title": "Alicia Keys to Perform \u2018Empire State of Mind\u2019 at New York Knicks Championship\u00a0Parade",
+      "link": "https://www.billboard.com/music/rb-hip-hop/alicia-keys-empire-state-of-mind-knicks-parade-1236275251/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-17 18:08",
+      "summary": "\"This is my city and the city's on fire,\" Keys said."
+    },
+    {
+      "title": "Harry Styles Just Delivered the Greatest Performance of His Solo Career",
+      "link": "https://www.rollingstone.com/music/music-news/harry-styles-bridge-over-troubled-water-meltdown-festival-1235579559/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-06-17 18:01",
+      "summary": "An official release of this incredibly special evening at Meltdown Festival in London is a must"
+    },
+    {
+      "title": "How the World Cup Is Impacting the North American Touring\u00a0Market",
+      "link": "https://www.billboard.com/pro/how-world-cup-impacting-north-american-touring-market/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-17 18:00",
+      "summary": "With many major stadiums going dark due to the FIFA World Cup, touring professionals have needed to get creative with their summer routing."
+    },
+    {
+      "title": "\u2018Chaos Benefits No One\u2019: Major Labels Ask Supreme Court to Overturn \u2018Disruptive\u2019 Copyright\u00a0Ruling",
+      "link": "https://www.billboard.com/pro/major-labels-ask-supreme-court-to-overturn-copyright-ruling/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-17 17:57",
+      "summary": "A novel ruling on copyright termination has \"unsettled 50 years of industry practice,\" the labels told the justices."
+    },
+    {
+      "title": "Danzig Announce September 2026 US Tour",
+      "link": "https://consequence.net/2026/06/danzig-2026-us-tour/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-17 17:53",
+      "summary": "The tour surrounds Danzig's slated September 17th appearance at this year's Louder Than Life festival.\nDanzig Announce September 2026 US Tour\nLangdon Hickman"
+    },
+    {
+      "title": "Paramount+ Deal: How to Save Up to 93% Off A Streaming\u00a0Subscription",
+      "link": "https://www.billboard.com/culture/product-recommendations/paramount-plus-limited-time-streaming-deal-1236201463/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-17 17:45",
+      "summary": "Ahead of Prime Day, you can sign up for Paramount+ for just $0.99 per month for a limited time."
+    },
+    {
+      "title": "Daveigh Chase, Lilo & Stitch and The Ring Star, Dead at 35",
+      "link": "https://consequence.net/2026/06/daveigh-chase-dead-lilo-stitch-donnie-darko/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-17 17:43",
+      "summary": "Chase also made an impression in The Ring and Big Love. \nDaveigh Chase, Lilo &amp; Stitch and The Ring Star, Dead at 35\nLiz Shannon Miller"
+    },
+    {
+      "title": "Melvins\u2019 Dale Crover covers Neil Young\u2019s \u201cHarvest Moon\u201d (he also starred in the original video)",
+      "link": "https://www.brooklynvegan.com/melvins-dale-crover-covers-neil-youngs-harvest-moon-he-also-starred-in-the-original-video/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-06-17 17:42",
+      "summary": "Dale&#8217;s new solo EP &#8216;Get Yer Ba-Ba\u2019s Out&#8217; and yes he played a young Neil in the original 1992 video for &#8220;Harvest Moon.&#8221;"
+    },
+    {
+      "title": "Chart Rewind: In 2006, Shakira\u2019s \u2018Hips Don\u2019t Lie\u2019 Hit No. 1 on the Hot\u00a0100",
+      "link": "https://www.billboard.com/pro/shakira-wyclef-jean-hips-dont-lie-chart-rewind-2006/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-17 17:35",
+      "summary": "Convinced that it was a career changer, Shakira persuaded Sony to rerelease her album with the single added."
+    },
+    {
+      "title": "Lil Nas X Gives Hopeful Mental Health Update, Teases New Music",
+      "link": "https://consequence.net/2026/06/lil-nas-x-mental-health-update-bipolar-diagnosis/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-17 17:28",
+      "summary": "The artist said having a therapist and a psychiatrist has helped with his bipolar diagnosis.\nLil Nas X Gives Hopeful Mental Health Update, Teases New Music\nEddie Fu"
+    },
+    {
+      "title": "Couple Caught in Intimate Act on Ferris Wheel as Guns N\u2019 Roses Were About to Play Download Festival",
+      "link": "https://consequence.net/2026/06/couple-intimate-act-ferris-wheel-guns-n-roses-download-festival/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-17 17:27",
+      "summary": "Authorities have launched an official investigation.\nCouple Caught in Intimate Act on Ferris Wheel as Guns N&#8217; Roses Were About to Play Download Festival\nSpencer Kaufman"
+    },
+    {
+      "title": "Foushee\u2019s \u201cDrive\u201d and other best songs you need right now",
+      "link": "https://www.thefader.com/2026/06/17/songs-you-need-in-your-life-june-17-2026",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-06-17 17:26",
+      "summary": "Tracks we love right now, in no particular order."
+    },
+    {
+      "title": "The 50 Best R&B Groups of All Time (Nos. 50-21): Staff\u00a0Picks",
+      "link": "https://www.billboard.com/lists/best-rb-groups-all-time/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-17 17:21",
+      "summary": "\u00a0Billboard celebrates Black Music Month with list of the genre\u2019s legendary acts."
+    },
+    {
+      "title": "Lil Nas X updates fans on bipolar diagnosis: \u201cI\u2019m doing much better\u201d",
+      "link": "https://www.thefader.com/2026/06/17/lil-nas-x-update-rehab-bipolar-diagnosis-new-music",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-06-17 17:21",
+      "summary": "\u201cI\u2019m living life on extreme hard mode,\u201d the singer joked in his most-lengthy update since his arrest last year."
+    },
+    {
+      "title": "Watch Poppy thrash alongside fans in \u201cDying to Forget\u201d video",
+      "link": "https://www.altpress.com/watch-poppy-thrash-alongside-fans-in-dying-to-forget-video/",
       "source": "Alternative Press",
       "category": "rock",
-      "published": "2026-06-16 17:06",
-      "summary": "It would be the first time they perform together since 2016."
+      "published": "2026-06-17 17:18",
+      "summary": "It features Isaac Hale of Knocked Loose and Stephen Harrison of House of Protection, who helped write the song."
     },
     {
-      "title": "Are Faith No More Teasing a 2027 Comeback Tour?",
-      "link": "https://loudwire.com/faith-no-more-2027-teaser/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-06-16 17:06",
-      "summary": "Raphael Dias, Getty Images, Faith No More, Facebook"
-    },
-    {
-      "title": "Vince Staples Lines Up North American Tour",
-      "link": "https://pitchfork.com/news/vince-staples-lines-up-north-american-tour/",
-      "source": "Pitchfork",
+      "title": "Post Malone Pays Tribute to Oliver Tree at Toronto Show: \u2018An Absolutely Beautiful Man\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/post-malone-oliver-tree-tribute-1235579515/",
+      "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-06-16 17:05",
-      "summary": "The rapper will enlist a live band to bring his new album Cry Baby to the stage"
+      "published": "2026-06-17 17:07",
+      "summary": "Malone poured one out for the alternative pop artist, who died in a helicopter crash in Brazil earlier this week"
     },
     {
-      "title": "Bobbi Althoff Tries Her Hand at Rapping on New Sukihana Song",
-      "link": "https://www.xxlmag.com/bobbi-althoff-rapping-sukihana-song-reactions/",
+      "title": "D4vd, Singer Accused of Murdering 14-Year-Old, Wins Delay of Major Hearing",
+      "link": "https://www.rollingstone.com/music/music-news/d4vd-david-burke-case-delayed-celeste-rivas-hernandez-tesla-1235579275/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-06-17 17:04",
+      "summary": "The singer has pleaded not guilty to charges he murdered 14-year-old Celeste Rivas Hernandez and concealed her dismembered remains in his Tesla."
+    },
+    {
+      "title": "50 Cent Keeps Trolling Going With Shots at Mayweather & Diddy",
+      "link": "https://www.xxlmag.com/50-cent-trolling-mayweather-diddy/",
       "source": "XXL Mag",
       "category": "hiphop",
-      "published": "2026-06-16 16:56",
-      "summary": "Sukihana/YouTube"
+      "published": "2026-06-17 17:03",
+      "summary": "Arturo Holmes/WireImage/ MEGA/GC Images/ Allen Berezovsky/Getty Images (3)"
     },
     {
-      "title": "Faith No More teasing something for 2027",
-      "link": "https://www.brooklynvegan.com/faith-no-more-teasing-something-for-2027/",
-      "source": "Brooklyn Vegan",
+      "title": "Lil Nas X Shares Candid Update on Mental Health Journey: \u2018There\u2019s Less Fear in My Heart\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/lil-nas-x-returns-candid-video-therapy-rehab-healing-1235579416/",
+      "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-06-16 16:29",
-      "summary": "What does it mean? We&#8217;re excited to find out."
+      "published": "2026-06-17 16:59",
+      "summary": "Over the past year, the 27-year-old musician has largely been absent from the spotlight as he\u2019s sought treatment through rehab and time with his family after a 2025 arrest"
     },
     {
-      "title": "Faith No More Appear to Tease 2027 Return",
-      "link": "https://consequence.net/2026/06/faith-no-more-tease-2027-return/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-16 16:27",
-      "summary": "It's been roughly 10 years since the band last played a show.\nFaith No More Appear to Tease 2027 Return\nSpencer Kaufman"
-    },
-    {
-      "title": "Isaiah Rashad to Hit the Road on U.S. Tour",
-      "link": "https://pitchfork.com/news/isaiah-rashad-to-hit-the-road-on-us-tour/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-06-16 16:22",
-      "summary": "The Lil Sunny\u2019s Awful Road Trip Tour kicks off in August with opener Alemeda"
-    },
-    {
-      "title": "Dawn Richard\u2019s Abuse Lawsuit Against Diddy Dismissed",
-      "link": "https://pitchfork.com/news/dawn-richards-abuse-lawsuit-against-diddy-dismissed/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-06-16 16:08",
-      "summary": "Richard\u2019s claims against her former collaborator exceed the statute of limitations, a New York judge ruled"
-    },
-    {
-      "title": "Toy Story 5 Blinks at Yet Another Toy-pocalypse: Review",
-      "link": "https://consequence.net/2026/06/toy-story-5-review-pixar-disney/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-16 16:00",
-      "summary": "Another existential crisis for playthings reveals that maybe this franchise has run its course.\nToy Story 5 Blinks at Yet Another Toy-pocalypse: Review\nLiz Shannon Miller"
-    },
-    {
-      "title": "Converge announce 2026 Boston fest w/ \u2018Jane Doe\u2019 set + Cave In, Chat Pile, Baroness, more (BV Presale)",
-      "link": "https://www.brooklynvegan.com/converge-announce-2026-boston-fest-w-jane-doe-set-cave-in-chat-pile-baroness-more-bv-presale/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-06-16 16:00",
-      "summary": "Saddest Day 2026 also has Pig Pen, Agriculture, Emma Ruth Rundle, and more."
-    },
-    {
-      "title": "Grammys announce changes to Best New Artist and Album rules along with five new categories",
-      "link": "https://www.nme.com/news/music/grammys-announce-changes-to-rules-along-with-five-new-categories-3951323?utm_source=rss&utm_medium=rss&utm_campaign=grammys-announce-changes-to-rules-along-with-five-new-categories",
+      "title": "Getdown Services hail Harry Styles and send message to the haters at Meltdown 2026",
+      "link": "https://www.nme.com/news/music/getdown-services-hail-harry-styles-and-send-message-to-the-haters-at-meltdown-2026-3951536?utm_source=rss&utm_medium=rss&utm_campaign=getdown-services-hail-harry-styles-and-send-message-to-the-haters-at-meltdown-2026",
       "source": "NME",
       "category": "general",
-      "published": "2026-06-16 15:58",
-      "summary": "\nNew categories include Best Asian Pop Music Performance and Best Latin Song\nThe post Grammys announce changes to Best New Artist and Album rules along with five new categories appeared first on NME."
+      "published": "2026-06-17 16:58",
+      "summary": "\nIn a bid to \"help out the little guy\" in accepting Styles' invitation, they joked that \"someone in Harry's team needs sacking\"\nThe post Getdown Services hail Harry Styles and send message to the hate..."
     },
     {
-      "title": "Isaiah Rashad Announces 2026 North American Tour",
-      "link": "https://consequence.net/2026/06/isaiah-rashad-2026-tour-dates/",
+      "title": "Jon Bon Jovi Addresses Vocal Recovery Ahead of 2026 Touring",
+      "link": "https://loudwire.com/jon-bon-jovi-addresses-vocal-recovery-2026-touring/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-06-17 16:58",
+      "summary": "Emma McIntyre, Getty Images"
+    },
+    {
+      "title": "Billboard\u2019s Music Industry Events\u00a0Calendar",
+      "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-17 16:56",
+      "summary": "A complete rundown of the most important events across the music business."
+    },
+    {
+      "title": "Saul Williams announces new album ft Massive Attack\u2019s 3D, Kamasi Washington, Moor Mother & more: hear \u201cConspiracy\u201d",
+      "link": "https://www.brooklynvegan.com/saul-williams-announces-new-album-ft-massive-attacks-3d-kamasi-washington-moor-mother-more-hear-conspiracy/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-06-17 16:48",
+      "summary": "&#8216;Leap Life&#8217; is Saul Williams&#8217; first album in seven years and will be out August 28"
+    },
+    {
+      "title": "Mystikal Sentenced to 20 Years in Prison for Rape",
+      "link": "https://pitchfork.com/news/mystikal-sentenced-to-20-years-in-prison-for-rape/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-06-17 16:46",
+      "summary": "The rapper admitted to raping a woman at his home in 2022"
+    },
+    {
+      "title": "Why Mikkey Dee Kept Turning Down Joining Motorhead",
+      "link": "https://loudwire.com/mikkey-dee-turn-down-motorhead/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-06-17 16:35",
+      "summary": "Noel Vasquez, Getty Images, Scott Legato, Getty Images"
+    },
+    {
+      "title": "Saul Williams Recruits Robert Del Naja, Kamasi Washington for New Album Leap Year",
+      "link": "https://pitchfork.com/news/saul-williams-new-album-leap-year/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-06-17 16:29",
+      "summary": "Carlos Ni\u00f1o, Gonjasufi, and Moor Mother also appear on the project"
+    },
+    {
+      "title": "Cochise Goes Full Marathon Mode With 14-Minute Song",
+      "link": "https://www.xxlmag.com/cochise-14-minute-song-sum-off-my-chest/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-06-17 16:17",
+      "summary": "Santiago Felipe/Getty Images"
+    },
+    {
+      "title": "Each Song on Sad13\u2019s New Mixtape Is One Minute Long",
+      "link": "https://pitchfork.com/news/each-song-on-sad13s-new-mixtape-is-one-minute-long/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-06-17 16:12",
+      "summary": "The Speedy Ortiz frontperson returns with three songs from 1331, their upcoming mixtape as Sad13"
+    },
+    {
+      "title": "Static Dress go deeper than nostalgia",
+      "link": "https://www.altpress.com/static-dress-injury-episode-interview/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-06-17 16:12",
+      "summary": "The Leeds quartet\u2019s latest album, injury episode, positions them as true torchbearers of the scene."
+    },
+    {
+      "title": "Chicago Saxophonist Walter Parazaider Dead at 81",
+      "link": "https://www.rollingstone.com/music/music-news/chicago-walter-parazaider-dead-1235579437/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-06-17 16:09",
+      "summary": "The band formed in Parazaider\u2019s basement in 1967, and he remained a pivotal part of their sound until he was forced to step aside in 2018 to battle Alzheimer\u2019s"
+    },
+    {
+      "title": "Aimee Mann Nearly Passed on Performing with RUSH at First Four Reunion Shows",
+      "link": "https://consequence.net/2026/06/aimee-mann-nearly-passed-performing-with-rush/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-06-16 15:50",
-      "summary": "The 29-date \"Lil Sunny\u2019s Awful Road Trip\" comes in support of his latest album, It's Been Awful.\nIsaiah Rashad Announces 2026 North American Tour\nEddie Fu"
+      "published": "2026-06-17 16:07",
+      "summary": "The reveal comes via a one-page comic written and drawn by Aimee Mann and posted to her Instagram.\nAimee Mann Nearly Passed on Performing with RUSH at First Four Reunion Shows\nLangdon Hickman"
+    },
+    {
+      "title": "Bella Kay to Unleash \u2018My Reckless Abandon\u2019 Debut Album This Summer",
+      "link": "https://www.rollingstone.com/music/music-news/bella-kay-debut-album-my-reckless-abandon-release-date-1235579097/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-06-17 16:00",
+      "summary": "The rising singer-songwriter will release the album via Atlantic Records on July 12, featuring her breakthrough single \u201ciloveitiloveitiloveit\u201d"
+    },
+    {
+      "title": "Walter Parazaider, Founding Member of Chicago, Dead at 81",
+      "link": "https://consequence.net/2026/06/walter-parazaider-chicago-dead/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-17 15:53",
+      "summary": "The sax player died of complications from a lengthy battle with Alzheimer's disease.\nWalter Parazaider, Founding Member of Chicago, Dead at 81\nEddie Fu"
+    },
+    {
+      "title": "\u2018The Rocky Horror Picture Show\u2019 is heading to the Las Vegas Sphere",
+      "link": "https://www.nme.com/news/film/the-rocky-horror-picture-show-is-heading-to-the-las-vegas-sphere-3951531?utm_source=rss&utm_medium=rss&utm_campaign=the-rocky-horror-picture-show-is-heading-to-the-las-vegas-sphere",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-17 15:49",
+      "summary": "\nThe cult classic will be the latest movie to be adapted to fit the 160,000-square-foot screen\nThe post &#8216;The Rocky Horror Picture Show&#8217; is heading to the Las Vegas Sphere appeared first on..."
+    },
+    {
+      "title": "Truck Violence announce North American tour, share \u201cGerard, be quiet\u201d from Flenser debut",
+      "link": "https://www.brooklynvegan.com/truck-violence-announce-north-american-tour-share-gerard-be-quiet-from-flenser-debut/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-06-17 15:38",
+      "summary": "Montreal band Truck Violence&#8217;s tour is in support of &#8216;The weathervane is my body,&#8217; their second album and first for The Flenser."
     }
   ],
-  "last_updated": "2026-06-16T20:14:23.626305"
+  "last_updated": "2026-06-17T19:28:34.261559"
 }

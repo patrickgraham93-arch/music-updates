@@ -1,12 +1,32 @@
 {
   "hiphop": [
     {
-      "name": "STFU",
-      "artists": "T-Pain, DJ DIESEL, San Holo, NGHTMRE",
+      "name": "ML2",
+      "artists": "YoungBoy Never Broke Again",
       "release_date": "2026-06-26",
-      "image": "https://i.scdn.co/image/ab67616d0000b27319a4874f801f59702f67114e",
-      "spotify_url": "https://open.spotify.com/album/6Qt5oHi1SE1892sRroisRo",
-      "apple_music_url": "https://music.apple.com/us/search?term=STFU%20T-Pain",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c2d5ad2ec914d0fda6194fdb",
+      "spotify_url": "https://open.spotify.com/album/4myjAoCPL3ydX9fi92FibQ",
+      "apple_music_url": "https://music.apple.com/us/search?term=ML2%20YoungBoy%20Never%20Broke%20Again",
+      "total_tracks": 20,
+      "album_type": "album"
+    },
+    {
+      "name": "KILL THE KING",
+      "artists": "T.I.",
+      "release_date": "2026-06-26",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d3b972c7680515b8ad83130",
+      "spotify_url": "https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd",
+      "apple_music_url": "https://music.apple.com/us/album/kill-the-king/6781900150?uo=4",
+      "total_tracks": 18,
+      "album_type": "album"
+    },
+    {
+      "name": "HAAVIN",
+      "artists": "Quavo",
+      "release_date": "2026-06-26",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e41f4b2764c9dcb05228fb6",
+      "spotify_url": "https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm",
+      "apple_music_url": "https://music.apple.com/us/album/haavin-single/6784426340?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -21,22 +41,12 @@
       "album_type": "album"
     },
     {
-      "name": "ML2",
-      "artists": "YoungBoy Never Broke Again",
+      "name": "STFU",
+      "artists": "T-Pain, DJ DIESEL, San Holo, NGHTMRE",
       "release_date": "2026-06-26",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c2d5ad2ec914d0fda6194fdb",
-      "spotify_url": "https://open.spotify.com/album/4myjAoCPL3ydX9fi92FibQ",
-      "apple_music_url": "https://music.apple.com/us/search?term=ML2%20YoungBoy%20Never%20Broke%20Again",
-      "total_tracks": 20,
-      "album_type": "album"
-    },
-    {
-      "name": "HAAVIN",
-      "artists": "Quavo",
-      "release_date": "2026-06-26",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732e41f4b2764c9dcb05228fb6",
-      "spotify_url": "https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm",
-      "apple_music_url": "https://music.apple.com/us/album/haavin-single/6784426340?uo=4",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319a4874f801f59702f67114e",
+      "spotify_url": "https://open.spotify.com/album/6Qt5oHi1SE1892sRroisRo",
+      "apple_music_url": "https://music.apple.com/us/search?term=STFU%20T-Pain",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -51,32 +61,12 @@
       "album_type": "single"
     },
     {
-      "name": "KILL THE KING",
-      "artists": "T.I.",
-      "release_date": "2026-06-26",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732d3b972c7680515b8ad83130",
-      "spotify_url": "https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd",
-      "apple_music_url": "https://music.apple.com/us/album/kill-the-king/6781900150?uo=4",
-      "total_tracks": 18,
-      "album_type": "album"
-    },
-    {
       "name": "MANE",
       "artists": "GloRilla, Pooh Shiesty",
       "release_date": "2026-06-25",
       "image": "https://i.scdn.co/image/ab67616d0000b273388093080fb8159d1518f8f2",
       "spotify_url": "https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H",
       "apple_music_url": "https://music.apple.com/us/album/mane-single/6784350921?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Beyond The Brilliant Haze",
-      "artists": "Everything Is Recorded, Peter Gabriel, IDK",
-      "release_date": "2026-06-24",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c857876b61f210eb16acaf41",
-      "spotify_url": "https://open.spotify.com/album/1eSBJYm05UodNrXkzOgzSg",
-      "apple_music_url": "https://music.apple.com/us/album/beyond-the-brilliant-haze-single/6771369774?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -91,12 +81,12 @@
       "album_type": "single"
     },
     {
-      "name": "MANE",
-      "artists": "GloRilla, Pooh Shiesty",
+      "name": "Beyond The Brilliant Haze",
+      "artists": "Everything Is Recorded, Peter Gabriel, IDK",
       "release_date": "2026-06-24",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738731dbcec92ceefa064b54b2",
-      "spotify_url": "https://open.spotify.com/album/5oJ0WbI6z7DFbnmlLyHRWf",
-      "apple_music_url": "https://music.apple.com/us/album/mane-single/6784350921?uo=4",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c857876b61f210eb16acaf41",
+      "spotify_url": "https://open.spotify.com/album/1eSBJYm05UodNrXkzOgzSg",
+      "apple_music_url": "https://music.apple.com/us/album/beyond-the-brilliant-haze-single/6771369774?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -104,7 +94,7 @@
       "name": "Eat 'Em Up",
       "artists": "Reese's Puffs, GloRilla",
       "release_date": "2026-06-24",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737f7c513837a0997f93162fda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273049b1a7a6ed1f24e9ad2ea57",
       "spotify_url": "https://open.spotify.com/album/6alxQLTcjpRf7SYfUcmfCF",
       "apple_music_url": "https://music.apple.com/us/album/eat-em-up-single/6775626225?uo=4",
       "total_tracks": 1,
@@ -121,32 +111,22 @@
       "album_type": "single"
     },
     {
-      "name": "WHERE I'M FROM (feat. Anderson .Paak)",
-      "artists": "T.I., Anderson .Paak",
-      "release_date": "2026-06-23",
-      "image": "https://i.scdn.co/image/ab67616d0000b273536d33d0f191171cca4d7b10",
-      "spotify_url": "https://open.spotify.com/album/713IuiertbNLXvmsggXNDr",
-      "apple_music_url": "https://music.apple.com/us/album/where-im-from-single/6784511901?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "WHERE I'M FROM (feat. Anderson .Paak)",
-      "artists": "T.I., Anderson .Paak",
-      "release_date": "2026-06-23",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733179aed440002b78dd4aaacb",
-      "spotify_url": "https://open.spotify.com/album/55Do13i4QUKg1DR4dg2APy",
-      "apple_music_url": "https://music.apple.com/us/album/where-im-from-single/6784511901?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "DOPE BOYS ACADEMY (feat. T-Pain, Jeezy & 2 Chainz)",
       "artists": "T.I., T-Pain, Jeezy, 2 Chainz",
       "release_date": "2026-06-23",
       "image": "https://i.scdn.co/image/ab67616d0000b2734576a22d35773a8a9c6489fb",
       "spotify_url": "https://open.spotify.com/album/5HYFjJ9Ag2nZj3l0WtZGS7",
       "apple_music_url": "https://music.apple.com/us/album/dope-boys-academy-single/6784513507?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "WHERE I'M FROM (feat. Anderson .Paak)",
+      "artists": "T.I., Anderson .Paak",
+      "release_date": "2026-06-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b273536d33d0f191171cca4d7b10",
+      "spotify_url": "https://open.spotify.com/album/713IuiertbNLXvmsggXNDr",
+      "apple_music_url": "https://music.apple.com/us/album/where-im-from-single/6784511901?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -386,7 +366,7 @@
       "release_date": "2026-06-12",
       "image": "https://i.scdn.co/image/ab67616d0000b2735edf493cc8f6d942cc32bfd1",
       "spotify_url": "https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW",
-      "apple_music_url": "https://music.apple.com/us/album/lil-herb-lil-heroin-edition/6774507041?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Lil%20Herb%3A%20Lil%20Heroin%20Edition%20G%20Herbo",
       "total_tracks": 35,
       "album_type": "album"
     },
@@ -476,7 +456,7 @@
       "release_date": "2026-06-12",
       "image": "https://i.scdn.co/image/ab67616d0000b273ce0972b766d9da4ccff380e7",
       "spotify_url": "https://open.spotify.com/album/6DB9aJSH9YGNlQLWBRYalw",
-      "apple_music_url": "https://music.apple.com/us/search?term=Gotta%20Be%20Us%20%28Be%20The%20People%29%20Momo%20Boyd",
+      "apple_music_url": "https://music.apple.com/us/album/gotta-be-us-be-the-people-feat-luke-borchelt-sadie/6775906931?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -516,7 +496,7 @@
       "release_date": "2026-06-08",
       "image": "https://i.scdn.co/image/ab67616d0000b2734864b69b7aff79e082e62233",
       "spotify_url": "https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc",
-      "apple_music_url": "https://music.apple.com/us/search?term=GEMINI%20SEASON%20Kanye%20West",
+      "apple_music_url": "https://music.apple.com/us/album/gemini-season-single/6778145473?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1021,22 +1001,22 @@
       "album_type": "single"
     },
     {
-      "name": "Ashin' the Blunt (with Young Thug)",
-      "artists": "6LACK, Young Thug",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735009296e840cdf541731f01b",
-      "spotify_url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL",
-      "apple_music_url": "https://music.apple.com/us/search?term=Ashin%27%20the%20Blunt%20%28with%20Young%20Thug%29%206LACK",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
       "artists": "DEAN, Anderson .Paak",
       "release_date": "2026-05-08",
       "image": "https://i.scdn.co/image/ab67616d0000b27369f8c4e4f81e890c948c0efa",
       "spotify_url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd",
       "apple_music_url": "https://music.apple.com/us/search?term=Aftertaste%20%28Inspired%20by%20the%20Original%20Motion%20Picture%20K-POPS%21%29%20DEAN",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Ashin' the Blunt (with Young Thug)",
+      "artists": "6LACK, Young Thug",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735009296e840cdf541731f01b",
+      "spotify_url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL",
+      "apple_music_url": "https://music.apple.com/us/search?term=Ashin%27%20the%20Blunt%20%28with%20Young%20Thug%29%206LACK",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1071,16 +1051,6 @@
       "album_type": "single"
     },
     {
-      "name": "FOR THE LOVE 2.5",
-      "artists": "Dave East, Scram Jones, Mike & Keys",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b273881d6e54d1a2cf93aa7de120",
-      "spotify_url": "https://open.spotify.com/album/2tvu2468mKzI99cKvOHTKU",
-      "apple_music_url": "https://music.apple.com/us/search?term=FOR%20THE%20LOVE%202.5%20Dave%20East",
-      "total_tracks": 19,
-      "album_type": "album"
-    },
-    {
       "name": "Dedicated to Cadalee Biarritz (Deluxe)",
       "artists": "Big K.R.I.T.",
       "release_date": "2026-05-08",
@@ -1088,6 +1058,16 @@
       "spotify_url": "https://open.spotify.com/album/0XaC3snc8of76Jq8L7HWzL",
       "apple_music_url": "https://music.apple.com/us/search?term=Dedicated%20to%20Cadalee%20Biarritz%20%28Deluxe%29%20Big%20K.R.I.T.",
       "total_tracks": 25,
+      "album_type": "album"
+    },
+    {
+      "name": "FOR THE LOVE 2.5",
+      "artists": "Dave East, Scram Jones, Mike & Keys",
+      "release_date": "2026-05-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b273881d6e54d1a2cf93aa7de120",
+      "spotify_url": "https://open.spotify.com/album/2tvu2468mKzI99cKvOHTKU",
+      "apple_music_url": "https://music.apple.com/us/search?term=FOR%20THE%20LOVE%202.5%20Dave%20East",
+      "total_tracks": 19,
       "album_type": "album"
     },
     {
@@ -1228,7 +1208,7 @@
       "release_date": "2026-05-29",
       "image": "https://i.scdn.co/image/ab67616d0000b2736fc26b002a2cf7d25f90cd72",
       "spotify_url": "https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI",
-      "apple_music_url": "https://music.apple.com/us/album/philadelphias-been-good-to-me/1884970572?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Philadelphia%27s%20been%20good%20to%20me%20Kurt%20Vile",
       "total_tracks": 12,
       "album_type": "album"
     },
@@ -1238,7 +1218,7 @@
       "release_date": "2026-05-22",
       "image": "https://i.scdn.co/image/ab67616d0000b273077d76816deabe0f17fcf8fd",
       "spotify_url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u",
-      "apple_music_url": "https://music.apple.com/us/album/from-down-here-single/6768357139?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=From%20Down%20Here%20Lola%20Young",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1265,12 +1245,180 @@
   ],
   "news": [
     {
-      "title": "This hard techno remix of Arctic Monkeys\u2019 \u2018505\u2019 is going down a storm at dance festivals this summer",
-      "link": "https://www.nme.com/news/music/this-hard-techno-remix-of-arctic-monkeys-505-is-going-down-a-storm-at-dance-festivals-this-summer-3953677?utm_source=rss&utm_medium=rss&utm_campaign=this-hard-techno-remix-of-arctic-monkeys-505-is-going-down-a-storm-at-dance-festivals-this-summer",
+      "title": "Katy Perry apologises after Werchter Boutique headline set cancelled due to severe weather warnings",
+      "link": "https://www.nme.com/news/music/katy-perry-apologises-after-werchter-boutique-headline-set-cancelled-due-to-severe-weather-warnings-3953783?utm_source=rss&utm_medium=rss&utm_campaign=katy-perry-apologises-after-werchter-boutique-headline-set-cancelled-due-to-severe-weather-warnings",
       "source": "NME",
       "category": "general",
-      "published": "2026-06-27 17:44",
-      "summary": "\nThe heavy new mix from Dutch producer Xamuel has been rocking crowds around the world\nThe post This hard techno remix of Arctic Monkeys&#8217; &#8216;505&#8217; is going down a storm at dance festiva..."
+      "published": "2026-06-28 17:54",
+      "summary": "\n\"The safety of all 55,000 of you always comes first and foremost\u201d\nThe post Katy Perry apologises after Werchter Boutique headline set cancelled due to severe weather warnings appeared first on NME."
+    },
+    {
+      "title": "How to Watch the Wimbledon Championships 2026 Live Online for\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/wimbledon-championships-2026-watch-tennis-live-online-free-1236280851/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-28 17:45",
+      "summary": "Serena Williams returns to Wimbledon, which starts on Monday (June 29). Here's where to livestream the tennis tournament without cable."
+    },
+    {
+      "title": "Noah Kahan Reacts to Feces Found at Fan\u2019s Seat in\u00a0Philadelphia",
+      "link": "https://www.billboard.com/music/music-news/noah-kahan-poop-concert-reaction-philadelphia-1236282771/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-28 17:19",
+      "summary": "It was an unfortunate Friday for someone at the singer-songwriter's Great Divide Tour stop."
+    },
+    {
+      "title": "Television icon Tom Verlaine\u2019s huge personal record collection to go on sale",
+      "link": "https://www.nme.com/news/music/television-icon-tom-verlaines-huge-personal-record-collection-to-go-on-sale-3953779?utm_source=rss&utm_medium=rss&utm_campaign=television-icon-tom-verlaines-huge-personal-record-collection-to-go-on-sale",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-28 17:10",
+      "summary": "\n4000 records from the late guitarist's eclectic archive have been made available\nThe post Television icon Tom Verlaine\u2019s huge personal record collection to go on sale appeared first on NME."
+    },
+    {
+      "title": "Bob Dylan\u2019s Live Band Shakes Up Guitarists Mid-Tour",
+      "link": "https://consequence.net/2026/06/bob-dylan-guitarists-departure-reports/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-28 16:54",
+      "summary": "Bob Britt and Doug Lancio have both appeared to depart Dylan's band.\nBob Dylan&#8217;s Live Band Shakes Up Guitarists Mid-Tour\nTravis Bland"
+    },
+    {
+      "title": "The Pretty Reckless Unveil Dear God at Intimate Record Release Party: Photos + Setlist",
+      "link": "https://consequence.net/2026/06/the-pretty-reckless-record-release-party-photos-setlist/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-28 16:35",
+      "summary": "Taylor Momsen and company performed songs off their fifth album with an acoustic set in Brooklyn.\nThe Pretty Reckless Unveil Dear God at Intimate Record Release Party: Photos + Setlist\nKevin RC Wilson"
+    },
+    {
+      "title": "End It frontman breaks silence on controversy of battle with man dressed as banana",
+      "link": "https://www.nme.com/news/music/end-it-frontman-breaks-silence-on-controversy-of-battle-with-man-dressed-as-banana-3953774?utm_source=rss&utm_medium=rss&utm_campaign=end-it-frontman-breaks-silence-on-controversy-of-battle-with-man-dressed-as-banana",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-28 16:11",
+      "summary": "\nThe Baltimore hardcore band faced backlash after a fan claimed he was attacked and stripped of his banana costume at one of their shows\nThe post End It frontman breaks silence on controversy of battl..."
+    },
+    {
+      "title": "Dan Donegan - Disturbed Will Play Only 'Two Shows' in 2026",
+      "link": "https://loudwire.com/dan-donegan-confirms-disturbed-two-shows-2026/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-06-28 15:57",
+      "summary": "Ethan Miller, Getty Images"
+    },
+    {
+      "title": "These are Mick Jagger\u2019s favourite Rolling Stones songs and albums",
+      "link": "https://www.nme.com/news/music/these-are-mick-jaggers-favourite-rolling-stones-songs-and-albums-3953770?utm_source=rss&utm_medium=rss&utm_campaign=these-are-mick-jaggers-favourite-rolling-stones-songs-and-albums",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-28 15:34",
+      "summary": "\nThe band are releasing their 25th album 'Foreign Tongues' next month\nThe post These are Mick Jagger&#8217;s favourite Rolling Stones songs and albums appeared first on NME."
+    },
+    {
+      "title": "Alan Jackson Fans Boo Taylor Swift\u2019s Tribute During Farewell Concert",
+      "link": "https://consequence.net/2026/06/taylor-swift-booed-at-alan-jackson-concert/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-28 15:21",
+      "summary": "The jeers broke out as a video of the pop megastar paying tribute to the 67-year-old country singer played.\nAlan Jackson Fans Boo Taylor Swift&#8217;s Tribute During Farewell Concert\nTravis Bland"
+    },
+    {
+      "title": "BET Awards 2026: Here\u2019s How to Watch the Ceremony Live Online for\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/bet-awards-2026-watch-live-online-free-livestream-1236280806/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-28 14:56",
+      "summary": "Hosted by Druski, the 26th annual BET Awards are on Sunday (June 28) \u2014\u00a0with performances from Cardi B, Doechii, Nas and others."
+    },
+    {
+      "title": "Usher & Chris Brown\u2019s Raymond & Brown Tour 2026 Setlist: Every Song Played at the First\u00a0Show",
+      "link": "https://www.billboard.com/lists/usher-chris-brown-setlist-raymond-brown-tour-2026-songs/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-06-28 14:33",
+      "summary": "Check out the 58-song setlist from night one of the tour in Denver."
+    },
+    {
+      "title": "Rush Issue Video Apology + Explanation for Postponed Texas Show",
+      "link": "https://loudwire.com/rush-video-apology-explanation-postponed-texas-show/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-06-28 14:07",
+      "summary": "Michael Tullberg, Getty Images"
+    },
+    {
+      "title": "John Waters Unwraps 2026 Christmas Tour Dates",
+      "link": "https://consequence.net/2026/06/john-waters-announces-2026-christmas-tour-dates/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-28 13:48",
+      "summary": "The shock cinema maestro will bring his Yuletide spirit to Los Angeles, New York, Baltimore, and more.\nJohn Waters Unwraps 2026 Christmas Tour Dates\nTravis Bland"
+    },
+    {
+      "title": "Memorial service and \u2018celebration of life\u2019 for Oliver Tree to be livestreamed next month",
+      "link": "https://www.nme.com/news/music/memorial-service-and-celebration-of-life-for-oliver-tree-to-be-livestreamed-next-month-3953762?utm_source=rss&utm_medium=rss&utm_campaign=memorial-service-and-celebration-of-life-for-oliver-tree-to-be-livestreamed-next-month",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-28 10:56",
+      "summary": "\nThe event will be held in Santa Cruz, California, where he was born and raised\nThe post Memorial service and &#8216;celebration of life&#8217; for Oliver Tree to be livestreamed next month appeared f..."
+    },
+    {
+      "title": "Lizzo reacts new album \u2018Bitch\u2019 failing to chart: \u201cMy connection musically with the world is different\u201d",
+      "link": "https://www.nme.com/news/music/lizzo-reacts-new-album-bitch-failing-to-chart-my-connection-musically-with-the-world-is-different-3953741?utm_source=rss&utm_medium=rss&utm_campaign=lizzo-reacts-new-album-bitch-failing-to-chart-my-connection-musically-with-the-world-is-different",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-28 10:43",
+      "summary": "\n\"I think I had to mourn that\"\nThe post Lizzo reacts new album \u2018Bitch\u2019 failing to chart: &#8220;My connection musically with the world is different&#8221; appeared first on NME."
+    },
+    {
+      "title": "Noah Kahan calls out fans for stealing road signs and shitting in their seats at gigs: \u201cIf you have to poop at a show please dear god just go to the bathroom\u201d",
+      "link": "https://www.nme.com/news/music/noah-kahan-calls-out-fans-for-stealing-road-signs-and-shitting-in-their-seats-at-gigs-if-you-have-to-poop-at-a-show-please-dear-god-just-go-to-the-bathroom-3953752?utm_source=rss&utm_medium=rss&utm_campaign=noah-kahan-calls-out-fans-for-stealing-road-signs-and-shitting-in-their-seats-at-gigs-if-you-have-to-poop-at-a-show-please-dear-god-just-go-to-the-bathroom",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-28 10:18",
+      "summary": "\n\"You guys gotta understand, there\u2019s a venue worker out there with a 1000 yard stare after dealing with that\"\nThe post Noah Kahan calls out fans for stealing road signs and shitting in their seats at ..."
+    },
+    {
+      "title": "Stevie Nicks rumoured to be performing at Taylor Swift and Travis Kelce\u2019s wedding",
+      "link": "https://www.nme.com/news/music/stevie-nicks-rumoured-to-be-performing-at-taylor-swift-and-travis-kelces-wedding-3953735?utm_source=rss&utm_medium=rss&utm_campaign=stevie-nicks-rumoured-to-be-performing-at-taylor-swift-and-travis-kelces-wedding",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-28 09:46",
+      "summary": "\nMultiple sources have claimed that the Fleetwood Mac legend will be at Madison Square Garden for the big day\nThe post Stevie Nicks rumoured to be performing at Taylor Swift and Travis Kelce\u2019s wedding..."
+    },
+    {
+      "title": "Gracie Abrams addresses \u201cnepo baby\u201d discourse: \u201cI had a safety net\u201d",
+      "link": "https://www.nme.com/news/music/gracie-abrams-addresses-nepo-baby-discourse-i-had-a-safety-net-3953729?utm_source=rss&utm_medium=rss&utm_campaign=gracie-abrams-addresses-nepo-baby-discourse-i-had-a-safety-net",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-28 09:27",
+      "summary": "\n\"I wasn\u2019t growing up afraid financially, and that\u2019s the biggest deal\"\nThe post Gracie Abrams addresses &#8220;nepo baby&#8221; discourse: &#8220;I had a safety net&#8221; appeared first on NME."
+    },
+    {
+      "title": "Mick Jagger praises Geese for being \u201cvery experimental\u201d and Rosal\u00eda for her \u201cconceptual\u201d album \u2018Lux\u2019",
+      "link": "https://www.nme.com/news/music/mick-jagger-praises-geese-for-being-very-experimental-and-rosalia-for-her-conceptual-album-lux-3953717?utm_source=rss&utm_medium=rss&utm_campaign=mick-jagger-praises-geese-for-being-very-experimental-and-rosalia-for-her-conceptual-album-lux",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-06-28 08:46",
+      "summary": "\nHe also added that \"loads\" of modern music is \"rubbish\"\nThe post Mick Jagger praises Geese for being &#8220;very experimental&#8221; and Rosal\u00eda for her &#8220;conceptual&#8221; album &#8216;Lux&#821..."
+    },
+    {
+      "title": "Noah Kahan Asks Fans in Philly to Go to the Bathroom If They Have to Poop",
+      "link": "https://consequence.net/2026/06/noah-kahan-bathroom-philly/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-06-27 20:02",
+      "summary": "\"you guys gotta understand there\u2019s a venue worker out there with a 1000 yard stare after dealing with that.\"\nNoah Kahan Asks Fans in Philly to Go to the Bathroom If They Have to Poop\nAlex Young"
+    },
+    {
+      "title": "Stevie Nicks Will Be at Taylor Swift\u2019s Wedding \u2014 And Might Perform",
+      "link": "https://www.rollingstone.com/music/music-news/stevie-nicks-perform-at-taylor-swift-wedding-report-1235585438/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-06-27 19:39",
+      "summary": "The rock legend is headed to Madison Square Garden for the superstar's big day, according to multiple sources"
     },
     {
       "title": "How to Help Those Impacted by the Earthquakes in Venezuela\u00a0(Updated)",
@@ -1289,20 +1437,12 @@
       "summary": "\"I\u2019ve been a Leafs fans since I was a little boy,\" the singer said during his surprise visit."
     },
     {
-      "title": "Oliver Tree\u2019s family honour his wishes to launch foundation to provide grants to young artists",
-      "link": "https://www.nme.com/news/music/oliver-trees-family-honour-his-wishes-to-launch-foundation-to-provide-grants-to-young-artists-3953672?utm_source=rss&utm_medium=rss&utm_campaign=oliver-trees-family-honour-his-wishes-to-launch-foundation-to-provide-grants-to-young-artists",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-06-27 16:55",
-      "summary": "\nJust months before his death, Tree said: \u201cWhen I die, all the money is going to go back to artists\"\nThe post Oliver Tree\u2019s family honour his wishes to launch foundation to provide grants to young art..."
-    },
-    {
-      "title": "Heavens to betsy Announce Coast-to-Coast Fall 2026 Tour",
+      "title": "heavens to betsy Announce US Reunion Tour Dates",
       "link": "https://consequence.net/2026/06/heavens-to-betsy-announce-fall-2026-tour/",
       "source": "Consequence",
       "category": "general",
       "published": "2026-06-27 16:52",
-      "summary": "The band featuring Corin Tucker of Sleater-Kinney hit New York, Philadelphia, Chicago, and more.\nHeavens to betsy Announce Coast-to-Coast Fall 2026 Tour\nTravis Bland"
+      "summary": "The band featuring Corin Tucker of Sleater-Kinney hit New York, Philadelphia, Chicago, and more.\nheavens to betsy Announce US Reunion Tour Dates\nTravis Bland"
     },
     {
       "title": "Vanilla Ice\u2019s Concert at Freedom 250 Canceled Due to Weather",
@@ -1311,14 +1451,6 @@
       "category": "general",
       "published": "2026-06-27 16:34",
       "summary": "\"Ice Ice Baby\" rapper, one of the last music artists standing at the ill-fated Great American State Fair, has gig canceled Friday after inclement weather hits Washington, D.C."
-    },
-    {
-      "title": "Former Guns N\u2019 Roses manager Doug Goldstein dies aged 65",
-      "link": "https://www.nme.com/news/music/former-guns-n-roses-manager-doug-goldstein-dies-aged-65-3953668?utm_source=rss&utm_medium=rss&utm_campaign=former-guns-n-roses-manager-doug-goldstein-dies-aged-65",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-06-27 16:09",
-      "summary": "\n\u201cHe was a friendly ear, a supportive voice and a sensitive man\"\nThe post Former Guns N&#8217; Roses manager Doug Goldstein dies aged 65 appeared first on NME."
     },
     {
       "title": "Oliver Tree Memorial Service to Be Livestreamed on July\u00a025",
@@ -1335,14 +1467,6 @@
       "category": "general",
       "published": "2026-06-27 15:55",
       "summary": "The advert has been airing during World Cup games.\nRick Rubin Stars in Polymarket Commercial\nTravis Bland"
-    },
-    {
-      "title": "Watch Metallica cover The Pogues and The Proclaimers in Dublin and Glasgow",
-      "link": "https://www.nme.com/news/music/watch-metallica-cover-the-pogues-and-the-proclaimers-in-dublin-and-glasgow-3953663?utm_source=rss&utm_medium=rss&utm_campaign=watch-metallica-cover-the-pogues-and-the-proclaimers-in-dublin-and-glasgow",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-06-27 15:31",
-      "summary": "\nThey both came during the band's regular 'Rob And Kirk Doodle' instrumental jams\nThe post Watch Metallica cover The Pogues and The Proclaimers in Dublin and Glasgow appeared first on NME."
     },
     {
       "title": "BTS Kicks Off European Leg of ARIRANG Tour With Highly Anticipated Debut in Spain: \u2018Let\u2019s Go\u00a0Crazy!\u2019",
@@ -1409,54 +1533,6 @@
       "summary": "Roadrunner, \u2117 2002 Metal Blade Records, \u2117 2022 Prosthetic Records, LLC, \u2117 1996 Relapse Records"
     },
     {
-      "title": "Trevor Nelson to take break from BBC Radio 2 for medical reasons: \u201cI\u2019m concentrating on getting better\u201d",
-      "link": "https://www.nme.com/news/music/trevor-nelson-to-take-break-from-bbc-radio-2-for-medical-reasons-im-concentrating-on-getting-better-3953628?utm_source=rss&utm_medium=rss&utm_campaign=trevor-nelson-to-take-break-from-bbc-radio-2-for-medical-reasons-im-concentrating-on-getting-better",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-06-27 10:42",
-      "summary": "\nThe legendary DJ said he is focussing on getting \"back behind the mic and the decks\"\nThe post Trevor Nelson to take break from BBC Radio 2 for medical reasons: &#8220;I&#8217;m concentrating on getti..."
-    },
-    {
-      "title": "Missing Glastonbury? There\u2019s a festival on your doorstep that\u2019s saving grassroots venues",
-      "link": "https://www.nme.com/news/music/everywhere-at-once-festival-glastonbury-rizzle-kicks-inspiral-carpets-music-venue-trust-oasis-interview-3953625?utm_source=rss&utm_medium=rss&utm_campaign=everywhere-at-once-festival-glastonbury-rizzle-kicks-inspiral-carpets-music-venue-trust-oasis-interview",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-06-27 09:55",
-      "summary": "\nThe Everywhere At Once festival brings huge names and rising talent to hundreds of venues across the UK this weekend. Artists and venue bosses tell us why you should get involved, and how without the..."
-    },
-    {
-      "title": "Tom Hardy set to release collab album with underground hip-hop collective Czarface",
-      "link": "https://www.nme.com/news/music/tom-hardy-set-to-release-collab-album-with-underground-hip-hop-collective-czarface-3953581?utm_source=rss&utm_medium=rss&utm_campaign=tom-hardy-set-to-release-collab-album-with-underground-hip-hop-collective-czarface",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-06-27 09:50",
-      "summary": "\nHe'll rap under the Frankie Pulitzer moniker on the record, which is due out this August\nThe post Tom Hardy set to release collab album with underground hip-hop collective Czarface appeared first on ..."
-    },
-    {
-      "title": "Dua Lipa to open library of banned and censored books in Portugal",
-      "link": "https://www.nme.com/news/music/dua-lipa-to-open-library-of-banned-and-censored-books-in-portugal-3953615?utm_source=rss&utm_medium=rss&utm_campaign=dua-lipa-to-open-library-of-banned-and-censored-books-in-portugal",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-06-27 09:16",
-      "summary": "\n\"Because sometimes the most subversive thing you can do is read a book and then talk about it\"\nThe post Dua Lipa to open library of banned and censored books in Portugal appeared first on NME."
-    },
-    {
-      "title": "Madonna plays coy about rumoured Kylie Minogue collab on \u2018Confessions II\u2019: \u201cIt\u2019s my job to be mysterious\u201d",
-      "link": "https://www.nme.com/news/music/madonna-plays-coy-about-rumoured-kylie-minogue-collab-on-confessions-ii-its-my-job-to-be-mysterious-3953611?utm_source=rss&utm_medium=rss&utm_campaign=madonna-plays-coy-about-rumoured-kylie-minogue-collab-on-confessions-ii-its-my-job-to-be-mysterious",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-06-27 09:03",
-      "summary": "\nThe duo fuelled speculation when Minogue made a surprise appearance as part of Madonna's interview with Graham Norton\nThe post Madonna plays coy about rumoured Kylie Minogue collab on &#8216;Confessi..."
-    },
-    {
-      "title": "Noah Kahan asks fans to stop stealing road sign in his home town",
-      "link": "https://www.nme.com/news/music/noah-kahan-asks-fans-to-stop-stealing-road-sign-in-his-home-town-3953596?utm_source=rss&utm_medium=rss&utm_campaign=noah-kahan-asks-fans-to-stop-stealing-road-sign-in-his-home-town",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-06-27 08:27",
-      "summary": "\n\u201cPlease don\u2019t disturb these places or people\"\nThe post Noah Kahan asks fans to stop stealing road sign in his home town appeared first on NME."
-    },
-    {
       "title": "TikTok Calls This Amazon Device a Mini \u2018Frame TV\u2019 Dupe: Get It on Sale for Prime\u00a0Day",
       "link": "https://www.billboard.com/culture/product-recommendations/amazon-echo-show-15-buy-online-1235627179/",
       "source": "Billboard",
@@ -1497,44 +1573,12 @@
       "summary": "Kaufman County Jail/ Paras Griffin/Getty Images"
     },
     {
-      "title": "Matt Damon\u2019s Recent Rap Debut Was for Charity, Not a Career Pivot: \u2018Kendrick Has Nothing to Worry\u00a0About\u2019",
-      "link": "https://www.billboard.com/culture/product-recommendations/matt-damon-get-blue-rap-song-water-org-campaign-products-1236270436/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-26 22:43",
-      "summary": "The actor debuted a rap alter ego dubbed 'Nomad' to promote the charitable 'Get Blue' campaign with Water.org"
-    },
-    {
-      "title": "Alan Jackson\u2019s Final Concert: His Past Label Heads \u2018Remember When\u2019 They Worked With the Country\u00a0Superstar",
-      "link": "https://www.billboard.com/music/country/alan-jackson-final-concert-label-heads-principles-1236282143/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-26 22:15",
-      "summary": "The star's final live show is set for Nashville's Nissan Stadium on June 27. In this week's Country Update lead story, four execs look back on his career."
-    },
-    {
-      "title": "Vice President JD Vance Jokes Diddy Is a \u2018Great Christian Theologian\u2019 While Promoting New\u00a0Book",
-      "link": "https://www.billboard.com/culture/politics/jd-vance-jokes-diddy-great-christian-theologian-new-book-1236282171/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-26 21:53",
-      "summary": "The vice president has a chapter in his book entitled \"More Money, More Problems.\""
-    },
-    {
       "title": "Staff Picks: Best Songs of the Week June 19th \u2013 26th",
       "link": "https://consequence.net/2026/06/staff-picks-best-songs-week-june-19th-26th/",
       "source": "Consequence",
       "category": "general",
       "published": "2026-06-26 21:50",
       "summary": "Our favorite songs from the past week include new tunes from Wild Pink, @, Yard Act, Ibeyi, and more. \nStaff Picks: Best Songs of the Week June 19th &#8211; 26th\nJonah Krueger"
-    },
-    {
-      "title": "Bizarrap & Myke Towers\u2019 \u2018BZRP Music Session #42/66,\u2019 More: Vote for the Best New Latin Music Release This\u00a0Week",
-      "link": "https://www.billboard.com/music/latin/bizarrap-myke-towers-bzrp-music-session-best-new-latin-poll-1236282138/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-06-26 21:50",
-      "summary": "Which new Latin music release is your favorite? Vote below!"
     },
     {
       "title": "VP JD Vance Jokingly Calls Diddy a 'Great Christian Theologian'",
@@ -1599,71 +1643,7 @@
       "category": "hiphop",
       "published": "2026-06-26 17:54",
       "summary": "Carmen Mandato/Getty Images/ Boyband Break/YouTube"
-    },
-    {
-      "title": "Noah Kahan Asks Fans to Stop Stealing Hometown Road Sign: \u2018Total Disrespect\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/noah-kahan-fans-stop-stealing-vermont-hometown-road-sign-1235585003/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-06-26 17:39",
-      "summary": "Fans have been \u201crepeatedly\u201d removing Alger Brook Road sign after the singer mentioned it in \u201cThe View Between Villages\u201d"
-    },
-    {
-      "title": "Steve Lacy taps SZA for new single \u201cis it cool?\u201d",
-      "link": "https://www.altpress.com/steve-lacy-sza-is-it-cool-listen/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-06-26 17:32",
-      "summary": "Erykah Badu and Cecile Believe will also appear on his upcoming LP, Oh yeah?"
-    },
-    {
-      "title": "Cara Delevingne Wrote New Single \u2018Need It\u2019 Over Text With Fiona Apple",
-      "link": "https://www.rollingstone.com/music/music-news/cara-delevingne-new-song-need-it-fiona-apple-1235584971/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-06-26 17:30",
-      "summary": "The song will appear on the upcoming debut album from Delevingne scheduled for release later this summer"
-    },
-    {
-      "title": "Heavy Song of the Week: Bring Me the Horizon Bring Back Deathcore Aggression on \u201cDehumanized\u201d",
-      "link": "https://consequence.net/2026/06/heavy-song-of-the-week-bring-me-the-horizon-dehumanized/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-26 17:19",
-      "summary": "Bring Me the Hoizon renovate their initial deathcore sound with equal parts passion and ultra-modern trickery on the compelling \"Dehumanized.\"\nHeavy Song of the Week: Bring Me the Horizon Bring Back D..."
-    },
-    {
-      "title": "Tom Hardy Is Crossing Over to Music With a [Checks Notes] Rap Album",
-      "link": "https://www.rollingstone.com/music/music-news/tom-hardy-frankie-pulitzer-rap-album-czarface-1235584907/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-06-26 17:17",
-      "summary": "The English actor will embody his Frankie Pulitzer persona again for a collaboration LP with hip-hop supergroup Czarface"
-    },
-    {
-      "title": "Security for Gucci Mane Tells Pooh Shiesty's Judge He's a Danger",
-      "link": "https://www.xxlmag.com/gucci-mane-security-guard-letter-pooh-shiesty-judge/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-06-26 17:14",
-      "summary": "Scott Legato/Getty Images/XXL/YouTube"
-    },
-    {
-      "title": "Netflix Reuniting Millie Bobby Brown and David Harbour for Father-Daughter Spy Series",
-      "link": "https://consequence.net/2026/06/millie-bobby-brown-david-harbour-netflix-show/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-06-26 17:09",
-      "summary": "The new show, produced by A24, will be written by Adolescence's Jack Thorne.\nNetflix Reuniting Millie Bobby Brown and David Harbour for Father-Daughter Spy Series\nLiz Shannon Miller"
-    },
-    {
-      "title": "6 NYC politicians on the policies local music needs to thrive",
-      "link": "https://www.thefader.com/2026/06/26/6-nyc-politicians-policies-local-music-chi-osse-aber-kawas",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-06-26 17:08",
-      "summary": "Affordable housing, universal healthcare, and protection against AI."
     }
   ],
-  "last_updated": "2026-06-27T18:08:24.704804"
+  "last_updated": "2026-06-28T18:09:11.459221"
 }

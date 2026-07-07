@@ -1,22 +1,22 @@
 {
   "hiphop": [
     {
-      "name": "EMOTIONLEZZ (ft. Trippie Redd)",
-      "artists": "Thirteendegrees \u00b0, Trippie Redd",
-      "release_date": "2026-07-03",
-      "image": "https://i.scdn.co/image/ab67616d0000b273af0fa33bcb916e2ffb68f700",
-      "spotify_url": "https://open.spotify.com/album/230tlOmJbK0ZlxPSBPxVQG",
-      "apple_music_url": "https://music.apple.com/us/search?term=EMOTIONLEZZ%20%28ft.%20Trippie%20Redd%29%20Thirteendegrees%20%C2%B0",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "All Summer (feat. BH)",
       "artists": "Nipsey Hussle, Bino Rideaux, BH",
       "release_date": "2026-07-03",
       "image": "https://i.scdn.co/image/ab67616d0000b27393cbf4a17c763f7d4a803a7f",
       "spotify_url": "https://open.spotify.com/album/7lwZOYiPIJKkin7LsxG2KL",
       "apple_music_url": "https://music.apple.com/us/search?term=All%20Summer%20Nipsey%20Hussle",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "EMOTIONLEZZ (ft. Trippie Redd)",
+      "artists": "Thirteendegrees \u00b0, Trippie Redd",
+      "release_date": "2026-07-03",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af0fa33bcb916e2ffb68f700",
+      "spotify_url": "https://open.spotify.com/album/230tlOmJbK0ZlxPSBPxVQG",
+      "apple_music_url": "https://music.apple.com/us/search?term=EMOTIONLEZZ%20%28ft.%20Trippie%20Redd%29%20Thirteendegrees%20%C2%B0",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -486,7 +486,7 @@
       "release_date": "2026-06-12",
       "image": "https://i.scdn.co/image/ab67616d0000b273ce0972b766d9da4ccff380e7",
       "spotify_url": "https://open.spotify.com/album/6DB9aJSH9YGNlQLWBRYalw",
-      "apple_music_url": "https://music.apple.com/us/album/gotta-be-us-be-the-people-feat-luke-borchelt-sadie/6775906931?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Gotta%20Be%20Us%20%28Be%20The%20People%29%20Momo%20Boyd",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -926,18 +926,8 @@
       "release_date": "2026-05-15",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "spotify_url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY",
-      "apple_music_url": "https://music.apple.com/us/album/iceman/6769649287?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=ICEMAN%20Drake",
       "total_tracks": 18,
-      "album_type": "album"
-    },
-    {
-      "name": "HABIBTI",
-      "artists": "Drake",
-      "release_date": "2026-05-15",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b92879e45761d711016476df",
-      "spotify_url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno",
-      "apple_music_url": "https://music.apple.com/us/album/habibti/6769647917?uo=4",
-      "total_tracks": 11,
       "album_type": "album"
     },
     {
@@ -946,8 +936,18 @@
       "release_date": "2026-05-15",
       "image": "https://i.scdn.co/image/ab67616d0000b273539bb112d7c970545dd971e3",
       "spotify_url": "https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk",
-      "apple_music_url": "https://music.apple.com/us/album/maid-of-honour/6769648970?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=MAID%20OF%20HONOUR%20Drake",
       "total_tracks": 14,
+      "album_type": "album"
+    },
+    {
+      "name": "HABIBTI",
+      "artists": "Drake",
+      "release_date": "2026-05-15",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b92879e45761d711016476df",
+      "spotify_url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno",
+      "apple_music_url": "https://music.apple.com/us/search?term=HABIBTI%20Drake",
+      "total_tracks": 11,
       "album_type": "album"
     },
     {
@@ -1009,136 +1009,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=TEST%20ME%20Kenny%20Mason",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "PLANET FROG",
-      "artists": "Action Bronson",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b27339565aaf5cee7e098bc25666",
-      "spotify_url": "https://open.spotify.com/album/5zRHU8HegfzTYosVvihqet",
-      "apple_music_url": "https://music.apple.com/us/search?term=PLANET%20FROG%20Action%20Bronson",
-      "total_tracks": 13,
-      "album_type": "album"
-    },
-    {
-      "name": "GEEKIN (feat. Lil Yachty)",
-      "artists": "Nemzzz, Lil Yachty",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b27322c1ed233b0cf05345c29844",
-      "spotify_url": "https://open.spotify.com/album/3p3rk95jqISXQf26v9cz3u",
-      "apple_music_url": "https://music.apple.com/us/search?term=GEEKIN%20Nemzzz",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Ashin' the Blunt (with Young Thug)",
-      "artists": "6LACK, Young Thug",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735009296e840cdf541731f01b",
-      "spotify_url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL",
-      "apple_music_url": "https://music.apple.com/us/search?term=Ashin%27%20the%20Blunt%20%28with%20Young%20Thug%29%206LACK",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
-      "artists": "DEAN, Anderson .Paak",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b27369f8c4e4f81e890c948c0efa",
-      "spotify_url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd",
-      "apple_music_url": "https://music.apple.com/us/search?term=Aftertaste%20%28Inspired%20by%20the%20Original%20Motion%20Picture%20K-POPS%21%29%20DEAN",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Alicia (with Lil Baby)",
-      "artists": "Hotboii, Lil Baby",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b27304e75ac819c2ee51774fff6e",
-      "spotify_url": "https://open.spotify.com/album/1miVPmKXGnxetl1HF4MXvU",
-      "apple_music_url": "https://music.apple.com/us/search?term=Alicia%20%28with%20Lil%20Baby%29%20Hotboii",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Go",
-      "artists": "Key Glock",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b27352cae755a8c1c5fa700fb544",
-      "spotify_url": "https://open.spotify.com/album/7eBEI7DmvyUC9loMP0FlPN",
-      "apple_music_url": "https://music.apple.com/us/search?term=Go%20Key%20Glock",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Bed of Roses (with Wale)",
-      "artists": "Teyana Taylor, Wale",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f05036d93f29cbfb67013948",
-      "spotify_url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3",
-      "apple_music_url": "https://music.apple.com/us/search?term=Bed%20of%20Roses%20%28with%20Wale%29%20Teyana%20Taylor",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Dedicated to Cadalee Biarritz (Deluxe)",
-      "artists": "Big K.R.I.T.",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f772349b7bf49a5446987956",
-      "spotify_url": "https://open.spotify.com/album/0XaC3snc8of76Jq8L7HWzL",
-      "apple_music_url": "https://music.apple.com/us/search?term=Dedicated%20to%20Cadalee%20Biarritz%20%28Deluxe%29%20Big%20K.R.I.T.",
-      "total_tracks": 25,
-      "album_type": "album"
-    },
-    {
-      "name": "FOR THE LOVE 2.5",
-      "artists": "Dave East, Scram Jones, Mike & Keys",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b273881d6e54d1a2cf93aa7de120",
-      "spotify_url": "https://open.spotify.com/album/2tvu2468mKzI99cKvOHTKU",
-      "apple_music_url": "https://music.apple.com/us/search?term=FOR%20THE%20LOVE%202.5%20Dave%20East",
-      "total_tracks": 19,
-      "album_type": "album"
-    },
-    {
-      "name": "Everybody (G-Mix)",
-      "artists": "Saint Lamaar, Trippie Redd, Babyy Bumpstock",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b27367214a469b31322c67d8f6de",
-      "spotify_url": "https://open.spotify.com/album/5YkI9R4VqX0RSilFHPB7yD",
-      "apple_music_url": "https://music.apple.com/us/search?term=Everybody%20%28G-Mix%29%20Saint%20Lamaar",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "The Main Line",
-      "artists": "38 Spesh, Method Man",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b27339ed46737c808339920fd327",
-      "spotify_url": "https://open.spotify.com/album/6yiijYl2UNga7ot3hJkADu",
-      "apple_music_url": "https://music.apple.com/us/search?term=The%20Main%20Line%2038%20Spesh",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Nirvana",
-      "artists": "PNAU, EARTHGANG, sadMONTH",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b27309d3c9782d80b86a0e1f9d6b",
-      "spotify_url": "https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI",
-      "apple_music_url": "https://music.apple.com/us/search?term=Nirvana%20PNAU",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "POP DAT THANG (David Guetta Mix)",
-      "artists": "DaBaby, David Guetta",
-      "release_date": "2026-05-08",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733e2a310eb78f1d4d320bb027",
-      "spotify_url": "https://open.spotify.com/album/6V1lmFqpNZqyRgOZY64HYf",
-      "apple_music_url": "https://music.apple.com/us/search?term=POP%20DAT%20THANG%20%28David%20Guetta%20Mix%29%20DaBaby",
-      "total_tracks": 3,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -1148,7 +1018,7 @@
       "release_date": "2026-05-29",
       "image": "https://i.scdn.co/image/ab67616d0000b2736fc26b002a2cf7d25f90cd72",
       "spotify_url": "https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI",
-      "apple_music_url": "https://music.apple.com/us/search?term=Philadelphia%27s%20been%20good%20to%20me%20Kurt%20Vile",
+      "apple_music_url": "https://music.apple.com/us/album/philadelphias-been-good-to-me/1884970572?uo=4",
       "total_tracks": 12,
       "album_type": "album"
     },
@@ -1158,412 +1028,412 @@
       "release_date": "2026-05-22",
       "image": "https://i.scdn.co/image/ab67616d0000b273077d76816deabe0f17fcf8fd",
       "spotify_url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u",
-      "apple_music_url": "https://music.apple.com/us/search?term=From%20Down%20Here%20Lola%20Young",
+      "apple_music_url": "https://music.apple.com/us/album/from-down-here-single/6768357139?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     }
   ],
   "news": [
     {
-      "title": "First Official Black Sabbath Book The Masters of Reality Coming This Fall",
-      "link": "https://consequence.net/2026/07/black-sabbath-book-the-masters-of-reality/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-07-06 18:53",
-      "summary": "Limited editions of the book are signed by all four members, including the late Ozzy Osbourne.\nFirst Official Black Sabbath Book The Masters of Reality Coming This Fall\nLangdon Hickman"
-    },
-    {
-      "title": "Carmen Villain Announces New Album Memoria",
-      "link": "https://pitchfork.com/story/carmen-villain-announces-new-album-memoria/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-07-06 18:32",
-      "summary": "The ambient dub producer borrowed the LP\u2019s title from Apichatpong Weerasethakul\u2019s 2021 film"
-    },
-    {
-      "title": "Guinness confirm Harry Styles \u2018Together, Together\u2019 tour and Wembley Stadium residency for world record",
-      "link": "https://www.nme.com/news/music/guinness-confirm-harry-styles-together-together-tour-and-wembley-stadium-residency-for-world-record-3955357?utm_source=rss&utm_medium=rss&utm_campaign=guinness-confirm-harry-styles-together-together-tour-and-wembley-stadium-residency-for-world-record",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-07-06 18:30",
-      "summary": "\nHe overtakes Coldplay for the longest ever run of shows at the venue\nThe post Guinness confirm Harry Styles &#8216;Together, Together&#8217; tour and Wembley Stadium residency for world record appear..."
-    },
-    {
-      "title": "Twisted Teens share title track of new LP, touring with Kurt Vile & The Breeders",
-      "link": "https://www.brooklynvegan.com/twisted-teens-share-title-track-of-new-lp-touring-with-kurt-vile-the-breeders/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-07-06 18:29",
-      "summary": "\u2019Florida Water Blues\u2019 will follow their February album \u2019Blame the Clown.\u2019"
-    },
-    {
-      "title": "Premios Juventud Unveils Date for 2026 Awards\u00a0Show",
-      "link": "https://www.billboard.com/music/awards/2026-premios-juventud-date-1236288201/",
+      "title": "Five Burning Questions About Tame Impala & JENNIE\u2019s \u2018Dracula\u2019 Being a Chart-Topping Pop Airplay\u00a0Hit",
+      "link": "https://www.billboard.com/music/chart-beat/tame-impala-jennie-dracula-pop-charts-five-buring-questions-1236289152/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-07-06 18:28",
-      "summary": "The ceremony is part of the inaugural PJ Fest, set to take place in Spain."
+      "published": "2026-07-07 19:01",
+      "summary": "A decade ago, Kevin Parker of Tame Impala was a psych-rock critics' darling. This week, he has the most-played pop radio hit in the country."
     },
     {
-      "title": "Tame Impala to Kick Off 2026 \u201cDeadbeat\u201d North American Tour",
-      "link": "https://consequence.net/2026/07/tame-impala-2026-deadbeat-north-american-tour-kickoff/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-07-06 18:26",
-      "summary": "Kevin Parker and co. are bringing their 360-degree \"Deadbeat\" show to arenas across the US and Canada this summer.\nTame Impala to Kick Off 2026 &#8220;Deadbeat&#8221; North American Tour\nPaolo Ragusa"
-    },
-    {
-      "title": "HUNTR/X & Saja Boys Shrink to Collectible Form in New \u2018KPop Demon Hunters\u2019 Little People Collector\u00a0Set",
-      "link": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-little-people-collector-set-buy-online-1236288019/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-06 18:24",
-      "summary": "The new merch puts the fan-favorite characters in the palm of your hand."
-    },
-    {
-      "title": "Lance \"Un\" Rivera Writes a Positive Open Letter to Ja\u00ff-Z",
-      "link": "https://www.xxlmag.com/lance-un-rivera-letter-to-jay-z/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-07-06 18:17",
-      "summary": "Art of Dialogue/X / Zone Master/YouTube"
-    },
-    {
-      "title": "Lil Wayne Clarifies He\u2019s Single & Not Engaged, Reveals Why He Missed Tour Kickoff\u00a0Show",
-      "link": "https://www.billboard.com/music/rb-hip-hop/lil-wayne-single-why-he-missed-tour-kickoff-show-1236288143/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-06 18:12",
-      "summary": "Weezy had a few things to get off his chest in a video posted to Instagram."
-    },
-    {
-      "title": "Kany Garc\u00eda Shines in Madrid With Mon Laferte, Lia Kali & Message About Venezuela: 5 Best\u00a0Moments",
-      "link": "https://www.billboard.com/lists/kany-garcia-madrid-mon-laferte-lia-kali-best-moments-recap/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-06 18:02",
-      "summary": "The Puerto Rican singer-songwriter packed the Movistar Arena as part of her Puerta Abierta Tour 2026."
-    },
-    {
-      "title": "Charli xcx to host \u2018Music, Fashion, Film\u2019 listening events at your local theatre",
-      "link": "https://www.thefader.com/2026/07/06/charli-xcx-music-fashion-film-listening-events-location-details",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-07-06 18:01",
-      "summary": "Here\u2019s everything you need to know."
-    },
-    {
-      "title": "Shakira & Burna Boy\u2019s World Cup Song \u2018Dai Dai\u2019 Scores Second Week at No. 1 on Global Excl. U.S.\u00a0Chart",
-      "link": "https://www.billboard.com/music/chart-beat/shakira-burna-boy-dai-dai-global-charts-second-week-1236288306/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-06 18:00",
-      "summary": "Plus, Ariana Grande\u2019s \u201cHate That I Made You Love Me\u201d returns to the top of the Global 200."
-    },
-    {
-      "title": "Terrace Martin, Robert Glasper, and Kamasi Washington's Dinner Party Return With New Album",
-      "link": "https://pitchfork.com/story/terrace-martin-robert-glasper-kamasi-washingtons-dinner-party-watchu-bringing/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-07-06 17:56",
-      "summary": "Watchu Bringing?, their third collaborative LP with producer 9th Wonder, arrives August 7"
-    },
-    {
-      "title": "Taylor Swift Wins Court Ruling Dismissing \u2018Absurd\u2019 Copyright Lawsuit Over Song\u00a0Lyrics",
-      "link": "https://www.billboard.com/pro/taylor-swift-wins-copyright-lawsuit-over-song-lyrics/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-06 17:52",
-      "summary": "A judge rejects accusations from a self-published Florida poet, ruling that she can't sue Taylor over \u201cbasic ideas\u201d and \u201ccommon observations.\u201d"
-    },
-    {
-      "title": "Ferret Music returns with 2 new signings & reissues (exclusive Remembering Never vinyl included)",
-      "link": "https://www.brooklynvegan.com/ferret-music-returns-with-2-new-signings-reissues-exclusive-remembering-never-vinyl-included/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-07-06 17:43",
-      "summary": "One of the core record label of the \u201890s/2000s metalcore boom soft launched its return at NJ\u2019s Hellfest over the weekend."
-    },
-    {
-      "title": "Morrissey says \u201cdiversity is a lie\u201d as he hits out at BBC for not playing single",
-      "link": "https://www.nme.com/news/music/morrissey-says-diversity-is-a-lie-as-he-hits-out-at-bbc-for-not-playing-single-3955353?utm_source=rss&utm_medium=rss&utm_campaign=morrissey-says-diversity-is-a-lie-as-he-hits-out-at-bbc-for-not-playing-single",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-07-06 17:36",
-      "summary": "\n\"When people say \u2018Diversity is our strength\u2019 they\u00a0fail to\u00a0mention how their notion of \u2018diversity\u2019 entails\u00a0very strict\u00a0Third Reich regulations and punishments\"\nThe post Morrissey says &#8220;diversity..."
-    },
-    {
-      "title": "Times New Viking, Cloud Nothings, Kiwi Jr & more playing Brooklyn\u2019s Bazooka! Fest 2026",
-      "link": "https://www.brooklynvegan.com/times-new-viking-cloud-nothings-kiwi-jr-more-playing-brooklyns-bazooka-fest-2026/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-07-06 17:35",
-      "summary": "The NYC indie rock festival also has Colleen Green, Sad13, 2nd Grade, Chime School, Asher White, and more. It happens August 22 &#038; 23."
-    },
-    {
-      "title": "Harry Styles\u2019 \u2018Together, Together\u2019 Residency Sets New Guinness World Record",
-      "link": "https://www.rollingstone.com/music/music-news/harry-styles-together-wembley-guinness-world-record-1235589680/",
+      "title": "Controversial Anne Frank Musical Releases Crowdfunded Cast Album",
+      "link": "https://www.rollingstone.com/music/music-news/anne-frank-musical-slam-frank-soundtrack-1235590386/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-07-06 17:31",
-      "summary": "The pop star\u2019s 12-show run at Wembley is now the the longest residency by a musician at the famed London stadium"
+      "published": "2026-07-07 19:00",
+      "summary": "Slam Frank, which reimagines her story through an\u00a0\u201cintersectional, multiethnic, genderqueer, Afro-Latin hip-hop lens,\u201d posted the recording in advance of the play\u2019s Off-Broadway return"
+    },
+    {
+      "title": "Terminator 2: Judgment Day Will Be Back in Theaters This August",
+      "link": "https://consequence.net/2026/07/terminator-2-judgment-day-theaters-3d/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-07 18:56",
+      "summary": "The 3D version is \"the absolute best way to see the film,\" according to James Cameron. \nTerminator 2: Judgment Day Will Be Back in Theaters This August\nLiz Shannon Miller"
     },
     {
       "title": "Billboard\u2019s Music Industry Events\u00a0Calendar",
       "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-07-06 17:24",
+      "published": "2026-07-07 18:49",
       "summary": "A complete rundown of the most important events across the music business."
     },
     {
-      "title": "Dave Mustaine Names His 5 Favorite Rock + Metal Guitarists",
-      "link": "https://loudwire.com/dave-mustaine-favorite-guitarists-why/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-07-06 17:23",
-      "summary": "Joseph Okpako, WireImage/Getty Images"
-    },
-    {
-      "title": "Morrissey Claims BBC Won\u2019t Play New Single: \u201cDiversity Is a Lie\u201d",
-      "link": "https://consequence.net/2026/07/morrissey-bbc-diversity-is-a-lie-notre-dame/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-07-06 17:22",
-      "summary": "\"Notre-Dame\" currently sits at No. 6 on the UK Official Singles Sales Chart.\nMorrissey Claims BBC Won&#8217;t Play New Single: &#8220;Diversity Is a Lie&#8221;\nEddie Fu"
-    },
-    {
-      "title": "Healing with Kenny Mason",
-      "link": "https://www.altpress.com/kenny-mason-bulldawg-interview/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-07-06 17:21",
-      "summary": "During a tour stop in Cleveland, the rapper opens up about therapy, Title Fight, and the hard-hitting world of\u00a0BULLDAWG."
-    },
-    {
-      "title": "The Longest-Leading Billboard Hot 100 No.\u00a01s",
-      "link": "https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-06 17:10",
-      "summary": "A select few hits have led the chart for at least 10 weeks."
-    },
-    {
-      "title": "Offset and Rylo Rodriguez Trade Shots After Rylo Mentions Offset",
-      "link": "https://www.xxlmag.com/offset-rylo-rodriguez-beef/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-07-06 17:10",
-      "summary": "Prince Williams/WireImage (2)"
-    },
-    {
-      "title": "Chief Keef Lines Up U.S. Tour",
-      "link": "https://pitchfork.com/story/chief-keef-lines-up-us-tour-2026/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-07-06 17:08",
-      "summary": "Dates behind his Skeletor mixtape kick off in late summer"
-    },
-    {
-      "title": "Yungblud Receives Support From SZA, Alyssa Milano, More After Opening Up About \u2018Industry Plant\u2019 Discourse",
-      "link": "https://www.rollingstone.com/music/music-news/yungblud-breaks-down-industry-plant-celeb-support-reaction-1235589490/",
+      "title": "Charli XCX Reveals \u2018Music, Fashion, Film\u2019 Track List With a Song Featuring David Cronenberg",
+      "link": "https://www.rollingstone.com/music/music-news/charli-xcx-music-fashion-film-album-track-list-1235590369/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-07-06 17:05",
-      "summary": "The English musician shared a vulnerable post about his recent struggles as an artist and was greeted with a wave of support"
+      "published": "2026-07-07 18:39",
+      "summary": "The LP, which includes 11 songs, arrives on July 24"
     },
     {
-      "title": "Billboard Hot 100 Top 10 Countdown for July 11, 2026 | Billboard\u00a0News",
-      "link": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-july-11-2026/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-06 17:03",
-      "summary": "Bruno Mars\u2019 \u201cI Just Might\u201d returns to the top 10 of the Hot 100, while \u201cDracula\u201d scales its way higher into the top 10, and Olivia Dean returns to the top five. Will Ella Langley hit a 12th week at No..."
-    },
-    {
-      "title": "Here\u2019s Everything We Know About Taylor Swift & Travis Kelce\u2019s\u00a0Wedding",
-      "link": "https://www.billboard.com/lists/what-we-know-about-taylor-swift-travis-kelce-wedding/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-06 16:55",
-      "summary": "From the size of the guest list to when they tied the knot, here's what has been revealed from Tayvis' big day."
-    },
-    {
-      "title": "Mick Jagger Says The Rolling Stones Plan to Tour in 2027, Won\u2019t Play Residency-Style Shows",
-      "link": "https://consequence.net/2026/07/the-rolling-stones-mick-jagger-residency-tour-2027/",
+      "title": "Elton John Announces Two Farewell Concerts in Mexico City",
+      "link": "https://consequence.net/2026/07/elton-john-mexico-city-farewell-concerts/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-07-06 16:49",
-      "summary": "\"It makes it very expensive for people to come to a residency. It costs twice as much,\" exp Jagger.\nMick Jagger Says The Rolling Stones Plan to Tour in 2027, Won&#8217;t Play Residency-Style Shows\nPao..."
+      "published": "2026-07-07 18:37",
+      "summary": "John's first Mexico City concerts in 14 years will take place at Estadio Banorte on October 2nd and 3rd.\nElton John Announces Two Farewell Concerts in Mexico City\nPaolo Ragusa"
     },
     {
-      "title": "Madonna, Nirosta Steel, Kay Nive$, and More: This Week\u2019s Pitchfork Selects Playlist",
-      "link": "https://pitchfork.com/story/madonna-nirosta-steel-kay-nive-this-weeks-pitchfork-selects-playlist/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-07-06 16:42",
-      "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat"
-    },
-    {
-      "title": "Tori Amos on In Times of Dragons, Revisiting Silent All These Years, and Fighting Tyranny Through Myth: Podcast",
-      "link": "https://consequence.net/2026/07/tori-amos-in-times-of-dragons-interview/",
+      "title": "Best AirPods Deals for July 2026",
+      "link": "https://consequence.net/2026/07/best-airpods-deals-july-2026/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-07-06 16:25",
-      "summary": "The legendary songwriter on her most ambitious concept album yet, reconnecting with her younger self, and why old musical instincts found their way back into the story.\nTori Amos on In Times of Dragon..."
+      "published": "2026-07-07 18:35",
+      "summary": "Find the best prices on AirPods Pro 3, AirPods 4, and AirPods Max.\nBest AirPods Deals for July 2026\nEddie Fu"
     },
     {
-      "title": "Australian Prime Minister apologises for \u201cinappropriate\u201d comments about Kylie Minogue",
-      "link": "https://www.nme.com/news/music/australian-prime-minister-apologises-for-inappropriate-comments-about-kylie-minogue-3955341?utm_source=rss&utm_medium=rss&utm_campaign=australian-prime-minister-apologises-for-inappropriate-comments-about-kylie-minogue",
+      "title": "Violet Grohl expands 2026 UK tour due to phenomenal demand",
+      "link": "https://www.nme.com/news/music/violet-grohl-expands-2026-uk-tour-due-to-phenomenal-demand-3955574?utm_source=rss&utm_medium=rss&utm_campaign=violet-grohl-expands-2026-uk-tour-due-to-phenomenal-demand",
       "source": "NME",
       "category": "general",
-      "published": "2026-07-06 16:14",
-      "summary": "\nHe was asked on a recent podcast appearance who he would \u201cshag, marry or date\u201d out of the pop star, Nicole Kidman and Rhonda Burchmore\nThe post Australian Prime Minister apologises for &#8220;inappro..."
+      "published": "2026-07-07 18:34",
+      "summary": "\nThe dates follow the release of her debut album 'Be Sweet To Me' in May\nThe post Violet Grohl expands 2026 UK tour due to phenomenal demand appeared first on NME."
     },
     {
-      "title": "Sammy Hagar Defends Planned Performance at Freedom 250 Event in Washington, D.C.",
-      "link": "https://consequence.net/2026/07/sammy-hagar-defends-planned-freedom-250-performance/",
-      "source": "Consequence",
+      "title": "Zedd to Headline the Official U.S. Open Finals\u00a0Afterparty",
+      "link": "https://www.billboard.com/music/music-news/2026-us-open-finals-afterparty-zedd-headliner-1236288814/",
+      "source": "Billboard",
       "category": "general",
-      "published": "2026-07-06 16:13",
-      "summary": "The Red Rocker posted on Instagram a picture of his planned speech during \"Right Now\" for the event calling for national unity.\nSammy Hagar Defends Planned Performance at Freedom 250 Event in Washingt..."
+      "published": "2026-07-07 18:30",
+      "summary": "HoneyLuv will also play the Sept. 12 event at New York's Louis Armstrong Stadium."
     },
     {
-      "title": "Lil Wayne Reveals He's Not Engaged, Broke Up With Rumored Fianc\u00e9e",
-      "link": "https://www.xxlmag.com/lil-wayne-not-engaged-broke-up-rumored-fiancee/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-07-06 16:11",
-      "summary": "xomadix/Instagram"
-    },
-    {
-      "title": "Oasis reportedly set for huge 2027 UK and European tour \u2013 including Knebworth and massive Manchester residency",
-      "link": "https://www.nme.com/news/music/oasis-reportedly-set-for-2027-uk-european-tour-including-knebworth-manchester-residency-3955333?utm_source=rss&utm_medium=rss&utm_campaign=oasis-reportedly-set-for-2027-uk-european-tour-including-knebworth-manchester-residency",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-07-06 16:04",
-      "summary": "\nIs news of 'Live '27' just around the corner?\nThe post Oasis reportedly set for huge 2027 UK and European tour \u2013 including Knebworth and massive Manchester residency appeared first on NME."
-    },
-    {
-      "title": "Bully to Headline Consequence\u2019s Free CoSign Sessions Concert at Live at Lagunitas",
-      "link": "https://consequence.net/2026/07/bully-cosign-sessions-live-at-lagunitas/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-07-06 16:00",
-      "summary": "Taking place Tuesday, July 28th and supporting SF SPCA.\nBully to Headline Consequence\u2019s Free CoSign Sessions Concert at Live at Lagunitas\nBen Kaye"
-    },
-    {
-      "title": "Chris Patrick - 2026 XXL Freshman Freestyle, Interview and More",
-      "link": "https://www.xxlmag.com/chris-patrick/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-07-06 16:00",
-      "summary": "Chris Patrick - 2026 XXL Freshman"
-    },
-    {
-      "title": "Watch My Chemical Romance play \u201cAmbulance\u201d for the first time",
-      "link": "https://www.altpress.com/my-chemical-romance-ambulance-live-debut/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-07-06 15:48",
-      "summary": "The live debut of the Conventional Weapons deep cut comes ahead of their Danger Days deluxe, out this week."
-    },
-    {
-      "title": "Chance The Rapper Writes Powerful Letter to America",
-      "link": "https://www.xxlmag.com/chance-the-rapper-letter-america/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-07-06 15:42",
-      "summary": "Jeff Hahne/Getty Images"
-    },
-    {
-      "title": "Rockers and Celebs Support Yungblud After Emotional Post on \u201cIndustry Plant\u201d Accusations",
-      "link": "https://consequence.net/2026/07/yungblud-supported-emotional-post-industry-plant-accusations/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-07-06 15:30",
-      "summary": "The UK singer received support after a heartfelt social media post.\nRockers and Celebs Support Yungblud After Emotional Post on &#8220;Industry Plant&#8221; Accusations\nSpencer Kaufman"
-    },
-    {
-      "title": "James Ellis Ford (Simian Mobile Disco) announces new album, shares \u201cOvertones\u201d",
-      "link": "https://www.brooklynvegan.com/james-ellis-ford-simian-mobile-disco-announces-new-album-shares-overtones/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-07-06 15:14",
-      "summary": "\u2019Lost in Another World\u2019 was made over two weeks in early 2025 while in the hospital between rounds of chemotherapy following a diagnosis of myeloid leukemia. It&#8217;s out August 14."
-    },
-    {
-      "title": "Adam Sandler\u2019s Marital Advice to Taylor Swift and Travis Kelce: \u2018Kiss Every Chance You Have\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/adam-sandler-said-taylor-swift-travis-kelce-wedding-1235585936/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-07-06 15:00",
-      "summary": "The comedian officiated Taylor Swift and Travis Kelce\u2019s wedding at Madison Square Garden over the July 4 holiday weekend"
-    },
-    {
-      "title": "Ringo Starr Announces East Coast Tour",
-      "link": "https://pitchfork.com/story/ringo-starr-announces-east-coast-tour/",
+      "title": "Pitchfork Festival CDMX Reveals 2026 Lineup",
+      "link": "https://pitchfork.com/pitchfork-festival-cdmx-2026-announces-lineup/",
       "source": "Pitchfork",
       "category": "general",
-      "published": "2026-07-06 14:54",
-      "summary": "The All-Starr band is hitting the road this fall"
+      "published": "2026-07-07 18:21",
+      "summary": "Featuring American Football, Cacomixtle, Perfume Genius, and more artists to be announced"
     },
     {
-      "title": "6ix9ine Reenacts Gucci Mane Kidnapping Video",
-      "link": "https://www.xxlmag.com/6ix9ine-reenacts-gucci-mane-kidnapping-video/",
+      "title": "Nipsey Hussle's Kids Receive Cash, Assets From His Estate",
+      "link": "https://www.xxlmag.com/nipsey-hussle-kids-receive-cash-assets-estate/",
       "source": "XXL Mag",
       "category": "hiphop",
-      "published": "2026-07-06 14:51",
-      "summary": "6ix9ine/X"
+      "published": "2026-07-07 18:16",
+      "summary": "Allen Berezovsky/Getty Images"
     },
     {
-      "title": "England Player Suffers \u2018Serious\u2019 Wrist Injury After Singing \u2018Wonderwall\u2019 at World Cup",
-      "link": "https://www.rollingstone.com/music/music-news/england-jordan-henderson-injures-wrist-wonderwall-1235589542/",
+      "title": "Billie Joe Armstrong, Tim Armstrong, Travis Barker, and CJ Ramone Teaming Up for Ramones 50th Anniversary Show",
+      "link": "https://consequence.net/2026/07/billie-joe-armstrong-tim-armstrong-travis-barker-cj-ramone-ramones-50th-anniversary-show/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-07 18:12",
+      "summary": "The punk supergroup will play Ramones classics at the Hollywood Forever Cemetery.\nBillie Joe Armstrong, Tim Armstrong, Travis Barker, and CJ Ramone Teaming Up for Ramones 50th Anniversary Show\nSpencer..."
+    },
+    {
+      "title": "Chat Pile Unveil New Single \u201cPEN I S MALL\u201d: Stream",
+      "link": "https://consequence.net/2026/07/chat-pile-unveil-new-single-pen-i-s-mall-stream/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-07 18:06",
+      "summary": "The single comes from Who Loves the Sun, the band's new album due out September 4th.\nChat Pile Unveil New Single &#8220;PEN I S MALL&#8221;: Stream\nLangdon Hickman"
+    },
+    {
+      "title": "Green Day\u2019s Billie Joe Armstrong to Front Punk Supergroup Honoring the Ramones",
+      "link": "https://www.rollingstone.com/music/music-news/billie-joe-armstrong-supergroup-ramones-anniversary-show-1235590395/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-07-06 14:48",
-      "summary": "Veteran midfielder Jordan Henderson tripped over an ad barrier as the England national team celebrated its victory over Mexico in the Round of 16"
+      "published": "2026-07-07 18:00",
+      "summary": "Cretin Family \u2014 featuring Armstrong, Blink-182\u2019s Travis Barker, Rancid\u2019s Tim Armstrong, and Ramones bassist C.J. Ramone \u2014 will play L.A. on Aug. 30 to celebrate the Ramones\u2019 50th anniversary"
     },
     {
-      "title": "Dave Grohl: Pixies\u2019 Surfer Rosa Is a \u201cPerfect Record\u201d",
-      "link": "https://consequence.net/2026/07/dave-grohl-pixies-surfer-rosa-is-a-perfect-record/",
+      "title": "Ramones 50th Anniversary Tribute to Feature Set By All-Star Cretins Band Fronted By Billie Joe Armstrong, Rancid\u2019s Tim\u00a0Armstrong",
+      "link": "https://www.billboard.com/music/rock/ramones-50th-anniversary-tribute-band-billie-joe-armstrong-1236288784/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-07 18:00",
+      "summary": "The special Aug. 30 set will also feature Blink-182 drummer Travis Barker and ormer Ramones bassist CJ Ramone."
+    },
+    {
+      "title": "Ramones unveil 50th anniversary event with members of Green Day, blink-182, more",
+      "link": "https://www.altpress.com/ramones-50th-anniversary-tribute/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-07-07 18:00",
+      "summary": "Celebrating five decades of the punk band\u2019s self-titled debut album."
+    },
+    {
+      "title": "Watch Rihanna Uplift a Self-Conscious Fan Who\u2019s Battling Cancer in Touching Interaction: \u2018You\u2019re Fire\u2019",
+      "link": "https://www.billboard.com/music/rb-hip-hop/rihanna-encourages-fan-cancer-video-1236288931/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-07 17:58",
+      "summary": "Ri also co-signed Yung Miami's \"Spend Dat\" an episode of Jason Lee's Grocery Shopping With Rihanna."
+    },
+    {
+      "title": "Noah Kahan\u2019s 2027 Destination Festival Out of the Blue Might Be the Ultimate Kahan\u2019t Miss Experience",
+      "link": "https://consequence.net/2026/07/noah-kahan-2027-destination-festival-out-of-the-blue/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-07-06 14:43",
-      "summary": "\"That record I've probably listened to 10,000 times and I still love it. I could still listen to it every day.\"\nDave Grohl: Pixies&#8217; Surfer Rosa Is a &#8220;Perfect Record&#8221;\nScoop Harrison"
+      "published": "2026-07-07 17:55",
+      "summary": "The acclaimed songwriter's tour is sold out, but tickets for his Hayley Williams-featuring destination festival just went live.\nNoah Kahan&#8217;s 2027 Destination Festival Out of the Blue Might Be th..."
     },
     {
-      "title": "Danny Elfman preparing new album, announces fall tour",
-      "link": "https://www.brooklynvegan.com/danny-elfman-preparing-new-album-announces-fall-tour/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-07-06 14:29",
-      "summary": "He also has festival dates, including Shaky Knees, Louder Than Life, and Aftershock."
-    },
-    {
-      "title": "Panda Bear & Sonic Boom tell us why their album won\u2019t be on streaming services + yodeling, police sirens & more (BV Interviews)",
-      "link": "https://www.brooklynvegan.com/panda-bear-sonic-boom-tell-us-why-their-album-wont-be-on-streaming-services-yodeling-police-sirens-more-bv-interviews/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-07-06 14:21",
-      "summary": "Panda Bear &#038; Sonic Boom&#8217;s second album, &#8216;A ? of When,&#8217; is out July 10 and you can listen to our full conversation on the latest episode of the BV Interviews podcast."
-    },
-    {
-      "title": "Wolf Alice Cover Nirvana\u2019s \u201cSmells Like Teen Spirit\u201d at Homecoming London Show: Watch",
-      "link": "https://consequence.net/2026/07/wolf-alice-smells-like-teen-spirit-cover-london-watch/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-07-06 14:19",
-      "summary": "They've also announced The Clearing: B-Sides, a three-track companion to their 2025 LP that includes the newly-released single \"Gospel Oak.\"\nWolf Alice Cover Nirvana&#8217;s &#8220;Smells Like Teen Sp..."
-    },
-    {
-      "title": "First-Ever Official Black Sabbath Book Arriving This Fall",
-      "link": "https://loudwire.com/black-sabbath-official-book/",
+      "title": "The TV Talent Show Amy Lee's Dad Won in the Late 1970s",
+      "link": "https://loudwire.com/evanescence-amy-lee-father-gong-show/",
       "source": "Loudwire",
       "category": "rock",
-      "published": "2026-07-06 14:09",
-      "summary": "Kevin Winter, Getty Images, Rufus Publications"
+      "published": "2026-07-07 17:55",
+      "summary": "Evanescence, Ron Tom/NBCU Photo Bank/NBCUniversal, Getty Images"
+    },
+    {
+      "title": "Gracie Abrams Tells Olivia Rodrigo Why She\u2019s Done \u2018Pointing Fingers\u2019 in Her Songs: \u2018I Was Careless in the\u00a0Past\u2019",
+      "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-gracie-abrams-address-careless-songwriting-1236289033/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-07 17:53",
+      "summary": "The pair sat down with Spotify for a conversation about songwriting ahead of Abrams' new album."
+    },
+    {
+      "title": "Rico Nasty announces RX headline tour",
+      "link": "https://www.altpress.com/rico-nasty-announces-rx-headline-tour/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-07-07 17:44",
+      "summary": "The rapper will hit the road while also supporting Hayley Williams."
+    },
+    {
+      "title": "Geese Sign With Weekday\u00a0Management",
+      "link": "https://www.billboard.com/pro/geese-weekday-management-news/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-07 17:35",
+      "summary": "The fast-rising rock band is now managed by Tyler Richman and Anna Spaulding."
+    },
+    {
+      "title": "Taylor Swift\u2019s 50 Biggest Billboard Hot 100\u00a0Hits",
+      "link": "https://www.billboard.com/lists/top-taylor-swift-songs-top-100-hits/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-07 17:35",
+      "summary": "From \"Tim McGraw\" to \"Anti-Hero\" and more, these are the pop superstar's biggest chart hits."
+    },
+    {
+      "title": "Joe Murphy of Koopa \u2013 who made UK chart history \u2013 dies aged 46",
+      "link": "https://www.nme.com/news/music/joe-murphy-of-koopa-who-made-uk-chart-history-dies-aged-46-3955570?utm_source=rss&utm_medium=rss&utm_campaign=joe-murphy-of-koopa-who-made-uk-chart-history-dies-aged-46",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-07 17:34",
+      "summary": "\nThe singer and bassist disrupted the music industry in 2007 as part of the Essex pop-punk band\nThe post Joe Murphy of Koopa \u2013 who made UK chart history \u2013 dies aged 46 appeared first on NME."
+    },
+    {
+      "title": "U2 Get Drenched, Tap Into Classic, Soaring Sound in Video For Funky \u2018Street of Dreams\u2019\u00a0Single",
+      "link": "https://www.billboard.com/music/rock/u2-classic-sound-video-single-street-of-dreams-mexico-watch-1236289027/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-07 17:29",
+      "summary": "The clip for the bilingual song from the veteran group's as-yet-unannounced new album was filmed in Mexico City in May."
+    },
+    {
+      "title": "Devil Master Announce New Album, Unleash \u201cYou Worms\u2019 Vain Delusions\u201d: Stream",
+      "link": "https://consequence.net/2026/07/devil-master-announce-bloody-dreams/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-07 17:24",
+      "summary": "Bloody Dreams, the band's third studio album, will be out September 4th.\nDevil Master Announce New Album, Unleash &#8220;You Worms&#8217; Vain Delusions&#8221;: Stream\nLangdon Hickman"
+    },
+    {
+      "title": "Mariska Hargitay to Host This Year\u2019s Emmy Awards",
+      "link": "https://consequence.net/2026/07/mariska-hargitay-emmy-awards-2026-host/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-07 17:24",
+      "summary": "The SVU star may also be a nominee this year. \nMariska Hargitay to Host This Year&#8217;s Emmy Awards\nLiz Shannon Miller"
+    },
+    {
+      "title": "Jermaine Dupri Sues Sony Music for $18M in Unpaid Royalties on Mariah Carey & Usher\u00a0Albums",
+      "link": "https://www.billboard.com/pro/jermaine-dupri-sues-sony-music-for-18m-in-unpaid-royalties/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-07 17:08",
+      "summary": "The veteran hip-hop producer says Sony used \u201ccontemptuous accounting practices\u201d to underpay him and his record label millions in royalties."
+    },
+    {
+      "title": "Gilla Band Set Next Album Pugnello",
+      "link": "https://pitchfork.com/story/gilla-band-new-album-pugnello/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-07-07 16:58",
+      "summary": "The Dublin quartet also shared \u201cPlaceholder,\u201d an ode to vocalist Dara Kiely\u2019s childhood creature comforts"
+    },
+    {
+      "title": "Santana Expands Fall 2026 Las Vegas Residency",
+      "link": "https://consequence.net/2026/07/santana-new-2026-las-vegas-residency-dates/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-07 16:49",
+      "summary": "The November dates continue his long-running residency at the House of Blues inside Mandalay Bay Resort and Casino.\nSantana Expands Fall 2026 Las Vegas Residency\nEddie Fu"
+    },
+    {
+      "title": "Watch Green Day\u2019s \u201cI\u2019m Never Gonna R.I.P.\u201d video for Nimrods soundtrack",
+      "link": "https://www.altpress.com/green-day-im-never-gonna-rip-video-watch/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-07-07 16:35",
+      "summary": "The song is for their upcoming movie, inspired by the band\u2019s beginnings."
+    },
+    {
+      "title": "Corey Taylor Sees 3 Therapists At Once And Says It's Working",
+      "link": "https://loudwire.com/corey-taylor-mental-health-therapy/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-07-07 16:13",
+      "summary": "Mythical Kitchen via YouTube, Scott Gries, Getty Images"
+    },
+    {
+      "title": "Belly Gang Kushington - 2026 XXL Freshman Freestyle, Interview",
+      "link": "https://www.xxlmag.com/belly-gang-kushington/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-07-07 16:07",
+      "summary": "Belly Gang Kushington - 2026 XXL Freshman"
+    },
+    {
+      "title": "James Ford tells us about writing new album \u2018Lost In Another World\u2019 while in hospital receiving treatment for leukemia",
+      "link": "https://www.nme.com/news/music/james-ford-interview-lost-in-another-world-new-album-cancer-treatment-3955371?utm_source=rss&utm_medium=rss&utm_campaign=james-ford-interview-lost-in-another-world-new-album-cancer-treatment",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-07 16:05",
+      "summary": "\n\"This whole past year has been some of the worst moments of my life, but also some moments of transcendental beauty and gratitude for the blessings I have in my life\"\nThe post James Ford tells us abo..."
+    },
+    {
+      "title": "Agnostic Front and Angel Du$t Announce Fall 2026 Co-Headlining US Tour",
+      "link": "https://consequence.net/2026/07/agnostic-front-angel-dust-us-tour/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-07 16:04",
+      "summary": "The outing features Step 2 This as support.\nAgnostic Front and Angel Du$t Announce Fall 2026 Co-Headlining US Tour\nLangdon Hickman"
+    },
+    {
+      "title": "U2 Release \u201cStreet of Dreams,\u201d First Single from Upcoming Studio Album: Stream",
+      "link": "https://consequence.net/2026/07/u2-release-single-streets-of-dreams/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-07 16:04",
+      "summary": "The band's first album in nine years is due arrives later this year.\nU2 Release &#8220;Street of Dreams,&#8221; First Single from Upcoming Studio Album: Stream\nTravis Bland and Paolo Ragusa"
+    },
+    {
+      "title": "Latto Gives Update on Her Daughter, Calls Her the Chosen One",
+      "link": "https://www.xxlmag.com/latto-update-daughter-chosen-one/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-07-07 16:03",
+      "summary": "latto/Instagram"
+    },
+    {
+      "title": "Watch U2 Crash a Family\u2019s Apartment in New Music Video",
+      "link": "https://pitchfork.com/story/listen-to-u2-new-single-street-of-dreams/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-07-07 16:02",
+      "summary": "\u201cStreet of Dreams\u201d is from their forthcoming as-yet-untitled studio album"
+    },
+    {
+      "title": "Hear U2\u2019s Joyous New Single \u2018Street of Dreams\u2019 From Upcoming Studio Album",
+      "link": "https://www.rollingstone.com/music/music-news/u2-new-song-street-of-dreams-upcoming-studio-album-1235590299/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-07-07 16:01",
+      "summary": "The single is the first song that U2 has shared from their upcoming studio album, which will come out sometime around their 50th anniversary later this year"
+    },
+    {
+      "title": "Rolling Stone Video Series \u2018The Breakdown\u2019 and \u2018My Life in 10 Songs\u2019 Are Headed to Netflix",
+      "link": "https://www.rollingstone.com/music/music-news/rolling-stone-video-franchises-netflix-1235590301/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-07-07 16:00",
+      "summary": "New and archival episodes from both franchises will be available to watch on the streaming platform starting in August"
+    },
+    {
+      "title": "Check out U2\u2019s stirring Jacknife Lee-produced new single \u2018Street Of Dreams\u2019",
+      "link": "https://www.nme.com/news/music/check-out-u2s-stirring-jacknife-lee-produced-new-single-street-of-dreams-3955411?utm_source=rss&utm_medium=rss&utm_campaign=check-out-u2s-stirring-jacknife-lee-produced-new-single-street-of-dreams",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-07 16:00",
+      "summary": "\nFootage was recently shared of the band filming the video for the first taster from their upcoming album in Mexico City\nThe post Check out U2&#8217;s stirring Jacknife Lee-produced new single &#8216;..."
+    },
+    {
+      "title": "Liam Gallagher \u201cready\u201d for World Cup \u2018Wonderwall\u2019 performance if England reach final",
+      "link": "https://www.nme.com/news/music/liam-gallagher-ready-for-world-cup-wonderwall-performance-if-england-reach-final-3955550?utm_source=rss&utm_medium=rss&utm_campaign=liam-gallagher-ready-for-world-cup-wonderwall-performance-if-england-reach-final",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-07 15:59",
+      "summary": "\nHarry Kane and co. have been singing the Britpop classic with fans after victories against Panama, Croatia, Mexico and more\nThe post Liam Gallagher &#8220;ready&#8221; for World Cup &#8216;Wonderwall..."
+    },
+    {
+      "title": "Alabama Shakes Announce New Album I Must Be Dreaming",
+      "link": "https://consequence.net/2026/07/alabama-shakes-i-must-be-dreaming-new-album/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-07 15:54",
+      "summary": "The trio's first new album in 11 years arrives on August 28th.\nAlabama Shakes Announce New Album I Must Be Dreaming\nPaolo Ragusa"
+    },
+    {
+      "title": "John Oliver on General Hospital Is Delicious Ham Salad",
+      "link": "https://consequence.net/2026/07/john-oliver-general-hospital-abc-z-wsb/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-07 15:44",
+      "summary": "The Last Week Tonight's three-episode run on the long-running soap opera was glorious. \nJohn Oliver on General Hospital Is Delicious Ham Salad\nLiz Shannon Miller"
+    },
+    {
+      "title": "Kalshi users are botting streams now",
+      "link": "https://www.thefader.com/2026/07/07/kalshi-spotify-fraud-malcolm-todd-bot-streaming-farms-prediction-markets",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-07-07 15:39",
+      "summary": "A thwarted fraud attempt highlights how digital music seems particularly vulnerable to market manipulation."
+    },
+    {
+      "title": "MNEK on making \u2018Midnight Sun,\u2019 \u201cStateside\u201d remix, and his clubby solo album",
+      "link": "https://www.thefader.com/2026/07/07/mnek-midnight-sun-stateside-remix-bulldozer-album",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-07-07 15:35",
+      "summary": "After a run of hits with Zara Larsson and FLO, MNEK is leaning into his artist era."
+    },
+    {
+      "title": "Duffy Performs at Secret London Concert for Her First Live Show in 15 Years",
+      "link": "https://www.rollingstone.com/music/music-news/duffy-performs-secret-london-concert-first-live-show-years-1235590204/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-07-07 15:31",
+      "summary": "The Grammy Award-winning vocalist performed a mix of fan favorites and new material"
+    },
+    {
+      "title": "xaviersobased is joining Ken Carson\u2019s xperimenting Tour",
+      "link": "https://www.thefader.com/2026/07/07/ken-carsons-xperimenting-tour-details-xaviersobased-support",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-07-07 15:28",
+      "summary": "Opium, 1c, and prettifun link up in the 17-city tour."
+    },
+    {
+      "title": "Ho99o9 and N8NOFACE Announce Fall 2026 Co-Headlining North American Tour",
+      "link": "https://consequence.net/2026/07/ho99o9-n8noface-fall-2026-north-american-tour/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-07 15:26",
+      "summary": "Support on the outing will come from Slay Squad.\nHo99o9 and N8NOFACE Announce Fall 2026 Co-Headlining North American Tour\nSpencer Kaufman"
+    },
+    {
+      "title": "Kai Cenat Unveils 2026 Streamer University Lineup Featuring Lizzo",
+      "link": "https://www.xxlmag.com/kai-cenat-2026-streamer-university-lizzo-professor/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-07-07 15:25",
+      "summary": "Kai Cenat Live/YouTube / Matt Winkelmeyer/WireImage"
     }
   ],
-  "last_updated": "2026-07-06T18:58:40.790347"
+  "last_updated": "2026-07-07T19:06:24.541282"
 }

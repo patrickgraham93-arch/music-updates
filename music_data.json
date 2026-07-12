@@ -1,6 +1,26 @@
 {
   "hiphop": [
     {
+      "name": "The Real Me",
+      "artists": "Future",
+      "release_date": "2026-07-10",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d931c30331d82c992daf5c2",
+      "spotify_url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY",
+      "apple_music_url": "https://music.apple.com/us/search?term=The%20Real%20Me%20Future",
+      "total_tracks": 22,
+      "album_type": "album"
+    },
+    {
+      "name": "Dem Goats",
+      "artists": "Juicy J, Project Pat",
+      "release_date": "2026-07-10",
+      "image": "https://i.scdn.co/image/ab67616d0000b27344c88a25e0631640a3ecb9c7",
+      "spotify_url": "https://open.spotify.com/album/2M0IQZnARm6zbyvYxtkQBh",
+      "apple_music_url": "https://music.apple.com/us/search?term=Dem%20Goats%20Juicy%20J",
+      "total_tracks": 20,
+      "album_type": "album"
+    },
+    {
       "name": "Temptation",
       "artists": "HUGEL, Bryson Tiller",
       "release_date": "2026-07-10",
@@ -21,14 +41,14 @@
       "album_type": "single"
     },
     {
-      "name": "Dem Goats",
-      "artists": "Juicy J, Project Pat",
+      "name": "ROOSTER",
+      "artists": "Whethan, Waka Flocka Flame, Denzel Curry, BKTHERULA",
       "release_date": "2026-07-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b27344c88a25e0631640a3ecb9c7",
-      "spotify_url": "https://open.spotify.com/album/2M0IQZnARm6zbyvYxtkQBh",
-      "apple_music_url": "https://music.apple.com/us/search?term=Dem%20Goats%20Juicy%20J",
-      "total_tracks": 20,
-      "album_type": "album"
+      "image": "https://i.scdn.co/image/ab67616d0000b2731739f19d75ea3583e290c29f",
+      "spotify_url": "https://open.spotify.com/album/6VyJKQ4ZSoCCcgSXjoQSnn",
+      "apple_music_url": "https://music.apple.com/us/search?term=ROOSTER%20Whethan",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "Come To Me",
@@ -51,26 +71,6 @@
       "album_type": "single"
     },
     {
-      "name": "ROOSTER",
-      "artists": "Whethan, Waka Flocka Flame, Denzel Curry, BKTHERULA",
-      "release_date": "2026-07-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731739f19d75ea3583e290c29f",
-      "spotify_url": "https://open.spotify.com/album/6VyJKQ4ZSoCCcgSXjoQSnn",
-      "apple_music_url": "https://music.apple.com/us/search?term=ROOSTER%20Whethan",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "The Real Me",
-      "artists": "Future",
-      "release_date": "2026-07-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732d931c30331d82c992daf5c2",
-      "spotify_url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY",
-      "apple_music_url": "https://music.apple.com/us/search?term=The%20Real%20Me%20Future",
-      "total_tracks": 22,
-      "album_type": "album"
-    },
-    {
       "name": "BIG LITTLE LIES",
       "artists": "Sango, Big Sean",
       "release_date": "2026-07-09",
@@ -81,22 +81,22 @@
       "album_type": "single"
     },
     {
-      "name": "DUET",
-      "artists": "Sango, Smino",
-      "release_date": "2026-07-09",
-      "image": "https://i.scdn.co/image/ab67616d0000b27305ae64e4b6eb0bb5fb3b203f",
-      "spotify_url": "https://open.spotify.com/album/4SRPDdmghXVOI692DgBGVg",
-      "apple_music_url": "https://music.apple.com/us/search?term=DUET%20Sango",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Ignorance Was Never Bliss (feat. Loyle Carner)",
       "artists": "Joe James, Loyle Carner",
       "release_date": "2026-07-09",
       "image": "https://i.scdn.co/image/ab67616d0000b273c0ed1e718fdde2bc4ff38a83",
       "spotify_url": "https://open.spotify.com/album/2SYvulvaS4yJb7jmCouZ7u",
       "apple_music_url": "https://music.apple.com/us/search?term=Ignorance%20Was%20Never%20Bliss%20Joe%20James",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "DUET",
+      "artists": "Sango, Smino",
+      "release_date": "2026-07-09",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305ae64e4b6eb0bb5fb3b203f",
+      "spotify_url": "https://open.spotify.com/album/4SRPDdmghXVOI692DgBGVg",
+      "apple_music_url": "https://music.apple.com/us/search?term=DUET%20Sango",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -216,7 +216,7 @@
       "release_date": "2026-06-25",
       "image": "https://i.scdn.co/image/ab67616d0000b273846eb810efee623febd04472",
       "spotify_url": "https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H",
-      "apple_music_url": "https://music.apple.com/us/search?term=MANE%20GloRilla",
+      "apple_music_url": "https://music.apple.com/us/album/mane-single/6784350921?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -236,7 +236,7 @@
       "release_date": "2026-06-24",
       "image": "https://i.scdn.co/image/ab67616d0000b273049b1a7a6ed1f24e9ad2ea57",
       "spotify_url": "https://open.spotify.com/album/6alxQLTcjpRf7SYfUcmfCF",
-      "apple_music_url": "https://music.apple.com/us/album/eat-em-up-single/6775626225?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Eat%20%27Em%20Up%20Reese%27s%20Puffs",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -246,7 +246,7 @@
       "release_date": "2026-06-24",
       "image": "https://i.scdn.co/image/ab67616d0000b273c857876b61f210eb16acaf41",
       "spotify_url": "https://open.spotify.com/album/1eSBJYm05UodNrXkzOgzSg",
-      "apple_music_url": "https://music.apple.com/us/search?term=Beyond%20The%20Brilliant%20Haze%20Everything%20Is%20Recorded",
+      "apple_music_url": "https://music.apple.com/us/album/beyond-the-brilliant-haze-single/6771369774?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -266,7 +266,7 @@
       "release_date": "2026-06-23",
       "image": "https://i.scdn.co/image/ab67616d0000b2735383457ed8b33bf654756709",
       "spotify_url": "https://open.spotify.com/album/5HYFjJ9Ag2nZj3l0WtZGS7",
-      "apple_music_url": "https://music.apple.com/us/search?term=DOPE%20BOYS%20ACADEMY%20T.I.",
+      "apple_music_url": "https://music.apple.com/us/album/dope-boys-academy-single/6784513507?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -321,16 +321,6 @@
       "album_type": "album"
     },
     {
-      "name": "WTF GOIN (feat. 21 Savage)",
-      "artists": "Belly Gang Kushington, 21 Savage",
-      "release_date": "2026-06-19",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d3e3be06cf0c3a421f20f50a",
-      "spotify_url": "https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb",
-      "apple_music_url": "https://music.apple.com/us/search?term=WTF%20GOIN%20Belly%20Gang%20Kushington",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "On Your Mind (feat. Lil Yachty)",
       "artists": "FKA twigs, Lil Yachty",
       "release_date": "2026-06-19",
@@ -341,12 +331,22 @@
       "album_type": "single"
     },
     {
+      "name": "WTF GOIN (feat. 21 Savage)",
+      "artists": "Belly Gang Kushington, 21 Savage",
+      "release_date": "2026-06-19",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d3e3be06cf0c3a421f20f50a",
+      "spotify_url": "https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb",
+      "apple_music_url": "https://music.apple.com/us/search?term=WTF%20GOIN%20Belly%20Gang%20Kushington",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "WHACK'S MUSEUM",
       "artists": "Tierra Whack",
       "release_date": "2026-06-19",
       "image": "https://i.scdn.co/image/ab67616d0000b273117fa2e60be61cd93624753b",
       "spotify_url": "https://open.spotify.com/album/46mboRimEXi5KPeUqtkC2i",
-      "apple_music_url": "https://music.apple.com/us/search?term=WHACK%27S%20MUSEUM%20Tierra%20Whack",
+      "apple_music_url": "https://music.apple.com/us/album/whacks-museum/6779443177?uo=4",
       "total_tracks": 12,
       "album_type": "album"
     },
@@ -1115,6 +1115,254 @@
   ],
   "news": [
     {
+      "title": "Jay-Z Shuts Down Yankee Stadium With \u2018The Blueprint\u2019 & Special Guests: 7 Best\u00a0Moments",
+      "link": "https://www.billboard.com/lists/jay-z-yankee-stadium-concert-blueprint-best-moments/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-12 17:47",
+      "summary": "Jay's second night at Yankee Stadium had its fair share of highs and surprises, thanks to Slick Rick, Eminem and Pharrell."
+    },
+    {
+      "title": "Bob Dylan\u2019s Revolving Door of Touring Guitarists Welcomes Another New Addition",
+      "link": "https://www.rollingstone.com/music/music-news/bob-dylan-revolving-door-touring-guitarists-jad-tariq-1235592455/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-07-12 17:25",
+      "summary": "Memphis-based guitarist Jad Tariq made his debut in Dylan's unit Friday in Cincinnati, filling in for fellow new addition Julian Lage"
+    },
+    {
+      "title": "'Everything Comes to an End' - Frank Ferrer Reflects on GNR Split",
+      "link": "https://loudwire.com/frank-ferrer-guns-n-roses-split-new-opportunities/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-07-12 16:26",
+      "summary": "Ethan Miller, Getty Images / Guns N' Roses"
+    },
+    {
+      "title": "Pitbull Sets Guinness World Record for Largest Gathering of People in Bald Caps",
+      "link": "https://consequence.net/2026/07/pitbull-sets-guinness-world-record/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-12 16:15",
+      "summary": "The Miami rapper's and his fans the Bald Es set the record at BST Festival in London.\nPitbull Sets Guinness World Record for Largest Gathering of People in Bald Caps\nTravis Bland"
+    },
+    {
+      "title": "Everything You Missed So Far at Jay-Z\u2019s Yankee Stadium Run",
+      "link": "https://pitchfork.com/story/jay-z-yankee-stadium-run/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-07-12 16:14",
+      "summary": "Featuring Pharrell, Beyonc\u00e9, Blue Ivy, and record-breaking ticket sales"
+    },
+    {
+      "title": "Niall Horan & Thomas Rhett Cover Ella Langley\u2019s \u2018Choosin\u2019 Texas\u2019 in\u00a0Nashville",
+      "link": "https://www.billboard.com/music/music-news/niall-horan-thomas-rhett-hoosin-texas-ella-langley-1236292539/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-12 16:03",
+      "summary": "The pair performed a duet of the country hit at their co-headlining stadium gig at GEODIS Park."
+    },
+    {
+      "title": "Britney Spears Dismisses Odd Behavior on L.A. Highway: \u2018Nothing Is What It Seems\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/britney-spears-dismisses-odd-behavior-la-highway-1235592451/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-07-12 15:39",
+      "summary": "\"What people see is two seconds of insanity of me arching me to the lords,\" singer writes of standing through a moonroof on 101 Freeway"
+    },
+    {
+      "title": "Jack White Joined by Daughter Scarlett White on Bass for Three Songs in Brooklyn",
+      "link": "https://consequence.net/2026/07/jack-white-scarlett-brooklyn/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-12 15:09",
+      "summary": "Scarlett sat in for performances of \"Cannon,\" John the Revelator,\" and \"Black Math\"\nJack White Joined by Daughter Scarlett White on Bass for Three Songs in Brooklyn\nAlex Young"
+    },
+    {
+      "title": "The Cure\u2019s Simon Gallup Sidelined from Tour After Falling Ill, Son Eden Filling In",
+      "link": "https://consequence.net/2026/07/the-cure-bassist-steps-away-with-illness/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-12 15:03",
+      "summary": "Eden has played bass for The Cure during their last two concerts in Berlin.\nThe Cure&#8217;s Simon Gallup Sidelined from Tour After Falling Ill, Son Eden Filling In\nTravis Bland"
+    },
+    {
+      "title": "Mick Jagger - My Job Isn't to 'Lecture' Audiences About Politics",
+      "link": "https://loudwire.com/mick-jagger-job-lecture-audiences-politics/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-07-12 14:23",
+      "summary": "Theo Wargo, Getty Images"
+    },
+    {
+      "title": "AC/DC Kick Off Summer 2026 North American Tour with 21-Song Set of Classics: Video + Setlist",
+      "link": "https://consequence.net/2026/07/ac-dc-summer-2026-north-american-tour-kickoff-setlist/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-12 14:21",
+      "summary": "The legendary rock act will play stadiums through late September.\nAC/DC Kick Off Summer 2026 North American Tour with 21-Song Set of Classics: Video + Setlist\nSpencer Kaufman"
+    },
+    {
+      "title": "See Jay-Z Bring Out Eminem, Pharrell Williams at Yankee Stadium Night 2",
+      "link": "https://www.rollingstone.com/music/music-news/jay-z-eminem-pharrell-williams-yankee-stadium-night-two-1235592434/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-07-12 14:04",
+      "summary": "Rapper's second night in the Bronx focused on his 2001 album The Blueprint"
+    },
+    {
+      "title": "See the Setlist for JAY-Z\u2019s 25th Anniversary The Blueprint Concert at Yankee Stadium",
+      "link": "https://consequence.net/2026/07/jay-z-blueprint-anniversary-show-setlist/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-12 13:31",
+      "summary": "Night two of HOV's Yankee Stadium takeover included a near full performance of The Blueprint, plus guest appearances from Eminem and Pharrell Williams.\nSee the Setlist for JAY-Z&#8217;s 25th Anniversa..."
+    },
+    {
+      "title": "JAY-Z\u2019s The Blueprint Anniversary Show Falls Short After Triumphant Reasonable Doubt Opener",
+      "link": "https://consequence.net/2026/07/jay-z-blueprint-anniversary-show-review-yankee-stadium/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-07-12 13:12",
+      "summary": "The 1.5-hour set ended abruptly and entirely skipped an encore.\nJAY-Z&#8217;s The Blueprint Anniversary Show Falls Short After Triumphant Reasonable Doubt Opener\nEddie Fu"
+    },
+    {
+      "title": "Watch Pitbull cover Oasis\u2019 \u2018Wonderwall\u2019 at record-breaking BST Hyde Park gig",
+      "link": "https://www.nme.com/news/music/watch-pitbull-cover-oasis-wonderwall-at-record-breaking-bst-hyde-park-gig-3956482?utm_source=rss&utm_medium=rss&utm_campaign=watch-pitbull-cover-oasis-wonderwall-at-record-breaking-bst-hyde-park-gig",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-12 11:05",
+      "summary": "\nThe song has become an unofficial anthem for the England football team\nThe post Watch Pitbull cover Oasis&#8217; &#8216;Wonderwall&#8217; at record-breaking BST Hyde Park gig appeared first on NME."
+    },
+    {
+      "title": "Watch Lewis Capaldi bring out Sam Fender for \u2018Rein Me In\u2019 at BST Hyde Park",
+      "link": "https://www.nme.com/news/music/watch-lewis-capaldi-bring-out-sam-fender-for-rein-me-in-at-bst-hyde-park-3956493?utm_source=rss&utm_medium=rss&utm_campaign=watch-lewis-capaldi-bring-out-sam-fender-for-rein-me-in-at-bst-hyde-park",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-12 11:03",
+      "summary": "\nCapaldi nodded to the success of the track recently seeing it become \"the longest-running British Number One of all time\"\nThe post Watch Lewis Capaldi bring out Sam Fender for &#8216;Rein Me In&#8217..."
+    },
+    {
+      "title": "IDLES\u2019 Joe Talbot hails Interpol as \u201cone of the main reasons I\u2019m in a band\u201d at Bilbao BBK Live 2026",
+      "link": "https://www.nme.com/news/idles-hail-interpol-as-one-of-the-main-reasons-im-in-a-band-at-bilbao-bbk-live-2026-3956491?utm_source=rss&utm_medium=rss&utm_campaign=idles-hail-interpol-as-one-of-the-main-reasons-im-in-a-band-at-bilbao-bbk-live-2026",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-12 10:36",
+      "summary": "\nIn partnership with Bilbao BBK Live IDLES singer Joe Talbot hailed the influence of New Yorkers Interpol on the final day of Bilbao BBK Live 2026, declaring that the group were one of his biggest rea..."
+    },
+    {
+      "title": "Machine Gun Kelly revels in Conor McGregor\u2019s 69-second UFC loss years after their VMA bust-up",
+      "link": "https://www.nme.com/news/music/machine-gun-kelly-revels-in-conor-mcgregors-69-second-ufc-loss-years-after-their-vma-bust-up-3956474?utm_source=rss&utm_medium=rss&utm_campaign=machine-gun-kelly-revels-in-conor-mcgregors-69-second-ufc-loss-years-after-their-vma-bust-up",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-12 10:22",
+      "summary": "\n\"The real Conor can\u2019t stand up\"\nThe post Machine Gun Kelly revels in Conor McGregor&#8217;s 69-second UFC loss years after their VMA bust-up appeared first on NME."
+    },
+    {
+      "title": "Taylor Swift paid \u201cover $160,000\u201d to obtain NYC Permit for MSG Wedding, says mayor Zohran Mamdani",
+      "link": "https://www.nme.com/news/music/taylor-swift-paid-over-160000-to-obtain-nyc-permit-for-msg-wedding-says-mayor-zohran-mamdani-3956466?utm_source=rss&utm_medium=rss&utm_campaign=taylor-swift-paid-over-160000-to-obtain-nyc-permit-for-msg-wedding-says-mayor-zohran-mamdani",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-12 09:51",
+      "summary": "\nSwift and her now-husband Travis Kelce have been criticised for shutting down several streets around their wedding venue\nThe post Taylor Swift paid &#8220;over $160,000&#8221; to obtain NYC Permit fo..."
+    },
+    {
+      "title": "Liam Gallagher predicts England World Cup win: \u201cYou gotta make it happen\u201d",
+      "link": "https://www.nme.com/news/music/liam-gallagher-predicts-england-world-cup-win-you-gotta-make-it-happen-3956455?utm_source=rss&utm_medium=rss&utm_campaign=liam-gallagher-predicts-england-world-cup-win-you-gotta-make-it-happen",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-12 09:19",
+      "summary": "\n\"Don\u2019t know how, don\u2019t care\"\nThe post Liam Gallagher predicts England World Cup win: &#8220;You gotta make it happen&#8221; appeared first on NME."
+    },
+    {
+      "title": "The Cure announce Simon Gallup\u2019s son, Eden, filling in for him on tour as he\u2019s \u201cnot well enough to play\u201d",
+      "link": "https://www.nme.com/news/music/the-cure-announce-simon-gallups-son-eden-filling-in-for-him-on-tour-as-hes-not-well-enough-to-play-3956446?utm_source=rss&utm_medium=rss&utm_campaign=the-cure-announce-simon-gallups-son-eden-filling-in-for-him-on-tour-as-hes-not-well-enough-to-play",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-12 09:05",
+      "summary": "\n\"We hope you will join us in wishing Simon the speediest of recoveries,\" Robert Smith said in a statement\nThe post The Cure announce Simon Gallup&#8217;s son, Eden, filling in for him on tour as he&#..."
+    },
+    {
+      "title": "Watch Jay-Z bring out Beyonc\u00e9, Blue Ivy, Alicia Keys and more at \u2018Reasonable Doubt\u2019 anniversary concert",
+      "link": "https://www.nme.com/news/music/watch-jay-z-bring-out-beyonce-blue-ivy-alicia-keys-and-more-at-reasonable-doubt-anniversary-concert-3956433?utm_source=rss&utm_medium=rss&utm_campaign=watch-jay-z-bring-out-beyonce-blue-ivy-alicia-keys-and-more-at-reasonable-doubt-anniversary-concert",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-12 08:22",
+      "summary": "\nThe star-studded affair included appearances from family as well as former rival Nas\nThe post Watch Jay-Z bring out Beyonc\u00e9, Blue Ivy, Alicia Keys and more at &#8216;Reasonable Doubt&#8217; anniversa..."
+    },
+    {
+      "title": "Watch Charli XCX debut new \u2018Music, Fashion, Film\u2019 songs at pop-up Brooklyn gig",
+      "link": "https://www.nme.com/news/music/watch-charli-xcx-debut-new-music-fashion-film-songs-at-pop-up-brooklyn-gig-3956434?utm_source=rss&utm_medium=rss&utm_campaign=watch-charli-xcx-debut-new-music-fashion-film-songs-at-pop-up-brooklyn-gig",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-07-12 07:48",
+      "summary": "\nShe was joined by Clairo, Kim Petras, and Underscores for surprise duets\nThe post Watch Charli XCX debut new \u2018Music, Fashion, Film\u2019 songs at pop-up Brooklyn gig appeared first on NME."
+    },
+    {
+      "title": "Jay-Z\u2019s Yankee Stadium Night Two Setlist: Every Song Played at the Second\u00a0Show",
+      "link": "https://www.billboard.com/lists/jay-z-yankee-stadium-night-two-setlist/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-12 06:19",
+      "summary": "Night two included appearances from Slick Rick, Eminem and Pharrell. Check out every song that was performed."
+    },
+    {
+      "title": "Jimmy Barnes, ICEHOUSE and More Pay Tribute to Cold Chisel Saxophonist Andy\u00a0Bickers",
+      "link": "https://www.billboard.com/music/rock/andy-bickers-cold-chisel-saxophonist-dies-1236292439/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-12 06:08",
+      "summary": "\"He was funny, intelligent, and most importantly, he was a good man,\" Jimmy Barnes wrote."
+    },
+    {
+      "title": "Ken Carson's Xperiment is NOT BAD",
+      "link": "https://www.youtube.com/watch?v=AIJE2EIWv2Y",
+      "source": "The Needle Drop",
+      "category": "general",
+      "published": "2026-07-12 04:13",
+      "summary": "Listen: https://www.youtube.com/watch?v=xHSeZUAq2-s\n\nKen Carson comes through with an accessible and pretty enjoyable album this time around.\n\nMore rap reviews: https://www.youtube.com/playlist?list=P..."
+    },
+    {
+      "title": "Squishmallows\u2019 \u2018KPop Demon Hunters\u2019 Collection Features 4 Fan-Favorite Characters in Plushie\u00a0Form",
+      "link": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-squishmallows-plush-toys-shop-online-1236291847/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-12 03:00",
+      "summary": "The obsession with KPop Demon Hunters continues with this new collection of plush toys."
+    },
+    {
+      "title": "50 Cent Reacts to His Diddy Documentary Receiving 3 Emmy Noms: \u2018You Can\u2019t Argue With the\u00a0Work\u2019",
+      "link": "https://www.billboard.com/music/rb-hip-hop/50-cent-diddy-documentary-emmy-nominations-1236290583/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-11 20:11",
+      "summary": "The four-part Netflix docuseries Sean Combs: The Reckoning earned 21.8 million views in its first six days."
+    },
+    {
+      "title": "Taylor Swift Joins Travis Kelce at His Former Teammate\u2019s Wedding One Week After Their\u00a0Own",
+      "link": "https://www.billboard.com/culture/lifestyle/taylor-swift-travis-kelce-wedding-nfl-juju-smith-schuster-1236292369/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-11 19:17",
+      "summary": "The newlyweds were spotted at the wedding of the NFL's JuJu Smith-Schuster, who previously played for the Chiefs, and Laura Kruk on Friday (July 10)."
+    },
+    {
+      "title": "How to Watch UFC 329: McGregor vs. Holloway 2 Live Online for\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/ufc-329-mcgregor-vs-holloway-2-how-to-watch-online-free-1236289740/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-07-11 18:21",
+      "summary": "Live from Las Vegas on Saturday (July 11), you can watch the entire MMA event, including McGregor's return, online for free."
+    },
+    {
+      "title": "Record Industry Proposes Adding Labels to AI-Generated Music",
+      "link": "https://www.rollingstone.com/music/music-news/record-industry-proposal-labels-ai-generated-music-1235592406/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-07-11 18:15",
+      "summary": "\"These labels will provide an immediately understandable and easily scalable approach to transparency,\" RIAA and other companies say of initiative"
+    },
+    {
       "title": "Jack White Pushes Back on Religious Criticism Amid Satanic Band Support Controversy",
       "link": "https://consequence.net/2026/07/jack-white-religious-criticism/",
       "source": "Consequence",
@@ -1147,12 +1395,12 @@
       "summary": "Elektra / Randy Bachman, Getty Images"
     },
     {
-      "title": "Serial Provocateur Sings Morrissey at Local Government Meeting While \u201cBongholeo\u201d Opens With Lizzo Tune: Stream",
+      "title": "Serial Provocateur Sings Morrissey at Local Government Meeting",
       "link": "https://consequence.net/2026/07/serial-provocateur-sings-morrissey-at-local-government-meeting-while-bongholeo-opens-with-lizzo-tune-stream/",
       "source": "Consequence",
       "category": "general",
       "published": "2026-07-11 15:29",
-      "summary": "The man who sang the Morrissey tune was arrested and charged, according to reports.\nSerial Provocateur Sings Morrissey at Local Government Meeting While &#8220;Bongholeo&#8221; Opens With Lizzo Tune: ..."
+      "summary": "At the same township meeting, a different man dressed as a bong and performed a Lizzo song.\nSerial Provocateur Sings Morrissey at Local Government Meeting\nTravis Bland"
     },
     {
       "title": "TOMORA on soundtracking World Cup TV coverage ahead",
@@ -1179,14 +1427,6 @@
       "summary": "Plus, Shakira surpasses Taylor Swift on Spotify, and a star-studded telethon rallies aid for Venezuela."
     },
     {
-      "title": "Madonna Dances Toward History With 13th U.K. No. 1 Album for \u2018Confessions II\u2019",
-      "link": "https://www.billboard.com/music/chart-beat/madonna-uk-number-one-album-chart-confessions-ii-1236291539/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-11 13:47",
-      "summary": "Sienna Spiro also lands the biggest British debut of 2026 so far."
-    },
-    {
       "title": "The 30 Best Moments We Saw at JAY-Z\u2019s Reasonable Doubt 30th Anniversary Concert",
       "link": "https://consequence.net/2026/07/jay-z-reasonable-doubt-anniversary-concert-best-moments/",
       "source": "Consequence",
@@ -1211,62 +1451,6 @@
       "summary": "MCA Records, Epitaph Records, Reprise, \u2117 1994 Epitaph"
     },
     {
-      "title": "Watch Bring Me The Horizon play new \u2018Repented\u2019 version of debut album \u2018Count Your Blessings\u2019 in full in Manchester",
-      "link": "https://www.nme.com/news/music/watch-bring-me-the-horizon-play-new-repented-version-of-debut-album-count-your-blessings-in-full-in-manchester-3956405?utm_source=rss&utm_medium=rss&utm_campaign=watch-bring-me-the-horizon-play-new-repented-version-of-debut-album-count-your-blessings-in-full-in-manchester",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-07-11 11:02",
-      "summary": "\nFans described the raucous set as a \"generational full circle moment\"\nThe post Watch Bring Me The Horizon play new &#8216;Repented&#8217; version of debut album &#8216;Count Your Blessings&#8217; in ..."
-    },
-    {
-      "title": "Robbie Williams joins CMAT on stage during day two of Bilbao BBK Live 2026",
-      "link": "https://www.nme.com/news/robbie-williams-cmat-bilbao-bbk-live-2026-3956388?utm_source=rss&utm_medium=rss&utm_campaign=robbie-williams-cmat-bilbao-bbk-live-2026",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-07-11 10:23",
-      "summary": "\nIn partnership with Bilbao BBK Live 2026. Fresh from headlining the main stage earlier that night, Robbie Williams surprised both CMAT and the crowd by running on stage during her set on day two of B..."
-    },
-    {
-      "title": "Interpol play secret intimate Madrid warm-up show before smashing Mad Cool 2026 with The Walkmen\u2019s Matt Barrick on drums",
-      "link": "https://www.nme.com/news/music/interpol-play-secret-intimate-madrid-warm-up-show-before-smashing-mad-cool-2026-with-the-walkmens-matt-barrick-on-drums-3956371?utm_source=rss&utm_medium=rss&utm_campaign=interpol-play-secret-intimate-madrid-warm-up-show-before-smashing-mad-cool-2026-with-the-walkmens-matt-barrick-on-drums",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-07-11 10:13",
-      "summary": "\nBefore hitting the Orange Stage, they announced a secret gig billed as Iron City, the title of their latest single\nThe post Interpol play secret intimate Madrid warm-up show before smashing Mad Cool ..."
-    },
-    {
-      "title": "Jack White offers Twin Temple support slot after duo were dropped from Charley Crockett tour due to \u201cSatanic imagery\u201d",
-      "link": "https://www.nme.com/news/music/jack-white-offers-twin-temple-support-slot-after-duo-were-dropped-from-charley-crockett-tour-due-to-satanic-imagery-3956350?utm_source=rss&utm_medium=rss&utm_campaign=jack-white-offers-twin-temple-support-slot-after-duo-were-dropped-from-charley-crockett-tour-due-to-satanic-imagery",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-07-11 09:17",
-      "summary": "\nVocalist Alexandra James said it would be \"a most infernal pleasure to play the devil\u2019s music\" with him\nThe post Jack White offers Twin Temple support slot after duo were dropped from Charley Crocket..."
-    },
-    {
-      "title": "Pitbull fans set Guinness World Record at BST Hyde Park concert",
-      "link": "https://www.nme.com/news/music/pitbull-fans-set-guinness-world-record-at-bst-hyde-park-concert-3956336?utm_source=rss&utm_medium=rss&utm_campaign=pitbull-fans-set-guinness-world-record-at-bst-hyde-park-concert",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-07-11 07:59",
-      "summary": "\n\"To be able to pursue my dream and be on the stage like this, represent with all the baldies around the world, this is priceless\"\nThe post Pitbull fans set Guinness World Record at BST Hyde Park conc..."
-    },
-    {
-      "title": "Ariana Grande Drops \u2018American Horror Story\u2019 Season 13 Amid Touring\u00a0Schedule",
-      "link": "https://www.billboard.com/music/music-news/ariana-grande-american-horror-story-season-13-1236292283/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-11 07:02",
-      "summary": "The singer's Ryan Murphy reunion is on hold after her tour schedule conflicted with a change in the show's production dates."
-    },
-    {
-      "title": "Jay-Z\u2019s Yankee Stadium Night One Setlist: Every Song Played at the First\u00a0Show",
-      "link": "https://www.billboard.com/lists/jay-z-yankee-stadium-night-one-setlist/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-11 05:31",
-      "summary": "The star-studded affair included appearances by Beyonc\u00e9, Blue Ivy Carter, Nas, Alicia Keys and more."
-    },
-    {
       "title": "Beyonc\u00e9 Joins JAY-Z for \u201cReasonable Doubt\u201d at Yankee Stadium: Watch",
       "link": "https://consequence.net/2026/07/beyonce-jay-z-reasonable-doubt-yankee-stadium/",
       "source": "Consequence",
@@ -1275,52 +1459,12 @@
       "summary": "Nas also joined JAY-Z during his concert celebrating 30 years of Reasonable Doubt. \nBeyonc\u00e9 Joins JAY-Z for &#8220;Reasonable Doubt&#8221; at Yankee Stadium: Watch\nAlex Young"
     },
     {
-      "title": "YEONJUN, The Rolling Stones, Beyonc\u00e9 & More: Which Is Your Favorite New Music Release This Week?\u00a0Vote!",
-      "link": "https://www.billboard.com/music/music-news/yeonjun-vote-favorite-new-music-release-this-week-poll-1236292228/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-11 00:48",
-      "summary": "We also had new releases from Future, Suki Waterhouse, Teddy Swims, The Linda Lindas &#38; Hayley Williams, Chris Lake &#38; Tiga, and more."
-    },
-    {
       "title": "Bad Bunny\u2019s Ex Wins Round in Battle Over Voice Note Used on \u2018Un Verano Sin Ti\u2019",
       "link": "https://www.rollingstone.com/music/music-news/bad-bunny-ex-girlfriend-un-verano-sin-ti-lawsuit-1235592278/",
       "source": "Rolling Stone",
       "category": "general",
       "published": "2026-07-11 00:34",
       "summary": "Carliz De La Cruz Hern\u00e1ndez got a green light to pursue her claim over the \u201cBad Bunny baby\u201d tagline on \u201cDos Mil 16\""
-    },
-    {
-      "title": "Taylor Swift & Travis Kelce Paid \u2018Over $160,000\u2019 for NYC Wedding Permit, Mayor Zohran Mamdani\u00a0Says",
-      "link": "https://www.billboard.com/music/pop/taylor-swift-travis-kelce-nyc-wedding-permit-mayor-mamdani-1236292220/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-11 00:16",
-      "summary": "What did the couple have to pay to host their wedding in the thick of New York City?"
-    },
-    {
-      "title": "Insomniac to Stay Involved With Miami\u2019s Club Space & Factory Town Venues After Legal\u00a0Settlement",
-      "link": "https://www.billboard.com/pro/insomniac-settles-lawsuit-miami-club-space-factory-town/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-10 23:56",
-      "summary": "The global dance music company has \"amicably resolved\" its lengthy legal battle with a trio of Miami club operators."
-    },
-    {
-      "title": "Big & Rich\u2019s John Rich Sworn In as USDA Special Envoy for American Landowners: \u2018Let\u2019s Get to\u00a0Work\u2019",
-      "link": "https://www.billboard.com/music/country/big-rich-john-rich-usda-special-envoy-president-trump-1236292185/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-10 23:08",
-      "summary": "The post was made official during his swearing in at the Oval Office."
-    },
-    {
-      "title": "Benny Blanco Offers First Taste of Spanish-Language Album \u2018Hermoso\u2019 With \u2018Joven y Salvaje,\u2019 Featuring Bb\u00a0trickz",
-      "link": "https://www.billboard.com/music/latin/benny-blanco-joven-salvaje-bb-trickz-spanish-album-hermoso-1236292176/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-07-10 22:48",
-      "summary": "The Spanish rapper speaks of the carelessness that comes with being young on the new song."
     },
     {
       "title": "Our Favorite Songs of the Week",
@@ -1369,151 +1513,7 @@
       "category": "general",
       "published": "2026-07-10 21:37",
       "summary": "The update comes after the superstar and her husband, Travis Kelce, faced criticism for their Fourth of July wedding"
-    },
-    {
-      "title": "Tour News: Deerhoof, Manchester Orchestra, 50 Cent, Jadakiss, Deb Never, Sound & Fury (by day), more",
-      "link": "https://www.brooklynvegan.com/tour-news-deerhoof-manchester-orchestra-50-cent-jadakiss-deb-never-sound-fury-by-day-more/",
-      "source": "Brooklyn Vegan",
-      "category": "general",
-      "published": "2026-07-10 21:26",
-      "summary": "Plus L&#8217;Rain, Protomartyr, Cortex, Jawdropped, First Day Back, HUG, Elanor Moss, and more tour and show news."
-    },
-    {
-      "title": "Kai Cenat Confronts DDG for Making Streamer University Diss Track",
-      "link": "https://www.xxlmag.com/kai-cenat-confronts-ddg-streamer-university-diss-track/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-07-10 20:58",
-      "summary": "everythingDDG/X/DDG Live/YouTube"
-    },
-    {
-      "title": "Shinedown\u2019s Eric Bass Steps Away from Tour Due to \u201cPretty Serious Mental Health Crash\u201d",
-      "link": "https://consequence.net/2026/07/shinedown-eric-bass-steps-away-tour-mental-health/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-07-10 20:52",
-      "summary": "The bass player hopes to join the band at a later date on their headlining North American summer outing.\nShinedown&#8217;s Eric Bass Steps Away from Tour Due to &#8220;Pretty Serious Mental Health Cra..."
-    },
-    {
-      "title": "AP A-sides: 10 songs you need to hear",
-      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-july-10-2026/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-07-10 20:27",
-      "summary": "Our favorite new songs, updated weekly."
-    },
-    {
-      "title": "Loe Shimmy unlocks new flows on his next album",
-      "link": "https://www.thefader.com/2026/07/10/loe-shimmy-interview-pretty-girlz-run-the-world-album",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-07-10 20:21",
-      "summary": "The FADER caught up with the Florida rapper to chat about his upcoming album Pretty Girlz Run The World."
-    },
-    {
-      "title": "Jack Osbourne's Most Emotional Back to the Beginning Moments",
-      "link": "https://loudwire.com/jack-osbourne-back-to-the-beginning-emotional-moments/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-07-10 19:55",
-      "summary": "Loudwire, Live Nation"
-    },
-    {
-      "title": "Jack White Helping Twin Temple After Removal From Country Tour",
-      "link": "https://loudwire.com/jack-white-twin-temple-offer/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-07-10 19:45",
-      "summary": "Gregory Shamus, Getty Images, Travis Shinn"
-    },
-    {
-      "title": "Inside underscores and FADER\u2019s packed out sunset rave",
-      "link": "https://www.thefader.com/2026/07/10/underscores-fader-elsewhere-dj-set-photos",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-07-10 19:22",
-      "summary": "With pals umru, petal supply, heartgaze, Emile Fortune, and Tiam."
-    },
-    {
-      "title": "Fiona Apple Wants to Write About the \u2018Endless Barrage of Horrors\u2019 in Today\u2019s World",
-      "link": "https://www.rollingstone.com/music/music-news/fiona-apple-new-music-video-update-1235592093/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-07-10 19:09",
-      "summary": "\u201cI just didn\u2019t want you to think that I was turning a blind eye or that I didn\u2019t care,\u201d the singer-songwriter says in a rare update. \u201cI fucking care\u201d"
-    },
-    {
-      "title": "Madison Square Garden Has Been Secretly Tracking Queer Musicians",
-      "link": "https://pitchfork.com/story/madison-square-garden-has-been-secretly-tracking-queer-musicians/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-07-10 18:57",
-      "summary": "The venue\u2019s database also assigned a \u201chigh risk\u201d label to Freddie Gibbs, Lil Jon, and other rappers"
-    },
-    {
-      "title": "Kodak Black Needs $100 Million to Sign to Young Thug's YSL Label",
-      "link": "https://www.xxlmag.com/kodak-black-demand-list-sign-young-thug/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-07-10 18:46",
-      "summary": "Joy Malone/Getty Images / Vanessa Castillo/Getty Images / Jerritt Clark/Getty Images for Druski & Coulda Been Records (3)"
-    },
-    {
-      "title": "On the road with DeathbyRomy",
-      "link": "https://www.altpress.com/deathbyromy-limp-bizkit-tour-photos-2026/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-07-10 18:30",
-      "summary": "Behind the scenes of her dates opening for Limp Bizkit in Europe."
-    },
-    {
-      "title": "Stream 3 Dollars\u2019 new EP Plus Tax",
-      "link": "https://www.altpress.com/3-dollars-plus-tax-ep-stream/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-07-10 18:26",
-      "summary": "They\u2019ll perform a handful of release shows in New Jersey, Philadelphia, and Maryland."
-    },
-    {
-      "title": "Before Christopher Nolan\u2019s The Odyssey, Read the Best Translation of Homer\u2019s Epic Poem",
-      "link": "https://consequence.net/2026/07/the-odyssey-best-translation-homer-nolan/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-07-10 18:19",
-      "summary": "The modern, readable language of translator Emily Wilson inspired Nolan's own take on the classic. \nBefore Christopher Nolan&#8217;s The Odyssey, Read the Best Translation of Homer&#8217;s Epic Poem\nL..."
-    },
-    {
-      "title": "Addressing My Most Hated Review",
-      "link": "https://www.youtube.com/watch?v=c_H6fgh_-7w",
-      "source": "The Needle Drop",
-      "category": "general",
-      "published": "2026-07-10 18:18",
-      "summary": "Responding to criticisms and recent drama surrounding my review of Halsey's The Great Impersonator.\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon...."
-    },
-    {
-      "title": "The Linda Lindas Embrace Imperfection on \u2018Gotta Get Out\u2019 Album Featuring Hayley Williams on \u2018Closer\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/the-linda-lindas-hayley-williams-single-closer-new-album-1235592019/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-07-10 18:06",
-      "summary": "The punk rockers\u2019 new LP arrives on Aug. 28"
-    },
-    {
-      "title": "Shinedown Bassist Eric Bass Steps Away From Band's Upcoming Tour",
-      "link": "https://loudwire.com/shinedown-bassist-eric-bass-steps-away-tour-video-replacement/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-07-10 17:43",
-      "summary": "Gary Miller, Getty Images, Instagram - @shinedown"
-    },
-    {
-      "title": "Alabama Shakes Announce First Album in 11 Years",
-      "link": "https://pitchfork.com/story/alabama-shakes-announce-new-album-i-must-be-dreaming/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-07-10 17:36",
-      "summary": "I Must Be Dreaming is coming August 28"
     }
   ],
-  "last_updated": "2026-07-11T17:58:19.372982"
+  "last_updated": "2026-07-12T18:01:54.844401"
 }

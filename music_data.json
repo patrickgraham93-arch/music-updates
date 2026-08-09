@@ -336,7 +336,7 @@
       "release_date": "2026-07-17",
       "image": "https://i.scdn.co/image/ab67616d0000b273a83f37b039e8b63d42507981",
       "spotify_url": "https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB",
-      "apple_music_url": "https://music.apple.com/us/search?term=Who%20Coppin%20Larry%20June",
+      "apple_music_url": "https://music.apple.com/us/album/who-coppin/6791849225?uo=4",
       "total_tracks": 16,
       "album_type": "album"
     },
@@ -576,7 +576,7 @@
       "release_date": "2026-06-26",
       "image": "https://i.scdn.co/image/ab67616d0000b2732e41f4b2764c9dcb05228fb6",
       "spotify_url": "https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm",
-      "apple_music_url": "https://music.apple.com/us/album/haavin-single/6784426340?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=HAAVIN%20Quavo",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -731,16 +731,6 @@
       "album_type": "single"
     },
     {
-      "name": "Face Card (with Chris Brown & Bryson Tiller)",
-      "artists": "Skilla Baby, Chris Brown, Bryson Tiller",
-      "release_date": "2026-06-19",
-      "image": "https://i.scdn.co/image/ab67616d0000b273963a5e334e6662045fed63e0",
-      "spotify_url": "https://open.spotify.com/album/1LAFF8OUoMseRuHJLyq5MH",
-      "apple_music_url": "https://music.apple.com/us/search?term=Face%20Card%20%28with%20Chris%20Brown%20%26%20Bryson%20Tiller%29%20Skilla%20Baby",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "WHACK'S MUSEUM",
       "artists": "Tierra Whack",
       "release_date": "2026-06-19",
@@ -749,6 +739,16 @@
       "apple_music_url": "https://music.apple.com/us/search?term=WHACK%27S%20MUSEUM%20Tierra%20Whack",
       "total_tracks": 12,
       "album_type": "album"
+    },
+    {
+      "name": "Face Card (with Chris Brown & Bryson Tiller)",
+      "artists": "Skilla Baby, Chris Brown, Bryson Tiller",
+      "release_date": "2026-06-19",
+      "image": "https://i.scdn.co/image/ab67616d0000b273963a5e334e6662045fed63e0",
+      "spotify_url": "https://open.spotify.com/album/1LAFF8OUoMseRuHJLyq5MH",
+      "apple_music_url": "https://music.apple.com/us/search?term=Face%20Card%20%28with%20Chris%20Brown%20%26%20Bryson%20Tiller%29%20Skilla%20Baby",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "Trapper\u2019s Alley 3: Hell or High Water",
@@ -911,22 +911,22 @@
       "album_type": "single"
     },
     {
-      "name": "Real Hustla (ft. GloRilla)",
-      "artists": "Ludacris, GloRilla",
-      "release_date": "2026-06-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734e4963d20c8d047531ae8b8c",
-      "spotify_url": "https://open.spotify.com/album/72RV7iDvkVQdqELmYtw5xF",
-      "apple_music_url": "https://music.apple.com/us/search?term=Real%20Hustla%20%28ft.%20GloRilla%29%20Ludacris",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Sacrifices (feat. James Fauntleroy)",
       "artists": "Nipsey Hussle, Bino Rideaux, James Fauntleroy",
       "release_date": "2026-06-12",
       "image": "https://i.scdn.co/image/ab67616d0000b273a283eab81af8377f85462559",
       "spotify_url": "https://open.spotify.com/album/38l98Pl2npTFNM3tl9tife",
       "apple_music_url": "https://music.apple.com/us/search?term=Sacrifices%20Nipsey%20Hussle",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Real Hustla (ft. GloRilla)",
+      "artists": "Ludacris, GloRilla",
+      "release_date": "2026-06-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734e4963d20c8d047531ae8b8c",
+      "spotify_url": "https://open.spotify.com/album/72RV7iDvkVQdqELmYtw5xF",
+      "apple_music_url": "https://music.apple.com/us/search?term=Real%20Hustla%20%28ft.%20GloRilla%29%20Ludacris",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -979,26 +979,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Posted%20Alone%20%28Remix%29%204Fargo",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "crybaby",
-      "artists": "Lil Peep",
-      "release_date": "2026-06-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b273baba0e58e707e9c1025b45ae",
-      "spotify_url": "https://open.spotify.com/album/6uZaRRruLz2lIzUBsXgxqK",
-      "apple_music_url": "https://music.apple.com/us/search?term=crybaby%20Lil%20Peep",
-      "total_tracks": 11,
-      "album_type": "album"
-    },
-    {
-      "name": "DNA (More Than A Game) [FIFA World Cup 2026\u2122]",
-      "artists": "Andrea Bocelli, David Guetta, EJAE, Megan Thee Stallion",
-      "release_date": "2026-06-10",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739c62340f99a122f333417a4a",
-      "spotify_url": "https://open.spotify.com/album/53oXeqv93oxxcJwFt3fjH5",
-      "apple_music_url": "https://music.apple.com/us/search?term=DNA%20%28More%20Than%20A%20Game%29%20%5BFIFA%20World%20Cup%202026%E2%84%A2%5D%20Andrea%20Bocelli",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -1015,12 +995,220 @@
   ],
   "news": [
     {
-      "title": "Riot Fest 2026 reveal stage times \u2013 with Morrissey opening for Tool",
-      "link": "https://www.nme.com/news/music/riot-fest-2026-reveal-stage-times-with-morrissey-opening-for-tool-3961520?utm_source=rss&utm_medium=rss&utm_campaign=riot-fest-2026-reveal-stage-times-with-morrissey-opening-for-tool",
+      "title": "Watch Charli XCX Join the Strokes for \u201cTake It Or Leave It\u201d at Outside Lands",
+      "link": "https://pitchfork.com/story/charli-xcx-the-strokes-outside-lands/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-08-09 17:23",
+      "summary": "\u201cWe\u2019ve got a special little guest; a big guest. Well, a superstar.\u201d"
+    },
+    {
+      "title": "Take a first look inside Leeds\u2019 major new revamped music venue TESTBED",
+      "link": "https://www.nme.com/news/music/take-a-first-look-inside-leeds-major-new-revamped-music-venue-testbed-3961608?utm_source=rss&utm_medium=rss&utm_campaign=take-a-first-look-inside-leeds-major-new-revamped-music-venue-testbed",
       "source": "NME",
       "category": "general",
-      "published": "2026-08-08 17:19",
-      "summary": "\nThe festival returns to Douglass Park in Chicago from September 18 to 20\nThe post Riot Fest 2026 reveal stage times \u2013 with Morrissey opening for Tool appeared first on NME."
+      "published": "2026-08-09 16:29",
+      "summary": "\nThe overhaul includes an immersive 360-degree crowd setup around a DJ booth\nThe post Take a first look inside Leeds&#8217; major new revamped music venue TESTBED appeared first on NME."
+    },
+    {
+      "title": "Why Nikki Sixx Doesn't 'Believe in Making' LPs Anymore",
+      "link": "https://loudwire.com/motley-crue-nikki-sixx-doesnt-believe-in-making-full-length-records-anymore/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-08-09 16:17",
+      "summary": "Anthony Devlin, Getty Images / Big Machine"
+    },
+    {
+      "title": "Family of Robert Carradine Sues UCLA Hospital Leaders After Actor\u2019s Death: Reports",
+      "link": "https://consequence.net/2026/08/robert-carradine-family-sues-ucla/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-09 15:37",
+      "summary": "The actor's family claimed a psychiatric facility's actions constituted elder abuse, neglect, and led to Carradine\u2019s wrongful death.\nFamily of Robert Carradine Sues UCLA Hospital Leaders After Actor&#..."
+    },
+    {
+      "title": "Fans complain after Fugees set cut short at Lauryn Hill\u2019s Diaspora Calling! festival: \u201cThe ending was ridiculous and spoiled the whole experience\u201d",
+      "link": "https://www.nme.com/news/music/fans-complain-after-fugees-set-cut-short-at-lauryn-hills-diaspora-calling-festival-the-ending-was-ridiculous-and-spoiled-the-whole-experience-3961598?utm_source=rss&utm_medium=rss&utm_campaign=fans-complain-after-fugees-set-cut-short-at-lauryn-hills-diaspora-calling-festival-the-ending-was-ridiculous-and-spoiled-the-whole-experience",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-09 15:27",
+      "summary": "\nHill\u00a0and\u00a0Wyclef Jean reunited for the event on Friday (August 7) alongside Erykah Badu and Giggs\nThe post Fans complain after Fugees set cut short at Lauryn Hill&#8217;s Diaspora Calling! festival: &..."
+    },
+    {
+      "title": "Geddy Lee Reveals 'Crazy' Sign of Neil Peart on Rush's 2026 Tour",
+      "link": "https://loudwire.com/geddy-lee-reveals-crazy-sign-neil-peart-presence-rush-fifty-something-tour/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-08-09 14:32",
+      "summary": "Michael Tullberg, Getty Images / Ethan Miller, Getty Images / Tr\u00f6tschel/ullstein bild, Getty Images / Canva"
+    },
+    {
+      "title": "The Strokes Bring Out Charli xcx at Outside Lands for \u201cTake It or Leave It\u201d: Watch",
+      "link": "https://consequence.net/2026/08/the-strokes-with-charli-xcx-outside-lands/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-09 14:19",
+      "summary": "The British pop star and New York band joked about how they released albums on the same day in July.\nThe Strokes Bring Out Charli xcx at Outside Lands for &#8220;Take It or Leave It&#8221;: Watch\nTrav..."
+    },
+    {
+      "title": "Drake Barks for Goth Girl",
+      "link": "https://consequence.net/2026/08/drake-barks-for-goth-girl/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-09 14:00",
+      "summary": "The rapper hosted a 20-v-1 dating-show to celebrate the ninth anniversary of Stake, the online crypto casino he is affiliated with.\nDrake Barks for Goth Girl\nAlex Young"
+    },
+    {
+      "title": "See Charli XCX Join the Strokes for \u2018Take It or Leave It\u2019 at Outside Lands",
+      "link": "https://www.rollingstone.com/music/music-news/charli-xcx-the-strokes-take-it-or-leave-it-outside-lands-1235605980/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-08-09 13:06",
+      "summary": "Fresh off their album sales battle \u2014 \"She won. She won by a lot,\" Julian Casablancas quipped \u2014 Friday night's headliner at San Francisco fest makes surprise appearance during band's Saturday set"
+    },
+    {
+      "title": "Drake Turns Kick Stream Into a 20-v-1 Dating Show, Warns Rap Rivals His \u2018Pen Isn\u2019t Dry\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/drake-kick-stream-recap-1235605965/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-08-09 12:31",
+      "summary": "Inside the rapper\u2019s wild ride of a livestream, featuring Lena the Plug, an Herm\u00e8s giveaway, and apparent subliminals about rap beef."
+    },
+    {
+      "title": "13 Death Metal Bands Whose Debut Album Is Their Best",
+      "link": "https://loudwire.com/death-metal-debut-album-best/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-08-09 11:00",
+      "summary": "\u2117 1991 Earache Records Ltd, Nuclear Blast, \u2117 1991 Nuclear Blast"
+    },
+    {
+      "title": "Bill Maher\u2019s joke about Ariana Grande\u2019s weight receives mixed reactions from \u2018Real Time\u2019 audience",
+      "link": "https://www.nme.com/news/music/bill-mahers-joke-about-ariana-grandes-weight-receives-mixed-reactions-from-real-time-audience-3961574?utm_source=rss&utm_medium=rss&utm_campaign=bill-mahers-joke-about-ariana-grandes-weight-receives-mixed-reactions-from-real-time-audience",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-09 10:31",
+      "summary": "\nIt comes after the singer announced she would be taking a break from public life\nThe post Bill Maher&#8217;s joke about Ariana Grande&#8217;s weight receives mixed reactions from &#8216;Real Time&#82..."
+    },
+    {
+      "title": "Self Esteem lands first major film role in 1980s Welsh drama \u2018Mountain\u2019",
+      "link": "https://www.nme.com/news/music/self-esteem-lands-first-major-film-role-in-1980s-welsh-drama-mountain-3961582?utm_source=rss&utm_medium=rss&utm_campaign=self-esteem-lands-first-major-film-role-in-1980s-welsh-drama-mountain",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-09 10:27",
+      "summary": "\nRebecca Lucy Taylor has been increasingly pivoting from music to acting in recent years\nThe post Self Esteem lands first major film role in 1980s Welsh drama &#8216;Mountain&#8217; appeared first on ..."
+    },
+    {
+      "title": "Blossoms on the \u201cplayfulness\u201d of album six as they reflect on 10 years of their debut: \u201cResting on our laurels was never on the agenda\u201d",
+      "link": "https://www.nme.com/news/blossoms-interview-10-year-debut-album-declan-mckenna-songs-from-the-wedding-cake-3961377?utm_source=rss&utm_medium=rss&utm_campaign=blossoms-interview-10-year-debut-album-declan-mckenna-songs-from-the-wedding-cake",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-09 10:13",
+      "summary": "\nAs the indie heroes returned to Manchester\u2019s Deaf Institute to celebrate 10 years of their debut album, frontman Tom Ogden told NME about the \u201cpure joy\u201d of revisiting their early days, getting in the..."
+    },
+    {
+      "title": "Watch Fontaines D.C. debut new songs \u2018Marianne\u2019 and \u2018Six Shot Morning\u2019 in first full headline show of 2026",
+      "link": "https://www.nme.com/news/music/watch-fontaines-d-c-debut-two-new-songs-in-first-full-headline-show-of-2026-3961562?utm_source=rss&utm_medium=rss&utm_campaign=watch-fontaines-d-c-debut-two-new-songs-in-first-full-headline-show-of-2026",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-09 09:17",
+      "summary": "\nIt comes after guitarist Carlos O\u2019Connell confirmed to NME earlier this year that the band were working on new material\nThe post Watch Fontaines D.C. debut new songs &#8216;Marianne&#8217; and &#8216..."
+    },
+    {
+      "title": "Tyga admits he used AI on new album \u2018$tarface\u2019: \u201cI don\u2019t care\u201d",
+      "link": "https://www.nme.com/news/music/tyga-admits-he-used-ai-on-new-album-tarface-i-dont-care-3961560?utm_source=rss&utm_medium=rss&utm_campaign=tyga-admits-he-used-ai-on-new-album-tarface-i-dont-care",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-09 08:33",
+      "summary": "\n\"It's no different than when Auto-Tune came out. Some people were opposed to it, but real artists took it and used it\"\nThe post Tyga admits he used AI on new album &#8216;$tarface&#8217;: &#8220;I do..."
+    },
+    {
+      "title": "Billy Strings performs in protective headgear after being hit by object on stage",
+      "link": "https://www.nme.com/news/music/billy-strings-performs-in-protective-headgear-after-being-hit-by-object-on-stage-3961550?utm_source=rss&utm_medium=rss&utm_campaign=billy-strings-performs-in-protective-headgear-after-being-hit-by-object-on-stage",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-09 08:19",
+      "summary": "\n\"Maybe I shouldn\u2019t have come back\"\nThe post Billy Strings performs in protective headgear after being hit by object on stage appeared first on NME."
+    },
+    {
+      "title": "Watch Charli XCX join The Strokes for \u2018Take It Or Leave It\u2019 at Outside Lands 2026",
+      "link": "https://www.nme.com/news/music/watch-charli-xcx-join-the-strokes-for-take-it-or-leave-it-at-outside-lands-2026-3961552?utm_source=rss&utm_medium=rss&utm_campaign=watch-charli-xcx-join-the-strokes-for-take-it-or-leave-it-at-outside-lands-2026",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-09 07:47",
+      "summary": "\nJulian Casablancas introduced her as \"the queen of album sales\", after the two artists released their new records on the same day last month\nThe post Watch Charli XCX join The Strokes for &#8216;Take..."
+    },
+    {
+      "title": "Joe Jonas Says He Sought Therapy After His Solo Album\u00a0Underperformed",
+      "link": "https://www.billboard.com/music/music-news/joe-jonas-therapy-solo-album-1236312330/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-09 06:52",
+      "summary": "Fastlife peaked at No. 15 on the Billboard 200, while its lead single \"See No More\" reached No. 92 on the Hot 100."
+    },
+    {
+      "title": "Baker Boy Takes Album, Song and Film Clip of the Year at 2026\u00a0NIMAs",
+      "link": "https://www.billboard.com/music/awards/baker-boy-2026-nimas-1236312328/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-09 05:41",
+      "summary": "The Yol\u014bu rapper first broke through in 2017 after winning triple j's Unearthed National Indigenous Music Awards competition."
+    },
+    {
+      "title": "O.N.I.'s Jake Olde Opens Up About Personal Journey \u2014 Interview",
+      "link": "https://loudwire.com/o-n-i-jake-olde-new-music-interview/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-08-09 00:52",
+      "summary": "Ironshore Group"
+    },
+    {
+      "title": "My Chemical Romance\u2019s 2026 \u201cThe Black Parade Tour\u201d: How to Get Last-Minute Tickets",
+      "link": "https://consequence.net/2026/08/my-chemical-romances-the-black-parade-last-minute-tickets-deals/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-09 00:46",
+      "summary": "The 16-date tour on the 20th anniversary of the band's seminal album hits New York, Washington D.C., Minneapolis, Phoenix, Los Angeles, and more.\nMy Chemical Romance&#8217;s 2026 \u201cThe Black Parade Tou..."
+    },
+    {
+      "title": "aespa Kicks Off SYNK : COMPL\u00e6XITY Tour in Seoul: 6 Best\u00a0Moments",
+      "link": "https://www.billboard.com/lists/aespa-synk-complaexity-tour-seoul-best-moments/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-08 21:49",
+      "summary": "aespa opened its fourth world tour at with 27 songs, an expanded universe and a show that brought the group's many sides into full view."
+    },
+    {
+      "title": "Daft Punk\u2019s Thomas Bangalter says writing the score for \u2018Tron: Legacy\u2019 was \u201cdepressing\u201d and \u201climiting\u201d",
+      "link": "https://www.nme.com/news/music/daft-punks-thomas-bangalter-says-writing-the-score-for-tron-legacy-was-depressing-and-limiting-3961536?utm_source=rss&utm_medium=rss&utm_campaign=daft-punks-thomas-bangalter-says-writing-the-score-for-tron-legacy-was-depressing-and-limiting",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-08 21:28",
+      "summary": "\nThe 2010 Disney sci-fi film contained the duo's first ever movie soundtrack\u00a0\nThe post Daft Punk&#8217;s Thomas Bangalter says writing the score for &#8216;Tron: Legacy&#8217; was &#8220;depressing&#8..."
+    },
+    {
+      "title": "Get Beats Earbuds for Just $69 As Part of This Back to School\u00a0Deal",
+      "link": "https://www.billboard.com/culture/product-recommendations/best-beats-wireless-earbuds-deal-shop-sale-price-online-1236043439/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-08 19:39",
+      "summary": "Beats products used to cost a pretty penny, but not anymore."
+    },
+    {
+      "title": "Taylor Swift\u2019s \u2018August,\u2019 \u2018Father Figure\u2019 & Other Songs Removed From Trump-Related TikTok\u00a0Posts",
+      "link": "https://www.billboard.com/music/music-news/taylor-swift-songs-removed-trump-tiktok-posts-1236312291/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-08 19:36",
+      "summary": "A White House TikTok featuring \u201cThe Fate of Ophelia\u201d has also been removed."
+    },
+    {
+      "title": "Madonna Remembers William Orbit With Emotional Tribute: \u2018You Were My Ray of\u00a0Light\u2019",
+      "link": "https://www.billboard.com/music/music-news/madonna-william-orbit-tribute-ray-of-light-producer-1236312283/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-08 17:37",
+      "summary": "The pair collaborated on Madonna\u2019s Grammy-winning 1998 album, Ray of Light."
     },
     {
       "title": "Billy Strings Wears a Helmet at Concert After Getting Hit With a Thrown Object",
@@ -1029,14 +1217,6 @@
       "category": "general",
       "published": "2026-08-08 16:50",
       "summary": "During a three-night stand at an Indiana venue, the bluegrass picker decided he needed some extra protection following the incident from night one.\nBilly Strings Wears a Helmet at Concert After Gettin..."
-    },
-    {
-      "title": "Henry Rollins announces coming-of-age memoir, \u2018Bait Dog Boy\u2019",
-      "link": "https://www.nme.com/news/music/henry-rollins-announces-coming-of-age-memoir-bait-dog-boy-3961516?utm_source=rss&utm_medium=rss&utm_campaign=henry-rollins-announces-coming-of-age-memoir-bait-dog-boy",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-08 16:31",
-      "summary": "\nIt will explore the former Black Flag frontman's challenging childhood and discovery of punk rock\nThe post Henry Rollins announces coming-of-age memoir, &#8216;Bait Dog Boy&#8217; appeared first on N..."
     },
     {
       "title": "Fuerza Regida Wraps Stadium Tour at New York\u2019s Citi Field Alongside 50 Cent, Bobby Shmurda, J Balvin &\u00a0More",
@@ -1061,14 +1241,6 @@
       "category": "general",
       "published": "2026-08-08 16:02",
       "summary": "The iconic R&#38;B acts didn\u2019t let the rain stop their parade, as they delivered more than 50 songs and brought out some of New York\u2019s favorite legends."
-    },
-    {
-      "title": "Madonna pays emotional tribute to William Orbit: \u201cYour music gave me a magic carpet to fly on\u201d",
-      "link": "https://www.nme.com/news/music/madonna-pays-emotional-tribute-to-william-orbit-your-music-gave-me-a-magic-carpet-to-fly-on-3961511?utm_source=rss&utm_medium=rss&utm_campaign=madonna-pays-emotional-tribute-to-william-orbit-your-music-gave-me-a-magic-carpet-to-fly-on",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-08 15:48",
-      "summary": "\nThe late producer won three Grammys for his work with Madonna, including for the classic 1998 album 'Ray Of Light'\nThe post Madonna pays emotional tribute to William Orbit: &#8220;Your music gave me ..."
     },
     {
       "title": "Bart Simpson Actress Believes The Simpsons Will End Soon",
@@ -1135,76 +1307,12 @@
       "summary": "Epic Records / Angel Air Records / Impact Records / EMI"
     },
     {
-      "title": "Phoebe Bridgers to make acting debut in A24 drama \u2018Primetime\u2019",
-      "link": "https://www.nme.com/news/tv/phoebe-bridgers-to-make-acting-debut-in-a24-drama-primetime-3961482?utm_source=rss&utm_medium=rss&utm_campaign=phoebe-bridgers-to-make-acting-debut-in-a24-drama-primetime",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-08 10:27",
-      "summary": "\nThe upcoming film, starring Robert Pattinson, follows the rise of Dateline show 'To Catch a Predator'\nThe post Phoebe Bridgers to make acting debut in A24 drama \u2018Primetime\u2019 appeared first on NME."
-    },
-    {
-      "title": "Taylor Swift\u2019s \u2018August\u2019 removed from Donald Trump TikTok post that joked she would be \u201csuper excited\u201d about its use",
-      "link": "https://www.nme.com/news/music/taylor-swifts-august-removed-from-donald-trump-tiktok-post-that-joked-she-would-be-super-excited-about-its-use-3961488?utm_source=rss&utm_medium=rss&utm_campaign=taylor-swifts-august-removed-from-donald-trump-tiktok-post-that-joked-she-would-be-super-excited-about-its-use",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-08 10:25",
-      "summary": "\nTwo more of the singer's tracks have also become unavailable on posts from the President's team\nThe post Taylor Swift&#8217;s &#8216;August&#8217; removed from Donald Trump TikTok post that joked she..."
-    },
-    {
-      "title": "Watch Olivia Rodrigo play intimate Brooklyn show as she launches Bandcamp page",
-      "link": "https://www.nme.com/news/music/watch-olivia-rodrigo-play-intimate-brooklyn-show-as-she-launches-bandcamp-page-3961477?utm_source=rss&utm_medium=rss&utm_campaign=watch-olivia-rodrigo-play-intimate-brooklyn-show-as-she-launches-bandcamp-page",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-08 09:28",
-      "summary": "\nThe page includes a new 'Happy Version' of her recent song 'Purple'\nThe post Watch Olivia Rodrigo play intimate Brooklyn show as she launches Bandcamp page appeared first on NME."
-    },
-    {
-      "title": "Lindsey Buckingham teases new project with Stevie Nicks for 2027",
-      "link": "https://www.nme.com/news/music/lindsey-buckingham-teases-new-project-with-stevie-nicks-for-2027-3961468?utm_source=rss&utm_medium=rss&utm_campaign=lindsey-buckingham-teases-new-project-with-stevie-nicks-for-2027",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-08 09:20",
-      "summary": "\n\"I think quite a few things will reveal themselves\"\nThe post Lindsey Buckingham teases new project with Stevie Nicks for 2027 appeared first on NME."
-    },
-    {
-      "title": "Foo Fighters release Bandcamp live EP \u2018Are Playing Where??? Vol. II\u2019",
-      "link": "https://www.nme.com/news/music/foo-fighters-release-bandcamp-live-ep-are-playing-where-vol-ii-3961462?utm_source=rss&utm_medium=rss&utm_campaign=foo-fighters-release-bandcamp-live-ep-are-playing-where-vol-ii",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-08 08:35",
-      "summary": "\nThe six-track surprise release is made up of performances from intimate shows in New York and New Jersey earlier this year\nThe post Foo Fighters release Bandcamp live EP &#8216;Are Playing Where??? V..."
-    },
-    {
-      "title": "Brandi Carlile postpones UK and European tour over \u201cpersonal circumstances\u201d",
-      "link": "https://www.nme.com/news/music/brandi-carlile-postpones-uk-and-european-tour-over-personal-circumstances-3961458?utm_source=rss&utm_medium=rss&utm_campaign=brandi-carlile-postpones-uk-and-european-tour-over-personal-circumstances",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-08 08:27",
-      "summary": "\nThe singer told fans she had been \"so profoundly anxious about this decision\"\nThe post Brandi Carlile postpones UK and European tour over &#8220;personal circumstances&#8221; appeared first on NME."
-    },
-    {
-      "title": "Chappell Roan announces two-night Los Angeles fundraiser for trans youth and LGBTQ+ communities",
-      "link": "https://www.nme.com/news/music/chappell-roan-announces-two-night-los-angeles-fundraiser-for-trans-youth-and-lgbtq-communities-3961452?utm_source=rss&utm_medium=rss&utm_campaign=chappell-roan-announces-two-night-los-angeles-fundraiser-for-trans-youth-and-lgbtq-communities",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-08 07:48",
-      "summary": "\nThe 'Super Graphic Spectacular' will feature \"drag, dance, guests, surprises and funnnn\"\nThe post Chappell Roan announces two-night Los Angeles fundraiser for trans youth and LGBTQ+ communities appea..."
-    },
-    {
       "title": "Vera Blue covers Radiohead\u2019s \u2018Creep\u2019 for triple j\u2019s Like A\u00a0Version",
       "link": "https://www.billboard.com/music/music-news/vera-blue-radiohead-creep-triple-j-like-a-version-1236312212/",
       "source": "Billboard",
       "category": "general",
       "published": "2026-08-08 07:29",
       "summary": "Blue also performed \"Maze,\" a track from her forthcoming album Modern Rituals."
-    },
-    {
-      "title": "Brandi Carlile Postpones U.K. and European Tour Citing \u2018Personal Circumstances\u2019",
-      "link": "https://www.billboard.com/music/country/brandi-carlile-cancels-uk-european-tour-1236312209/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-08 05:49",
-      "summary": "The run, originally set to begin in October, has been pushed to March 2027."
     },
     {
       "title": "Temple Guard - Citadel in Flames ALBUM REVIEW",
@@ -1223,14 +1331,6 @@
       "summary": "News of the cancellation came with only a week's notice.\nMorrissey Cancels Las Vegas Residency Due to &#8220;Unforeseen Logistical Challenges&#8221;\nAlex Young"
     },
     {
-      "title": "Ang\u00e9lique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of\u00a0Fame",
-      "link": "https://www.billboard.com/music/awards/angelique-kidjo-star-hollywood-walk-of-fame-history-making-1236312196/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-08 02:05",
-      "summary": "Kidjo\u2019s star ceremony is set for Aug. 18 at 11:30 a.m. PT."
-    },
-    {
       "title": "Larry David Takes the Blame for Barack Obama\u2019s Tan Suit on Life, Larry, and the Pursuit of Unhappiness",
       "link": "https://consequence.net/2026/08/life-larry-barack-obama-tan-suit/",
       "source": "Consequence",
@@ -1247,36 +1347,12 @@
       "summary": "gorodenkoff/Thearon W. Henderson/iStock/Getty Images (2)"
     },
     {
-      "title": "Megan Thee Stallion Must Face Trial in Cameraman\u2019s Lawsuit Over Alleged Car-Sex Incident:\u00a0Judge",
-      "link": "https://www.billboard.com/pro/megan-thee-stallion-roc-nation-trial-cameraman-lawsuit/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-07 22:15",
-      "summary": "A jury will decide a case against Megan and Roc Nation filed by Emilio Garcia, who said he was forced to watch the rapper have sex in a car in a 2024 lawsuit."
-    },
-    {
-      "title": "This Weighted Derpy Pillow Mimics a Hug From the \u2018KPop Demon Hunters\u2019 Tiger to Help You Gently Fall\u00a0Asleep",
-      "link": "https://www.billboard.com/culture/product-recommendations/derpy-kpop-demon-hunters-weighted-pillow-plush-buy-online-1236312095/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-07 21:55",
-      "summary": "The feeling of holding the cuddly 18-inch Derpy plushie against the body provides a \"comforting, cozy feel,\" per a product description."
-    },
-    {
       "title": "Stella Lefty: How to Get Tickets for Her Sold-Out Debut Headline Tour",
       "link": "https://consequence.net/2026/08/stella-lefty-lefty-live-tour-tickets/",
       "source": "Consequence",
       "category": "general",
       "published": "2026-08-07 21:54",
       "summary": "The pop-county singer-songwriter is hitting the road in support of her new album Long Way Home. Learn how to get last-minute tickets and deals there.\nStella Lefty: How to Get Tickets for Her Sold-Out ..."
-    },
-    {
-      "title": "In Canada: Osheaga Festival Draws Near-Record Attendance With Tate McRae, Stella Lefty &\u00a0More",
-      "link": "https://www.billboard.com/pro/osheaga-festival-near-record-crowd-canada-music-news/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-07 21:42",
-      "summary": "Also up north this week: A recap of this year's OVO Golf Classic and a high-profile departure from Departure."
     },
     {
       "title": "Travis Barker Doesn\u2019t \u201cEven Realize\u201d He\u2019s on The Kardashians: \u201cI Don\u2019t Watch the Show\u201d",
@@ -1303,14 +1379,6 @@
       "summary": "Katja Ogrin, Getty Images"
     },
     {
-      "title": "Charlie Worsham Talks New Album \u2018Once Upon a Second Time Around,\u2019 Collabs With Lainey Wilson, Stephen Wilson\u00a0Jr.",
-      "link": "https://www.billboard.com/music/country/charlie-worsham-once-upon-a-second-time-around-interview-1236312119/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-07 20:56",
-      "summary": "Worsham issues his first independent album, Once Upon a Second Time Around, and discusses his multifaceted career."
-    },
-    {
       "title": "AP A-sides: 10 songs you need to hear",
       "link": "https://www.altpress.com/alternative-press-a-sides-playlist-august-7-2026/",
       "source": "Alternative Press",
@@ -1325,95 +1393,7 @@
       "category": "general",
       "published": "2026-08-07 20:20",
       "summary": "The Night Eternal deliver nocturnal heavy metal gothic atmosphere with AOR hooks on \"The Veins of TIme.\"\nHeavy Song of the Week: The Night Eternal&#8217;s &#8220;The Veins of Time&#8221; Is a Perfect ..."
-    },
-    {
-      "title": "Katseye\u2019s Sophia Laforteza Announces Hiatus From Group",
-      "link": "https://www.rollingstone.com/music/music-news/katseye-sophie-break-hiatus-1235605430/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-08-07 19:39",
-      "summary": "\u201cMaking this decision wasn\u2019t easy, but I\u2019m learning that health has to come first\u201d"
-    },
-    {
-      "title": "Chappell Roan Announces Two-Night LGBTQ+ Fundraising Event",
-      "link": "https://www.rollingstone.com/music/music-news/chappell-roan-super-graphic-spectacular-fundraising-event-1235605626/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-08-07 19:30",
-      "summary": "\u2018Super Graphic Spectacular\u2019 at Los Angeles\u2019 Shrine Auditorium in October will benefit the Midwest Princess Project"
-    },
-    {
-      "title": "Gillian Anderson Makes Teenage Sex and Death at Camp Miasma a Delicious Mindfuck: Review",
-      "link": "https://consequence.net/2026/08/teenage-sex-and-death-camp-miasma-review/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-07 19:09",
-      "summary": "The secret meaning of slasher films and more gets explored in Jane Schoenbrun's third film. \nGillian Anderson Makes Teenage Sex and Death at Camp Miasma a Delicious Mindfuck: Review\nLiz Shannon Miller"
-    },
-    {
-      "title": "Sophia Becomes Latest KATSEYE Member to Announce Hiatus from Group",
-      "link": "https://consequence.net/2026/08/sophia-becomes-latest-katseye-member-to-announce-hiatus-from-group/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-07 19:02",
-      "summary": "Back in February, KATSEYE groupmate Manon announced her own temporary hiatus.\nSophia Becomes Latest KATSEYE Member to Announce Hiatus from Group\nAlex Young"
-    },
-    {
-      "title": "Chappell Roan Announces Two-Day Fundraiser for Trans Youth and LGBTQ+ Communities",
-      "link": "https://consequence.net/2026/08/chappell-roan-super-graphic-spectacular-trans-lgbtq-fundraiser/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-07 18:43",
-      "summary": "\"The Super Graphic Spectacular\" will raise funds for Roan's nonprofit The Midwest Princess Project.\nChappell Roan Announces Two-Day Fundraiser for Trans Youth and LGBTQ+ Communities\nEddie Fu"
-    },
-    {
-      "title": "11 Most Played Cover Songs During Foo Fighters Concerts",
-      "link": "https://loudwire.com/foo-fighters-most-played-cover-songs/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-08-07 18:43",
-      "summary": "Rich Fury, Getty Images"
-    },
-    {
-      "title": "Fenix Flexin Insists He Never Denied Using AI to Create \u2018Rubberz\u2019",
-      "link": "https://www.xxlmag.com/fenix-flexin-admits-rubberz-ai/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-08-07 18:34",
-      "summary": "Johnny Nunez/WireImage"
-    },
-    {
-      "title": "Karol G Turns Heartbreak Into a Superstar Moment on No Me Arrepiento de Sentir Tanto: Review",
-      "link": "https://consequence.net/2026/08/karol-g-no-me-arrepiento-de-sentir-tanto-review/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-07 18:20",
-      "summary": "On her latest album, the Colombian pop star turns heartbreak into a deeply personal and genre-defying work, embracing the creative freedom that comes with her status as a global superstar.\nKarol G Tur..."
-    },
-    {
-      "title": "Ravyn Lenae\u2019s \u201cPotential\u201d finds her at her most experimental",
-      "link": "https://www.thefader.com/2026/08/07/ravyn-lenae-potential-track-review-blue-island",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-08-07 18:16",
-      "summary": "She forgoes her nostalgic sound for something digital and chaotic."
-    },
-    {
-      "title": "Neil Young and the Chrome Hearts Return With New Album Second Song",
-      "link": "https://pitchfork.com/story/neil-young-and-the-chrome-hearts-return-with-new-album-second-song/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-08-07 17:43",
-      "summary": "The group\u2019s Talkin to the Trees follow-up is out September 18"
-    },
-    {
-      "title": "Anthrax Unleash Punchy Banger \u201cEverybody\u2019s Got a Plan\u201d: Stream",
-      "link": "https://consequence.net/2026/08/anthrax-new-song-everybodys-got-a-plan/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-07 17:05",
-      "summary": "Anthrax forego the heavy thrash to reach deep into AOR hard rock glory on their new single.\nAnthrax Unleash Punchy Banger &#8220;Everybody&#8217;s Got a Plan&#8221;: Stream\nLangdon Hickman"
     }
   ],
-  "last_updated": "2026-08-08T17:33:46.538777"
+  "last_updated": "2026-08-09T17:34:59.236173"
 }

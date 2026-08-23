@@ -1,6 +1,16 @@
 {
   "hiphop": [
     {
+      "name": "The Documentary III",
+      "artists": "The Game",
+      "release_date": "2026-08-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739f5898605215567929292a3d",
+      "spotify_url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo",
+      "apple_music_url": "https://music.apple.com/us/search?term=The%20Documentary%20III%20The%20Game",
+      "total_tracks": 24,
+      "album_type": "album"
+    },
+    {
       "name": "ii",
       "artists": "Denzel Curry, Kenny Beats",
       "release_date": "2026-08-21",
@@ -11,32 +21,22 @@
       "album_type": "album"
     },
     {
-      "name": "OMG",
-      "artists": "Polo G",
-      "release_date": "2026-08-21",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731f4725ecc5036e92825ac314",
-      "spotify_url": "https://open.spotify.com/album/3UPuvmaxUJi3myUAc3h84Z",
-      "apple_music_url": "https://music.apple.com/us/search?term=OMG%20Polo%20G",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "The Documentary III",
-      "artists": "The Game",
-      "release_date": "2026-08-21",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739bf04b4b1ca56a809f48ed29",
-      "spotify_url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo",
-      "apple_music_url": "https://music.apple.com/us/search?term=The%20Documentary%20III%20The%20Game",
-      "total_tracks": 24,
-      "album_type": "album"
-    },
-    {
       "name": "Butterflies",
       "artists": "Mac Miller",
       "release_date": "2026-08-21",
       "image": "https://i.scdn.co/image/ab67616d0000b273f62fb3f9c34749f3063be0f0",
       "spotify_url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW",
       "apple_music_url": "https://music.apple.com/us/search?term=Butterflies%20Mac%20Miller",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "OMG",
+      "artists": "Polo G",
+      "release_date": "2026-08-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f4725ecc5036e92825ac314",
+      "spotify_url": "https://open.spotify.com/album/3UPuvmaxUJi3myUAc3h84Z",
+      "apple_music_url": "https://music.apple.com/us/search?term=OMG%20Polo%20G",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -186,7 +186,7 @@
       "release_date": "2026-08-13",
       "image": "https://i.scdn.co/image/ab67616d0000b273a42ea86957e7798d676c5487",
       "spotify_url": "https://open.spotify.com/album/6HZxZK3PQu9AkCL8HOWFa4",
-      "apple_music_url": "https://music.apple.com/us/album/talk-ya-shit-single/6800914459?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Talk%20Ya%20Shit%20Busta%20Rhymes",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -326,7 +326,7 @@
       "release_date": "2026-08-06",
       "image": "https://i.scdn.co/image/ab67616d0000b273d5f832caa741f9360c5b2753",
       "spotify_url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY",
-      "apple_music_url": "https://music.apple.com/us/album/the-real-me/6790487991?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=The%20Real%20Me%20Future",
       "total_tracks": 22,
       "album_type": "album"
     },
@@ -346,7 +346,7 @@
       "release_date": "2026-08-06",
       "image": "https://i.scdn.co/image/ab67616d0000b2731ac07067d69f79a00ca01c20",
       "spotify_url": "https://open.spotify.com/album/6F0OQcX9dLeQwFQ5NLpTNK",
-      "apple_music_url": "https://music.apple.com/us/album/spazzz-single/6798828839?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=SPAZZZ%20Busta%20Rhymes",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -356,7 +356,7 @@
       "release_date": "2026-08-03",
       "image": "https://i.scdn.co/image/ab67616d0000b27347b7ca4f69f5386298e3fceb",
       "spotify_url": "https://open.spotify.com/album/1ZFKQqpFBa5X5vYfHHSDUA",
-      "apple_music_url": "https://music.apple.com/us/album/ah-ha-single/6796433825?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=AH%20HA%20Cardi%20B",
       "total_tracks": 5,
       "album_type": "single"
     },
@@ -376,7 +376,7 @@
       "release_date": "2026-07-31",
       "image": "https://i.scdn.co/image/ab67616d0000b27389db35e33dcee46c99d9adfa",
       "spotify_url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe",
-      "apple_music_url": "https://music.apple.com/us/album/ah-ha-single/6796433825?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=AH%20HA%20Cardi%20B",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -416,7 +416,7 @@
       "release_date": "2026-07-31",
       "image": "https://i.scdn.co/image/ab67616d0000b273ccb3e579d8c71fe403daa587",
       "spotify_url": "https://open.spotify.com/album/431cOcJZLoFDJz5k1BYCfO",
-      "apple_music_url": "https://music.apple.com/us/album/swagger-single/6795357665?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=SWAGGER%20Trippie%20Redd",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -426,7 +426,7 @@
       "release_date": "2026-07-31",
       "image": "https://i.scdn.co/image/ab67616d0000b273bfe5646af6bf0275f7d0e621",
       "spotify_url": "https://open.spotify.com/album/1vSHSyVaa9xVii1YNq5Tq6",
-      "apple_music_url": "https://music.apple.com/us/album/gut-genug-with-skepta-blumengarten-single/6797919970?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Gut%20Genug%20%28with%20Skepta%20%26%20Blumengarten%29%20KITSCHKRIEG",
       "total_tracks": 2,
       "album_type": "single"
     },
@@ -869,36 +869,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=MANE%20GloRilla",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "Eat 'Em Up",
-      "artists": "Reese's Puffs, GloRilla",
-      "release_date": "2026-06-24",
-      "image": "https://i.scdn.co/image/ab67616d0000b273049b1a7a6ed1f24e9ad2ea57",
-      "spotify_url": "https://open.spotify.com/album/6alxQLTcjpRf7SYfUcmfCF",
-      "apple_music_url": "https://music.apple.com/us/search?term=Eat%20%27Em%20Up%20Reese%27s%20Puffs",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "AND WON'T (feat. Summer Walker)",
-      "artists": "T.I., Summer Walker",
-      "release_date": "2026-06-24",
-      "image": "https://i.scdn.co/image/ab67616d0000b27346dd85a5f510305dadec97e9",
-      "spotify_url": "https://open.spotify.com/album/2Rs5yfDLeGPiEstxpKsB5s",
-      "apple_music_url": "https://music.apple.com/us/search?term=AND%20WON%27T%20T.I.",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Beyond The Brilliant Haze",
-      "artists": "Everything Is Recorded, Peter Gabriel, IDK",
-      "release_date": "2026-06-24",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c857876b61f210eb16acaf41",
-      "spotify_url": "https://open.spotify.com/album/1eSBJYm05UodNrXkzOgzSg",
-      "apple_music_url": "https://music.apple.com/us/search?term=Beyond%20The%20Brilliant%20Haze%20Everything%20Is%20Recorded",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -935,12 +905,252 @@
   ],
   "news": [
     {
-      "title": "Fontaines D.C. announce intimate New York and Los Angeles shows ahead of \u2018Dopamine Chamber\u2019",
-      "link": "https://www.nme.com/news/music/fontaines-d-c-announce-intimate-new-york-and-los-angeles-shows-ahead-of-dopamine-chamber-3964124?utm_source=rss&utm_medium=rss&utm_campaign=fontaines-d-c-announce-intimate-new-york-and-los-angeles-shows-ahead-of-dopamine-chamber",
+      "title": "Rosal\u00eda\u2019s \u2018La Perla\u2019 \u2018Wouldn\u2019t Exist\u2019 Without Paquita la del Barrio\u2019s \u2018Rata de dos\u00a0Patas\u2019",
+      "link": "https://www.billboard.com/music/latin/rosalia-la-perla-paquita-la-del-barrio-rata-de-dos-patas-1236322559/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-23 17:06",
+      "summary": "Read Rosal\u00eda's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\""
+    },
+    {
+      "title": "Watch Foo Fighters play rarities with LA Philharmonic Orchestra at Hollywood Bowl",
+      "link": "https://www.nme.com/news/music/watch-foo-fighters-play-rarities-with-la-philharmonic-orchestra-at-hollywood-bowl-3964237?utm_source=rss&utm_medium=rss&utm_campaign=watch-foo-fighters-play-rarities-with-la-philharmonic-orchestra-at-hollywood-bowl",
       "source": "NME",
       "category": "general",
-      "published": "2026-08-22 17:08",
-      "summary": "\nThe dates will come just weeks before the release of the band's fifth album in October\nThe post Fontaines D.C. announce intimate New York and Los Angeles shows ahead of &#8216;Dopamine Chamber&#8217;..."
+      "published": "2026-08-23 17:00",
+      "summary": "\nThe one-off set was part of a celebration for the orchestra's outgoing music director Gustavo Dudamel\nThe post Watch Foo Fighters play rarities with LA Philharmonic Orchestra at Hollywood Bowl appear..."
+    },
+    {
+      "title": "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard\u2019s\u00a0Death",
+      "link": "https://www.billboard.com/music/rock/zz-top-first-show-drummer-frank-beard-death-1236322554/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-23 16:47",
+      "summary": "\"We\u2019re all here for a celebration,\" frontman Billy Gibbons said."
+    },
+    {
+      "title": "ZZ Top Play First Show Since Frank Beard's Death: Setlist + Video",
+      "link": "https://loudwire.com/zz-top-first-show-since-frank-beard-death/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-08-23 16:42",
+      "summary": "Bryan Rolli, UCR"
+    },
+    {
+      "title": "Dr. Dre Embraces AI to Create Music, Criticizes Those Who Don\u2019t",
+      "link": "https://consequence.net/2026/08/dr-dre-embraces-ai/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-23 16:25",
+      "summary": "The iconic hip-hop artist likened the technology to past innovations in music production.\nDr. Dre Embraces AI to Create Music, Criticizes Those Who Don\u2019t\nTravis Bland"
+    },
+    {
+      "title": "Watch Don Toliver bring out Justin Timberlake for \u2018Rock Your Body\u2019 and \u2018Body\u2019 in Miami",
+      "link": "https://www.nme.com/news/music/watch-don-toliver-bring-out-justin-timberlake-for-rock-your-body-and-body-in-miami-3964233?utm_source=rss&utm_medium=rss&utm_campaign=watch-don-toliver-bring-out-justin-timberlake-for-rock-your-body-and-body-in-miami",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-23 16:12",
+      "summary": "\nIt was Timberlake's first performance since a tribute to Pharrell Williams in January\nThe post Watch Don Toliver bring out Justin Timberlake for &#8216;Rock Your Body&#8217; and &#8216;Body&#8217; in..."
+    },
+    {
+      "title": "Drummer Chris Slade (AC/DC, David Gilmour) Announces Retirement",
+      "link": "https://loudwire.com/drummer-chris-slade-acdc-david-gilmour-announces-retirement/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-08-23 16:10",
+      "summary": "Mike Coppola, Getty Images"
+    },
+    {
+      "title": "Zara Larsson and PinkPantheress Finally Perform \u201cStateside\u201d Live",
+      "link": "https://pitchfork.com/story/zara-larsson-and-pinkpantheress-finally-sing-stateside-live-together/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-08-23 15:36",
+      "summary": "\u201cYou guys are watching herstory being made,\u201d Larsson told the crowd at All Points East in London"
+    },
+    {
+      "title": "Watch Cruz Beckham join The Kooks for \u2018Jackie Big Tits\u2019 at Rock N Roll Circus Norwich",
+      "link": "https://www.nme.com/news/music/watch-cruz-beckham-join-the-kooks-for-jackie-big-tits-at-rock-n-roll-circus-norwich-3964229?utm_source=rss&utm_medium=rss&utm_campaign=watch-cruz-beckham-join-the-kooks-for-jackie-big-tits-at-rock-n-roll-circus-norwich",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-23 15:31",
+      "summary": "\nBeckham had performed with his band The Breakers earlier in the day\nThe post Watch Cruz Beckham join The Kooks for &#8216;Jackie Big Tits&#8217; at Rock N Roll Circus Norwich appeared first on NME."
+    },
+    {
+      "title": "See Justin Timberlake Make Surprise Appearance at Don Toliver\u2019s Miami Concert",
+      "link": "https://www.rollingstone.com/music/music-news/justin-timberlake-surprise-appearance-don-toliver-concert-1235613574/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-08-23 14:52",
+      "summary": "Taking the stage for first time in over a year, singer joins rapper for \"Rock Your Body\" and \"Body\""
+    },
+    {
+      "title": "Would Brent Hinds Like Mastodon's New LP? Brann Dailor Weighs In",
+      "link": "https://loudwire.com/would-brent-hinds-like-mastodon-marrow-deep-brann-dailor-weighs-in/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-08-23 14:22",
+      "summary": "Barry Brecheisen, Getty Images / Per Ole Hagen, Redferns / Loma Vista Recordings"
+    },
+    {
+      "title": "The Daily Mail Followed and Photographed the Wrong Woman While Trying to Find Meg White",
+      "link": "https://consequence.net/2026/08/daily-mail-followed-the-wrong-woman-trying-to-find-meg-white/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-23 14:05",
+      "summary": "The woman reportedly told the Daily Mail reporter they had the wrong person before the tabloid published the photos anyway.\nThe Daily Mail Followed and Photographed the Wrong Woman While Trying to Fin..."
+    },
+    {
+      "title": "Big Thief Debut New Triple Album, Horsepower, Live in Nashville",
+      "link": "https://pitchfork.com/story/big-thief-debut-new-triple-album-horsepower-live-in-nashville/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-08-23 14:01",
+      "summary": "The 29-song album was performed in full at the Ryman Auditorium alongside special guests Lucinda Williams, Gillian Welch, Iris DeMent, and more"
+    },
+    {
+      "title": "Dolly Parton Avatar Performances in Development",
+      "link": "https://consequence.net/2026/08/dolly-parton-avatar-performances-in-development/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-23 13:58",
+      "summary": "The country music icon said her avatar performances are in the early stages of development. \nDolly Parton Avatar Performances in Development\nTravis Bland"
+    },
+    {
+      "title": "Foo Fighters Play Rarities with Gustavo Dudamel and LA Philharmonic at One-Off Hollywood Bowl Show",
+      "link": "https://consequence.net/2026/08/foo-fighters-la-philharmonic-concert-gustavo-dudamel/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-23 13:43",
+      "summary": "The blowout concert celebrated departing composer Gustavo Dudamel.\nFoo Fighters Play Rarities with Gustavo Dudamel and LA Philharmonic at One-Off Hollywood Bowl Show\nAlex Young"
+    },
+    {
+      "title": "ZZ Top Play First Show Since Death of \u2018Dear Drummer\u2019 Frank Beard",
+      "link": "https://www.rollingstone.com/music/music-news/zz-top-first-show-since-death-dear-drummer-frank-beard-1235613567/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-08-23 13:10",
+      "summary": "\"We\u2019re all here for a celebration, you know what's going on. So we're gonna have a good time,\" Billy Gibbons told Austin crowd as band returned to stage following Beard's death earlier this week"
+    },
+    {
+      "title": "Dolly Parton says she\u2019s exploring \u201cavatar performances\u201d",
+      "link": "https://www.nme.com/news/music/dolly-parton-says-shes-exploring-avatar-performances-3964204?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-says-shes-exploring-avatar-performances",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-23 10:59",
+      "summary": "\nThe country icon revealed she is looking into new ways to give fans music experiences after facing a series of health issues\nThe post Dolly Parton says she&#8217;s exploring &#8220;avatar performance..."
+    },
+    {
+      "title": "Bonnaroo to take \u201cmuch-needed\u201d year off in 2027 to recover from extreme weather",
+      "link": "https://www.nme.com/news/music/bonnaroo-to-take-much-needed-year-off-in-2027-to-recover-from-extreme-weather-3964215?utm_source=rss&utm_medium=rss&utm_campaign=bonnaroo-to-take-much-needed-year-off-in-2027-to-recover-from-extreme-weather",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-23 10:58",
+      "summary": "\nAfter being plagued by extreme weather and cancellations, organisers said the break \"will only make Bonnaroo better\"\nThe post Bonnaroo to take \u201cmuch-needed\u201d year off in 2027 to recover from extreme w..."
+    },
+    {
+      "title": "Watch King Gizzard and the Lizard Wizard bring out Max Weinberg at Queens show",
+      "link": "https://www.nme.com/news/music/watch-king-gizzard-and-the-lizard-wizard-bring-out-max-weinberg-at-queens-show-3964183?utm_source=rss&utm_medium=rss&utm_campaign=watch-king-gizzard-and-the-lizard-wizard-bring-out-max-weinberg-at-queens-show",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-23 09:07",
+      "summary": "\nHi son, former Slipknot drummer Jay Weinberg, has previously appeared on stage with the band\nThe post Watch King Gizzard and the Lizard Wizard bring out Max Weinberg at Queens show appeared first on ..."
+    },
+    {
+      "title": "Lorde hails All Points East line-up \u201cthe best I\u2019ve ever been part of\u201d during huge headline slot",
+      "link": "https://www.nme.com/news/lorde-hails-all-points-east-line-up-the-best-ive-ever-been-part-of-during-huge-headline-slot-3964181?utm_source=rss&utm_medium=rss&utm_campaign=lorde-hails-all-points-east-line-up-the-best-ive-ever-been-part-of-during-huge-headline-slot",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-23 09:07",
+      "summary": "\n\"I was really struck by what this group of artists are doing. I felt so honoured to be a part of it\"\nThe post Lorde hails All Points East line-up &#8220;the best I\u2019ve ever been part of&#8221; during ..."
+    },
+    {
+      "title": "BigXthaPlug arrested on drug and gun charges in Texas",
+      "link": "https://www.nme.com/news/music/bigxthaplug-arrested-on-drug-and-gun-charges-in-texas-3964168?utm_source=rss&utm_medium=rss&utm_campaign=bigxthaplug-arrested-on-drug-and-gun-charges-in-texas",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-23 09:01",
+      "summary": "\nThe arrest caused the country rapper to miss a scheduled performance at a music festival\nThe post BigXthaPlug arrested on drug and gun charges in Texas appeared first on NME."
+    },
+    {
+      "title": "Watch Zara Larsson and PinkPantheress perform \u2018Stateside\u2019 together for first time at All Points East",
+      "link": "https://www.nme.com/news/music/watch-zara-larsson-and-pinkpantheress-perform-stateside-together-for-first-time-at-all-points-east-3964165?utm_source=rss&utm_medium=rss&utm_campaign=watch-zara-larsson-and-pinkpantheress-perform-stateside-together-for-first-time-at-all-points-east",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-23 07:47",
+      "summary": "\nThe surprise appearance marked one of the biggest pop crossover moments of the London festival\nThe post Watch Zara Larsson and PinkPantheress perform &#8216;Stateside&#8217; together for first time a..."
+    },
+    {
+      "title": "Dolly Parton Says She\u2019s Exploring \u2018Avatar Performances\u2019",
+      "link": "https://www.billboard.com/music/country/dolly-parton-health-update-1236322526/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-23 07:07",
+      "summary": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said."
+    },
+    {
+      "title": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills\u00a0Stadium",
+      "link": "https://www.billboard.com/music/rock/king-gizzard-and-the-lizard-wizard-max-weinberg-1236322524/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-23 04:26",
+      "summary": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band."
+    },
+    {
+      "title": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at\u00a089",
+      "link": "https://www.billboard.com/business/management/dale-morris-death-manager-alabama-kenny-chesney-dies-1236322517/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-22 22:27",
+      "summary": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen."
+    },
+    {
+      "title": "Watch Rosal\u00eda sing Bad Bunny\u2019s \u2018Safaera\u2019 with tequila shot in Monterrey",
+      "link": "https://www.nme.com/news/music/watch-rosalia-sing-bad-bunnys-safaera-with-tequila-shot-in-monterrey-3964139?utm_source=rss&utm_medium=rss&utm_campaign=watch-rosalia-sing-bad-bunnys-safaera-with-tequila-shot-in-monterrey",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-22 21:38",
+      "summary": "\nIt took the place of the white wine she usually drinks before 'Sauvignon Blanc'\nThe post Watch Rosal\u00eda sing Bad Bunny&#8217;s &#8216;Safaera&#8217; with tequila shot in Monterrey appeared first on NM..."
+    },
+    {
+      "title": "Olivia Rodrigo Drops \u2018Handmaid\u2019s Tale\u2019-Inspired \u2018Serena Joy\u2019 as CD Single at Indie Record\u00a0Store",
+      "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-serena-joy-cd-single-indie-record-store-1236322505/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-22 20:10",
+      "summary": "A limited number of copies were available at Analog Music Shop, near the site of her upcoming Daisy Chain Fields festival in SoCal."
+    },
+    {
+      "title": "Janie Bradford, Motown Songwriter Who Co-Wrote \u2018Money (That\u2019s What I Want\u2019), Dead at 87",
+      "link": "https://www.rollingstone.com/music/music-news/janie-bradford-motown-songwriter-money-dead-obituary-1235613355/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-08-22 18:29",
+      "summary": "\"Janie was there with me from the very beginning, before there was even a Motown,\" Berry Gordy writes in tribute to label's receptionist-turned-hit songwriter"
+    },
+    {
+      "title": "Kehlani Delivers Superstar Set at Brooklyn Stop of Triumphant World Tour: 5 Best\u00a0Moments",
+      "link": "https://www.billboard.com/lists/kehlani-brooklyn-concert-best-moments-cardi-b/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-22 18:25",
+      "summary": "The Oakland R&#38;B savant proved exactly why she's the cover star of\u00a0Billboard's 2026 R&#38;B/Hip-Hop Power Players issue."
+    },
+    {
+      "title": "Janie Bradford, Early Motown Songwriter & \u2018Money (That\u2019s What I Want)\u2019 Co-Writer, Dies at\u00a087",
+      "link": "https://www.billboard.com/music/music-news/janie-bradford-death-motown-songwriter-dies-1236322487/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-22 18:05",
+      "summary": "She also co-wrote songs recorded by Marvin Gaye, Stevie Wonder and Mary Wells."
+    },
+    {
+      "title": "BigXthaPlug Faces Drug and Gun Charges One Year After Last\u00a0Arrest",
+      "link": "https://www.billboard.com/music/music-news/bigxthaplug-arrested-texas-drug-gun-charges-1236322443/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-22 17:24",
+      "summary": "The rapper was forced to miss his performance at Winnipeg\u2019s Country Rising Festival."
     },
     {
       "title": "Olivia Rodrigo Releases Politically Charged New Song \u201cSerena Joy\u201d on Limited-Edition CD",
@@ -975,14 +1185,6 @@
       "summary": "The actor took the stage in character as Lestat for a special performance featuring six songs written by the series\u2019 composer Daniel Hart."
     },
     {
-      "title": "Olivia Rodrigo surprise releases \u2018The Handmaid\u2019s Tale\u2019-inspired new song \u2018Serena Joy\u2019 on limited edition CD",
-      "link": "https://www.nme.com/news/music/olivia-rodrigo-surprise-releases-the-handmaids-tale-inspired-new-song-serena-joy-on-limited-edition-cd-3964121?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-surprise-releases-the-handmaids-tale-inspired-new-song-serena-joy-on-limited-edition-cd",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-22 16:28",
-      "summary": "\nJust 500 copies were sold at an independent record shop near her upcoming Daisy Chain Fields festival\nThe post Olivia Rodrigo surprise releases &#8216;The Handmaid&#8217;s Tale&#8217;-inspired new so..."
-    },
-    {
       "title": "BigXthaPlug Arrested on Drug and Gun Charges in Texas",
       "link": "https://www.rollingstone.com/music/music-news/bigxthaplug-arrest-drug-gun-charges-texas-1235613342/",
       "source": "Rolling Stone",
@@ -991,36 +1193,12 @@
       "summary": "Rapper misses Winnipeg music festival gig due to arrest, but still slated to perform Saturday night at Iowa State fair"
     },
     {
-      "title": "Here\u2019s Where to Watch 2026 U.S. Open Tennis Championships: Best Ways to Livestream the Grand Slam\u00a0Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/us-open-tennis-championships-2026-watch-online-free-1236318601/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-22 15:42",
-      "summary": "The tennis tournament begins on Aug. 23. Here's how to watch the action online for free."
-    },
-    {
-      "title": "Dry Cleaning bring out Wilco\u2019s Jeff Tweedy for \u2018My Soul/Half Pint\u2019 at Green Man 2026",
-      "link": "https://www.nme.com/news/music/dry-cleaning-bring-out-wilcos-jeff-tweedy-for-my-soul-half-pint-at-green-man-2026-3964113?utm_source=rss&utm_medium=rss&utm_campaign=dry-cleaning-bring-out-wilcos-jeff-tweedy-for-my-soul-half-pint-at-green-man-2026",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-22 15:39",
-      "summary": "\nTweedy also played on the studio version of the track from the London band's third album 'Secret Love'\nThe post Dry Cleaning bring out Wilco&#8217;s Jeff Tweedy for &#8216;My Soul/Half Pint&#8217; at..."
-    },
-    {
       "title": "Buckcherry\u2019s Tour Bus Involved in Fatal Multi-Vehicle Accident",
       "link": "https://consequence.net/2026/08/buckcherrys-tour-bus-involved-in-fatal-multi-vehicle-accident/",
       "source": "Consequence",
       "category": "general",
       "published": "2026-08-22 15:37",
       "summary": "Members of the band and its touring crew are said to be \"safe and unharmed.\"\nBuckcherry&#8217;s Tour Bus Involved in Fatal Multi-Vehicle Accident\nAlex Young"
-    },
-    {
-      "title": "Karol G, Maluma & More Unite for Colombia Earthquake Relief & More Uplifting Moments in Latin\u00a0Music",
-      "link": "https://www.billboard.com/music/latin/karol-g-maluma-colombia-earthquake-relief-mana-apple-music-1236322398/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-22 15:34",
-      "summary": "Plus, Man\u00e1 becomes the first Latin act to perform for Apple Music's Rediscovered series, and Elvis Crespo returns to NYC for a free concert."
     },
     {
       "title": "See the Setlist for Garth Brooks\u2019 \u201cBlame It All On My Roots\u201d Arena Tour Kick-Off",
@@ -1063,14 +1241,6 @@
       "summary": "\u2117 1991 Peaceville Records, \u2117 1999 Boner, Roadrunner, Metal Blade, Active / Death / Season of Mist / Nuclear Blast"
     },
     {
-      "title": "Dolly Parton shares health update with fans after \u201chard times\u201d",
-      "link": "https://www.nme.com/news/music/dolly-parton-shares-health-update-with-fans-after-hard-times-3964090?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-shares-health-update-with-fans-after-hard-times",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-22 10:09",
-      "summary": "\nThe country legend said she was \"still healin\u2019\" after being forced to cancel her Vegas residency\nThe post Dolly Parton shares health update with fans after &#8220;hard times&#8221; appeared first on ..."
-    },
-    {
       "title": "Win a Trip to California to See Bruno Mars and RAYE in Concert",
       "link": "https://www.xxlmag.com/bruno-mars-santa-clara/",
       "source": "XXL Mag",
@@ -1079,92 +1249,12 @@
       "summary": "in2une"
     },
     {
-      "title": "Apple Music to add labels to AI-generated music later this year",
-      "link": "https://www.nme.com/news/music/apple-music-to-add-labels-to-ai-generated-music-later-this-year-3964072?utm_source=rss&utm_medium=rss&utm_campaign=apple-music-to-add-labels-to-ai-generated-music-later-this-year",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-22 09:26",
-      "summary": "\nBandcamp, Tidal and Spotify have all also taken action against AI music\nThe post Apple Music to add labels to AI-generated music later this year appeared first on NME."
-    },
-    {
-      "title": "Watch Courtney Love sing Addison Rae\u2019s \u201csaddest song\u201d",
-      "link": "https://www.nme.com/news/music/watch-courtney-love-sing-addison-raes-saddest-song-3964062?utm_source=rss&utm_medium=rss&utm_campaign=watch-courtney-love-sing-addison-raes-saddest-song",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-22 09:12",
-      "summary": "\nTrading Rae's playful tone for a more mellow vocal, Love said the track was the \"saddest song\" \nThe post Watch Courtney Love sing Addison Rae&#8217;s &#8220;saddest song&#8221; appeared first on NME."
-    },
-    {
-      "title": "Michael Jackson movie sequel will address child abuse allegations from \u201chis point of view\u201d says Jaafar Jackson",
-      "link": "https://www.nme.com/news/film/michael-jackson-movie-sequel-will-address-child-abuse-allegations-from-his-point-of-view-says-jaafar-jackson-3964065?utm_source=rss&utm_medium=rss&utm_campaign=michael-jackson-movie-sequel-will-address-child-abuse-allegations-from-his-point-of-view-says-jaafar-jackson",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-22 08:45",
-      "summary": "\nThe record-breaking biopic was forced to reshoot scenes referencing the allegations after the discovery of a clause in a legal settlement \nThe post Michael Jackson movie sequel will address child abu..."
-    },
-    {
-      "title": "Holly Humberstone Sets Biggest Australian Tour Yet for\u00a02027",
-      "link": "https://www.billboard.com/music/concerts/holly-humberstone-australian-tour-2027-1236322391/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-22 08:29",
-      "summary": "The run supports Cruel World, Humberstone's second studio album, released April 10 through Polydor Records."
-    },
-    {
-      "title": "Robbie Williams to Perform at Australia\u2019s Melbourne Cup\u00a0Day",
-      "link": "https://www.billboard.com/music/concerts/robbie-williams-2026-melbourne-cup-1236322393/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-22 08:23",
-      "summary": "The record-breaking British pop star will play the Flemington mounting yard before kicking off his BRITPOP arena run."
-    },
-    {
-      "title": "Cara Delevingne announces debut album \u2018Not Normal\u2019 with fiery single \u2018Crazy Baby\u2019",
-      "link": "https://www.nme.com/news/music/cara-delevingne-announces-debut-album-not-normal-with-fiery-single-crazy-baby-3964051?utm_source=rss&utm_medium=rss&utm_campaign=cara-delevingne-announces-debut-album-not-normal-with-fiery-single-crazy-baby",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-22 08:09",
-      "summary": "\n\"If any of you connect with even one song, that\u2019s all I\u2019ve ever wanted\"\nThe post Cara Delevingne announces debut album &#8216;Not Normal&#8217; with fiery single &#8216;Crazy Baby&#8217; appeared fir..."
-    },
-    {
-      "title": "Kacey Musgraves launches line of \u2018Drought Drops\u2019 lube: \u201cKeeps the dry spells away\u201d",
-      "link": "https://www.nme.com/news/music/kacey-musgraves-launches-line-of-drought-drops-lube-keeps-the-dry-spells-away-3964050?utm_source=rss&utm_medium=rss&utm_campaign=kacey-musgraves-launches-line-of-drought-drops-lube-keeps-the-dry-spells-away",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-22 07:59",
-      "summary": "\n\"A cheeky little wink to my song, combined with a great product\"\nThe post Kacey Musgraves launches line of &#8216;Drought Drops&#8217; lube: &#8220;Keeps the dry spells away&#8221; appeared first on ..."
-    },
-    {
-      "title": "Jorja Smith Sets Three Australian Dates for 2027\u00a0Tour",
-      "link": "https://www.billboard.com/music/concerts/jorja-smith-2027-australian-tour-1236322387/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-22 07:17",
-      "summary": "The British singer brings her new album, What Are the Odds, to Brisbane, Sydney and Melbourne in November next year."
-    },
-    {
-      "title": "Tupac Murder Trial Week 1 Recap: An \u2018Act of Revenge,\u2019 Heated Testimony & Police\u00a0Tapes",
-      "link": "https://www.billboard.com/pro/tupac-murder-trial-week-1-recap/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-22 01:15",
-      "summary": "Billboard is summing up the key moments from the first week of the epic murder trial over the hip-hop legend's 1996 killing."
-    },
-    {
       "title": "Buckcherry Members \u2018Unharmed\u2019 After Tour Bus Involved in Tragic \u2018Multi-Vehicle Accident\u2019",
       "link": "https://www.rollingstone.com/music/music-news/buckcherry-car-crash-south-carolina-1235613285/",
       "source": "Rolling Stone",
       "category": "general",
       "published": "2026-08-22 01:00",
       "summary": "\"Authorities have confirmed that the collision that occurred ahead of our bus resulted in a fatality,\" said the band in a statement"
-    },
-    {
-      "title": "Fivio Foreign Pivots to Christian Rap, But Don\u2019t Call Him a Gospel Artist: \u2018I Don\u2019t Want to Put It in a\u00a0Category\u2019",
-      "link": "https://www.billboard.com/music/rb-hip-hop/fivio-foreign-christian-rap-gospel-1236322293/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-21 23:56",
-      "summary": "The Brooklyn rapper is trying to make rap music that's positive and is working on a new project."
     },
     {
       "title": "My top 5 songs on the new Phoebe Bridgers album Lost Weekend",
@@ -1183,28 +1273,12 @@
       "summary": "The jury also heard Keffe claim in a 2009 police interview that alleged gunman Orlando Anderson \u201cpeed on his hands\u201d after the shooting to wash away gunpowder"
     },
     {
-      "title": "The Game Responds to Allegations That He Takes Shots at Kendrick Lamar on New Album: \u2018Ain\u2019t Diss Nobody on That\u00a0Song\u2019",
-      "link": "https://www.billboard.com/music/rb-hip-hop/the-game-kendrick-lamar-drake-diss-allegations-response-1236322291/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-21 22:39",
-      "summary": "The Compton rapper alludes to Kendrick &#38; Drake's beef multiple times on The Documentary III, but claims he's not throwing shots."
-    },
-    {
       "title": "ENHYPEN on How THE SIN : BLISS Is a New Sound for a New Beginning",
       "link": "https://consequence.net/2026/08/enhypen-new-album-the-sin-bliss-interview/",
       "source": "Consequence",
       "category": "general",
       "published": "2026-08-21 22:15",
       "summary": "ENHYPEN on how their latest EP THE SIN : BLISS stretched them artistically and personally.\nENHYPEN on How THE SIN : BLISS Is a New Sound for a New Beginning\nChristine Terrisse"
-    },
-    {
-      "title": "What to Wear to Olivia Rodrigo\u2019s Daisy Chain Fields Music Festival, From \u201970s Boho to 2010s\u00a0Alt-Pop",
-      "link": "https://www.billboard.com/culture/product-recommendations/what-to-wear-daisy-chain-fields-music-festival-shop-online-1236321135/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-21 21:47",
-      "summary": "Get your festival 'fits ready for KATSEYE, Doechii, Chappell Roan, Stevie Nicks &#38; more."
     },
     {
       "title": "Blackpink\u2019s Jennie to Release New EP Next Friday",
@@ -1223,117 +1297,13 @@
       "summary": "Our favorite new songs, updated weekly."
     },
     {
-      "title": "The Weeknd wraps five-night sold-out run at Wembley Stadium and raises more than $350k for charity",
-      "link": "https://www.nme.com/news/music/the-weeknd-wraps-five-night-sold-out-run-at-wembley-stadium-and-raises-more-than-350k-for-charity-3964041?utm_source=rss&utm_medium=rss&utm_campaign=the-weeknd-wraps-five-night-sold-out-run-at-wembley-stadium-and-raises-more-than-350k-for-charity",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-21 20:35",
-      "summary": "\nCheck out footage and the setlist he played at all of the Wembley shows here\nThe post The Weeknd wraps five-night sold-out run at Wembley Stadium and raises more than $350k for charity appeared first..."
-    },
-    {
       "title": "bunii announces BUNIIVERSITY fall 2026 tour",
       "link": "https://www.thefader.com/2026/08/21/bunii-buniiversity-tour-2026-tickets-dates",
       "source": "The FADER",
       "category": "hiphop",
       "published": "2026-08-21 20:05",
       "summary": "After a sold-out five-show debut run, the self-produced Gen F star embarks on his first coast-to-coast tour."
-    },
-    {
-      "title": "West End Motel and Matt Pike Honor Mastodon\u2019s Brent Hinds with New Song \u201cReturn of the Kid\u201d: Stream",
-      "link": "https://consequence.net/2026/08/west-end-motel-matt-pike-brent-hinds-return-of-the-kid/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-21 20:00",
-      "summary": "The track was released on the one-year anniversary of the Mastodon guitarist's tragic passing.\nWest End Motel and Matt Pike Honor Mastodon&#8217;s Brent Hinds with New Song &#8220;Return of the Kid&#8..."
-    },
-    {
-      "title": "Heavy Song of the Week: Down Return with Masterpiece \u201cBlood Oath\u201d",
-      "link": "https://consequence.net/2026/08/heavy-song-of-the-week-down-blood-oath/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-21 19:52",
-      "summary": "Down return after over a decade with the genuinely perfect Sabbathian doom metal track \"Blood Oath.\"\nHeavy Song of the Week: Down Return with Masterpiece &#8220;Blood Oath&#8221;\nLangdon Hickman"
-    },
-    {
-      "title": "Ministry Unleash Anti-Trump Single and Music Video \u201cWe Hate\u201d: Stream",
-      "link": "https://consequence.net/2026/08/ministry-we-hate-single-video/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-21 19:27",
-      "summary": "The video delivers a scathing examination of Trump's presidency.\nMinistry Unleash Anti-Trump Single and Music Video &#8220;We Hate&#8221;: Stream\nLangdon Hickman"
-    },
-    {
-      "title": "Quality Control Cofounder Pierre 'P' Thomas Hospitalized",
-      "link": "https://www.xxlmag.com/quality-control-pierre-p-thomas-hospitalized-heart-attack/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-08-21 19:21",
-      "summary": "Leon Bennett/Getty Images for Black Music Action Coalition"
-    },
-    {
-      "title": "Fontaines D.C. Announce Fall Headlining Shows in Brooklyn and Los Angeles",
-      "link": "https://consequence.net/2026/08/fontaines-dc-fall-headlining-shows-brooklyn-los-angeles/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-21 18:41",
-      "summary": "Fresh off the announcement of their new album Dopamine Chamber, the Irish band will perform two special headlining shows in the US in September.\nFontaines D.C. Announce Fall Headlining Shows in Brookl..."
-    },
-    {
-      "title": "Cops Throw Foolio Killer Sean Gathright on the Floor in Footage",
-      "link": "https://www.xxlmag.com/cops-foolio-killer-sean-gathright-interrogation-video/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-08-21 18:34",
-      "summary": "Kalavisheni/YouTube / Akademiks/Instagram"
-    },
-    {
-      "title": "Quality Control Co-Founder Pierre \u2018P\u2019 Thomas \u2018Alive and Currently Hospitalized\u2019 After Heart Attack",
-      "link": "https://www.rollingstone.com/music/music-news/quality-control-co-founder-pierre-p-thomas-heart-attack-1235613014/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-08-21 18:29",
-      "summary": "The music executive, whose roster includes Lil Baby, Quavo, and JT, is reportedly being monitored in the ICU"
-    },
-    {
-      "title": "Why Did Bonnaroo Get Canceled in 2027?",
-      "link": "https://loudwire.com/why-bonnaroo-canceled-2027/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-08-21 18:15",
-      "summary": "Erika Goldring, Getty Images"
-    },
-    {
-      "title": "Superman Spinoff Comedy The People v. Gorilla Grodd Greenlit at HBO Max",
-      "link": "https://consequence.net/2026/08/the-people-v-gorilla-grodd-hbo-max/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-21 18:08",
-      "summary": "The meta DC Studios comedy stars Skyler Gisondo and Jimmy Tatro. \nSuperman Spinoff Comedy The People v. Gorilla Grodd Greenlit at HBO Max\nLiz Shannon Miller"
-    },
-    {
-      "title": "AirPods Max 2 Are $120 Off in Every Color",
-      "link": "https://consequence.net/2026/08/airpods-max-2-deal-120-off/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-21 17:48",
-      "summary": "Now available for $429 at Amazon, this is the second-best price we've seen.\nAirPods Max 2 Are $120 Off in Every Color\nEddie Fu"
-    },
-    {
-      "title": "Travis Barker Opens Up on Plane Crash and Mom\u2019s Passing in Interview with Anderson Cooper",
-      "link": "https://consequence.net/2026/08/travis-barker-plane-crash-mom-passing-interview-anderson-cooper/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-21 17:31",
-      "summary": "The blink-182 drummer credits his late mother for pushing him to pursue a career in music.\nTravis Barker Opens Up on Plane Crash and Mom&#8217;s Passing in Interview with Anderson Cooper\nSpencer Kaufm..."
-    },
-    {
-      "title": "New Translations Crave an Uncertain Life in Synth-Pop Gem \u2018Modern Lovers\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/new-translations-modern-lovers-song-video-1235612925/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-08-21 17:31",
-      "summary": "The song by the Nashville band arrives with a new video showcasing the undeniable charisma of frontperson Oliver Pierce"
     }
   ],
-  "last_updated": "2026-08-22T17:23:07.726316"
+  "last_updated": "2026-08-23T17:23:58.030804"
 }

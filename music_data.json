@@ -1,6 +1,36 @@
 {
   "hiphop": [
     {
+      "name": "#NDA",
+      "artists": "Trippie Redd",
+      "release_date": "2026-08-28",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734c5ae82921232ed0e85352fd",
+      "spotify_url": "https://open.spotify.com/album/2E9uN1sbbZRRUfvWRDtNOq",
+      "apple_music_url": "https://music.apple.com/us/album/nda/6806081833?uo=4",
+      "total_tracks": 18,
+      "album_type": "album"
+    },
+    {
+      "name": "Slime Language 3",
+      "artists": "Young Stoner Life, Young Thug",
+      "release_date": "2026-08-28",
+      "image": "https://i.scdn.co/image/ab67616d0000b273494ba3ea7ac20fdaabc4d58f",
+      "spotify_url": "https://open.spotify.com/album/1WtVKnWze7lleZLJdkmlbB",
+      "apple_music_url": "https://music.apple.com/us/search?term=Slime%20Language%203%20Young%20Stoner%20Life",
+      "total_tracks": 41,
+      "album_type": "album"
+    },
+    {
+      "name": "Out My Face (My Baby) (feat. Lil Yachty)",
+      "artists": "Ice Spice, Lil Yachty",
+      "release_date": "2026-08-28",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b86319b4ea7fd0b06339236",
+      "spotify_url": "https://open.spotify.com/album/0myqS8XRIGw3RYHfmuwF7Y",
+      "apple_music_url": "https://music.apple.com/us/album/out-my-face-my-baby-single/6806363020?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Pretty Girls",
       "artists": "G-Eazy",
       "release_date": "2026-08-28",
@@ -18,16 +48,6 @@
       "spotify_url": "https://open.spotify.com/album/6PJTGldVmFPq7B9GVU5ROV",
       "apple_music_url": "https://music.apple.com/us/album/plain-jane-remix-feat-nicki-minaj-single/1325899833?uo=4",
       "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "I\u2019m a Whore (feat. .exegesis)",
-      "artists": "Kyle Gordon",
-      "release_date": "2026-08-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb373f3801d58a68827aee28",
-      "spotify_url": "https://open.spotify.com/album/0yiVmAEVQx773jK3FrC5yv",
-      "apple_music_url": "https://music.apple.com/us/search?term=I%E2%80%99m%20a%20Whore%20Kyle%20Gordon",
-      "total_tracks": 2,
       "album_type": "single"
     },
     {
@@ -51,16 +71,6 @@
       "album_type": "single"
     },
     {
-      "name": "Coming Home (paris remix)",
-      "artists": "Hari Loco, NLE Choppa, Souldrippin, Darius Dante",
-      "release_date": "2026-08-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b273edda7296b6c94a854321263c",
-      "spotify_url": "https://open.spotify.com/album/3cOHU9vMD1vNHf83xzxLFj",
-      "apple_music_url": "https://music.apple.com/us/album/coming-home-paris-remix-feat-darius-dante-single/6792807690?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Blanco (Live From The District)",
       "artists": "Wale",
       "release_date": "2026-08-28",
@@ -68,26 +78,6 @@
       "spotify_url": "https://open.spotify.com/album/7kUjBcuDKrr4dpuO4IpkrY",
       "apple_music_url": "https://music.apple.com/us/search?term=Blanco%20%28Live%20From%20The%20District%29%20Wale",
       "total_tracks": 3,
-      "album_type": "single"
-    },
-    {
-      "name": "Risk it all",
-      "artists": "Raekwon, Termanology, Meeco, DJ Access",
-      "release_date": "2026-08-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e4f71cd4d9924ecb73248cfd",
-      "spotify_url": "https://open.spotify.com/album/76vwfm04BvAhRazGrtfmOC",
-      "apple_music_url": "https://music.apple.com/us/search?term=Risk%20it%20all%20Raekwon",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Out My Face (My Baby) (feat. Lil Yachty)",
-      "artists": "Ice Spice, Lil Yachty",
-      "release_date": "2026-08-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730b86319b4ea7fd0b06339236",
-      "spotify_url": "https://open.spotify.com/album/0myqS8XRIGw3RYHfmuwF7Y",
-      "apple_music_url": "https://music.apple.com/us/album/out-my-face-my-baby-single/6806363020?uo=4",
-      "total_tracks": 1,
       "album_type": "single"
     },
     {
@@ -101,24 +91,34 @@
       "album_type": "single"
     },
     {
-      "name": "#NDA",
-      "artists": "Trippie Redd",
+      "name": "Risk it all",
+      "artists": "Raekwon, Termanology, Meeco, DJ Access",
       "release_date": "2026-08-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734c5ae82921232ed0e85352fd",
-      "spotify_url": "https://open.spotify.com/album/2E9uN1sbbZRRUfvWRDtNOq",
-      "apple_music_url": "https://music.apple.com/us/album/nda/6806081833?uo=4",
-      "total_tracks": 18,
-      "album_type": "album"
+      "image": "https://i.scdn.co/image/ab67616d0000b273e4f71cd4d9924ecb73248cfd",
+      "spotify_url": "https://open.spotify.com/album/76vwfm04BvAhRazGrtfmOC",
+      "apple_music_url": "https://music.apple.com/us/search?term=Risk%20it%20all%20Raekwon",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
-      "name": "Slime Language 3",
-      "artists": "Young Stoner Life, Young Thug",
+      "name": "I\u2019m a Whore (feat. .exegesis)",
+      "artists": "Kyle Gordon",
       "release_date": "2026-08-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b273494ba3ea7ac20fdaabc4d58f",
-      "spotify_url": "https://open.spotify.com/album/1WtVKnWze7lleZLJdkmlbB",
-      "apple_music_url": "https://music.apple.com/us/search?term=Slime%20Language%203%20Young%20Stoner%20Life",
-      "total_tracks": 41,
-      "album_type": "album"
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb373f3801d58a68827aee28",
+      "spotify_url": "https://open.spotify.com/album/0yiVmAEVQx773jK3FrC5yv",
+      "apple_music_url": "https://music.apple.com/us/search?term=I%E2%80%99m%20a%20Whore%20Kyle%20Gordon",
+      "total_tracks": 2,
+      "album_type": "single"
+    },
+    {
+      "name": "Coming Home (paris remix)",
+      "artists": "Hari Loco, NLE Choppa, Souldrippin, Darius Dante",
+      "release_date": "2026-08-28",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edda7296b6c94a854321263c",
+      "spotify_url": "https://open.spotify.com/album/3cOHU9vMD1vNHf83xzxLFj",
+      "apple_music_url": "https://music.apple.com/us/album/coming-home-paris-remix-feat-darius-dante-single/6792807690?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "I Know That Man (feat. Earl Sweatshirt)",
@@ -141,26 +141,6 @@
       "album_type": "single"
     },
     {
-      "name": "No Contact",
-      "artists": "NLE Choppa",
-      "release_date": "2026-08-27",
-      "image": "https://i.scdn.co/image/ab67616d0000b27318970ced7c425a9d4a4ff52e",
-      "spotify_url": "https://open.spotify.com/album/50JF2rF7qP0sAU2XYK1rBO",
-      "apple_music_url": "https://music.apple.com/us/album/no-contact-single/6806374129?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "#NDA",
-      "artists": "Trippie Redd",
-      "release_date": "2026-08-27",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736a3c9efde2347e19607f78b5",
-      "spotify_url": "https://open.spotify.com/album/3X7wzO3KaNyJOEFouu0u70",
-      "apple_music_url": "https://music.apple.com/us/album/nda/6806081833?uo=4",
-      "total_tracks": 18,
-      "album_type": "album"
-    },
-    {
       "name": "Being Myself (feat. Tezzus)",
       "artists": "Trippie Redd, Tezzus",
       "release_date": "2026-08-27",
@@ -177,6 +157,16 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734a6c977676ffef1a24d1c0d0",
       "spotify_url": "https://open.spotify.com/album/0b9GYDWddzITcxsBDGdJg0",
       "apple_music_url": "https://music.apple.com/us/search?term=Med%20Kit%20Trippie%20Redd",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Rock The Bed (feat. Gigi Holland)",
+      "artists": "Trippie Redd, Gigi Holland",
+      "release_date": "2026-08-27",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732c642865e0b35c16dc8709ef",
+      "spotify_url": "https://open.spotify.com/album/4JXaA7SRlqvTpY3wzukw3V",
+      "apple_music_url": "https://music.apple.com/us/search?term=Rock%20The%20Bed%20Trippie%20Redd",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -266,7 +256,7 @@
       "release_date": "2026-08-21",
       "image": "https://i.scdn.co/image/ab67616d0000b273a14e643189ec72ad53632618",
       "spotify_url": "https://open.spotify.com/album/73NbJlEaRBWILRfCocwVL4",
-      "apple_music_url": "https://music.apple.com/us/album/god-gotta-afro-gold-hoops/6800092623?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=God%20Gotta%20Afro%20%26%20Gold%20Hoops%20Rapsody",
       "total_tracks": 16,
       "album_type": "album"
     },
@@ -276,7 +266,7 @@
       "release_date": "2026-08-18",
       "image": "https://i.scdn.co/image/ab67616d0000b27300fb914bd37458fd374e3ea8",
       "spotify_url": "https://open.spotify.com/album/1Fn5Bb6ty5IpOkhSJhaNCh",
-      "apple_music_url": "https://music.apple.com/us/album/the-team-single/6802461202?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=The%20Team%20Central%20Cee",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -326,7 +316,7 @@
       "release_date": "2026-08-14",
       "image": "https://i.scdn.co/image/ab67616d0000b2736e62ab19ced435135858e958",
       "spotify_url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ",
-      "apple_music_url": "https://music.apple.com/us/album/prolific/6801271209?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=PROLIFIC%20Nipsey%20Hussle",
       "total_tracks": 15,
       "album_type": "album"
     },
@@ -346,7 +336,7 @@
       "release_date": "2026-08-14",
       "image": "https://i.scdn.co/image/ab67616d0000b2734a807287b573b794b420eab4",
       "spotify_url": "https://open.spotify.com/album/1Q548wgBsC8CsA27DURe1G",
-      "apple_music_url": "https://music.apple.com/us/album/a-thousand-times-single/6800868687?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=A%20Thousand%20Times%20Honey%20Bxby",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -406,7 +396,7 @@
       "release_date": "2026-08-13",
       "image": "https://i.scdn.co/image/ab67616d0000b273a42ea86957e7798d676c5487",
       "spotify_url": "https://open.spotify.com/album/6HZxZK3PQu9AkCL8HOWFa4",
-      "apple_music_url": "https://music.apple.com/us/album/talk-ya-shit-single/6800914459?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Talk%20Ya%20Shit%20Busta%20Rhymes",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -416,7 +406,7 @@
       "release_date": "2026-08-13",
       "image": "https://i.scdn.co/image/ab67616d0000b27370c4aff971956175eeabd1d2",
       "spotify_url": "https://open.spotify.com/album/5363wdqqqTUdUPecJVzNCC",
-      "apple_music_url": "https://music.apple.com/us/album/trance-walk-it-down-single/6798030346?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Trance%20%28Walk%20It%20Down%29%20Quavo",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -506,7 +496,7 @@
       "release_date": "2026-08-07",
       "image": "https://i.scdn.co/image/ab67616d0000b2736b737af7b04ef5a04d3db99c",
       "spotify_url": "https://open.spotify.com/album/4NEu4kOuP6S4CeTFbMvM3a",
-      "apple_music_url": "https://music.apple.com/us/search?term=Dragon%27s%20Breath%20Inspectah%20Deck",
+      "apple_music_url": "https://music.apple.com/us/album/dragons-breath/6803644971?uo=4",
       "total_tracks": 19,
       "album_type": "album"
     },
@@ -516,7 +506,7 @@
       "release_date": "2026-08-06",
       "image": "https://i.scdn.co/image/ab67616d0000b273d5f832caa741f9360c5b2753",
       "spotify_url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY",
-      "apple_music_url": "https://music.apple.com/us/search?term=The%20Real%20Me%20Future",
+      "apple_music_url": "https://music.apple.com/us/album/the-real-me/6790487991?uo=4",
       "total_tracks": 22,
       "album_type": "album"
     },
@@ -546,7 +536,7 @@
       "release_date": "2026-07-31",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
       "spotify_url": "https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo",
-      "apple_music_url": "https://music.apple.com/us/search?term=Maverick%20%E2%80%9CAlmost%20Forever%E2%80%9D%20EP%20Lil%20Uzi%20Vert",
+      "apple_music_url": "https://music.apple.com/us/album/maverick-almost-forever-ep/6797312643?uo=4",
       "total_tracks": 8,
       "album_type": "single"
     },
@@ -556,7 +546,7 @@
       "release_date": "2026-07-31",
       "image": "https://i.scdn.co/image/ab67616d0000b27389db35e33dcee46c99d9adfa",
       "spotify_url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe",
-      "apple_music_url": "https://music.apple.com/us/search?term=AH%20HA%20Cardi%20B",
+      "apple_music_url": "https://music.apple.com/us/album/ah-ha-single/6796433825?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -596,7 +586,7 @@
       "release_date": "2026-07-31",
       "image": "https://i.scdn.co/image/ab67616d0000b273bfe5646af6bf0275f7d0e621",
       "spotify_url": "https://open.spotify.com/album/1vSHSyVaa9xVii1YNq5Tq6",
-      "apple_music_url": "https://music.apple.com/us/album/gut-genug-with-skepta-blumengarten-single/6797919970?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Gut%20Genug%20%28with%20Skepta%20%26%20Blumengarten%29%20KITSCHKRIEG",
       "total_tracks": 2,
       "album_type": "single"
     },
@@ -746,7 +736,7 @@
       "release_date": "2026-07-22",
       "image": "https://i.scdn.co/image/ab67616d0000b27351aff1eea0b789ef30475adb",
       "spotify_url": "https://open.spotify.com/album/5PyzukTBcLUY3CWpHgg8LA",
-      "apple_music_url": "https://music.apple.com/us/album/sex-last-nite-single/6789652839?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=sex%20%5Blast%20nite%5D%20Lil%20Peep",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -776,7 +766,7 @@
       "release_date": "2026-07-17",
       "image": "https://i.scdn.co/image/ab67616d0000b27399f0c412a5d80626ae972cf4",
       "spotify_url": "https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136",
-      "apple_music_url": "https://music.apple.com/us/album/dead-fresh-single/6791695694?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Dead%20Fresh%20Lil%20Baby",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -786,7 +776,7 @@
       "release_date": "2026-07-17",
       "image": "https://i.scdn.co/image/ab67616d0000b273a83f37b039e8b63d42507981",
       "spotify_url": "https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB",
-      "apple_music_url": "https://music.apple.com/us/album/who-coppin/6791849225?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Who%20Coppin%20Larry%20June",
       "total_tracks": 16,
       "album_type": "album"
     },
@@ -796,7 +786,7 @@
       "release_date": "2026-07-17",
       "image": "https://i.scdn.co/image/ab67616d0000b273445c89cbe6e71600a7569033",
       "spotify_url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB",
-      "apple_music_url": "https://music.apple.com/us/album/set-in-stone/6791726183?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Set%20In%20Stone%20Rick%20Ross",
       "total_tracks": 19,
       "album_type": "album"
     },
@@ -826,7 +816,7 @@
       "release_date": "2026-07-17",
       "image": "https://i.scdn.co/image/ab67616d0000b273d3807e7731dd910f44a0969a",
       "spotify_url": "https://open.spotify.com/album/1tfcgb8NpdyWCT5c0b6tNj",
-      "apple_music_url": "https://music.apple.com/us/album/amnesia-notre-dame-harry-kaze-remix-single/6785835358?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Amnesia%20%28Notre%20Dame%20%26%20Harry%20Kaze%20Remix%29%20S%C3%A9bastien%20Tellier",
       "total_tracks": 2,
       "album_type": "single"
     },
@@ -876,7 +866,7 @@
       "release_date": "2026-07-10",
       "image": "https://i.scdn.co/image/ab67616d0000b273df903bd6c26ceb016ed15459",
       "spotify_url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d",
-      "apple_music_url": "https://music.apple.com/us/album/temptation-single/6786042266?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Temptation%20HUGEL",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -926,7 +916,7 @@
       "release_date": "2026-07-09",
       "image": "https://i.scdn.co/image/ab67616d0000b2737c1158d07a9caa5989d5e2e6",
       "spotify_url": "https://open.spotify.com/album/4rGIIT5bE191oJJgm5Vmj6",
-      "apple_music_url": "https://music.apple.com/us/album/big-little-lies-single/6801192947?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=BIG%20LITTLE%20LIES%20Sango",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -949,16 +939,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=DUET%20Sango",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "so then (feat. Ty Dolla $ign)",
-      "artists": "Naisha, Ty Dolla $ign",
-      "release_date": "2026-07-01",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dfa7a50ce299fa92f8b04c7a",
-      "spotify_url": "https://open.spotify.com/album/6MC1iM1BkHZbhdzgqDVoRj",
-      "apple_music_url": "https://music.apple.com/us/search?term=so%20then%20Naisha",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -968,7 +948,7 @@
       "release_date": "2026-08-21",
       "image": "https://i.scdn.co/image/ab67616d0000b2735b7bf6dd91a34d2fe55a679c",
       "spotify_url": "https://open.spotify.com/album/4vV3soJyvhbQBNsCKgeq4R",
-      "apple_music_url": "https://music.apple.com/us/album/teenage-sex-and-death-at-camp-miasma-soundtrack-score/6803240167?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Teenage%20Sex%20and%20Death%20at%20Camp%20Miasma%20%28Soundtrack%20Score%20Selections%29%20Alex%20G",
       "total_tracks": 9,
       "album_type": "album"
     },
@@ -978,7 +958,7 @@
       "release_date": "2026-08-14",
       "image": "https://i.scdn.co/image/ab67616d0000b273af96e01c5fffd8c2183df057",
       "spotify_url": "https://open.spotify.com/album/50AYDE2EHtdousV5nZ4S17",
-      "apple_music_url": "https://music.apple.com/us/album/pain-is-the-heart-of-love-feat-paul-buchanan-single/6800951191?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Pain%20is%20the%20Heart%20of%20Love%20Alex%20G",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -995,12 +975,324 @@
   ],
   "news": [
     {
-      "title": "Lil Nas X Reveals Mother\u2019s Death Amid Sobriety Journey: \u2018This One\u2019s Gonna\u00a0Hurt\u2019",
-      "link": "https://www.billboard.com/music/music-news/lil-nas-x-mother-death-tribute-1236328150/",
+      "title": "Karen O Misses Daisy Chain Fields Appearance Due to \u2018Family Emergency\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/karen-o-misses-daisy-chain-fields-family-emergency-1235618039/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-08-30 19:25",
+      "summary": "\"Very sad to miss such a herstoric music event, but I\u2019m where I\u2019m most needed, with family back east,\" Yeah Yeah Yeahs singer says after missing special guest spot during Olivia Rodrigo's set"
+    },
+    {
+      "title": "Yeah Yeah Yeahs\u2019 Karen O unable to perform at Daisy Chain Fields due to \u201cfamily emergency\u201d",
+      "link": "https://www.nme.com/news/music/yeah-yeah-yeahs-karen-o-unable-to-perform-at-daisy-chain-fields-due-to-family-emergency-3965848?utm_source=rss&utm_medium=rss&utm_campaign=yeah-yeah-yeahs-karen-o-unable-to-perform-at-daisy-chain-fields-due-to-family-emergency",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-30 18:59",
+      "summary": "\n\u201cVery sad to miss such a herstoric music event, but I\u2019m where I\u2019m most needed,\u201d she wrote\nThe post Yeah Yeah Yeahs\u2019 Karen O unable to perform at Daisy Chain Fields due to \u201cfamily emergency\u201d appeared ..."
+    },
+    {
+      "title": "Finneas Marries Claudia Sulewski in Ceremony Officiated by Billie\u00a0Eilish",
+      "link": "https://www.billboard.com/music/music-news/finneas-marries-claudia-sulewski-billie-eilish-officiates-1236328308/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-08-29 19:38",
-      "summary": "\u201cRIP TO THE BADDEST EVER!\" the rapper and singer wrote."
+      "published": "2026-08-30 18:37",
+      "summary": "The couple tied the knot in California after getting engaged in September 2025."
+    },
+    {
+      "title": "Viagra Boys reveal details of their \u2018emotional\u2019 new material at Reading 2026",
+      "link": "https://www.nme.com/news/music/viagra-boys-reading-new-material-viagr-aboys-interview-3965828?utm_source=rss&utm_medium=rss&utm_campaign=viagra-boys-reading-new-material-viagr-aboys-interview",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-30 18:03",
+      "summary": "\nThe band also reflected on their 2025 breakthrough album \u2018Viagr Aboys'\nThe post Viagra Boys reveal details of their \u2018emotional\u2019 new material at Reading 2026 appeared first on NME."
+    },
+    {
+      "title": "Lola Young tells Reading 2026 to \u201ctry not to give a fuck\u201d as she plays \u201csurprise\u201d set",
+      "link": "https://www.nme.com/news/music/lola-young-reading-2026-surprise-set-report-setlist-photos-3965805?utm_source=rss&utm_medium=rss&utm_campaign=lola-young-reading-2026-surprise-set-report-setlist-photos",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-30 17:49",
+      "summary": "\nThe singer announced her main stage performance just a few hours before taking to the stage \nThe post Lola Young tells Reading 2026 to \u201ctry not to give a fuck\u201d as she plays \u201csurprise\u201d set appeared fi..."
+    },
+    {
+      "title": "Loyle Carner takes aim at J.K. Rowling, \u201ctoxic masculinity bullshit\u201d and the far right during Reading 2026 set",
+      "link": "https://www.nme.com/news/music/loyle-carner-j-k-rowling-toxic-masculinity-bullshit-far-right-reading-2026-3965827?utm_source=rss&utm_medium=rss&utm_campaign=loyle-carner-j-k-rowling-toxic-masculinity-bullshit-far-right-reading-2026",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-30 17:47",
+      "summary": "\nThe rapper also called on the crowd to \u201cmake some noise for the NHS\u201d\nThe post Loyle Carner takes aim at J.K. Rowling, \u201ctoxic masculinity bullshit\u201d and the far right during Reading 2026 set appeared f..."
+    },
+    {
+      "title": "Dinosaur Jr. Announce 2027 Tour",
+      "link": "https://pitchfork.com/story/dinosaur-jr-announce-2027-tour/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-08-30 17:35",
+      "summary": "The North American run will feature support from Starcrawler"
+    },
+    {
+      "title": "Kacey Musgraves\u2019s Stage Literally Caught on Fire in Boston",
+      "link": "https://consequence.net/2026/08/kacey-musgraves-stage-fire-in-boston/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-30 17:35",
+      "summary": "The country singer joked that she had too much hairspray on for a fire at the TD Garden Arena.\nKacey Musgraves&#8217;s Stage Literally Caught on Fire in Boston\nTravis Bland"
+    },
+    {
+      "title": "Olivia Rodrigo\u2019s Daisy Chain Fields Showed the Power of a Girls-to-the-Front Festival",
+      "link": "https://consequence.net/2026/08/olivia-rodrigo-daisy-chain-fields-review/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-30 17:33",
+      "summary": "The inaugural festival brought together generations of women artists, raised $20 million for organizations supporting women and girls, and delivered one of the year's most communal festival experience..."
+    },
+    {
+      "title": "\u2018Remembering Dolly: A Rhinestone Life\u2019: Here\u2019s Where to Watch the Dolly Parton Tribute TV Special Online\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/dolly-parton-remembering-rhinestone-life-watch-online-free-1236326627/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-30 16:54",
+      "summary": "The special pays tribute to Parton's life and music legacy \u2014\u00a0it broadcasts coast-to-coast on Aug. 30."
+    },
+    {
+      "title": "Chris Hansen Contemplating Legal Action Against Primetime Makers",
+      "link": "https://consequence.net/2026/08/chris-hansen-contemplating-legal-action-against-primetime-makers/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-30 16:53",
+      "summary": "The To Catch a Predator host said he was told he has a \"decent case\" against the A24 film.\nChris Hansen Contemplating Legal Action Against Primetime Makers\nTravis Bland"
+    },
+    {
+      "title": "Neighbourhood Weekender 2027 line-up announced with Paul Heaton, Courteeners, Reytons and loads more",
+      "link": "https://www.nme.com/news/music/neighbourhood-weekender-2027-line-up-paul-heaton-courteeners-reytons-more-3965822?utm_source=rss&utm_medium=rss&utm_campaign=neighbourhood-weekender-2027-line-up-paul-heaton-courteeners-reytons-more",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-30 16:53",
+      "summary": "\nRick Astley will play a special hometown set, while there will also be a Ha\u00e7ienda Presents takeover\nThe post Neighbourhood Weekender 2027 line-up announced with Paul Heaton, Courteeners, Reytons and ..."
+    },
+    {
+      "title": "Dolly Parton Honored at Grand Ole Opry Tribute With Carly Pearce, Jelly Roll &\u00a0More",
+      "link": "https://www.billboard.com/music/country/dolly-parton-grand-ole-opry-tribute-carly-pearce-jelly-roll-1236328293/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-30 16:47",
+      "summary": "The Nashville landmark dedicated its Saturday night show to celebrating the life and legacy of the late country icon."
+    },
+    {
+      "title": "Drummer Zak Starkey Is Back in The Who After Messy Firing",
+      "link": "https://consequence.net/2026/08/zak-starkey-back-in-the-who/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-30 16:29",
+      "summary": "The drummer will join The Who as they embark on the rest of their farewell tour.\nDrummer Zak Starkey Is Back in The Who After Messy Firing\nSpencer Kaufman"
+    },
+    {
+      "title": "Brann Dailor Explains Why Mastodon Called New Album 'Marrow Deep'",
+      "link": "https://loudwire.com/mastodon-new-album-title-marrow-deep-brann-dailor-explains/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-08-30 16:14",
+      "summary": "Scott Legato, Getty Images / Mastodon / Loma Vista Recordings"
+    },
+    {
+      "title": "Tyler, The Creator says crowd for night one of his All Points East takeover were \u201cfucking dead\u201d",
+      "link": "https://www.nme.com/news/music/tyler-the-creator-crowd-night-one-all-points-east-fucking-dead-3965817?utm_source=rss&utm_medium=rss&utm_campaign=tyler-the-creator-crowd-night-one-all-points-east-fucking-dead",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-30 16:10",
+      "summary": "\nThe rapper thanked the audience on his second night for \u201clifting my spirits up\u201d\nThe post Tyler, The Creator says crowd for night one of his All Points East takeover were \u201cfucking dead\u201d appeared first..."
+    },
+    {
+      "title": "Woman Steals Ambulance Outside Avenged Sevenfold, Good Charlotte Concert, Crashes, Police Say",
+      "link": "https://consequence.net/2026/08/ambulance-theft-avenged-sevenfold-good-charlotte/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-30 15:49",
+      "summary": "According to police, the woman took the ambulance after it was called for service at the concert.\nWoman Steals Ambulance Outside Avenged Sevenfold, Good Charlotte Concert, Crashes, Police Say\nTravis B..."
+    },
+    {
+      "title": "Watch Courteeners spread the love at massive Manchester Wythenshawe Park gig",
+      "link": "https://www.nme.com/news/music/watch-courteeners-spread-the-love-at-massive-manchester-wythenshawe-park-gig-3965806?utm_source=rss&utm_medium=rss&utm_campaign=watch-courteeners-spread-the-love-at-massive-manchester-wythenshawe-park-gig",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-30 15:37",
+      "summary": "\n\"Never, ever, ever in our wildest dreams did we think we\u2019d be playing a crowd this big!\u201d\nThe post Watch Courteeners spread the love at massive Manchester Wythenshawe Park gig appeared first on NME."
+    },
+    {
+      "title": "Every Song That Topped the U.K. Chart for 8 or More Weeks, But Didn\u2019t Make the Top 10 on the Hot\u00a0100",
+      "link": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-30 15:36",
+      "summary": "\"Rein Me In\u201d by Sam Fender and Olivia Dean is the first single to log 23 weeks at No. 1 in the U.K. It hasn't even made the top 40 on the Hot 100, but it's closing in."
+    },
+    {
+      "title": "Olivia Rodrigo\u2019s Daisy Chain Fields Donation Reaches $20 Million After Melinda French Gates\u00a0Match",
+      "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-daisy-chain-fields-donation-melinda-gates-1236328282/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-30 15:35",
+      "summary": "\"What Daisy Chain Fields sets in motion will last far beyond a single night,\" the philanthropist said."
+    },
+    {
+      "title": "Absolutely talks sharing the line-up with sisters RAYE and Amma at Reading 2026",
+      "link": "https://www.nme.com/features/music-interviews/absolutely-raye-amma-reading-leeds-festival-2026-paracosm-3965797?utm_source=rss&utm_medium=rss&utm_campaign=absolutely-raye-amma-reading-leeds-festival-2026-paracosm",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-30 15:28",
+      "summary": "\nThe experimental pop artist was interviewed backstage at the festival\nThe post Absolutely talks sharing the line-up with sisters RAYE and Amma at Reading 2026 appeared first on NME."
+    },
+    {
+      "title": "Watch Olivia Rodrigo Sing  \u201cLandslide\u201d with Stevie Nicks at Daisy Chain Fields",
+      "link": "https://pitchfork.com/story/watch-olivia-rodrigo-sing-landslide-with-stevie-nicks-at-daisy-chain-fields/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-08-30 15:06",
+      "summary": "She also brought out Alanis Morissette and Sarah McLachlan during a headlining set at her new music festival"
+    },
+    {
+      "title": "Hearts2Hearts\u2019 \u2018ICONIC HEART\u2019 Records Highest First-Week Sales Among 5th-Gen K-Pop Girl Group Japanese\u00a0Debuts",
+      "link": "https://www.billboard.com/music/chart-beat/hearts2hearts-iconic-heart-billboard-japan-chart-debut-1236327893/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-30 15:00",
+      "summary": "The title track \"ICONIC HEART\" also entered the Billboard Japan Hot 100 at No. 2."
+    },
+    {
+      "title": "Bad Wolves Kicked Off Skillet Tour, Guitarist Departs Over Label\u2019s Decision to Release Dolly Parton Cover",
+      "link": "https://consequence.net/2026/08/bad-wolves-guitarist-leaves-and-kicked-off-tour/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-30 14:42",
+      "summary": "The \"Jolene\" cover comes out August 31st against the metal band's wishes, now-departed guitarist AJ Rebollo said, while their singer claimed Skillet fan speculation got them booted from a tour.\nBad Wo..."
+    },
+    {
+      "title": "Shinedown's Brent Smith Honors 'Extraordinary' Dolly Parton",
+      "link": "https://loudwire.com/shinedown-brent-smith-dolly-parton/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-08-30 14:41",
+      "summary": "Aaron J. Thornton, Getty Images / Terry Wyatt, Getty Images"
+    },
+    {
+      "title": "Olivia Rodrigo\u2019s Daisy Chain Fields Raises $20 Million and Counting for Women and Girls Charities",
+      "link": "https://consequence.net/2026/08/olivia-rodrigos-daisy-chain-field-raises-20-million-charity/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-30 14:01",
+      "summary": "Melinda French Gates matched the festival's initial donation of $10 million.\nOlivia Rodrigo&#8217;s Daisy Chain Fields Raises $20 Million and Counting for Women and Girls Charities\nAlex Young"
+    },
+    {
+      "title": "What Do All the Colors Mean? Decoding Taylor Swift\u2019s Next Move",
+      "link": "https://www.rollingstone.com/music/music-news/taylor-swift-color-theory-explained-new-music-1235617057/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-08-30 14:00",
+      "summary": "Here are all the fans theories making the rounds"
+    },
+    {
+      "title": "Keo open up about debut album \u2018Put A Smile On For Me\u2019 at Reading 2026",
+      "link": "https://www.nme.com/news/music/keo-debut-album-put-a-smile-on-for-me-reading-festival-2026-3965785?utm_source=rss&utm_medium=rss&utm_campaign=keo-debut-album-put-a-smile-on-for-me-reading-festival-2026",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-30 13:53",
+      "summary": "\n\u201cIt\u2019s not perfect \u2013 at all \u2013 but I like the edge it has\u201d\nThe post Keo open up about debut album \u2018Put A Smile On For Me\u2019 at Reading 2026 appeared first on NME."
+    },
+    {
+      "title": "Young Thug Drops Slime Language 3 With Future and Veeze",
+      "link": "https://pitchfork.com/story/young-thug-drops-slime-language-3-with-future-and-veeze/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-08-30 13:41",
+      "summary": "Cash Cobain, Lil Baby, Tezzus, and diamond* also feature on the latest Young Stoner Life compilation"
+    },
+    {
+      "title": "Olivia Rodrigo Joined by Stevie Nicks, Sarah McLachlan, Alanis Morissette at Daisy Chain Fields",
+      "link": "https://consequence.net/2026/08/olivia-rodrigo-daisy-chain-fields-stevie-nicks-sarah-mclachlan-alanis-morissette/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-08-30 13:16",
+      "summary": "The one-day festival featured Rodrigo performing \"Landslide\" with Nicks, \"Ironic\" with Morissette, and \"Building a Mystery\" with McLachlan.\nOlivia Rodrigo Joined by Stevie Nicks, Sarah McLachlan, Alan..."
+    },
+    {
+      "title": "Pete Doherty tells us about the Babyshambles reunion, The Libertines\u2019 next album, and plans to open a second-hand shop",
+      "link": "https://www.nme.com/news/music/pete-doherty-interview-babyshambles-future-libertines-new-album-shop-3965780?utm_source=rss&utm_medium=rss&utm_campaign=pete-doherty-interview-babyshambles-future-libertines-new-album-shop",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-08-30 13:16",
+      "summary": "\nThe frontman talks playing without Pat Walden, how the 'Shambles are feeling \"armed and dangerous\", and \"a really interesting idea\" unfolding with The Libertines\nThe post Pete Doherty tells us about ..."
+    },
+    {
+      "title": "Melinda French Gates Doubles Olivia Rodrigo\u2019s Daisy Chain Fields Donation to $20 Million",
+      "link": "https://www.rollingstone.com/music/music-news/melinda-french-gates-doubles-olivia-rodrigo-donation-1235617839/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-08-30 13:15",
+      "summary": "\"What Daisy Chain Fields sets in motion will last far beyond a single night,\" philanthropist says in statement"
+    },
+    {
+      "title": "Olivia Rodrigo\u2019s Daisy Chain Fields Music Festival Proves There Is Hope For Us All: 13 Best\u00a0Moments",
+      "link": "https://www.billboard.com/lists/olivia-rodrigo-daisy-chain-fields-music-festival-recap/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-30 11:16",
+      "summary": "Inside the inaugural all-women festival founded and headlined by the pop superstar."
+    },
+    {
+      "title": "Olivia Rodrigo Shines With Stevie Nicks, Sarah McLachlan, Alanis Morissette at Daisy Chain",
+      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-stevie-nicks-sarah-mclachlan-alanis-perform-1235614614/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-08-30 08:48",
+      "summary": "Rodrigo capped her inaugural all-women festival with a stunning headlining set \u2014 and invited her heroes to the stage"
+    },
+    {
+      "title": "Iron Maiden Launch 2026 North American Tour - Photos, Setlist",
+      "link": "https://loudwire.com/iron-maiden-setlist-north-america-2026/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-08-30 08:32",
+      "summary": "Jeremy Chan, Getty Images"
+    },
+    {
+      "title": "Olivia Rodrigo Recruits Alanis Morissette for a Surprise \u2018Ironic\u2019 Duet",
+      "link": "https://www.billboard.com/music/pop/olivia-rodrigo-alanis-morissette-rework-ironic-daisy-chain-fields-1236328211/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-30 08:07",
+      "summary": "Rodrigo welcomed Morissette, and the two launched into \"Ironic,\" the enduring single from Morissette's 1995 landmark Jagged Little Pill."
+    },
+    {
+      "title": "Harry Styles Jokes About Taylor Swift\u2019s MSG Wedding During Residency\u00a0Show",
+      "link": "https://www.billboard.com/music/pop/harry-styles-taylor-swift-wedding-msg-residency-show-1236328209/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-30 06:55",
+      "summary": "The singer name-checked the Knicks' championship and his ex's wedding in the same breath at his third Madison Square Garden date."
+    },
+    {
+      "title": "KATSEYE Makes Brief Daisy Chain Fields Festival Appearance After Canceling\u00a0Performance",
+      "link": "https://www.billboard.com/music/music-news/katseye-daisy-chain-without-megan-devon-again-1236328192/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-08-29 23:59",
+      "summary": "Three members of KATSEYE appeared on stage on Saturday (Aug. 29) even though Megan's injury forced the group to exit the fest's official lineup."
+    },
+    {
+      "title": "All My Weezer Ratings So Far",
+      "link": "https://www.youtube.com/shorts/5ik8j-ozJtk",
+      "source": "The Needle Drop",
+      "category": "general",
+      "published": "2026-08-29 20:46",
+      "summary": "#music #weezer #review"
+    },
+    {
+      "title": "See Kacey Musgraves Cover Dolly Parton\u2019s \u2018Here You Come Again\u2019 in Boston",
+      "link": "https://www.rollingstone.com/music/music-news/kacey-musgrave-dolly-parton-here-you-come-again-boston-1235617792/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-08-29 19:55",
+      "summary": "Singer also dedicated \"Rainbow\" to the late country icon, revealing that Parton was the inspiration behind the song"
     },
     {
       "title": "Black Marble - Life in Small Spaces ALBUM REVIEW",
@@ -1008,39 +1300,7 @@
       "source": "The Needle Drop",
       "category": "general",
       "published": "2026-08-29 19:32",
-      "summary": "Listen: https://blackmarble.bandcamp.com/album/life-in-small-spaces\n\nBlack Marble's first album in five years is pretty solid.\n\nReview by Annie Is Undead: https://www.tiktok.com/@annieisundead\n\nMore r..."
-    },
-    {
-      "title": "It looks like The Who are re-hiring Zak Starkey after acrimonious split",
-      "link": "https://www.nme.com/news/music/the-who-re-hiring-zak-starkey-after-acrimonious-split-3965635?utm_source=rss&utm_medium=rss&utm_campaign=the-who-re-hiring-zak-starkey-after-acrimonious-split",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-29 19:30",
-      "summary": "\nThe drummer has rehearsed with the band ahead of a possible European tour\nThe post It looks like The Who are re-hiring Zak Starkey after acrimonious split appeared first on NME."
-    },
-    {
-      "title": "Watch Slayyyter walk Sombr from an ambulance stretcher to the stage at Reading 2026",
-      "link": "https://www.nme.com/news/music/watch-slayyyter-walk-sombr-from-an-ambulance-stretcher-to-the-stage-at-reading-2026-3965622?utm_source=rss&utm_medium=rss&utm_campaign=watch-slayyyter-walk-sombr-from-an-ambulance-stretcher-to-the-stage-at-reading-2026",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-29 18:32",
-      "summary": "\nThe pair stopped to do press-ups during the theatrical entrance, before Sombr played to one of the weekend\u2019s biggest crowds so far\nThe post Watch Slayyyter walk Sombr from an ambulance stretcher to t..."
-    },
-    {
-      "title": "Royal Blood talk new album \u2018Dead Company\u2019 at Reading 2026: \u201cIt\u2019s pretty relentless\u201d",
-      "link": "https://www.nme.com/news/music/royal-blood-interview-new-album-dead-company-reading-2026-3965597?utm_source=rss&utm_medium=rss&utm_campaign=royal-blood-interview-new-album-dead-company-reading-2026",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-29 18:30",
-      "summary": "\nRoyal Blood spoke to NME backstage at Reading 2026 about their upcoming album \u2018Dead Company\u2019, and reflected on their debut appearance at the festival back in 2014. The Worthing-formed band, comprised..."
-    },
-    {
-      "title": "Tim McGraw Pokes Fun at Himself After Onstage Fall at Cincinnati\u00a0Concert",
-      "link": "https://www.billboard.com/music/country/tim-mcgraw-falls-onstage-cincinnati-concert-1236328143/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-29 18:26",
-      "summary": "\u201cCincinnati, you started our weekend off on the right foot even if I couldn\u2019t stay on mine,\u201d the country star joked."
+      "summary": "Listen: https://blackmarble.bandcamp.com/album/life-in-small-spaces\n\nBlack Marble's first album in five years is pretty solid.\n\nReview by Annie Is Undead: https://www.tiktok.com/@annieisundead\nhttps:/..."
     },
     {
       "title": "Tom Hardy Revives His Bane Voice on New Joint Czarface Album",
@@ -1051,22 +1311,6 @@
       "summary": "Released under Hardy's Frankie Pulitzer alias, the album features Busta Rhymes, Method Man, El-P, and Kendra Morris.\nTom Hardy Revives His Bane Voice on New Joint Czarface Album\nAlex Krinsky"
     },
     {
-      "title": "Watch Faye Webster join Turnstile for \u2018I Care\u2019 live at London\u2019s All Points East 2026",
-      "link": "https://www.nme.com/news/music/watch-faye-webster-turnstile-i-care-all-points-east-2026-3965615?utm_source=rss&utm_medium=rss&utm_campaign=watch-faye-webster-turnstile-i-care-all-points-east-2026",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-29 17:42",
-      "summary": "\nThe hardcore band also covered The Stone Roses' 'I Wanna Be Adored' at the festival\nThe post Watch Faye Webster join Turnstile for \u2018I Care\u2019 live at London\u2019s All Points East 2026 appeared first on NME..."
-    },
-    {
-      "title": "Nashville Airport to Be Renamed for Dolly Parton, Tennessee Governor\u00a0Announces",
-      "link": "https://www.billboard.com/music/music-news/nashville-airport-dolly-parton-renamed-1236328139/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-29 17:19",
-      "summary": "The news comes just days after the iconic singer\u2019s passing."
-    },
-    {
       "title": "Kacey Musgraves Honors Dolly Parton with Two-Song Tribute in Boston",
       "link": "https://consequence.net/2026/08/kacey-musgraves-honors-dolly-parton-with-two-song-tribute-in-boston/",
       "source": "Consequence",
@@ -1075,44 +1319,12 @@
       "summary": "Musgraves paired the songs with a slideshow and reflected on Parton's generosity, humanitarian work, and legacy beyond music.\nKacey Musgraves Honors Dolly Parton with Two-Song Tribute in Boston\nAlex K..."
     },
     {
-      "title": "Watch David and Victoria Beckham support son Cruz from side of stage at Reading 2026",
-      "link": "https://www.nme.com/news/music/watch-david-and-victoria-beckham-support-son-cruz-from-side-of-stage-at-reading-2026-3965606?utm_source=rss&utm_medium=rss&utm_campaign=watch-david-and-victoria-beckham-support-son-cruz-from-side-of-stage-at-reading-2026",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-29 16:56",
-      "summary": "\nThe musician performed on the new Canopy stage, which some fans have nicknamed the \u201cnepo baby stage\u201d\nThe post Watch David and Victoria Beckham support son Cruz from side of stage at Reading 2026 appe..."
-    },
-    {
-      "title": "Watch Maisie Peters cover Dolly Parton\u2019s \u2018Here You Come Again\u2019 at Reading 2026",
-      "link": "https://www.nme.com/news/music/watch-maisie-peters-cover-dolly-parton-here-you-come-again-reading-2026-3965600?utm_source=rss&utm_medium=rss&utm_campaign=watch-maisie-peters-cover-dolly-parton-here-you-come-again-reading-2026",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-29 16:15",
-      "summary": "\nThe singer paid tribute to the country icon, who died earlier this week aged 80\nThe post Watch Maisie Peters cover Dolly Parton\u2019s \u2018Here You Come Again\u2019 at Reading 2026 appeared first on NME."
-    },
-    {
       "title": "Stella Lefty Credits The Chicks on Another Familiar-Sounding Song",
       "link": "https://consequence.net/2026/08/stella-lefty-credits-the-chicks-on-another-familiar-song/",
       "source": "Consequence",
       "category": "general",
       "published": "2026-08-29 16:01",
       "summary": "The songwriting chatter comes just after Noah Kahan received a credit on \"Boston,\" while resurfaced videos showed Lefty repeatedly covering \"Stick Season\" before her breakout.\nStella Lefty Credits The..."
-    },
-    {
-      "title": "Shame announce hiatus after final \u2018Cutthroat\u2019 shows: \u201cThis is by no means a goodbye\u201d",
-      "link": "https://www.nme.com/news/music/shame-announce-hiatus-after-final-cutthroat-shows-this-is-by-no-means-a-goodbye-3965593?utm_source=rss&utm_medium=rss&utm_campaign=shame-announce-hiatus-after-final-cutthroat-shows-this-is-by-no-means-a-goodbye",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-29 15:36",
-      "summary": "\nThe band have promised to return \u201cbadder and better than ever\u201d\nThe post Shame announce hiatus after final \u2018Cutthroat\u2019 shows: \u201cThis is by no means a goodbye\u201d appeared first on NME."
-    },
-    {
-      "title": "Charli xcx Makes a Striking Statement With Reading Festival Headline Set: 5 Best\u00a0Moments",
-      "link": "https://www.billboard.com/lists/charli-xcx-reading-festival-2026-best-moments/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-29 15:13",
-      "summary": "Charli gave her first U.K. performance since the release of her eighth studio album Music, Fashion, Film."
     },
     {
       "title": "Bad Wolves Guitarist Quits Band Over Dolly Parton Cover",
@@ -1129,30 +1341,6 @@
       "category": "general",
       "published": "2026-08-29 15:06",
       "summary": "First introduced during the \"GUTS World Tour,\" the affordable-ticket program keeps seat locations secret until fans pick them up at the venue.\nOlivia Rodrigo Brings Back $25 Silver Star Tickets for &#..."
-    },
-    {
-      "title": "Tyler, The Creator, Turnstile and Clipse Conquer London\u2019s All Points East: 7 Best\u00a0Moments",
-      "link": "https://www.billboard.com/lists/tyler-the-creator-best-moments-all-points-east/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-29 14:55",
-      "summary": "The show was the first of two headline performances at London's All Points East festival"
-    },
-    {
-      "title": "Juanes, Alejandro Sanz & More Launch Marea Viva to Rebuild Choc\u00f3 After Earthquake & More Uplifting\u00a0Moments",
-      "link": "https://www.billboard.com/music/latin/juanes-choco-relief-juan-gabriel-tribute-mon-laferte-tour-1236327727/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-29 14:00",
-      "summary": "Plus, Amazon Music honors Juan Gabriel\u2019s legacy, and Eladio Carri\u00f3n earns the Hispanic Heritage Foundation\u2019s Inspira Award."
-    },
-    {
-      "title": "Cardinals tell us about progress on their \u201cdarker\u201d next album at Reading 2026",
-      "link": "https://www.nme.com/news/music/cardinals-interview-reading-2026-new-material-darker-fontaines-3965569?utm_source=rss&utm_medium=rss&utm_campaign=cardinals-interview-reading-2026-new-material-darker-fontaines",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-29 13:59",
-      "summary": "\n\"It\u2019s not going to be a black metal record or an electronic record but there might be some more influences leaning different ways\"\nThe post Cardinals tell us about progress on their &#8220;darker&#82..."
     },
     {
       "title": "Setlist - Twisted Sister Play First Show With Sebastian Bach",
@@ -1179,221 +1367,13 @@
       "summary": "Megaforce, \u2117 2026 Metal Blade Records, Virgin Music Group, \u2117 2026 Nuclear Blast, BMG"
     },
     {
-      "title": "Watch Sombr team up with The Cranberries to cover \u2018Zombie\u2019 at Electric Picnic in Ireland",
-      "link": "https://www.nme.com/news/music/watch-sombr-team-up-with-the-cranberries-to-cover-zombie-at-electric-picnic-in-ireland-3965543?utm_source=rss&utm_medium=rss&utm_campaign=watch-sombr-team-up-with-the-cranberries-to-cover-zombie-at-electric-picnic-in-ireland",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-29 10:41",
-      "summary": "\nIt marked the second time they've joined forces onstage\nThe post Watch Sombr team up with The Cranberries to cover &#8216;Zombie&#8217; at Electric Picnic in Ireland appeared first on NME."
-    },
-    {
-      "title": "Taylor Swift donates $50,000 to help mother hit by car",
-      "link": "https://www.nme.com/news/music/taylor-swift-donates-to-help-mother-hit-by-car-3965433?utm_source=rss&utm_medium=rss&utm_campaign=taylor-swift-donates-to-help-mother-hit-by-car",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-08-29 10:30",
-      "summary": "\nThe victim was injured while trying to assist someone else\nThe post Taylor Swift donates $50,000 to help mother hit by car appeared first on NME."
-    },
-    {
-      "title": "Taylor Swift Donates $50,000 to Rhode Island Good Samaritan Struck by\u00a0Car",
-      "link": "https://www.billboard.com/music/pop/taylor-swift-donates-50000-rhode-island-woman-struck-by-car-1236328085/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-29 07:44",
-      "summary": "Ashley Taunton was seriously injured after stopping to help teens involved in a hydroplaning accident on I-95."
-    },
-    {
-      "title": "Ed Sheeran Reacts to Being Mocked in New \u2018Ali G\u2019\u00a0Trailer",
-      "link": "https://www.billboard.com/music/pop/ed-sheeran-ali-g-trailer-1236328081/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-29 06:52",
-      "summary": "Sacha Baron Cohen's comeback trailer named the singer alongside COVID and war as reasons the world got worse."
-    },
-    {
       "title": "Watch Bruce Springsteen and Bleachers Reunite to Sing \u2018Jersey Girl\u2019 and \u2018Chinatown\u2019 in Asbury Park",
       "link": "https://www.rollingstone.com/music/music-news/bruce-springsteen-bleachers-perform-jersey-girl-chinatown-1235617724/",
       "source": "Rolling Stone",
       "category": "general",
       "published": "2026-08-29 05:22",
       "summary": "The duo last performed \"Chinatown\" live in 2020"
-    },
-    {
-      "title": "Taylor Swift Donates $50k to Help Mother Struck by Car",
-      "link": "https://www.rollingstone.com/music/music-news/taylor-swift-donates-50k-mother-hit-by-car-1235617716/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-08-29 02:28",
-      "summary": "The superstar donated to a GoFundMe launched to help Ashley Taunton, who was hit by a vehicle while helping others on the side of a road"
-    },
-    {
-      "title": "Are These Albums Overrated \ud83e\udd14",
-      "link": "https://www.youtube.com/shorts/8z0-VHqqTOg",
-      "source": "The Needle Drop",
-      "category": "general",
-      "published": "2026-08-29 01:12",
-      "summary": "#music #overrated #underrated"
-    },
-    {
-      "title": "Young Thug\u2019s YSL Records Surprise-Drops \u2018Slime Language 3\u2019 Double\u00a0Album",
-      "link": "https://www.billboard.com/music/rb-hip-hop/young-thug-ysl-slime-language-3-double-album-surprise-1236328050/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-29 01:00",
-      "summary": "The 41-track project, released late Friday, includes appearances from Lil Baby, Travis Scott, Future, Yeat, Trippie Redd, Cash Cobain &#38; more."
-    },
-    {
-      "title": "Cardi B Says \u2018AH HA\u2019 Music Video Cost More Than $1M, Claims She Was \u2018Overcharged\u2019 by NYPD for Permits: \u2018They Was Doing Too\u00a0Much\u2019",
-      "link": "https://www.billboard.com/music/rb-hip-hop/cardi-b-ah-ha-music-video-1-million-nypd-permits-1236328019/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-08-29 00:21",
-      "summary": "Cardi shot the twerk-filled visual in Brooklyn."
-    },
-    {
-      "title": "Stella Lefty Interpolates the Chicks\u2019 \u2018There\u2018s Your Trouble\u2019 on New Album",
-      "link": "https://www.rollingstone.com/music/music-news/stella-lefty-credit-the-chicks-summer-you-were-mine-1235616587/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-08-28 22:53",
-      "summary": "A rep for Lefty confirmed to Rolling Stone that \u201cSummer You Were Mine\u201c interpolates the Grammy-winning song after fans noticed similarities between the two tracks"
-    },
-    {
-      "title": "No, Ice Spice Is Not Pregnant",
-      "link": "https://www.rollingstone.com/music/music-news/ice-spice-not-pregnant-out-my-face-music-video-1235617619/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-08-28 22:49",
-      "summary": "After the rapper appeared to be heavily pregnant in the video for \"Out My Face,\" fans took the imagery literally"
-    },
-    {
-      "title": "See All the Rappers Touring in 2026",
-      "link": "https://www.xxlmag.com/rappers-touring-2026/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-08-28 22:47",
-      "summary": "dwphotos/Ethan Miller/Jemal Countess/Paras Griffin/Bennett Raglin/iStock/Getty Images (5)"
-    },
-    {
-      "title": "Lil Durk Murder-for-Hire Trial: Admitted Shooter Grilled on Cross, Confronted With Jail Calls",
-      "link": "https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-trial-shooter-grilled-jail-calls-1235617554/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-08-28 22:19",
-      "summary": "Defense lawyer Brian Steel asserted that Kasey \u201cOTF Jam\u201d Hester invented claims against the \u201cAll My Life\u201d rapper in the hopes of helping himself"
-    },
-    {
-      "title": "Everything We Know About Grand Theft Auto VI (Updating)",
-      "link": "https://consequence.net/2026/08/gta-6-everything-we-know/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-28 22:02",
-      "summary": "All the details we know before it arrives on November 19th.\nEverything We Know About Grand Theft Auto VI (Updating)\nEddie Fu"
-    },
-    {
-      "title": "Hip-Hop Shows Up for Lil Durk During His Murder-for-Hire Trial",
-      "link": "https://www.xxlmag.com/lil-durk-trial-hip-hop-support/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-08-28 21:46",
-      "summary": "Julia Beverly/Gregory Shamus/Johnny Nunez/Getty Images (3)/Prince Williams/FilmMagic/X17onlineVideo/YouTube"
-    },
-    {
-      "title": "Olivia Rodrigo\u2019s Daisy Chain Fields Festival Raises $10 Million for Women and Girls Nonprofits",
-      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-daisy-chain-festival-donates-10-million-1235617591/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-08-28 21:03",
-      "summary": "Proceeds from the festival will benefit organizations including National Domestic Workers Alliance, Planned Parenthood, National Institute for Reproductive Health, and more"
-    },
-    {
-      "title": "Iron Maiden\u2019s 2026 North American Tour: How to Get Last-Minute Tickets",
-      "link": "https://consequence.net/2026/08/iron-maiden-2026-north-american-tour-how-to-get-last-minute-tickets/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-28 20:59",
-      "summary": "The outing features support from Megadeth and Anthrax.\nIron Maiden&#8217;s 2026 North American Tour: How to Get Last-Minute Tickets\nSpencer Kaufman"
-    },
-    {
-      "title": "Tennessee Gov. Officially Proposes Naming Nashville Airport After Dolly Parton",
-      "link": "https://consequence.net/2026/08/dolly-parton-airport-proposal-nashville/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-28 20:36",
-      "summary": "A fan petition calling for the airport's renaming has amassed more than 150,000 signatures.\nTennessee Gov. Officially Proposes Naming Nashville Airport After Dolly Parton\nAlex Young"
-    },
-    {
-      "title": "Inside Rewind, Goodwill's New Vinyl And Vintage Music Shop",
-      "link": "https://loudwire.com/goodwill-record-store-rewind/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-08-28 20:28",
-      "summary": "Getty Images"
-    },
-    {
-      "title": "The Offspring Unleash Cover of Ramones Classic \u201cI Wanna Be Sedated\u201d: Stream",
-      "link": "https://consequence.net/2026/08/the-offspring-cover-ramones-i-wanna-be-sedated/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-28 20:00",
-      "summary": "Hear The Offspring's take on the iconic punk song.\nThe Offspring Unleash Cover of Ramones Classic &#8220;I Wanna Be Sedated&#8221;: Stream\nSpencer Kaufman"
-    },
-    {
-      "title": "Mac DeMarco Releases Four New Albums",
-      "link": "https://pitchfork.com/story/mac-demarco-releases-four-new-albums/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-08-28 19:24",
-      "summary": "The projects were originally issued as physical-only CD-Rs on tour"
-    },
-    {
-      "title": "Watch Cardi B Have a Very New York Summer in \u201cAh Ha\u201d Video",
-      "link": "https://pitchfork.com/story/cardi-b-new-song-ah-ha/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-08-28 19:07",
-      "summary": "It\u2019s her first single since 2025\u2019s Am I the Drama?"
-    },
-    {
-      "title": "AP A-sides: 10 songs you need to hear",
-      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-august-28-2026/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-08-28 18:56",
-      "summary": "Our favorite new songs, updated weekly."
-    },
-    {
-      "title": "Maluma Says Becoming a Father Changed How He Approaches His Career: \u201cI\u2019m Making Music Because I Love Creating Art\u201d",
-      "link": "https://consequence.net/2026/08/maluma-fatherhood-changed-approach-career/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-28 18:35",
-      "summary": "The Colombian singer is preparing to support Loco X Volver with a new world tour spanning 2027 and 2028.\nMaluma Says Becoming a Father Changed How He Approaches His Career: \u201cI\u2019m Making Music Because I..."
-    },
-    {
-      "title": "Ice Spice and Lil Yachty Link Up for New Song \u201cOut My Face (My Baby)\u201d",
-      "link": "https://pitchfork.com/story/ice-spice-and-lil-yachty-link-up-for-new-song-out-my-face-my-baby/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-08-28 18:30",
-      "summary": "The beat-switching track also gets a bifurcated video directed by Yachty himself"
-    },
-    {
-      "title": "Julianna Barwick and Mary Lattimore Share Songs From New Film Score",
-      "link": "https://pitchfork.com/story/julianna-barwick-and-mary-lattimore-shares-songs-from-new-film-score/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-08-28 18:17",
-      "summary": "The duo reunited for Threshold, a documentary about Olympic skier Jessie Diggins"
-    },
-    {
-      "title": "Scott Weiland Live Album To Be Released on CD and Digitally for First Time",
-      "link": "https://consequence.net/2026/08/scott-weiland-live-album-interstate-love-song/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-08-28 18:15",
-      "summary": "His performance of Stone Temple Pilots' \"Interstate Love Song\" can be viewed now.\nScott Weiland Live Album To Be Released on CD and Digitally for First Time\nLangdon Hickman"
     }
   ],
-  "last_updated": "2026-08-29T19:40:49.147055"
+  "last_updated": "2026-08-30T19:42:45.974987"
 }

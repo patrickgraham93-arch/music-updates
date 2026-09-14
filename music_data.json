@@ -121,22 +121,22 @@
       "album_type": "single"
     },
     {
-      "name": "Plain Jane",
-      "artists": "Don Diablo, A$AP Ferg",
-      "release_date": "2026-08-28",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aca2cabc67c0621eba610bff",
-      "spotify_url": "https://open.spotify.com/album/6PJTGldVmFPq7B9GVU5ROV",
-      "apple_music_url": "https://music.apple.com/us/album/plain-jane-remix-feat-nicki-minaj-single/1325899833?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Pretty Girls",
       "artists": "G-Eazy",
       "release_date": "2026-08-28",
       "image": "https://i.scdn.co/image/ab67616d0000b273e1dcbe25d201b330d9198ee9",
       "spotify_url": "https://open.spotify.com/album/4c3fFqg8NmPsbnZzZNVKrP",
       "apple_music_url": "https://music.apple.com/us/search?term=Pretty%20Girls%20G-Eazy",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Plain Jane",
+      "artists": "Don Diablo, A$AP Ferg",
+      "release_date": "2026-08-28",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aca2cabc67c0621eba610bff",
+      "spotify_url": "https://open.spotify.com/album/6PJTGldVmFPq7B9GVU5ROV",
+      "apple_music_url": "https://music.apple.com/us/album/plain-jane-remix-feat-nicki-minaj-single/1325899833?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -226,7 +226,7 @@
       "release_date": "2026-08-27",
       "image": "https://i.scdn.co/image/ab67616d0000b27314f3d27a0a593e815673a3ef",
       "spotify_url": "https://open.spotify.com/album/1jF4JA2tdv6QF1068AS3mV",
-      "apple_music_url": "https://music.apple.com/us/album/slime-language-3/6807231003?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Slime%20Language%203%3A%20Side%20B%20Young%20Stoner%20Life",
       "total_tracks": 20,
       "album_type": "album"
     },
@@ -371,16 +371,6 @@
       "album_type": "single"
     },
     {
-      "name": "God Gotta Afro & Gold Hoops",
-      "artists": "Rapsody",
-      "release_date": "2026-08-21",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a14e643189ec72ad53632618",
-      "spotify_url": "https://open.spotify.com/album/73NbJlEaRBWILRfCocwVL4",
-      "apple_music_url": "https://music.apple.com/us/search?term=God%20Gotta%20Afro%20%26%20Gold%20Hoops%20Rapsody",
-      "total_tracks": 16,
-      "album_type": "album"
-    },
-    {
       "name": "The Team",
       "artists": "Central Cee",
       "release_date": "2026-08-18",
@@ -426,7 +416,7 @@
       "release_date": "2026-08-14",
       "image": "https://i.scdn.co/image/ab67616d0000b273bf98872a1056f022b8377fd2",
       "spotify_url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ",
-      "apple_music_url": "https://music.apple.com/us/album/nda/6801396041?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=NDA%20Trippie%20Redd",
       "total_tracks": 25,
       "album_type": "album"
     },
@@ -446,7 +436,7 @@
       "release_date": "2026-08-14",
       "image": "https://i.scdn.co/image/ab67616d0000b2738eebf1743b94ce34c5d7be8c",
       "spotify_url": "https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40",
-      "apple_music_url": "https://music.apple.com/us/search?term=Trance%20%28Walk%20It%20Down%29%20Quavo",
+      "apple_music_url": "https://music.apple.com/us/album/trance-walk-it-down-single/6798030346?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -486,7 +476,7 @@
       "release_date": "2026-08-14",
       "image": "https://i.scdn.co/image/ab67616d0000b2735aebf451abf6a89e2390ef41",
       "spotify_url": "https://open.spotify.com/album/3IFIDcn1OpA40MxMPrDxM7",
-      "apple_music_url": "https://music.apple.com/us/search?term=Nirvana%20PNAU",
+      "apple_music_url": "https://music.apple.com/us/album/nirvana-benny-benassi-remix-single/6798655161?uo=4",
       "total_tracks": 3,
       "album_type": "single"
     },
@@ -516,7 +506,7 @@
       "release_date": "2026-08-13",
       "image": "https://i.scdn.co/image/ab67616d0000b27370c4aff971956175eeabd1d2",
       "spotify_url": "https://open.spotify.com/album/5363wdqqqTUdUPecJVzNCC",
-      "apple_music_url": "https://music.apple.com/us/search?term=Trance%20%28Walk%20It%20Down%29%20Quavo",
+      "apple_music_url": "https://music.apple.com/us/album/trance-walk-it-down-single/6798030346?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -721,16 +711,6 @@
       "album_type": "album"
     },
     {
-      "name": "Apple Juice",
-      "artists": "Rapsody",
-      "release_date": "2026-07-31",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734019e9ca24d7359c4f680180",
-      "spotify_url": "https://open.spotify.com/album/6bNK63sKEJn7ahzLFgPT3j",
-      "apple_music_url": "https://music.apple.com/us/search?term=Apple%20Juice%20Rapsody",
-      "total_tracks": 2,
-      "album_type": "single"
-    },
-    {
       "name": "Blas\u00e9 (Bryce Alakai Remix)",
       "artists": "Ty Dolla $ign, Bryce Alakai",
       "release_date": "2026-07-30",
@@ -929,16 +909,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Ballerina%20Tea%20LAWSON",
       "total_tracks": 1,
       "album_type": "single"
-    },
-    {
-      "name": "Can't Let My City Down",
-      "artists": "Albee Al, Joey Bada$$",
-      "release_date": "2026-07-16",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325297dfed7a20fde396dd14c",
-      "spotify_url": "https://open.spotify.com/album/7epyxK2RW62LG8v2AdlHJB",
-      "apple_music_url": "https://music.apple.com/us/search?term=Can%27t%20Let%20My%20City%20Down%20Albee%20Al",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "rock": [
@@ -1005,405 +975,405 @@
   ],
   "news": [
     {
-      "title": "Ella Langley\u2019s \u2018Dandelion\u2019 Returns to No. 1 on Billboard 200 Albums\u00a0Chart",
-      "link": "https://www.billboard.com/music/chart-beat/ella-langley-dandelion-returns-number-one-billboard-200-1236339240/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-09-13 19:00",
-      "summary": "Plus, AD\u00c9LA debuts in the top 10, while former No. 1s from Ariana Grande and Beyonc\u00e9 both jump back into the region."
-    },
-    {
-      "title": "My Chemical Romance Allude to MCR5 at North American Tour Finale",
-      "link": "https://loudwire.com/my-chemical-romance-mcr-5-north-american-tour-finale/",
+      "title": "Everything You Need to Know About My Chemical Romance's Draag",
+      "link": "https://loudwire.com/my-chemical-romance-draag-explained/",
       "source": "Loudwire",
       "category": "rock",
-      "published": "2026-09-13 18:51",
-      "summary": "Bryan Rolli, Loudwire"
+      "published": "2026-09-14 20:33",
+      "summary": "penceyghoul and harmlessavi via X"
     },
     {
-      "title": "Ariana Grande Gets Stuck in Elevator After Final Eternal Sunshine\u00a0Show",
-      "link": "https://www.billboard.com/music/music-news/ariana-grande-stuck-elevator-final-eternal-sunshine-show-1236339237/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-09-13 17:54",
-      "summary": "The pop star\u2019s latest tour wrapped up Sept. 1 in London."
-    },
-    {
-      "title": "The Raincoats, X-Ray Spex, and the Slits Members Form Supergroup",
-      "link": "https://pitchfork.com/story/the-raincoats-x-ray-spex-and-the-slits-members-form-supergroup/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-09-13 17:07",
-      "summary": "Gina Birch, Hollie Cook, Lora Logic, and Paul Dean will perform together at a London punk festival next month"
-    },
-    {
-      "title": "Gerard Way Hints at New My Chemical Romance Album: \u2018You Guys Deserve Another Record\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/gerard-way-hints-new-my-chemical-romance-album-1235625884/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-09-13 16:12",
-      "summary": "\"we kind of always wanted to make another record, so we hope to,\" singer told Alamodome fans of band's long-awaited follow-up to 2010\u2019s Danger Days: The True Lives of the Fabulous Killjoys"
-    },
-    {
-      "title": "Why Tony Iommi Opposed Doing New Sabbath LP With Original Lineup",
-      "link": "https://loudwire.com/tony-iommi-rejected-famous-producer-suggestion-new-black-sabbath-album-original-lineup/",
+      "title": "Better 1991 Album - 'Use Your Illusion' vs. 'No More Tears'",
+      "link": "https://loudwire.com/better-1991-album-guns-n-roses-use-your-illusion-i-ii-vs-ozzy-osbournes-no-more-tears/",
       "source": "Loudwire",
       "category": "rock",
-      "published": "2026-09-13 15:49",
-      "summary": "Frazer Harrison, Getty Images"
+      "published": "2026-09-14 20:32",
+      "summary": "Geffen, Epic, Getty Images"
     },
     {
-      "title": "Here\u2019s Where to Find Tickets to Celine Dion\u2019s 2026 Paris Residency\u00a0Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/celine-dion-paris-tickets-best-deals-prices-offers-online-1236339179/",
+      "title": "Cage the Elephant Tops Multiple Rock Radio Charts With \u2018Beaches in\u00a0Tennessee\u2019",
+      "link": "https://www.billboard.com/music/chart-beat/cage-the-elephant-rock-radio-charts-beaches-in-tennessee-1236339880/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-09-13 15:36",
-      "summary": "The residency marks the singer's first shows since announcing her diagnosis with Stiff Person Syndrome in 2022."
+      "published": "2026-09-14 20:27",
+      "summary": "The band earns its 14th No. 1 on Alternative Airplay and eighth on Adult Alternative Airplay."
     },
     {
-      "title": "Listen to Jeff Tweedy Cover Twisted Teens\u2019 \u201cWild Connection\u201d",
-      "link": "https://pitchfork.com/story/jeff-tweedy-twisted-teens-cover/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-09-13 15:07",
-      "summary": "The Wilco frontman shared the cover of the Blame the Clown track to his Substack"
-    },
-    {
-      "title": "Coastal erosion forces cancellation of Ocean Way Festival weeks before planned debut",
-      "link": "https://www.nme.com/news/music/coastal-erosion-forces-cancellation-of-ocean-way-festival-cancelled-weeks-before-planned-debut-3968576?utm_source=rss&utm_medium=rss&utm_campaign=coastal-erosion-forces-cancellation-of-ocean-way-festival-cancelled-weeks-before-planned-debut",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-09-13 14:19",
-      "summary": "\nPlans are already underway to bring the scuppered festival back to Santa Monica next year\nThe post Coastal erosion forces cancellation of Ocean Way Festival weeks before planned debut appeared first ..."
-    },
-    {
-      "title": "Mastodon Play Secret Show With Baroness' John Baizley - See Video",
-      "link": "https://loudwire.com/mastodon-secret-show-baroness-john-baizley-rarities-live-debuts-setlist-video/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-09-13 14:09",
-      "summary": "Vivien Killilea, Getty Images / Miikka Skaffari/Redferns, Getty Images"
-    },
-    {
-      "title": "Unanimous vote sees Nashville Airport move to rename itself after Dolly Parton",
-      "link": "https://www.nme.com/news/music/unanimous-vote-sees-nashville-airport-move-to-rename-itself-after-dolly-parton-3968563?utm_source=rss&utm_medium=rss&utm_campaign=unanimous-vote-sees-nashville-airport-move-to-rename-itself-after-dolly-parton",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-09-13 12:08",
-      "summary": "\n\u201cAt a place where Tennessee welcomes the world, it is fitting that Nashville International Airport would bear the name of our state\u2019s favourite daughter\"\nThe post Unanimous vote sees Nashville Airpor..."
-    },
-    {
-      "title": "Jay Weinberg on \u201cseeking therapy\u201d after Slipknot firing: \u201cIt finally felt like an unlocking of a door\u201d",
-      "link": "https://www.nme.com/news/music/jay-weinberg-on-seeking-therapy-after-slipknot-firing-it-finally-felt-like-an-unlocking-of-a-door-3968548?utm_source=rss&utm_medium=rss&utm_campaign=jay-weinberg-on-seeking-therapy-after-slipknot-firing-it-finally-felt-like-an-unlocking-of-a-door",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-09-13 11:19",
-      "summary": "\n\"When life doesn't make sense, when life is difficult to process, you feel like you're the crazy one. And it's an ongoing process\"\nThe post Jay Weinberg on &#8220;seeking therapy&#8221; after Slipkno..."
-    },
-    {
-      "title": "Watch CMAT perform \u2018Euro Country\u2019 and \u2018Stay for Something\u2019 on \u2018SNL UK\u2019",
-      "link": "https://www.nme.com/news/music/watch-cmat-perform-euro-country-and-stay-for-something-on-snl-uk-3968535?utm_source=rss&utm_medium=rss&utm_campaign=watch-cmat-perform-euro-country-and-stay-for-something-on-snl-uk",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-09-13 10:25",
-      "summary": "\nShe also appeared alongside last night's host Jeff Goldblum to assist with his opening monologue\nThe post Watch CMAT perform &#8216;Euro Country&#8217; and &#8216;Stay for Something&#8217; on &#8216;..."
-    },
-    {
-      "title": "J Balvin Celebrates Brazilian Music at Rock in Rio With Cameos From Pedro Sampaio and Melody: Watch",
-      "link": "https://consequence.net/2026/09/j-balvin-rock-in-rio-2026-pedro-sampaio-melody/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-09-13 09:54",
-      "summary": "The Colombian star\u2019s hour-long set moved from reggaet\u00f3n staples to Brazilian funk and pop.\nJ Balvin Celebrates Brazilian Music at Rock in Rio With Cameos From Pedro Sampaio and Melody: Watch\nPedro Cam..."
-    },
-    {
-      "title": "Demi Lovato Brought Out Brazilian Drag Queen Pabllo Vittar for \u201cCool for the Summer\u201d at Rock in Rio: Watch",
-      "link": "https://consequence.net/2026/09/demi-lovato-pabllo-vittar-cool-for-the-summer-duet-rock-in-rio/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-09-13 09:40",
-      "summary": "The surprise finale capped a career-spanning set featuring material from It\u2019s Not That Deep and fan favorites.\nDemi Lovato Brought Out Brazilian Drag Queen Pabllo Vittar for \u201cCool for the Summer\u201d at R..."
-    },
-    {
-      "title": "Yves Tumor replaced on Turnstile tour following sexual assault allegations",
-      "link": "https://www.nme.com/news/music/yves-tumor-replaced-on-turnstile-tour-following-sexual-assault-allegations-3968501?utm_source=rss&utm_medium=rss&utm_campaign=yves-tumor-replaced-on-turnstile-tour-following-sexual-assault-allegations",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-09-13 09:26",
-      "summary": "\nYves Tumor has denied the allegations and called them \"completely heartbreaking\"\nThe post Yves Tumor replaced on Turnstile tour following sexual assault allegations appeared first on NME."
-    },
-    {
-      "title": "Quavo says he and Offset are planning final Migos album and tour to honour Takeoff",
-      "link": "https://www.nme.com/news/music/quavo-says-he-and-offset-are-planning-final-migos-album-and-tour-to-honour-takeoff-3968523?utm_source=rss&utm_medium=rss&utm_campaign=quavo-says-he-and-offset-are-planning-final-migos-album-and-tour-to-honour-takeoff",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-09-13 09:18",
-      "summary": "\n\"The legacy must still go on\"\nThe post Quavo says he and Offset are planning final Migos album and tour to honour Takeoff appeared first on NME."
-    },
-    {
-      "title": "Watch C\u00e9line Dion deliver moving speech on opening night of Paris residency: \u201cI made a promise to be back on stage, so here I am\u201d",
-      "link": "https://www.nme.com/news/music/watch-celine-dion-deliver-moving-speech-on-opening-night-of-paris-residency-i-made-a-promise-to-be-back-on-stage-so-here-i-am-3968517?utm_source=rss&utm_medium=rss&utm_campaign=watch-celine-dion-deliver-moving-speech-on-opening-night-of-paris-residency-i-made-a-promise-to-be-back-on-stage-so-here-i-am",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-09-13 09:13",
-      "summary": "\n\"The journey was longer than expected, with unplanned stops along the way, but I hung in there\"\nThe post Watch C\u00e9line Dion deliver moving speech on opening night of Paris residency: &#8220;I made a p..."
-    },
-    {
-      "title": "Listen to Wilco\u2019s Jeff Tweedy covering Twisted Teens\u2019 \u2018Wild Connection\u2019",
-      "link": "https://www.nme.com/news/music/listen-to-wilcos-jeff-tweedy-covering-twisted-teens-wild-connection-3968510?utm_source=rss&utm_medium=rss&utm_campaign=listen-to-wilcos-jeff-tweedy-covering-twisted-teens-wild-connection",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-09-13 08:26",
-      "summary": "\n\"I actually kind of feel like I maybe sound like a younger version of myself,\" Tweedy said of his version\nThe post Listen to Wilco&#8217;s Jeff Tweedy covering Twisted Teens&#8217; &#8216;Wild Connec..."
-    },
-    {
-      "title": "My Chemical Romance tease potential new album as they wrap \u2018Long Live The Black Parade\u2019 tour",
-      "link": "https://www.nme.com/news/music/my-chemical-romance-tease-potential-new-album-as-they-wrap-the-black-parade-tour-3968503?utm_source=rss&utm_medium=rss&utm_campaign=my-chemical-romance-tease-potential-new-album-as-they-wrap-the-black-parade-tour",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-09-13 07:55",
-      "summary": "\n\"Honestly, you guys kept us alive so long. You guys deserve another record\"\nThe post My Chemical Romance tease potential new album as they wrap &#8216;Long Live The Black Parade&#8217; tour appeared ..."
-    },
-    {
-      "title": "Mastodon responds after estate of \u201cdear departed friend\u201d Brent Hinds sue the band",
-      "link": "https://www.nme.com/news/music/mastodon-responds-after-estate-of-dear-departed-friend-brent-hinds-sue-the-band-3968353?utm_source=rss&utm_medium=rss&utm_campaign=mastodon-responds-after-estate-of-dear-departed-friend-brent-hinds-sue-the-band",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-09-13 06:53",
-      "summary": "\nThe Atlanta metal band described the new suit as \"meritless\"\nThe post Mastodon responds after estate of &#8220;dear departed friend&#8221; Brent Hinds sue the band appeared first on NME."
-    },
-    {
-      "title": "My Chemical Romance Tease Possible New Album During Tour-Closing\u00a0Show",
-      "link": "https://www.billboard.com/music/music-news/my-chemical-romance-tease-possible-new-album-1236339172/",
+      "title": "Ella Langley Has a 2-Word, 2-Emoji Reaction to Tying Mariah Carey\u2019s Hot 100\u00a0Record",
+      "link": "https://www.billboard.com/music/country/ella-langley-ties-mariah-carey-hot-100-record-reaction-1236339851/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-09-13 06:25",
-      "summary": "A new record would be the band's first full-length album since 2010's Danger Days: The True Lives of the Fabulous Killjoys."
+      "published": "2026-09-14 20:23",
+      "summary": "The country star's chart-topper now has 22 weeks at the top of the chart."
     },
     {
-      "title": "BIGBANG Celebrate 20 Years Together With MetLife Stadium Concert: 13 Best\u00a0Moments",
-      "link": "https://www.billboard.com/lists/bigbang-xx-cosmos-new-york-metlife-stadium-best-moments/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-09-13 02:49",
-      "summary": "The K-pop legends played their only East Coast date of the XX : COSMOS World Tour, marking their first New York-area show in over a decade."
-    },
-    {
-      "title": "C\u00e9line Dion Cries Happy Tears in Paris: 9 Best Moments From Opening Night of Her Return to\u00a0Stage",
-      "link": "https://www.billboard.com/lists/celine-dion-paris-residency-opening-night-best-moments/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-09-13 01:54",
-      "summary": "Night one of Dion's long-awaited comeback, a 26-date residency in Paris, featured a tearful \"On Ne Change Pas,\" an a cappella Everest and an opera aria under falling snow."
-    },
-    {
-      "title": "C\u00e9line Dion\u2019s Paris 2026 Setlist: Every Song Played at the First\u00a0Show",
-      "link": "https://www.billboard.com/lists/celine-dion-paris-setlist-2026-songs/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-09-13 00:02",
-      "summary": "The Canadian icon launched her 26-night Paris residency with a 29-song, two-and-a-half-hour comeback that moved from intimate French ballads to an a cappella \"All by Myself.\""
-    },
-    {
-      "title": "C\u00e9line Dion Makes Triumphant Return to the Stage in Paris for First Concert in Six Years: Setlist + Videos",
-      "link": "https://consequence.net/2026/09/celine-dion-paris-residency-kickoff-setlist-videos/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-09-12 23:59",
-      "summary": "Dion's first concert since being diagnosed with stiff-person syndrome in 2022 took place at Paris' La D\u00e9fense Arena on Saturday.\nC\u00e9line Dion Makes Triumphant Return to the Stage in Paris for First Con..."
-    },
-    {
-      "title": "Pink Addresses Backlash Over Comments About Macklemore\u2019s Pro-Palestine Stance: \u2018Standing Up for My Own\u00a0People\u2019",
-      "link": "https://www.billboard.com/music/music-news/pink-backlash-macklemore-pro-palestine-comments-1236338984/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-09-12 20:07",
-      "summary": "The pop star\u2019s lengthy statement follows Macklemore\u2019s comments during his opening set for Ed Sheeran."
-    },
-    {
-      "title": "Drake Reveals \u2018Fear of Missing Out\u2019 Is a \u2018Not So Short Film\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/drake-fear-of-missing-out-not-so-short-film-1235625825/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-09-12 19:01",
-      "summary": "Rapper's mysterious new project drops September 15"
-    },
-    {
-      "title": "Drake Shares \u2018Fear of Missing Out\u2019 Teaser: \u2018A Not So Short\u00a0Film\u2019",
-      "link": "https://www.billboard.com/music/rb-hip-hop/drake-fear-of-missing-out-teaser-a-not-so-short-film-1236338978/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-09-12 18:49",
-      "summary": "The superstar rapper's mysterious new project is set to drop on Sept. 15."
-    },
-    {
-      "title": "Car\u00edn Le\u00f3n Returns\u00a0to the Sphere\u00a0With Pepe Aguilar\u00a0and Jos\u00e9 Guadalupe\u00a0Esparza as\u00a0Guests",
-      "link": "https://www.billboard.com/music/latin/carin-leon-sphere-pepe-aguilar-jose-guadalupe-esparza-recap-1236338962/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-09-12 17:57",
-      "summary": "The Sept. 11 concert marked the continuation of the Sonoran star\u2019s historic residency at the innovative Las Vegas venue."
-    },
-    {
-      "title": "Brandon Flowers and His Son Cover Oasis\u2019 \u201cDon\u2019t Look Back in Anger\u201d: Watch",
-      "link": "https://consequence.net/2026/09/brandon-flowers-and-son-cover-oasis/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-09-12 17:14",
-      "summary": "The Killers frontman was joined by his son Henry on guitar.\nBrandon Flowers and His Son Cover Oasis&#8217; &#8220;Don&#8217;t Look Back in Anger&#8221;: Watch\nTravis Bland"
-    },
-    {
-      "title": "Mastodon Reflect on \u201cWildly Adventurous\u201d Blood Mountain on Album\u2019s 20th Anniversary",
-      "link": "https://consequence.net/2026/09/mastodon-blood-mountain-20th-anniversary-interview/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-09-12 16:53",
-      "summary": "Troy Sanders and Brann Dailor look back on Mastodon's third album, Blood Mountain.\nMastodon Reflect on &#8220;Wildly Adventurous&#8221; Blood Mountain on Album&#8217;s 20th Anniversary\nSpencer Kaufman"
-    },
-    {
-      "title": "Grammy Winners Turnstile Earn Even Higher Honor: Five Guys Featured Artist",
-      "link": "https://consequence.net/2026/09/turnstile-five-guys-featured-artist/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-09-12 16:22",
-      "summary": "The Baltimore hardcore band asked the restaurant \u201cWhen we gettin a veggie burger?\u201d\nGrammy Winners Turnstile Earn Even Higher Honor: Five Guys Featured Artist\nTravis Bland"
-    },
-    {
-      "title": "Bon Iver Sings About Meatloaf Dippers in a Jingle for Minnesota Restaurant",
-      "link": "https://consequence.net/2026/09/bon-iver-meatloaf-dippers-jingle/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-09-12 14:52",
-      "summary": "With just one listen, you'll be singing Justin Vernon's tune about fried meatloaf sticks all day.\nBon Iver Sings About Meatloaf Dippers in a Jingle for Minnesota Restaurant\nTravis Bland"
-    },
-    {
-      "title": "Lady Gaga Welcomes First Baby With Fianc\u00e9 Michael Polansky: Reports",
-      "link": "https://www.rollingstone.com/music/music-news/lady-gaga-welcomes-first-baby-michael-polansky-reports-1235625783/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-09-12 14:28",
-      "summary": "After the couple was spotted in Northern California with a child, multiple sources confirmed Baby Gaga"
-    },
-    {
-      "title": "Beach Damage Forces Ocean Way Festival With Olivia Dean, The Killers, Jack White to Be Canceled",
-      "link": "https://consequence.net/2026/09/ocean-way-festival-canceled/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-09-12 13:47",
-      "summary": "Refunds are being issued and plans for a 2027 Ocean Way Festival are underway, city officials said.\nBeach Damage Forces Ocean Way Festival With Olivia Dean, The Killers, Jack White to Be Canceled\nTrav..."
-    },
-    {
-      "title": "Drake Reveals Fear of Missing Out Is a \u201cNot So Short Film\u201d",
-      "link": "https://consequence.net/2026/09/drake-fear-of-missing-out-film/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-09-12 12:41",
-      "summary": "The project is \"directed and scored by the family\" and set for release on September 15th.\nDrake Reveals Fear of Missing Out Is a &#8220;Not So Short Film&#8221;\nAlex Young"
-    },
-    {
-      "title": "Front Row Diaper-Wearer or Bathroom Line-Waiter? Consequence\u2019s New T-Shirts Fit You Either Way",
-      "link": "https://consequence.net/2026/09/bathroom-diaper-concert-t-shirt/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-09-12 12:00",
-      "summary": "Whether you're defecating in the front row or being a freakin' adult, we've got the attire for you.\nFront Row Diaper-Wearer or Bathroom Line-Waiter? Consequence&#8217;s New T-Shirts Fit You Either Way..."
-    },
-    {
-      "title": "Pink Responds to Fallout After Sharing Post Criticizing Macklemore\u2019s Speech on Palestine",
-      "link": "https://www.rollingstone.com/music/music-news/pink-responds-backlash-macklemore-palestine-post-1235625662/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-09-12 02:03",
-      "summary": "Pink addressed the backlash she received after reposting a call for Macklemore to apologize following his statements on stage"
-    },
-    {
-      "title": "Lady Gaga Welcomes First Child: Report",
-      "link": "https://consequence.net/2026/09/lady-gaga-gives-birth-first-child/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-09-12 01:13",
-      "summary": "Congratulations are in order for Mother Monster and her partner, Michael Polansky.\nLady Gaga Welcomes First Child: Report\nAlex Young"
-    },
-    {
-      "title": "Ocean Way Festival in Santa Monica Cancels Inaugural Event Due to Hurricane Marie",
-      "link": "https://www.rollingstone.com/music/music-news/ocean-way-festival-cancels-inaugural-event-hurricane-marie-1235625706/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-09-12 00:46",
-      "summary": "Organizers said that storm surf and runoff caused significant beach erosion, making it no longer safe for the fest to continue"
-    },
-    {
-      "title": "Lil Durk Found Not Guilty in Murder-for-Hire Trial - Report",
-      "link": "https://www.xxlmag.com/lil-durk-not-guilty-murder-for-hire-trial/",
+      "title": "Kodak Black Drug Trafficking Charges Dropped",
+      "link": "https://www.xxlmag.com/kodak-black-drug-trafficking-charges-dropped/",
       "source": "XXL Mag",
       "category": "hiphop",
-      "published": "2026-09-12 00:40",
-      "summary": "Alexander Sikov/iStock/Getty Images/Broward Sheriff's Office"
+      "published": "2026-09-14 20:22",
+      "summary": "Joy Malone/Getty Images"
     },
     {
-      "title": "Lil Durk Found Not Guilty in Murder-for-Hire Case",
-      "link": "https://consequence.net/2026/09/jury-verdict-lil-durk-case/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-09-12 00:27",
-      "summary": "The decision brings a six year saga involving the Chicago rapper to a conclusion, but his legal troubles aren't over.\nLil Durk Found Not Guilty in Murder-for-Hire Case\nTravis Bland"
-    },
-    {
-      "title": "Lil Durk Acquitted of All Charges at Trial Over Shooting That Killed Quando Rondo\u2019s Cousin",
-      "link": "https://www.rollingstone.com/music/music-news/lil-durk-verdict-quando-rondo-conspiracy-trial-akademiks-1235622493/",
+      "title": "Robert Kraft Confirms He Barred Macklemore From Ed Sheeran Boston Shows",
+      "link": "https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-robert-kraft-statement-1235626352/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-09-12 00:26",
-      "summary": "The Grammy-winning rapper was found not guilty of conspiracy, stalking resulting in death, and murder for hire and broke down crying as the verdict was read"
+      "published": "2026-09-14 20:21",
+      "summary": "Billionaire Patriots owner said he is committed to \u201censuring that all events held at our venue do not provide a platform for hate speech.\u201d"
     },
     {
-      "title": "Lil Durk Acquitted in Murder-for-Hire Trial",
-      "link": "https://pitchfork.com/story/lil-durk-acquitted-in-murder-for-hire-plot/",
-      "source": "Pitchfork",
+      "title": "Sydney Sweeney Loses 200,000 Instagram Followers as Female Athletes Slam Nude Sports-Betting Ad",
+      "link": "https://consequence.net/2026/09/sydney-sweeney-loses-instagram-followers-nude-sports-betting-ad/",
+      "source": "Consequence",
       "category": "general",
-      "published": "2026-09-12 00:19",
-      "summary": "Prosecutors had argued Durk orchestrated a hit on the rapper Quando Rondo as revenge for King Von\u2019s murder"
+      "published": "2026-09-14 20:20",
+      "summary": "Olympic and pro athletes criticized the Novig commercial for making a \"mockery\" of women in sports.\nSydney Sweeney Loses 200,000 Instagram Followers as Female Athletes Slam Nude Sports-Betting Ad\nEddi..."
     },
     {
-      "title": "Wet Leg\u2019s Rhian Teasdale is the star of Milk Makeup\u2019s NYC-set short film",
-      "link": "https://www.thefader.com/2026/09/11/wet-leg-rhian-teasdale-milk-makeup-short-film-announcement",
+      "title": "Robert Kraft Calls Macklemore\u2019s \u2018Free Palestine\u2019 Statements \u2018Deeply Offensive\u2019: \u2018A Line Had Been\u00a0Crossed\u2019",
+      "link": "https://www.billboard.com/pro/robert-kraft-macklemore-free-palestine-statements-offensive/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-09-14 20:09",
+      "summary": "The Gillette Stadium owner released a statement explaining why he helped lead the call for the rapper's removal from Ed Sheeran's U.S. tour."
+    },
+    {
+      "title": "78th Annual Emmy Awards: Here\u2019s Where to Watch the 2026 Ceremony Live Online for\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/emmy-awards-2026-sept-watch-livestream-online-free-1236338612/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-09-14 20:07",
+      "summary": "Law &#38; Order: SVU's Mariska Hargitay hosts the TV awards ceremony on Monday, Sept. 14 \u2014 watch it online free."
+    },
+    {
+      "title": "Myles Kennedy \u201cAbsolutely\u201d Refuses to Use AI to Write Songs: \u201cWhy Would I Cheat Myself?\u201d",
+      "link": "https://consequence.net/2026/09/myles-kennedy-refuses-ai-to-write-songs/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-09-14 20:06",
+      "summary": "The singer says using AI would rob him of the creative process that he enjoys so much.\nMyles Kennedy &#8220;Absolutely&#8221; Refuses to Use AI to Write Songs: &#8220;Why Would I Cheat Myself?&#8221;\n..."
+    },
+    {
+      "title": "Billboard\u2019s Country Up-And-Comer Mack Geiger Went From Student Paramedic to Hot 100 Hitmaker in Eight Months: \u2018It\u2019s Been a\u00a0Trip\u2019",
+      "link": "https://www.billboard.com/music/country/mack-geiger-billboard-up-and-comer-country-september-1236339441/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-09-14 20:04",
+      "summary": "The Australia-based country singer-songwriter is earning a chart breakthrough with his song \"String By.\""
+    },
+    {
+      "title": "Mark Lee Wants to Convey \u2018the Greatest Love\u2019 Through His New Song \u2018My\u00a0Friend\u2019",
+      "link": "https://www.billboard.com/music/pop/mark-lee-convey-greatest-love-new-song-my-friend-1236339774/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-09-14 20:04",
+      "summary": "\"This is exactly the music I should be putting out as my present self,\" the K-pop star tells Billboard Korea."
+    },
+    {
+      "title": "See photos from Afroplus Fest\u2019s almost rained-out, chaotic weekend",
+      "link": "https://www.thefader.com/2026/09/14/see-photos-from-afroplus-almost-rained-out-chaotic-weekend",
       "source": "The FADER",
       "category": "hiphop",
-      "published": "2026-09-11 23:53",
-      "summary": "The \u201cmangetout\u201d singer takes The Big Apple."
+      "published": "2026-09-14 19:43",
+      "summary": "Featuring Ayra Starr, Davido, Victony, and more."
     },
     {
-      "title": "Sam Smith, Normani Copyright Case Likely Headed for Trial As Judge Signals No Dismissal",
-      "link": "https://www.rollingstone.com/music/music-news/sam-smith-normani-copyright-case-judge-signals-no-dismissal-1235625637/",
+      "title": "50 Cent Shows Love to Tom Brady for Rapping \u2018In Da Club\u2019 During NFL Broadcast: \u2018All He Do Is\u00a0Win\u2019",
+      "link": "https://www.billboard.com/music/rb-hip-hop/50-cent-reacts-tom-brady-rap-in-da-club-nfl-broadcast-1236339720/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-09-14 19:41",
+      "summary": "The athlete previously used \"Many Men\" to soundtrack his run to another Super Bowl victory in 2019."
+    },
+    {
+      "title": "TikTok Influencer Pleads Not Guilty to Dark-Web Hit Plot Against Singer Jack Avery",
+      "link": "https://www.rollingstone.com/music/music-news/tiktok-gabbie-gonzalez-arraigned-why-dont-we-jack-avery-1235626190/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-09-11 23:24",
-      "summary": "A federal judge said Friday he was leaning toward denying a summary judgment bid and sending the copyright battle over the multi-platinum hit \u201cDancing With a Stranger\u201d to trial"
+      "published": "2026-09-14 19:40",
+      "summary": "Gabbie Gonzalez entered her plea alongside her father and ex-boyfriend after prosecutors accused the trio of conspiring to kill the Why Don\u2019t We singer amid a child-custody dispute"
     },
     {
-      "title": "Biggest First-Week Sales for Hip-Hop Projects in 2026",
-      "link": "https://www.xxlmag.com/highest-hip-hop-project-sales-2026/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-09-11 22:41",
-      "summary": "Panuwat Srijantawong/iStock/Getty Images Plus/Donnway & Co/Atlantic Records/Cole World, Inc./Interscope Records/OVO/Republic Records"
+      "title": "Pink Sweat$ Powers\u00a0his\u00a0Ultimate Movement Mix\u00a0With\u00a0Jill Scott,\u00a0Sade, Kendrick Lamar & More: See the\u00a0Playlist",
+      "link": "https://www.billboard.com/music/features/pink-sweat-powers-his-ultimate-movement-mix-with-planet-fitness-1236339632/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-09-14 19:39",
+      "summary": "From Philly soul to high-energy hip-hop, Pink Sweat$ shares the songs that keep him moving\u2014powered by Planet Fitness"
     },
     {
-      "title": "P!NK Responds to Backlash Over Criticism of Macklemore\u2019s Pro-Palestine Remarks",
-      "link": "https://consequence.net/2026/09/pink-macklemore-free-palestine-backlash-response/",
+      "title": "Robert Kraft Addresses Decision to Block Macklemore from Playing Gillette Stadium",
+      "link": "https://consequence.net/2026/09/robert-kraft-macklemore-statement/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-09-11 22:15",
-      "summary": "\"A repost isn\u2019t a statement, and a meme isn't a spine,\" she wrote in a lengthy Instagram statement.\nP!NK Responds to Backlash Over Criticism of Macklemore\u2019s Pro-Palestine Remarks\nEddie Fu"
+      "published": "2026-09-14 19:38",
+      "summary": "Macklemore says he was dropped from Ed Sheeran's tour after Kraft reached out to other stadium owners asking them to block him from playing.\nRobert Kraft Addresses Decision to Block Macklemore from Pl..."
     },
     {
-      "title": "Samsung Asks Judge to Dismiss Dua Lipa\u2019s $15 Million Lawsuit Over Unauthorized Image Usage",
-      "link": "https://www.rollingstone.com/music/music-news/dua-lipa-samsung-lawsuit-request-dismiss-case-1235625545/",
+      "title": "Fans speculate if Oasis will play Glastonbury 2027",
+      "link": "https://www.nme.com/news/music/fans-speculate-if-oasis-will-play-glastonbury-2027-3968820?utm_source=rss&utm_medium=rss&utm_campaign=fans-speculate-if-oasis-will-play-glastonbury-2027",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-09-14 19:31",
+      "summary": "\n\"Lovely little Glastonbury Sunday slot there for Oasis...\"\nThe post Fans speculate if Oasis will play Glastonbury 2027 appeared first on NME."
+    },
+    {
+      "title": "Lana Del Rey Teases She Has a New Collab Coming With Zach Bryan: \u2018We Finally Got Our Song\u00a0Done\u2019",
+      "link": "https://www.billboard.com/music/country/lana-del-rey-teases-zach-bryan-collab-song-done-1236339734/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-09-14 19:26",
+      "summary": "\"And that's no Lie,\" she wrote."
+    },
+    {
+      "title": "Macklemore Removed From Ed Sheeran Tour for Pro-Palestine Remarks",
+      "link": "https://www.xxlmag.com/macklemore-removed-ed-sheeran-tour/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-09-14 19:06",
+      "summary": "Kristy Sparow/Getty Images"
+    },
+    {
+      "title": "Lady Gaga Says Surf Brand Must Repay $250K Legal Bill After Failed \u2018Mayhem\u2019 Lawsuit: \u2018A Publicity\u00a0Stunt\u2019",
+      "link": "https://www.billboard.com/pro/lady-gaga-surf-repay-bill-failed-mayhem-lawsuit/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-09-14 18:58",
+      "summary": "The superstar says the defeated lawsuit over a \u201ccommon dictionary word\u201d was costly and never should have been filed."
+    },
+    {
+      "title": "Macklemore alleges stadium owners pressured Ed Sheeran to take him off tour",
+      "link": "https://www.thefader.com/2026/09/14/macklemore-alleges-stadium-owners-pressured-ed-sheeran-to-take-him-off-tour",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-09-14 18:53",
+      "summary": "The politically outspoken rapper is under scrutiny after saying \u201cFree Palestine\u201d while performing at two of Sheeran\u2019s shows earlier this month."
+    },
+    {
+      "title": "Brit Floyd Announce 2027 North American \u201cAnimals 50\u201d Tour",
+      "link": "https://consequence.net/2026/09/brit-floyd-2027-north-american-animals-50-tour/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-09-14 18:52",
+      "summary": "The world's premier Pink Floyd tribute band will perform songs from the 1977 album and other favorites.\nBrit Floyd Announce 2027 North American &#8220;Animals 50&#8221; Tour\nSpencer Kaufman"
+    },
+    {
+      "title": "BloodHound Q50 Shot & Killed in Chicago, More Than 50 Shots Fired",
+      "link": "https://www.xxlmag.com/bloodhound-q50-shot-killed-chicago/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-09-14 18:33",
+      "summary": "Houstonslimest2/X/jeremiah90sbabii/Instagram"
+    },
+    {
+      "title": "Macklemore speaks out after being dropped from Ed Sheeran tour over \u2018Free Palestine\u2019 comments: \u201cI\u2019m sharing a stage with one of the biggest artists in the world\u2026at a certain level of exposure, \u2018Free Palestine\u2019 becomes too much of a risk\u201d",
+      "link": "https://www.nme.com/news/music/macklemore-speaks-out-after-being-dropped-from-ed-sheeran-tour-over-free-palestine-comments-3968812?utm_source=rss&utm_medium=rss&utm_campaign=macklemore-speaks-out-after-being-dropped-from-ed-sheeran-tour-over-free-palestine-comments",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-09-14 18:13",
+      "summary": "\nIt comes after previous calls to drop the musician from the tour\nThe post Macklemore speaks out after being dropped from Ed Sheeran tour over &#8216;Free Palestine&#8217; comments: &#8220;I&#8217;m s..."
+    },
+    {
+      "title": "Paris Paloma Takes Personal Issue with \u201cIt\u2019s Not That Deep\u201d \u2014 and She\u2019s Made an Album About It: Podcast",
+      "link": "https://consequence.net/2026/09/paris-paloma-its-not-that-deep-interview/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-09-14 18:12",
+      "summary": "The dark folk-pop artist's new album, The Fatal Flaw, addresses a culture that tells us not to feel too much.\nParis Paloma Takes Personal Issue with &#8220;It&#8217;s Not That Deep&#8221; \u2014 and She&#8..."
+    },
+    {
+      "title": "Lin-Manuel Miranda Announces Definitive Hamilton Box Set for 10th Anniversary",
+      "link": "https://consequence.net/2026/09/hamilton-rise-up-anthology-10th-anniversary-box-set/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-09-14 18:08",
+      "summary": "The set includes the original Broadway cast recording, The Hamilton Mixtape, and Hamildrops: The Complete Collection.\nLin-Manuel Miranda Announces Definitive Hamilton Box Set for 10th Anniversary\nEddi..."
+    },
+    {
+      "title": "Boosie Badazz Opens Up About Alleged $600,000 Pardon Scam",
+      "link": "https://www.xxlmag.com/boosie-badazz-60-minutes-presidential-pardon/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-09-14 18:01",
+      "summary": "60 Minues/YouTube"
+    },
+    {
+      "title": "Cash Cobain on His Reckless Habit, Wild Spider-Man Move & More",
+      "link": "https://www.xxlmag.com/cash-cobain-interview-rapper/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-09-14 17:59",
+      "summary": "Bobby Banks"
+    },
+    {
+      "title": "Falling in Reverse Drop New Song With Corey Taylor + Serj Tankian",
+      "link": "https://loudwire.com/falling-in-reverse-joseph-corey-taylor-serj-tankian-lyrics/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-09-14 17:55",
+      "summary": "YouTube - Epitaph Records / Falling in Reverse"
+    },
+    {
+      "title": "Nirvana Songs Grohl Thought Would Be Bigger Than 'Teen Spirit'",
+      "link": "https://loudwire.com/dave-grohl-nirvana-smells-like-teen-spirit-not-greatest/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-09-14 17:45",
+      "summary": "Jeff Kravitz/FilmMagic, Getty Images, DGC"
+    },
+    {
+      "title": "Stagecoach 2027: How to Get Tickets",
+      "link": "https://consequence.net/2026/09/stagecoach-2027-how-to-get-tickets/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-09-14 17:43",
+      "summary": "The annual country festival returns to Empire Polo Club on April 23rd-25th. Learn how to get tickets.\nStagecoach 2027: How to Get Tickets\nPaolo Ragusa"
+    },
+    {
+      "title": "Wavves\u2019 Nathan Williams Details Rerecorded Cherry Soda Album",
+      "link": "https://pitchfork.com/story/wavves-to-rerecord-say-anything-collab-album-cherry-soda-max-bemis-allegations/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-09-14 17:34",
+      "summary": "Say Anything\u2019s Max Bemis was booted from the project following accusations of inappropriate conduct with underage fans"
+    },
+    {
+      "title": "Noel Gallagher reveals when Oasis decided on Live \u201827 tour, and opens up about chances of new music",
+      "link": "https://www.nme.com/news/music/noel-gallagher-reveals-when-oasis-decided-on-live-27-tour-and-opens-up-about-chances-of-new-music-3968806?utm_source=rss&utm_medium=rss&utm_campaign=noel-gallagher-reveals-when-oasis-decided-on-live-27-tour-and-opens-up-about-chances-of-new-music",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-09-14 17:24",
+      "summary": "\n\u201cWe were having such a great time\u2026 why wouldn\u2019t we?\u201d\nThe post Noel Gallagher reveals when Oasis decided on Live \u201827 tour, and opens up about chances of new music appeared first on NME."
+    },
+    {
+      "title": "Ella Langley\u2019s \u201cChoosin\u2019 Texas\u201d Ties Record for Most Weeks at No. 1",
+      "link": "https://pitchfork.com/story/ella-langleys-choosin-texas-ties-record-for-most-weeks-spent-at-no-1/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-09-14 17:20",
+      "summary": "The country smash is a hair\u2019s breadth from surpassing Mariah Carey\u2019s \u201cAll I Want for Christmas Is You\u201d"
+    },
+    {
+      "title": "Macklemore Says He Was Dropped From Ed Sheeran Tour After Robert Kraft Pressure Campaign",
+      "link": "https://www.rollingstone.com/music/music-news/macklemore-statement-dropped-ed-sheeran-tour-1235626135/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-09-11 21:59",
-      "summary": "Lawyers for the company argued the appearance of the singer's image on a television box contains \"nothing suggesting plaintiff endorses the televisions\""
+      "published": "2026-09-14 17:05",
+      "summary": "The Seattle rapper claimed the billionaire New England Patriots owner told Sheeran that Macklemore would not be allowed to perform at Gillette Stadium and \u201crallied\u201d other stadium owners"
+    },
+    {
+      "title": "Futurama Parodies Two Classic TV Theme Songs In Newest Episode: Exclusive",
+      "link": "https://consequence.net/2026/09/futurama-gilligans-island-love-boat-parody/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-09-14 16:58",
+      "summary": "The Hulu-revived series featured Gilligan's Island and The Love Boat as two parts of a three-part pop culture homage. \nFuturama Parodies Two Classic TV Theme Songs In Newest Episode: Exclusive\nLiz Sha..."
+    },
+    {
+      "title": "Fans react to Oasis Live \u201827 tour announcement: \u201cWe\u2019re about to witness the greatest tour of all time\u201d",
+      "link": "https://www.nme.com/news/music/fans-react-oasis-live-27-tour-about-to-witness-greatest-tour-of-all-time-3968799?utm_source=rss&utm_medium=rss&utm_campaign=fans-react-oasis-live-27-tour-about-to-witness-greatest-tour-of-all-time",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-09-14 16:50",
+      "summary": "\nSome are already gearing up for the \u201cbiblical\u201d tour, while others predict that they might have \u201csleepless nights\u201d building up to the ticket sale\nThe post Fans react to Oasis Live \u201827 tour announcemen..."
+    },
+    {
+      "title": "Macklemore Kicked Off Ed Sheeran Tour for Pro-Palestine Comments",
+      "link": "https://pitchfork.com/story/macklemore-kicked-off-ed-sheeran-tour-for-pro-palestine-comments/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-09-14 16:31",
+      "summary": "\u201cEd was in a fucked up position,\u201d\u00a0the rapper said in a statement alleging Sheeran bowed to pressure from Robert Kraft"
+    },
+    {
+      "title": "Chief Keef Claims 'Racist' Pilot Allegedly Canceled Show Flight",
+      "link": "https://www.xxlmag.com/chief-keef-chicago-show-rescheduled-racist-pilot/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-09-14 16:24",
+      "summary": "Astrida Valigorsky/Getty Images"
+    },
+    {
+      "title": "Big Ears 2027 lineup: Weyes Blood, Thundercat, Oneohtrix Point Never, and more",
+      "link": "https://www.thefader.com/2026/09/14/big-ears-2027-lineup-weyes-blood-thundercat-oneohtrix-point-never-and-more",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-09-14 16:20",
+      "summary": "The Knoxville, TN, festival returns in April; festival passes go on sale Wednesday Sept. 16."
+    },
+    {
+      "title": "Oasis are going on tour in 2027",
+      "link": "https://www.thefader.com/2026/09/14/oasis-announce-oasis-live-27-tour-europe-north-america",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-09-14 16:18",
+      "summary": "\u201cCome witness the fitness. It shall be a sight to behold.\u201d"
+    },
+    {
+      "title": "Dave Chappelle Announces 2026 Fall Standup Tour",
+      "link": "https://consequence.net/2026/09/dave-chappelle-fall-2026-tour-dates/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-09-14 16:17",
+      "summary": "The standup comedian hits Nashville, Toronto, Austin, and more before his finale at New York Comedy Festival.\nDave Chappelle Announces 2026 Fall Standup Tour\nTravis Bland"
+    },
+    {
+      "title": "Macklemore Says Pressure from Patriots Owner Robert Kraft Led to Him Being Booted from Ed Sheeran\u2019s Tour",
+      "link": "https://consequence.net/2026/09/macklemore-robert-kraft-ed-sheeran-tour/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-09-14 16:15",
+      "summary": "Kraft allegedly rallied other stadium owners to force Macklemore's removal from the tour.\nMacklemore Says Pressure from Patriots Owner Robert Kraft Led to Him Being Booted from Ed Sheeran&#8217;s Tour..."
+    },
+    {
+      "title": "Wavves announce retooled version of Cherry Soda",
+      "link": "https://www.altpress.com/wavves-pinesol-listen/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-09-14 16:07",
+      "summary": "Hear the Forensic Files-inspired lead single \u201cPinesol.\u201d"
+    },
+    {
+      "title": "Styx Announce 2027 Las Vegas Residency at the Venetian Resort",
+      "link": "https://consequence.net/2026/09/styx-las-vegas-residency-winter-2027/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-09-14 15:56",
+      "summary": "Styx will be performing a curated set of their greatest hits for the Las Vegas crowd.\nStyx Announce 2027 Las Vegas Residency at the Venetian Resort\nLangdon Hickman"
+    },
+    {
+      "title": "Stagecoach Reveals 2027 Lineup with Garth Brooks, Zach Top, Willie Nelson & More",
+      "link": "https://consequence.net/2026/09/stagecoach-2027-lineup-garth-brooks-zach-top-willie-nelson/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-09-14 15:55",
+      "summary": "Plus, sets from Kelly Clarkson, Journey, Brothers Osborne, Shaboozey, Stella Lefty, and Pitbull.\nStagecoach Reveals 2027 Lineup with Garth Brooks, Zach Top, Willie Nelson &amp; More\nAlex Young and Pao..."
+    },
+    {
+      "title": "Lil Durk Will Remain in Jail to Face Charges of Racketeering",
+      "link": "https://www.xxlmag.com/lil-durk-face-charges-racketeering-murder-second-trial/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-09-14 15:55",
+      "summary": "Prince Williams/Getty Images"
+    },
+    {
+      "title": "Oasis Announce Ticketing Details for Massive 2027 Tour",
+      "link": "https://consequence.net/2026/09/oasis-2027-tour-ticket-details/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-09-14 15:53",
+      "summary": "Learn how to get tickets for Oasis' 2027 stadium shows, including pre-registration and pre-sale tickets times, pricing, and more.\nOasis Announce Ticketing Details for Massive 2027 Tour\nConsequence Sta..."
+    },
+    {
+      "title": "Israel Minister of Culture Wants to Revoke Oscar-Winning Filmmakers\u2019 Citizenship Over New Film",
+      "link": "https://consequence.net/2026/09/naza-directors-israel-citizenship-no-other-land/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-09-14 15:51",
+      "summary": "The new documentary by the co-directors of No Other Land, NAZA, won a special jury prize at the 2026 Venice Film Festival.\nIsrael Minister of Culture Wants to Revoke Oscar-Winning Filmmakers&#8217; Ci..."
     }
   ],
-  "last_updated": "2026-09-13T19:16:20.578602"
+  "last_updated": "2026-09-14T20:50:40.406639"
 }

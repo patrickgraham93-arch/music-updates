@@ -1,21 +1,51 @@
 {
   "hiphop": [
     {
-      "name": "Let Me Cook",
-      "artists": "Diplo, A$AP Ferg",
-      "release_date": "2026-10-19",
-      "image": "https://i.scdn.co/image/ab67616d0000b273791a7f8197955776ae8c6e7f",
-      "spotify_url": "https://open.spotify.com/album/7cbYNkG0QibGE476eVjOUe",
-      "apple_music_url": "https://music.apple.com/us/album/let-me-cook-single/6825524135?uo=4",
+      "name": "Heavy Is The Crown",
+      "artists": "Anderson .Paak, Cordae",
+      "release_date": "2026-10-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e9c1b191c7e4b2f85e6431e8",
+      "spotify_url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq",
+      "apple_music_url": "https://music.apple.com/us/album/heavy-is-the-crown/6812869309?uo=4",
+      "total_tracks": 11,
+      "album_type": "album"
+    },
+    {
+      "name": "Where The Party At",
+      "artists": "Desiigner",
+      "release_date": "2026-10-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b27314d6985a5234f2c1409f29b5",
+      "spotify_url": "https://open.spotify.com/album/1VtwZ8hX1CDVgTEbNzX9cd",
+      "apple_music_url": "https://music.apple.com/us/search?term=Where%20The%20Party%20At%20Desiigner",
+      "total_tracks": 4,
+      "album_type": "single"
+    },
+    {
+      "name": "Pandora's Box",
+      "artists": "Skepta",
+      "release_date": "2026-10-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738875f6b0615d9e13f874847f",
+      "spotify_url": "https://open.spotify.com/album/5bX6fQe78SeDHwYvbrWDrh",
+      "apple_music_url": "https://music.apple.com/us/search?term=Pandora%27s%20Box%20Skepta",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Relax (2009)",
+      "artists": "YG, Ty Dolla $ign",
+      "release_date": "2026-10-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732469a960d0f357e97fe9106f",
+      "spotify_url": "https://open.spotify.com/album/6KxJzeHMNbGJvcj9qM9DWd",
+      "apple_music_url": "https://music.apple.com/us/search?term=Relax%20%282009%29%20YG",
       "total_tracks": 1,
       "album_type": "single"
     },
     {
       "name": "Let Me Cook",
       "artists": "Diplo, A$AP Ferg",
-      "release_date": "2026-10-18",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336039829605536e0058c0c9b",
-      "spotify_url": "https://open.spotify.com/album/5XmdOC2W2FSOjclsAHCsrF",
+      "release_date": "2026-10-19",
+      "image": "https://i.scdn.co/image/ab67616d0000b273791a7f8197955776ae8c6e7f",
+      "spotify_url": "https://open.spotify.com/album/7cbYNkG0QibGE476eVjOUe",
       "apple_music_url": "https://music.apple.com/us/album/let-me-cook-single/6825524135?uo=4",
       "total_tracks": 1,
       "album_type": "single"
@@ -81,22 +111,22 @@
       "album_type": "single"
     },
     {
-      "name": "High All The Time (feat. G-Eazy)",
-      "artists": "Henry Morris, G-Eazy",
-      "release_date": "2026-10-16",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737d3d9d4b106f7a04bd159919",
-      "spotify_url": "https://open.spotify.com/album/2emAr44ZSMVO0S1jIf9rgI",
-      "apple_music_url": "https://music.apple.com/us/search?term=High%20All%20The%20Time%20Henry%20Morris",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "LEFT RIGHT (feat. Big Sean)",
       "artists": "OHGEESY, Shoreline Mafia, Big Sean",
       "release_date": "2026-10-16",
       "image": "https://i.scdn.co/image/ab67616d0000b2736e5b5f1228113827136b6951",
       "spotify_url": "https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU",
       "apple_music_url": "https://music.apple.com/us/album/left-right-feat-big-sean-single/6820277776?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "High All The Time (feat. G-Eazy)",
+      "artists": "Henry Morris, G-Eazy",
+      "release_date": "2026-10-16",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d3d9d4b106f7a04bd159919",
+      "spotify_url": "https://open.spotify.com/album/2emAr44ZSMVO0S1jIf9rgI",
+      "apple_music_url": "https://music.apple.com/us/search?term=High%20All%20The%20Time%20Henry%20Morris",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -221,16 +251,6 @@
       "album_type": "single"
     },
     {
-      "name": "Tulsa, OK",
-      "artists": "Vince Staples",
-      "release_date": "2026-10-09",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f66ba1e9dc850969f65ce5a5",
-      "spotify_url": "https://open.spotify.com/album/6X5KWLkivJQ7F89na1AoQC",
-      "apple_music_url": "https://music.apple.com/us/search?term=Tulsa%2C%20OK%20Vince%20Staples",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "Still Standing",
       "artists": "Polo G",
       "release_date": "2026-10-09",
@@ -241,12 +261,22 @@
       "album_type": "single"
     },
     {
+      "name": "Tulsa, OK",
+      "artists": "Vince Staples",
+      "release_date": "2026-10-09",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f66ba1e9dc850969f65ce5a5",
+      "spotify_url": "https://open.spotify.com/album/6X5KWLkivJQ7F89na1AoQC",
+      "apple_music_url": "https://music.apple.com/us/search?term=Tulsa%2C%20OK%20Vince%20Staples",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Way Too Much",
       "artists": "Mez, Deante' Hitchcock, T.I.",
       "release_date": "2026-10-09",
       "image": "https://i.scdn.co/image/ab67616d0000b273825377947249f666db0487ef",
       "spotify_url": "https://open.spotify.com/album/1s9nf4fPpZk9M9uPaA7Yfb",
-      "apple_music_url": "https://music.apple.com/us/search?term=Way%20Too%20Much%20Mez",
+      "apple_music_url": "https://music.apple.com/us/album/way-too-much-single/1458905433?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -276,7 +306,7 @@
       "release_date": "2026-10-08",
       "image": "https://i.scdn.co/image/ab67616d0000b273f48afa2cdf2f552f2d4e2164",
       "spotify_url": "https://open.spotify.com/album/7xE4Kautja5zGPN1GOwKQT",
-      "apple_music_url": "https://music.apple.com/us/album/every-night-feat-don-toliver-single/6820658866?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Every%20Night%20Offset",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -316,7 +346,7 @@
       "release_date": "2026-10-02",
       "image": "https://i.scdn.co/image/ab67616d0000b2732685b70af798b4f272c00d8a",
       "spotify_url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI",
-      "apple_music_url": "https://music.apple.com/us/album/habibti-fomo/6818059268?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=HABIBTI%20%28FOMO%29%20Drake",
       "total_tracks": 15,
       "album_type": "album"
     },
@@ -326,7 +356,7 @@
       "release_date": "2026-10-02",
       "image": "https://i.scdn.co/image/ab67616d0000b2739123c8e39e04e529d2013df9",
       "spotify_url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT",
-      "apple_music_url": "https://music.apple.com/us/album/qr%C3%B6melife/6817200688?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=QR%C3%96MELIFE%20Quavo",
       "total_tracks": 14,
       "album_type": "album"
     },
@@ -336,7 +366,7 @@
       "release_date": "2026-10-02",
       "image": "https://i.scdn.co/image/ab67616d0000b273d33230b460a3e5dcdedd6258",
       "spotify_url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI",
-      "apple_music_url": "https://music.apple.com/us/album/the-divine-feminine/1147227630?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=The%20Divine%20Feminine%20%2810th%20Anniversary%29%20Mac%20Miller",
       "total_tracks": 13,
       "album_type": "album"
     },
@@ -386,7 +416,7 @@
       "release_date": "2026-10-01",
       "image": "https://i.scdn.co/image/ab67616d0000b2736dd8796cb3679838cc66c1b0",
       "spotify_url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A",
-      "apple_music_url": "https://music.apple.com/us/album/worlds-greatest-single/6817861388?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=World%27s%20Greatest%21%20Lil%20Nas%20X",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -476,7 +506,7 @@
       "release_date": "2026-09-25",
       "image": "https://i.scdn.co/image/ab67616d0000b273f2d724544c9f4efab4f0a86d",
       "spotify_url": "https://open.spotify.com/album/5HEDNsrUA45pqSOmKvuBz4",
-      "apple_music_url": "https://music.apple.com/us/search?term=JFK%20G-Eazy",
+      "apple_music_url": "https://music.apple.com/us/album/jfk-single/6815953094?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1005,28 +1035,308 @@
   ],
   "news": [
     {
+      "title": "Watch Brandon Flowers debut new solo song \u2018Diamonds On Black Velvet\u2019 \u2013 cut from The Killers\u2019 \u2018Pressure Machine\u2019",
+      "link": "https://www.nme.com/news/music/watch-brandon-flowers-debut-new-solo-song-diamonds-on-black-velvet-cut-from-the-killers-pressure-machine-3973995?utm_source=rss&utm_medium=rss&utm_campaign=watch-brandon-flowers-debut-new-solo-song-diamonds-on-black-velvet-cut-from-the-killers-pressure-machine",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-10-23 10:55",
+      "summary": "\nHe and drummer Ronnie Vannucci Jr. first spoke about the song six years ago \u2013 is it now set to feature on the sister record to \u2018Thrasher\u2019?\nThe post Watch Brandon Flowers debut new solo song &#8216;Di..."
+    },
+    {
+      "title": "First-ever fully authorised Fleetwood Mac documentary gets release date \u2013 watch the teaser here",
+      "link": "https://www.nme.com/news/tv/fleetwood-mac-documentary-2027-release-date-apple-tv-3973990?utm_source=rss&utm_medium=rss&utm_campaign=fleetwood-mac-documentary-2027-release-date-apple-tv",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-10-23 10:46",
+      "summary": "\nThe AppleTV+ project will include new interviews and never-before-seen footage \nThe post First-ever fully authorised Fleetwood Mac documentary gets release date \u2013 watch the teaser here appeared first..."
+    },
+    {
+      "title": "Daft Punk team up with Lego for new set of the duo and iconic Pyramid",
+      "link": "https://www.nme.com/news/music/daft-punk-team-up-with-lego-for-new-set-of-the-duo-and-iconic-pyramid-3973975?utm_source=rss&utm_medium=rss&utm_campaign=daft-punk-team-up-with-lego-for-new-set-of-the-duo-and-iconic-pyramid",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-10-23 09:57",
+      "summary": "\n\u201cFans have always played an important part in Daft Punk\u2019s story, and we are excited to see that creativity reflected through the LEGO universe,\u201d said the duo\u2019s creative director\nThe post Daft Punk te..."
+    },
+    {
+      "title": "Charli XCX cast in Martin Scorsese\u2019s next film with Leonardo DiCaprio and Jennifer Lawrence",
+      "link": "https://www.nme.com/news/film/charli-xcx-martin-scorsese-film-leonardo-dicaprio-jennifer-lawrence-3973976?utm_source=rss&utm_medium=rss&utm_campaign=charli-xcx-martin-scorsese-film-leonardo-dicaprio-jennifer-lawrence",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-10-23 09:56",
+      "summary": "\nShe\u2019s reuniting with the director after he featured on the \u2018Music, Fashion, Film\u2019 album cover\nThe post Charli XCX cast in Martin Scorsese\u2019s next film with Leonardo DiCaprio and Jennifer Lawrence appe..."
+    },
+    {
+      "title": "Billy Corgan defends his friendship with Marilyn Manson: \u201cI personally didn\u2019t feel that he was guilty\u201d",
+      "link": "https://www.nme.com/news/music/billy-corgan-defends-friendship-marilyn-manson-i-didnt-feel-he-was-guilty-3973955?utm_source=rss&utm_medium=rss&utm_campaign=billy-corgan-defends-friendship-marilyn-manson-i-didnt-feel-he-was-guilty",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-10-23 09:16",
+      "summary": "\n\u201cI don\u2019t want the world to tell me who my friends are and who I should associate with\u201d\nThe post Billy Corgan defends his friendship with Marilyn Manson: \u201cI personally didn\u2019t feel that he was guilty\u201d ..."
+    },
+    {
+      "title": "\u2018She\u2019s My Muse\u2019: Ad\u00e9la Lost It When Nicole Kidman Mentioned Her on Late-Night\u00a0TV",
+      "link": "https://www.billboard.com/music/pop/adela-nicole-kidman-interview-performance-fallon-1236367047/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-10-23 09:08",
+      "summary": "The rising Slovak pop star made her TV debut on \"The Tonight Show Starring Jimmy Fallon\" with an interview and performance of \u201cNicole Kidman\u201d and \u201cAin't In LA.\u201d"
+    },
+    {
+      "title": "Ryan Gosling\u2019s band Dead Man\u2019s Bones could be returning with new music",
+      "link": "https://www.nme.com/news/film/ryan-gosling-band-dead-mans-bones-new-music-eva-mendes-3973953?utm_source=rss&utm_medium=rss&utm_campaign=ryan-gosling-band-dead-mans-bones-new-music-eva-mendes",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-10-23 09:02",
+      "summary": "\nEva Mendes has been teasing their comeback\nThe post Ryan Gosling\u2019s band Dead Man\u2019s Bones could be returning with new music appeared first on NME."
+    },
+    {
+      "title": "Tate McRae Debuts at No. 1 In Australia With\u00a0\u2018Housewife\u2019",
+      "link": "https://www.billboard.com/music/chart-beat/tate-mcrae-debuts-no-1-australia-housewife-1236367034/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-10-23 07:21",
+      "summary": "Irish modern rock act Fontaines D.C. bag their first ARIA No. 1 album with \"Dopamine Chamber.\""
+    },
+    {
+      "title": "Isle Of Wight Festival 2027 headliners and first wave of line-up announced",
+      "link": "https://www.nme.com/news/music/isle-of-wight-festival-2027-headliners-line-up-announced-3973887?utm_source=rss&utm_medium=rss&utm_campaign=isle-of-wight-festival-2027-headliners-line-up-announced",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-10-23 07:00",
+      "summary": "\n\"There's a real mix of artists for different generations and tastes, and there\u2019s still more to come,\" say organisers\nThe post Isle Of Wight Festival 2027 headliners and first wave of line-up announce..."
+    },
+    {
+      "title": "5 Things You Didn\u2019t See on TV at The 2026 Billboard Latin Music\u00a0Awards",
+      "link": "https://www.billboard.com/lists/billboard-latin-music-awards-2026-things-you-didnt-see-on-tv/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-10-23 05:02",
+      "summary": "Here's everything you missed from the blue carpet livestream."
+    },
+    {
+      "title": "Yung Miami Drops Her Debut Album Watch Dis!",
+      "link": "https://www.xxlmag.com/yung-miami-watch-dis-album/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-10-23 04:58",
+      "summary": "Prince Williams/WireImage/Yung Miami, LLC/Uptown Records"
+    },
+    {
+      "title": "LISA, Miley, Kacey Musgraves & John Mayer: New Music\u00a0Friday\u00a0Guide",
+      "link": "https://www.billboard.com/music/music-news/lisa-miley-kacey-musgraves-new-music-friday-guide-1236366499/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-10-23 04:44",
+      "summary": "Check out the must-hear releases of the week."
+    },
+    {
+      "title": "Cristian Castro Accepts the Billboard Lifetime Achievement Award \u2018In the Name of Romantic\u00a0Love\u2019",
+      "link": "https://www.billboard.com/music/latin/cristian-castro-billboard-lifetime-achievement-award-2026-2-1236365983/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-10-23 04:40",
+      "summary": "The pop icon also performed at the Thursday (Oct. 22) ceremony, broadcasted live on Telemundo."
+    },
+    {
+      "title": "LISA Is Dressed to Kill in Action-Packed \u2018Tarantino\u2019 Music Video:\u00a0Watch",
+      "link": "https://www.billboard.com/music/pop/lisa-action-packed-tarantino-music-video-watch-1236366977/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-10-23 04:38",
+      "summary": "Directed by James Mackel, the visual is three-and-a-half minutes of spy stuff, as LISA makes short work of the many villains who lurk in her hotel."
+    },
+    {
+      "title": "Fuerza Regida Wins Big at Billboard Latin Music Awards 2026:\u00a0Complete\u00a0List",
+      "link": "https://www.billboard.com/lists/billboard-latin-music-awards-2026-winners-list/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-10-23 04:06",
+      "summary": "The ceremony was broadcasted live on Telemundo from the James L. Knight Center in Miami."
+    },
+    {
+      "title": "Panchiko Announce New Album Chimera, Share \u201cOne Car Hits Another\u201d Featuring Mei Semones: Stream",
+      "link": "https://consequence.net/2026/10/panchiko-album-chimera-single-mei-semones/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-10-23 04:05",
+      "summary": "The 12-track album arrives April 9th via Nettwerk, with guest appearances from billy woods, Clarion, and more.\nPanchiko Announce New Album Chimera, Share &#8220;One Car Hits Another&#8221; Featuring M..."
+    },
+    {
+      "title": "LISA\u2019s \u2018Press Play\u2019: All 6 Tracks\u00a0Ranked",
+      "link": "https://www.billboard.com/lists/lisa-press-play-album-review-tracks-ranked/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-10-23 04:01",
+      "summary": "The global diva returns, relaxed and razor-sharp. Hit play, and a six-scene movie unfolds in your ears and behind your eyes."
+    },
+    {
+      "title": "The New Rock + Metal Albums Out This Week",
+      "link": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-10-23 04:01",
+      "summary": "\u2117 2026 BLKIIBLK, \u2117 2026 Century Media Records Ltd., \u2117 2026 InsideOutMusic under exclusive licence from The Flower Kings, \u2117 2026 Relapse Records Inc., BMG"
+    },
+    {
+      "title": "John Mayer Releases New Single \u201cTom and Jerry\u201d: Stream",
+      "link": "https://consequence.net/2026/10/john-mayer-sob-rock-records-tom-and-jerry/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-10-23 04:00",
+      "summary": "The singer-songwriter hasn\u2019t released new solo material since his 2021 album, Sob Rock.\nJohn Mayer Releases New Single &#8220;Tom and Jerry&#8221;: Stream\nKaran Singh"
+    },
+    {
+      "title": "Hilary Duff Unwraps an Early Christmas Present With \u2018Holiday Things\u2019 EP: Steam It\u00a0Now",
+      "link": "https://www.billboard.com/music/pop/hilary-duff-holiday-things-ep-steam-it-now-1236365867/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-10-23 04:00",
+      "summary": "In addition to a cover of the traditional \"Have Yourself a Merry Little Christmas,\" the mini-album features three originals."
+    },
+    {
+      "title": "SANTOS BRAVOS Sings New Song \u201cOoh Laka Laka La,\u201d A Snippet of What a Collab With Cristian Castro Would Sound Like, Teases 2027 Ventures | Billboard Latin Music Awards\u00a02026",
+      "link": "https://www.billboard.com/video/santos-bravos-sings-new-song-ooh-laka-laka-la/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-10-23 03:39",
+      "summary": "Santos Bravos chatted with Billboard\u2019s Ingrid Fajardo &#38; Jessica Roiz on the red carpet of 2026 Billboard\u2019s Latin Music Awards."
+    },
+    {
+      "title": "The Avalanches - No Bad Memories ALBUM REVIEW",
+      "link": "https://www.youtube.com/watch?v=ZAHEPtclKOg",
+      "source": "The Needle Drop",
+      "category": "general",
+      "published": "2026-10-23 02:46",
+      "summary": "Listen: https://www.youtube.com/watch?v=EpNSk8qu_Vo\n\nThe most fun album of The Avalanches' comeback so far.\n\nMore electronic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormX2pL9h0inES2Ub..."
+    },
+    {
+      "title": "Ryan Gosling\u2019s Band Dead Man\u2019s Bones Tease New Music After 17 Years",
+      "link": "https://consequence.net/2026/10/ryan-gosling-dead-mans-bones-new-music/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-10-23 01:59",
+      "summary": "The folk-rock duo seem ready to rise from the grave just in time for Halloween.\nRyan Gosling&#8217;s Band Dead Man&#8217;s Bones Tease New Music After 17 Years\nKaran Singh"
+    },
+    {
+      "title": "Raye on the \u201cbest birthday present\u201d of her Mercury Prize win: \u201cI just feel seriously seen\u201d",
+      "link": "https://www.nme.com/news/music/raye-mercury-prize-interview-winners-room-music-hope-birthday-royal-albert-hall-3973906?utm_source=rss&utm_medium=rss&utm_campaign=raye-mercury-prize-interview-winners-room-music-hope-birthday-royal-albert-hall",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-10-23 00:03",
+      "summary": "\nCheck out what Raye had to say in the winners room about perseverance, mental health and staying independent after she scored Mercury Prize gold for 'This Music May Contain Hope'\nThe post Raye on the..."
+    },
+    {
+      "title": "Charli XCX to Cameo in Martin Scorsese\u2019s New Horror Film With Leonardo DiCaprio, Jennifer Lawrence",
+      "link": "https://www.rollingstone.com/music/music-news/charli-xcx-martin-scorsese-horror-film-1235646987/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-10-22 23:58",
+      "summary": "The artist will feature in the gothic film based on Peter Cameron's novel, What Happens at Night"
+    },
+    {
+      "title": "Eminem's Former Employee Pleads Guilty to Stealing Rapper's Songs",
+      "link": "https://www.xxlmag.com/eminem-former-employee-guilty-stealing-songs/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-10-22 23:50",
+      "summary": "gorodenkoff/Aaron J. Thornton/iStock/Getty Images (2)"
+    },
+    {
+      "title": "Zach Bryan Announces 2027 \u201cYoung Manhood and Other Donatable Organs Tour\u201d",
+      "link": "https://consequence.net/2026/10/zach-bryan-2027-stadium-tour/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-10-22 23:26",
+      "summary": "The 23-date run will stop in 19 stadiums in support of his upcoming EP, Young Manhood and Other Donatable Organs.\nZach Bryan Announces 2027 &#8220;Young Manhood and Other Donatable Organs Tour&#8221;\n..."
+    },
+    {
+      "title": "Billy Corgan Wonders If Kanye West Took Inspiration From His Approach to Fame",
+      "link": "https://consequence.net/2026/10/billy-corgan-kanye-west-inspiration-fame/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-10-22 23:19",
+      "summary": "\"I wonder if he got that game from me, but maybe it was just in the water.\"\nBilly Corgan Wonders If Kanye West Took Inspiration From His Approach to Fame\nKaran Singh"
+    },
+    {
+      "title": "Raye Wins 2026 Mercury Prize",
+      "link": "https://pitchfork.com/story/raye-wins-2026-mercury-prize/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-10-22 23:09",
+      "summary": "She beat out Sir Paul McCartney, Olivia Dean, Jade, Nia Archives, and more"
+    },
+    {
+      "title": "Raye wins the Mercury Prize 2026: \u201cHope is just something that we all need. Music is medicine\u201d",
+      "link": "https://www.nme.com/news/music/mercury-prize-2026-winner-announced-raye-speech-performance-watch-3973848?utm_source=rss&utm_medium=rss&utm_campaign=mercury-prize-2026-winner-announced-raye-speech-performance-watch",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-10-22 22:30",
+      "summary": "\nThe ceremony took place in Newcastle tonight (Thursday October 22) with 'This Music May Contain Hope' beating records by the likes of Olivia Dean, Jade, Suede and more\nThe post Raye wins the Mercury ..."
+    },
+    {
+      "title": "Charli XCX Will Appear in a Martin Scorsese Film",
+      "link": "https://pitchfork.com/story/charli-xcx-will-appear-in-a-martin-scorsese-film/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-10-22 21:47",
+      "summary": "She reportedly makes a cameo in What Happens At Night with Leonardo DiCaprio and Jennifer Lawrence"
+    },
+    {
+      "title": "Billy Corgan Defends Friendship with Marilyn Manson: \u201cI Personally Didn\u2019t Feel That He Was Guilty\u201d",
+      "link": "https://consequence.net/2026/10/billy-corgan-defends-friendship-with-marilyn-manson/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-10-22 21:24",
+      "summary": "The Smashing Pumpkins frontman offers an explanation for maintaining his friendship with the shock rocker in a new podcast appearance.\nBilly Corgan Defends Friendship with Marilyn Manson: &#8220;I Per..."
+    },
+    {
+      "title": "Atlanta Rapper Shawty Dred Indicted in $42M Federal SNAP Fraud Sweep",
+      "link": "https://www.rollingstone.com/music/music-news/atlanta-rapper-shawty-dred-indicted-federal-snap-fraud-1235646825/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-10-22 21:24",
+      "summary": "The rapper and social media personality is allegedly connected to over 500 EBT fraud incidents in Georgia"
+    },
+    {
+      "title": "2hollis announces 2027 tour with Lucy Bedroque, Conceal",
+      "link": "https://www.thefader.com/2026/10/22/2hollis-2027-tour-dates-tickets-opener",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-10-22 21:17",
+      "summary": "The run will be in support of his upcoming album, Pirouette."
+    },
+    {
+      "title": "Queens of the Stone Age's Josh Homme Fights 'Loneliness' on Tour",
+      "link": "https://loudwire.com/josh-homme-loneliness-queens-of-the-stone-age-tours/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-10-22 21:07",
+      "summary": "Getty Images"
+    },
+    {
+      "title": "'Pawn Stars' Asked Ex-Slipknot Member to Authenticate a $15k Mask",
+      "link": "https://loudwire.com/slipknot-chris-fehn-pawn-stars-mask/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-10-22 20:39",
+      "summary": "Hayley Madden/Redferns, Getty Images, David Becker, Getty Images"
+    },
+    {
+      "title": "Last-Minute LEGO Halloween Decorations You Can Get Now and Still Get a Free Spooky Set",
+      "link": "https://consequence.net/2026/10/lego-halloween-sets-decorations-free-gift/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-10-22 20:31",
+      "summary": "Including Stranger Things, Wednesday, and X-Files sets, plus adorably spooky displays of skeletons and skulls.\nLast-Minute LEGO Halloween Decorations You Can Get Now and Still Get a Free Spooky Set\nBe..."
+    },
+    {
       "title": "John Mayer Launches New Label Sob Rock Records",
       "link": "https://www.rollingstone.com/music/music-news/john-mayer-new-label-sob-rock-records-1235646820/",
       "source": "Rolling Stone",
       "category": "general",
       "published": "2026-10-22 20:18",
       "summary": "Musician will release \u201cTom and Jerry,\u201d his first single since his 2021\u2019s Sob Rock, on the his new label"
-    },
-    {
-      "title": "There\u2019s a New Report on the Health of Global Nightlife Culture \u2014 How Did New York\u00a0Rate?",
-      "link": "https://www.billboard.com/pro/global-nightlife-report-new-york-seoul-sydney-scenes-rate/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-10-22 20:08",
-      "summary": "Assessing the scenes in Amsterdam, Lagos, New York, S\u00e3o Paulo, Seoul and Sydney, the Nighttime Culture Index was unveiled Thursday (Oct. 22) at ADE 2026."
-    },
-    {
-      "title": "John Anderson\u2019s Biggest Billboard Hits: \u2018Swingin\u2019,\u2019 \u2018Straight Tequila Night\u2019 &\u00a0More",
-      "link": "https://www.billboard.com/lists/john-anderson-top-songs-chart-hits/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-10-22 20:04",
-      "summary": "The Country Music Hall of Famer scored five No. 1s among 20 top 10s on Hot Country Songs."
     },
     {
       "title": "GEN F: Laila!\u2019s one-woman pop-R&amp;B show",
@@ -1037,14 +1347,6 @@
       "summary": "The 19-year old Brooklyn singer, songwriter and producer fell in love, has been in the studio with SZA, and has some shit to say on her sophomore album We\u2019ll Never Be This Young Again."
     },
     {
-      "title": "Lady Gaga\u2019s \u2018Joanne\u2019 at 10: Every Track\u00a0Ranked",
-      "link": "https://www.billboard.com/lists/lady-gaga-joanne-best-songs-ranked-anniversary/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-10-22 19:54",
-      "summary": "In honor of the 10th anniversary of Gaga's mid-career swerve, our ranking of each of the album's 14 tracks (including its bonus cuts)."
-    },
-    {
       "title": "Westside Gunn Announces New Album Heelmatic",
       "link": "https://pitchfork.com/story/westside-gunn-announces-new-album-heelmatic/",
       "source": "Pitchfork",
@@ -1053,52 +1355,12 @@
       "summary": "Lead single \u201cZilla\u201d features rapping on a camel in front of the Great Pyramid"
     },
     {
-      "title": "Damon Dash Sells Roc-A-Fella Movie Rights for $550,000 at Bankruptcy\u00a0Auction",
-      "link": "https://www.billboard.com/pro/damon-dash-roc-a-fella-movie-rights-bankruptcy/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-10-22 19:41",
-      "summary": "The profits will go toward repaying Dash's $25 million debts, including millions in unpaid taxes."
-    },
-    {
-      "title": "Feds Diss Pooh Shiesty for Claiming \u2018Inhumane\u2019 Jail Conditions, Citing \u2018Unfettered Access\u2019 to\u00a0Netflix",
-      "link": "https://www.billboard.com/pro/feds-respond-to-pooh-shiesty-complaints/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-10-22 19:35",
-      "summary": "The rapper claimed he was facing psychological harm from solitary confinement, but federal prosecutors tell a judge he's doing just fine in there."
-    },
-    {
-      "title": "\u2018ACOTAR\u2019 Book 6 Is Almost Here: Everything to Know About Sarah J. Maas\u2019 Next Two\u00a0Books",
-      "link": "https://www.billboard.com/culture/product-recommendations/acotar-books-6-7-release-dates-sarah-j-maas-buy-online-1236365976/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-10-22 19:31",
-      "summary": "After years of fan theories and rereads, the next ACOTAR book finally arrives Oct. 27, followed by another on Jan. 12, 2027."
-    },
-    {
-      "title": "From Adorable to Absurd, Shop Last-Minute \u2018KPop Demon Hunters\u2019 Halloween Costumes\u00a0Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-2026-halloween-costumes-shop-online-1236325097/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-10-22 19:31",
-      "summary": "The latest KPop Demon Hunters merch features Halloween costumes for the whole family, including your pets."
-    },
-    {
       "title": "Ecco2k drops first solo song in 5 years, \u201cAldehydes and Ketones\u201d",
       "link": "https://www.thefader.com/2026/10/22/ecco2k-aldehydes-and-ketones",
       "source": "The FADER",
       "category": "hiphop",
       "published": "2026-10-22 19:30",
       "summary": "Watch the multi-talented artist\u2019s new self-directed music video."
-    },
-    {
-      "title": "Tate McRae, Olivia Rodrigo & Chappell Roan and Zach Bryan & Lana Del Rey Should All Crash the Hot 100 Next Week \u2014\u00a0Who\u2019s Got the Best Shot at No.\u00a01?",
-      "link": "https://www.billboard.com/music/chart-beat/hot-100-number-one-olivia-rodrigo-tate-mcrae-zach-bryan-1236366335/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-10-22 19:29",
-      "summary": "It\u2019s gonna be a stacked week for big debuts and movers on the Hot 100 \u2014 but Taylor Swift and Ella Langley still stand in their way."
     },
     {
       "title": "Tom Skerritt, Alien and Picket Fences Star, Dead at 93",
@@ -1125,14 +1387,6 @@
       "summary": "\u201cOh me? I\u2019m uplifting Tinashe.\u201d"
     },
     {
-      "title": "A Full List of Current 2026-2027 Las Vegas Residencies\u00a0(Updating)",
-      "link": "https://www.billboard.com/culture/product-recommendations/current-las-vegas-residencies-shows-9654876/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-10-22 19:10",
-      "summary": "Catch a show in Las Vegas, including concert dates, artists performing and where to buy affordable tickets online."
-    },
-    {
       "title": "Hoobastank Cancel Long-Awaited Brazil Tour as \u201cRising Logistical Costs\u201d Make Shows \u201cImpossible\u201d",
       "link": "https://consequence.net/2026/10/hoobastank-cancel-brazil-tour-cite-rising-logistical-costs/",
       "source": "Consequence",
@@ -1147,14 +1401,6 @@
       "category": "hiphop",
       "published": "2026-10-22 19:04",
       "summary": "Presley Ann/Getty Images for Complex"
-    },
-    {
-      "title": "John Mayer Signs With Mercury\u00a0Records",
-      "link": "https://www.billboard.com/pro/john-mayer-signs-mercury-records-launches-sob-rock-records/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-10-22 19:02",
-      "summary": "The rocker parted with Columbia Records in 2022 after his eighth album, Sob Rock."
     },
     {
       "title": "Zach Bryan\u2019s 2027 Tour: How to Get Tickets",
@@ -1187,223 +1433,7 @@
       "category": "general",
       "published": "2026-10-22 18:34",
       "summary": "Sharon also revealed that not even her own children knew the severity of Ozzy's illness.\nSharon Osbourne: Black Sabbath Bandmates &#8220;Didn&#8217;t Know How Sick Ozzy Was&#8221; at Final Concert\nLan..."
-    },
-    {
-      "title": "Eminem\u2019s Former Employee Pleads Guilty to Leaking Rapper\u2019s Unreleased Music",
-      "link": "https://www.rollingstone.com/music/music-news/eminem-former-employee-guilty-leaking-unreleased-music-1235646780/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-10-22 18:33",
-      "summary": "Joseph Strange, who worked for rapper for 14 years, faces five years in prison on charge of criminal infringement of a copyright"
-    },
-    {
-      "title": "Jadakiss' Son Tells Biggie's Son He Hates the Ready to Die Album",
-      "link": "https://www.xxlmag.com/jadakiss-son-jaewon-hates-the-notorious-big-ready-to-die/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-10-22 18:33",
-      "summary": "Silver Spoons Podcast/YouTube/Bad Boy Records"
-    },
-    {
-      "title": "Interpol Announce 2027 US Tour with Deafheaven",
-      "link": "https://consequence.net/2026/10/interpol-2027-us-tour-dates-deafheaven/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-10-22 18:28",
-      "summary": "The nine-date run comes in support of their latest album, This Mirror Weighs a Ton.\nInterpol Announce 2027 US Tour with Deafheaven\nEddie Fu"
-    },
-    {
-      "title": "Man Who Allegedly Pistol-Whipped Rick Ross' Son Thanks 50 Cent",
-      "link": "https://www.xxlmag.com/man-pistol-whipped-rick-ross-son-bond-jail/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-10-22 17:18",
-      "summary": "50 Cent/Instagram/Jason Mendez/Getty Images for Paramount Pictures"
-    },
-    {
-      "title": "Fleetwood Mac Documentary Sets January 2027 Premiere on Apple TV",
-      "link": "https://consequence.net/2026/10/fleetwood-mac-the-chain-documentary-apple-tv-release-date/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-10-22 17:14",
-      "summary": "The fully authorized documentary, directed by Frank Marshall, features never-before-seen footage and exclusive new interviews.\nFleetwood Mac Documentary Sets January 2027 Premiere on Apple TV\nEddie Fu"
-    },
-    {
-      "title": "Interpol Plot 2027 North American Tour With Deafheaven",
-      "link": "https://pitchfork.com/story/interpol-plot-2027-north-american-tour-with-deafheaven/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-10-22 17:11",
-      "summary": "The two bands are linking up for a run through Mexico and the southern U.S."
-    },
-    {
-      "title": "Kid Rock Says Trump Allegiance Has Cost Him Corporate Deals and Late-Night TV Appearances",
-      "link": "https://consequence.net/2026/10/kid-rock-trump-allegiance-ramifications/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-10-22 17:06",
-      "summary": "The musician details the ramifications resulting from his support of the current president.\nKid Rock Says Trump Allegiance Has Cost Him Corporate Deals and Late-Night TV Appearances\nSpencer Kaufman"
-    },
-    {
-      "title": "SNL Sets New Episodes with The Strokes and Phoebe Bridgers",
-      "link": "https://consequence.net/2026/10/snl-new-episodes-the-strokes-and-phoebe-bridgers/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-10-22 17:00",
-      "summary": "Bridgers will appear on the November 14th episode hosted by John Mulaney.\nSNL Sets New Episodes with The Strokes and Phoebe Bridgers\nAlex Young"
-    },
-    {
-      "title": "2Hollis Announces 2027 Tour",
-      "link": "https://pitchfork.com/story/2hollis-announces-2027-tour/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-10-22 16:44",
-      "summary": "The rapper-producer is trekking between North America and Europe from the winter through spring"
-    },
-    {
-      "title": "Stream #Vymara, a horror comedy about being extremely online",
-      "link": "https://www.altpress.com/vymara-veeps-stream/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-10-22 16:35",
-      "summary": "Tune in to the global premiere and Q&amp;A on Veeps."
-    },
-    {
-      "title": "IAMDDB on Israel Sharing AI Video Using Her Image Without Consent: \u2018I Stand for Humanity\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/israel-sharing-ai-video-iamddb-image-without-consent-1235645765/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-10-22 16:31",
-      "summary": "\u201cI do not support genocide, the killing of innocent people, or the suffering of women, children, and families,\u201d singer writes"
-    },
-    {
-      "title": "Anuel AA Announces Corridos Album, Maluma Reveals Plans to Explore M\u00fasica Mexicana",
-      "link": "https://consequence.net/2026/10/anuel-aa-maluma-corridos-musica-mexicana/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-10-22 16:29",
-      "summary": "The two urbano stars discussed their interest in Mexican music during separate appearances at Billboard Latin Music Week.\nAnuel AA Announces Corridos Album, Maluma Reveals Plans to Explore M\u00fasica Mexi..."
-    },
-    {
-      "title": "2hollis Announces 2027 \u201cPirouette\u201d Tour",
-      "link": "https://consequence.net/2026/10/2hollis-2027-pirouette-north-american-tour/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-10-22 16:27",
-      "summary": "2hollis' biggest tour yet kicks off in February 2027 and includes a hometown arena show at the Kia Forum. \n2hollis Announces 2027 &#8220;Pirouette&#8221; Tour\nPaolo Ragusa"
-    },
-    {
-      "title": "Funk Flex Addresses Heated Altercation With Music Executive at New York Knicks Game",
-      "link": "https://www.rollingstone.com/music/music-news/funk-flex-fight-new-york-knicks-game-1235646120/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-10-22 16:23",
-      "summary": "Flex denied being assaulted, accusing Shadow Stokes of attempting to \u201cbait\u201d him into a lawsuit"
-    },
-    {
-      "title": "Blueface & Chrisean Rock Breakup Again After Engagement This Time",
-      "link": "https://www.xxlmag.com/blueface-chrisean-rock-breakup-again/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-10-22 16:17",
-      "summary": "osherro/iStock/Getty Images Plus/NoJumper/X/H0use0fBlues/Instagram"
-    },
-    {
-      "title": "Fleetwood Mac Set Authorized Documentary Tied to \u2018Rumours\u2019 50th Anniversary",
-      "link": "https://www.rollingstone.com/music/music-news/fleetwood-mac-apple-tv-documentary-1235646500/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-10-22 16:13",
-      "summary": "Frank Marshall\u2019s Fleetwood Mac: The Chain arrives in January on Apple TV"
-    },
-    {
-      "title": "The Last Song 15 Big Rock + Metal Played at Their Final Show",
-      "link": "https://loudwire.com/final-song-rock-metal-bands/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-10-22 16:11",
-      "summary": "Dia Dipasupil, Getty Images, Kevin Winter, Getty Images, Jeff Gentner, Getty Images"
-    },
-    {
-      "title": "Mark Ronson, Jessie Reyez, Corinne Bailey Rae Lead All-Star Amy Winehouse Tribute Concert",
-      "link": "https://www.rollingstone.com/music/music-news/mark-ronson-jessie-reyez-amy-winehouse-tribute-concert-1235646567/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-10-22 15:47",
-      "summary": "Twentieth-anniversary celebration of Back to Black in London also featured Salaam Remi, Yebba, Lianne La Havas, the Amy Winehouse Band and more"
-    },
-    {
-      "title": "Cliff Richard says he\u2019s \u201clearning reggae\u201d for new version of \u2018The Lord Is My Shepherd\u2019 for Christmas single",
-      "link": "https://www.nme.com/news/music/cliff-richard-says-hes-learning-reggae-for-new-version-of-the-lord-is-my-shepherd-for-christmas-single-3973872?utm_source=rss&utm_medium=rss&utm_campaign=cliff-richard-says-hes-learning-reggae-for-new-version-of-the-lord-is-my-shepherd-for-christmas-single",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-10-22 15:46",
-      "summary": "\nOne music fan said the idea \"sounds so wrong\", while another dubbed the singer \"Spliff Richard\"\nThe post Cliff Richard says he&#8217;s &#8220;learning reggae&#8221; for new version of &#8216;The Lord..."
-    },
-    {
-      "title": "Fleetwood Mac Announce Fleetwood Mac Documentary",
-      "link": "https://pitchfork.com/story/fleetwood-mac-announces-fleetwood-mac-documentary/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-10-22 15:40",
-      "summary": "Fleetwood Mac: The Chain hits Apple TV in January"
-    },
-    {
-      "title": "Kacey Musgraves Reveals Middle of Nowhere Companion Album",
-      "link": "https://pitchfork.com/story/kacey-musgraves-reveals-middle-of-nowhere-companion-album/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-10-22 15:40",
-      "summary": "She\u2019ll unvault the 16-track Tex Mex Tapes on January 15"
-    },
-    {
-      "title": "Spanish Pop Star Aitana Joins Martin Garrix for His First Spanish-Language Song on Upcoming Album",
-      "link": "https://consequence.net/2026/10/aitana-joins-martin-garrix-new-album-marty/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-10-22 15:31",
-      "summary": "The long-rumored collaboration was recently previewed in Mexico City, ahead of the album\u2019s March 2027 release.\nSpanish Pop Star Aitana Joins Martin Garrix for His First Spanish-Language Song on Upcomi..."
-    },
-    {
-      "title": "My Chemical Romance Bring Out \u201cDallas Cowboys Cheerleaders\u201d at Hollywood Bowl: Watch",
-      "link": "https://consequence.net/2026/10/my-chemical-romance-dallas-cowboys-cheerleaders-hollywood-bowl/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-10-22 15:10",
-      "summary": "The unexpected moment went down during their performance of\u00a0The Black Parade cut \"Teenagers.\"\nMy Chemical Romance Bring Out &#8220;Dallas Cowboys Cheerleaders&#8221; at Hollywood Bowl: Watch\nEddie Fu"
-    },
-    {
-      "title": "Sonic Temple unveils 2027 lineup",
-      "link": "https://www.altpress.com/sonic-temple-2027-lineup/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-10-22 15:08",
-      "summary": "blink-182, Turnstile, Knocked Loose, Faith No More, the Paradox, and more will perform."
-    },
-    {
-      "title": "Ali G: Who Iz I? Is So Unfunny It\u2019s a Little Evil: Review",
-      "link": "https://consequence.net/2026/10/ali-g-who-iz-i-review-sacha-baron-cohen/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-10-22 15:00",
-      "summary": "The mockumentary starring and directed by Sacha Baron Cohen fails on multiple levels. \nAli G: Who Iz I? Is So Unfunny It\u2019s a Little Evil: Review\nLiz Shannon Miller"
-    },
-    {
-      "title": "Fontaines D.C. kick off \u2018Dopamine Chamber\u2019 arena tour in Lisbon",
-      "link": "https://www.nme.com/news/music/fontaines-dc-kick-off-dopamine-chamber-arena-tour-in-lisbon-watch-footage-full-setlist-3973857?utm_source=rss&utm_medium=rss&utm_campaign=fontaines-dc-kick-off-dopamine-chamber-arena-tour-in-lisbon-watch-footage-full-setlist",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-10-22 14:54",
-      "summary": "\nThey aired numerous cuts from their acclaimed new album, as well as some fan favourites and classics \nThe post Fontaines D.C. kick off &#8216;Dopamine Chamber&#8217; arena tour in Lisbon appeared fir..."
-    },
-    {
-      "title": "Daft Punk and LEGO Join Forces for New Partnership, \u201cAlive 2007\u201d Set Confirmed",
-      "link": "https://consequence.net/2026/10/daft-punk-alive-2007-lego-set/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-10-22 14:41",
-      "summary": "The French electronic duo and the brick building model company's partnership will include the \"Alive 2007\" set.\nDaft Punk and LEGO Join Forces for New Partnership, &#8220;Alive 2007&#8221; Set Confirm..."
     }
   ],
-  "last_updated": "2026-10-22T20:29:03.379604"
+  "last_updated": "2026-10-23T10:57:12.861495"
 }

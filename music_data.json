@@ -1,6 +1,16 @@
 {
   "hiphop": [
     {
+      "name": "FRESH",
+      "artists": "Lil Baby",
+      "release_date": "2026-11-06",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c965434565e419d6d8f7ef3a",
+      "spotify_url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP",
+      "apple_music_url": "https://music.apple.com/us/album/dead-fresh-single/6791695694?uo=4",
+      "total_tracks": 17,
+      "album_type": "album"
+    },
+    {
       "name": "The Fork and Knife",
       "artists": "Skepta",
       "release_date": "2026-11-06",
@@ -21,14 +31,14 @@
       "album_type": "single"
     },
     {
-      "name": "Off To The Races",
-      "artists": "Curren$y, Harry Fraud",
+      "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+      "artists": "Future, Drake, Travis Scott, Loe Shimmy",
       "release_date": "2026-11-06",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3c00ed7121084b7b1260304",
-      "spotify_url": "https://open.spotify.com/album/4NSikX8OQIWNRrcGFy4dbt",
-      "apple_music_url": "https://music.apple.com/us/search?term=Off%20To%20The%20Races%20Curren%24y",
-      "total_tracks": 10,
-      "album_type": "album"
+      "image": "https://i.scdn.co/image/ab67616d0000b2738c4583b1cbf2b51ec79dd66b",
+      "spotify_url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd",
+      "apple_music_url": "https://music.apple.com/us/search?term=Ya%20Hit%20Future",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "Aloe Vera (feat. Asake)",
@@ -39,6 +49,16 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Aloe%20Vera%20Skepta",
       "total_tracks": 1,
       "album_type": "single"
+    },
+    {
+      "name": "Off To The Races",
+      "artists": "Curren$y, Harry Fraud",
+      "release_date": "2026-11-06",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3c00ed7121084b7b1260304",
+      "spotify_url": "https://open.spotify.com/album/4NSikX8OQIWNRrcGFy4dbt",
+      "apple_music_url": "https://music.apple.com/us/search?term=Off%20To%20The%20Races%20Curren%24y",
+      "total_tracks": 10,
+      "album_type": "album"
     },
     {
       "name": "Broken Hearts (feat. Central Cee & Jorja Smith)",
@@ -67,6 +87,26 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d2d0289986be05110179ccc2",
       "spotify_url": "https://open.spotify.com/album/2lMtd3JFKranwOBgwHVGcv",
       "apple_music_url": "https://music.apple.com/us/album/grain-of-salt-feat-bizzy-crook-single/6825104503?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Tryna Get High",
+      "artists": "Tezzus, Trippie Redd",
+      "release_date": "2026-11-06",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f28c947d1221b21ec4b805b",
+      "spotify_url": "https://open.spotify.com/album/0bokuJTfjGVt0PPXGYZUWL",
+      "apple_music_url": "https://music.apple.com/us/search?term=Tryna%20Get%20High%20Tezzus",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "EXPOSED. ft Quavo.",
+      "artists": "YFN Lucci, Quavo",
+      "release_date": "2026-11-06",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b507b8716f184c85472aa25",
+      "spotify_url": "https://open.spotify.com/album/2ZEh1rTXVI5QkF4sH6aiR1",
+      "apple_music_url": "https://music.apple.com/us/search?term=EXPOSED.%20ft%20Quavo.%20YFN%20Lucci",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -101,13 +141,13 @@
       "album_type": "single"
     },
     {
-      "name": "Tryna Get High",
-      "artists": "Tezzus, Trippie Redd",
+      "name": "Late Night",
+      "artists": "Desiigner",
       "release_date": "2026-11-06",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735f28c947d1221b21ec4b805b",
-      "spotify_url": "https://open.spotify.com/album/0bokuJTfjGVt0PPXGYZUWL",
-      "apple_music_url": "https://music.apple.com/us/search?term=Tryna%20Get%20High%20Tezzus",
-      "total_tracks": 1,
+      "image": "https://i.scdn.co/image/ab67616d0000b27336f0ab200f92ab5f7c7599e6",
+      "spotify_url": "https://open.spotify.com/album/6xXjjTNK5Efcz47cVulSV3",
+      "apple_music_url": "https://music.apple.com/us/search?term=Late%20Night%20Desiigner",
+      "total_tracks": 5,
       "album_type": "single"
     },
     {
@@ -119,46 +159,6 @@
       "apple_music_url": "https://music.apple.com/us/album/t-h-e-the-hamilton-experience/6808744695?uo=4",
       "total_tracks": 11,
       "album_type": "album"
-    },
-    {
-      "name": "Late Night",
-      "artists": "Desiigner",
-      "release_date": "2026-11-06",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336f0ab200f92ab5f7c7599e6",
-      "spotify_url": "https://open.spotify.com/album/6xXjjTNK5Efcz47cVulSV3",
-      "apple_music_url": "https://music.apple.com/us/search?term=Late%20Night%20Desiigner",
-      "total_tracks": 5,
-      "album_type": "single"
-    },
-    {
-      "name": "FRESH",
-      "artists": "Lil Baby",
-      "release_date": "2026-11-06",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c965434565e419d6d8f7ef3a",
-      "spotify_url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP",
-      "apple_music_url": "https://music.apple.com/us/album/dead-fresh-single/6791695694?uo=4",
-      "total_tracks": 17,
-      "album_type": "album"
-    },
-    {
-      "name": "EXPOSED. ft Quavo.",
-      "artists": "YFN Lucci, Quavo",
-      "release_date": "2026-11-06",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739b507b8716f184c85472aa25",
-      "spotify_url": "https://open.spotify.com/album/2ZEh1rTXVI5QkF4sH6aiR1",
-      "apple_music_url": "https://music.apple.com/us/search?term=EXPOSED.%20ft%20Quavo.%20YFN%20Lucci",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
-      "artists": "Future, Drake, Travis Scott, Loe Shimmy",
-      "release_date": "2026-11-06",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738c4583b1cbf2b51ec79dd66b",
-      "spotify_url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd",
-      "apple_music_url": "https://music.apple.com/us/search?term=Ya%20Hit%20Future",
-      "total_tracks": 1,
-      "album_type": "single"
     },
     {
       "name": "Jiggly Bow Bow (with Sexyy Red)",
@@ -246,7 +246,7 @@
       "release_date": "2026-10-30",
       "image": "https://i.scdn.co/image/ab67616d0000b273d8d798140178d163c4e6b77f",
       "spotify_url": "https://open.spotify.com/album/4Vjz8h1mL6g09olXnuAl7r",
-      "apple_music_url": "https://music.apple.com/us/search?term=COSITA%20Daddy%20Yankee",
+      "apple_music_url": "https://music.apple.com/us/album/cosita-single/6829964006?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -326,7 +326,7 @@
       "release_date": "2026-10-24",
       "image": "https://i.scdn.co/image/ab67616d0000b2730176f54edd31be2080f6b32e",
       "spotify_url": "https://open.spotify.com/album/7us0zl46Z7mkATIjbMuZop",
-      "apple_music_url": "https://music.apple.com/us/album/tina-tuesday-freestyles-single/6827195439?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Tina%20Tuesday%20Freestyles%20Megan%20Thee%20Stallion",
       "total_tracks": 3,
       "album_type": "single"
     },
@@ -406,7 +406,7 @@
       "release_date": "2026-10-16",
       "image": "https://i.scdn.co/image/ab67616d0000b2735be741623ae153f969adf7e9",
       "spotify_url": "https://open.spotify.com/album/23jiSmKXfw5t0lRXk6QPB9",
-      "apple_music_url": "https://music.apple.com/us/album/against-all-odds/6822478641?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Against%20All%20Odds%20Gucci%20Mane",
       "total_tracks": 17,
       "album_type": "album"
     },
@@ -476,7 +476,7 @@
       "release_date": "2026-10-16",
       "image": "https://i.scdn.co/image/ab67616d0000b2739a6c110531f896c02b26a986",
       "spotify_url": "https://open.spotify.com/album/295ZwC1tpmj6ez3X0vK0aW",
-      "apple_music_url": "https://music.apple.com/us/album/so-real-single/6817159471?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=So%20Real%20Ackrite",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -486,7 +486,7 @@
       "release_date": "2026-10-16",
       "image": "https://i.scdn.co/image/ab67616d0000b273c6d937759917bf11ffbd4b08",
       "spotify_url": "https://open.spotify.com/album/6ZW1rnFAUwGUHFcqJ9skJu",
-      "apple_music_url": "https://music.apple.com/us/album/things-dont-change-music-inspired-by-laikas-wildwood/6825132949?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=%27Things%20Don%27t%20Change%27%20%28Music%20Inspired%20by%20LAIKA%27s%20Wildwood%29%20Amin%C3%A9",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -506,7 +506,7 @@
       "release_date": "2026-10-15",
       "image": "https://i.scdn.co/image/ab67616d0000b2734c4af9f49f2c276dca687ced",
       "spotify_url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8",
-      "apple_music_url": "https://music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-original-score-single/6819802963?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Flower%20In%20A%20Hurricane%20%5BFrom%20GTAVI%3A%20Original%20Score%5D%20Justice",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -546,7 +546,7 @@
       "release_date": "2026-10-09",
       "image": "https://i.scdn.co/image/ab67616d0000b273280adcd77284ed590f9a4d7b",
       "spotify_url": "https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv",
-      "apple_music_url": "https://music.apple.com/us/album/pop-it-single/6819441629?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=pop%20it%20Gunna",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -741,6 +741,16 @@
       "album_type": "single"
     },
     {
+      "name": "Price of Pain (Luxury Edition)",
+      "artists": "Dave East, Harry Fraud",
+      "release_date": "2026-09-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b27361aac5b9388d37f3357b38b3",
+      "spotify_url": "https://open.spotify.com/album/7tyhqj0KKgYy6GKYVhotdT",
+      "apple_music_url": "https://music.apple.com/us/search?term=Price%20of%20Pain%20Dave%20East",
+      "total_tracks": 19,
+      "album_type": "album"
+    },
+    {
       "name": "Single (feat. Bryson Tiller)",
       "artists": "Victoria Mon\u00e9t, Bryson Tiller",
       "release_date": "2026-09-30",
@@ -757,6 +767,16 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27310f329e3420b661df6f86728",
       "spotify_url": "https://open.spotify.com/album/3sqKpIBO5ST20iCc5kY5nA",
       "apple_music_url": "https://music.apple.com/us/search?term=Pink%20Blush%20%28Remix%29%20Dolly%20Babe",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "heaven sent",
+      "artists": "Lil Peep",
+      "release_date": "2026-09-25",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335ec7b6b387eca6df1463619",
+      "spotify_url": "https://open.spotify.com/album/2h0NjnVV7khqZFGxSSAlpb",
+      "apple_music_url": "https://music.apple.com/us/search?term=heaven%20sent%20Lil%20Peep",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1031,34 +1051,256 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Teenage%20Sex%20and%20Death%20at%20Camp%20Miasma%20%28Original%20Motion%20Picture%20Score%29%20Alex%20G",
       "total_tracks": 18,
       "album_type": "album"
-    },
-    {
-      "name": "Who's That",
-      "artists": "The War On Drugs",
-      "release_date": "2026-09-09",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ca74e034a90fe5eb152d4e59",
-      "spotify_url": "https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH",
-      "apple_music_url": "https://music.apple.com/us/search?term=Who%27s%20That%20The%20War%20On%20Drugs",
-      "total_tracks": 1,
-      "album_type": "single"
     }
   ],
   "news": [
     {
-      "title": "Deep Purple\u2019s Ian Gillan Shares Encouraging News After Undergoing\u00a0Surgery",
-      "link": "https://www.billboard.com/music/rock/deep-purple-ian-gillan-health-update-after-surgery-1236376961/",
+      "title": "Taylor Swift and Karlie Kloss Attend Travis Kelce\u2019s Chiefs Game in Kansas\u00a0City",
+      "link": "https://www.billboard.com/music/music-news/taylor-swift-karlie-kloss-travis-kelce-chiefs-game-1236377058/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-07 20:43",
-      "summary": "\u201cI now have to rest, in order to make a complete recovery,\u201d the singer wrote."
+      "published": "2026-11-08 20:58",
+      "summary": "The longtime friends reunited to watch the Kansas City Chiefs take on the New York Jets at Arrowhead Stadium on Nov. 8."
     },
     {
-      "title": "Richard Lloyd, Television Guitarist, Dies at\u00a075",
-      "link": "https://www.billboard.com/music/music-news/richard-lloyd-death-television-guitarist-dies-obituary-1236376953/",
+      "title": "Michael Jackson\u2019s \u2018Thriller\u2019 Scares Up Highest Rank on Billboard 200 Albums Chart in More Than 40\u00a0Years",
+      "link": "https://www.billboard.com/music/chart-beat/michael-jackson-thriller-surges-billboard-200-halloween-1236377051/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-07 19:09",
-      "summary": "The musician was diagnosed with bile duct cancer in March 2026."
+      "published": "2026-11-08 20:02",
+      "summary": "The classic, which spent 37 weeks at No. 1 in 1983-84, surged sparked by Halloween."
+    },
+    {
+      "title": "Olivia Rodrigo\u2019s \u2018you seem pretty sad for a girl so in love\u2019 Notches Fourth Week Atop Billboard\u00a0200",
+      "link": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-back-no-1-billboard-200-1236377042/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-08 20:00",
+      "summary": "Plus, Michael Jackson\u2019s Thriller surges to No. 2, while ILLIT, BigXthaPlug and Queens of the Stone age debut in the top 10."
+    },
+    {
+      "title": "Del Casher, Guitarist Who Invented the Wah-Wah Pedal, Dead at 88",
+      "link": "https://www.rollingstone.com/music/music-news/del-casher-guitarist-invented-wah-wah-pedal-dead-obituary-1235654482/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-08 19:13",
+      "summary": "Musician and inventor who played with artists like Elvis Presley, Gene Autry and Frank Zappa died October 1 after cancer battle"
+    },
+    {
+      "title": "Celine Dion Goes Backstage With Metallica After Rocking Out at Sphere: \u2018Loved the\u00a0Show\u2019",
+      "link": "https://www.billboard.com/music/music-news/celine-dion-metallica-backstage-photos-sphere-1236377038/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-08 18:58",
+      "summary": "The Grammy-winning singer was spotted enjoying the show alongside Jack Black."
+    },
+    {
+      "title": "Dave Chappelle Jokes He \u201cFeels Better\u201d After Charlie Kirk Killing",
+      "link": "https://consequence.net/2026/11/dave-chappelle-charlie-kirk-joke/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-08 18:51",
+      "summary": "The never-shy-of-controversy comedian joked about the right-wing influencer's killing at a Madison Square Garden show.\nDave Chappelle Jokes He &#8220;Feels Better&#8221; After Charlie Kirk Killing\nTra..."
+    },
+    {
+      "title": "Rosal\u00eda Celebrates Lux Anniversary with 1,000-Song Playlist",
+      "link": "https://pitchfork.com/story/rosalia-celebrates-lux-anniversary-with-1000-song-playlist/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-11-08 17:28",
+      "summary": "Featuring Mozart, Yung Lean, Labi Siffre, and Pink Floyd"
+    },
+    {
+      "title": "The Strokes Get a Surprise Visit From Walton Goggins During \u2018SNL\u2019 Performance:\u00a0Watch",
+      "link": "https://www.billboard.com/music/rock/the-strokes-snl-walton-goggins-cameo-performance-video-1236377034/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-08 17:20",
+      "summary": "The NYC band performed \u201cLonely in the Future\u201d and \u201cGoing Shopping\u201d during its Nov. 7 appearance on the show."
+    },
+    {
+      "title": "U2 Speak Up About Ed Sheeran, Macklemore \u201cFree Palestine\u201d Controversy, Criticize Rich Stadium Owners",
+      "link": "https://consequence.net/2026/11/u2-on-ed-sheeran-macklemore-controversy/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-08 17:10",
+      "summary": "The Irish band supported the rapper's right to speak up while also offering encouragement to the English singer-songwriter.\nU2 Speak Up About Ed Sheeran, Macklemore &#8220;Free Palestine&#8221; Contro..."
+    },
+    {
+      "title": "The Pop Star Who Helped MCR Land Their First No. 1 Album",
+      "link": "https://loudwire.com/pop-star-helped-my-chemical-romance-first-no-1-album/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-08 16:53",
+      "summary": "Allen J. Schaben/Los Angeles Times via Getty Images / Canva / Reprise / Rob Kim, Getty Images"
+    },
+    {
+      "title": "SNL Debuts Humiliating Elon Musk Impersonation",
+      "link": "https://consequence.net/2026/11/snl-elon-musk-impersonation/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-08 16:28",
+      "summary": "Jeremy Culhane nailed Musk's awkward cadence and mannerisms, as well as his penchant for self-humiliation\nSNL Debuts Humiliating Elon Musk Impersonation\nAlex Young"
+    },
+    {
+      "title": "Alanis Morissette Reveals She\u2019s Pansexual",
+      "link": "https://consequence.net/2026/11/alanis-morissette-reveals-shes-pansexual/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-08 15:31",
+      "summary": "The Canadian singer-songwriter joked, \"I get everything,\" after being asked if she ever considered being a lesbian.\nAlanis Morissette Reveals She&#8217;s Pansexual\nTravis Bland"
+    },
+    {
+      "title": "Hayley Williams Hangs in Her Hotel Room in \u201cDream Girl in Shibuya\u201d Video",
+      "link": "https://pitchfork.com/story/hayley-williams-hangs-in-a-hotel-room-in-new-dream-girl-in-shibuya-video/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-11-08 15:29",
+      "summary": "The Ego Death at a Bachelorette Party track just got a black-and-white visual to match"
+    },
+    {
+      "title": "The Strokes Skewer Billionaire Class in Puppet-Filled \u201cLonely in the Future\u201d Video",
+      "link": "https://consequence.net/2026/11/the-strokes-lonely-in-the-future-video/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-08 15:13",
+      "summary": "Elon Musk, Jeff Bezos, Mark Zuckerberg, and Rupert Murdoch are presented as puppets in The Strokes' latest visual in support of Reality Awaits.\nThe Strokes Skewer Billionaire Class in Puppet-Filled &#..."
+    },
+    {
+      "title": "Watch the Strokes Play \u201cLonely in the Future\u201d and \u201cGoing Shopping\u201d on SNL",
+      "link": "https://pitchfork.com/story/watch-the-strokes-play-lonely-in-the-future-and-going-shopping-on-snl/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-11-08 14:50",
+      "summary": "Nick Valensi didn\u2019t join, but Walton Goggins did"
+    },
+    {
+      "title": "Sepultura Celebrate Career at Final Show - See Setlist + Video",
+      "link": "https://loudwire.com/sepultura-final-show-setlist-video/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-08 14:45",
+      "summary": "Danny Wimmer Presents / @TheGrainyPerspective / Medios y Media, Getty Images"
+    },
+    {
+      "title": "The Strokes Join SNL Five-Timers Club With Dazzling Visuals and Walton Goggins",
+      "link": "https://consequence.net/2026/11/the-strokes-join-snl-five-timers-club-with-dazzling-visuals-and-walton-goggins/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-08 14:44",
+      "summary": "The NYC alt-rockers performed \"Lonely in the Future\" and \"Going Shopping.\"\nThe Strokes Join SNL Five-Timers Club With Dazzling Visuals and Walton Goggins\nAlex Young"
+    },
+    {
+      "title": "Justin Timberlake Reveals \u2018What Goes Around\u2026 Comes Around\u2019 Is Not About Britney Spears",
+      "link": "https://www.rollingstone.com/music/music-news/justin-timberlake-what-goes-around-comes-around-britney-spears-1235654443/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-08 14:33",
+      "summary": "\"Maybe I should dispel a rumor at this point, which has gone around forever, which is like, it\u2019s not a personal story from mine,\" singer says of FutureSex/LoveSounds hit"
+    },
+    {
+      "title": "Rosal\u00eda celebrates one year of \u2018Lux\u2019 with 1,000-song playlist and anniversary box set",
+      "link": "https://www.nme.com/news/music/rosalia-celebrates-one-year-lux-1000-song-playlist-anniversary-box-set-3975386?utm_source=rss&utm_medium=rss&utm_campaign=rosalia-celebrates-one-year-lux-1000-song-playlist-anniversary-box-set",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-08 11:49",
+      "summary": "\nThe Spanish star has reflected on the making of her acclaimed fourth album: \"I was thinking about cathedrals\"\nThe post Rosal\u00eda celebrates one year of \u2018Lux\u2019 with 1,000-song playlist and anniversary bo..."
+    },
+    {
+      "title": "NFL Madrid Game Halftime Show 2026: Here\u2019s Where to Watch Manuel Turizo Perform Live Online\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/nfl-madrid-game-2026-manuel-turizo-halftime-watch-live-free-1236373868/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-08 11:30",
+      "summary": "Livestream the Cincinnati Bengals taking on the Atlanta Falcons live from Madrid on Nov. 8. Watch Manuel Turizo perform at halftime."
+    },
+    {
+      "title": "Watch Blink-182\u2019s Mark Hoppus join Jimmy Eat World for \u2018A Praise Chorus\u2019 at The Hollywood Bowl",
+      "link": "https://www.nme.com/news/music/blink-182-mark-hoppus-jimmy-eat-world-a-praise-chorus-hollywood-bowl-3975382?utm_source=rss&utm_medium=rss&utm_campaign=blink-182-mark-hoppus-jimmy-eat-world-a-praise-chorus-hollywood-bowl",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-08 10:35",
+      "summary": "\nThe two bands have a long history together, with Jimmy Eat World even performing at Tom DeLonge's wedding in 2001\nThe post Watch Blink-182&#8217;s Mark Hoppus join Jimmy Eat World for &#8216;A Praise..."
+    },
+    {
+      "title": "Watch The Strokes perform \u2018Lonely In The Future\u2019 and \u2018Going Shopping\u2019 with Walton Goggins on \u2018SNL\u2019",
+      "link": "https://www.nme.com/news/music/the-strokes-lonely-in-the-future-going-shopping-walton-goggins-snl-3975379?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-lonely-in-the-future-going-shopping-walton-goggins-snl",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-08 09:32",
+      "summary": "\nThe New York band made their fifth appearance on the show, which was hosted by comedian Druski\nThe post Watch The Strokes perform \u2018Lonely In The Future\u2019 and \u2018Going Shopping\u2019 with Walton Goggins on \u2018S..."
+    },
+    {
+      "title": "Tributes paid after death of Television guitarist Richard Lloyd: \u201cA seeker and finder and a true inspiration\u201d",
+      "link": "https://www.nme.com/news/music/tributes-paid-after-death-of-television-guitarist-richard-lloyd-a-seeker-and-finder-and-a-true-inspiration-3975375?utm_source=rss&utm_medium=rss&utm_campaign=tributes-paid-after-death-of-television-guitarist-richard-lloyd-a-seeker-and-finder-and-a-true-inspiration",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-08 08:36",
+      "summary": "\nJohnny Marr and Lloyd Cole are among those remembering the influential musician, who has died aged 75\nThe post Tributes paid after death of Television guitarist Richard Lloyd: &#8220;A seeker and fin..."
+    },
+    {
+      "title": "\u2018SNL\u2019: Watch The Strokes Perform \u2018Lonely in the Future,\u2019 \u2018Going Shopping\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/snl-watch-the-strokes-perform-lonely-future-going-shopping-1235654344/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-08 07:40",
+      "summary": "Both songs are from the New York rock band's latest album, Reality Awaits"
+    },
+    {
+      "title": "Druski Spoofs You Can See Everything on SNL",
+      "link": "https://consequence.net/2026/11/druski-spoofs-you-can-see-everything-snl/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-08 05:44",
+      "summary": "Jane Wickline played Elizabeth Holmes and Ben Marshall portrayed her husband, Billy. \nDruski Spoofs You Can See Everything on SNL\nAlex Young"
+    },
+    {
+      "title": "James Talarico Crashes SNL\u2019s Cold Open: \u201cIt\u2019s Clear People Want Something New\u201d",
+      "link": "https://consequence.net/2026/11/james-talarico-snl-cold-open/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-08 05:11",
+      "summary": "The Texas Senator-elect interrupted the show's latest Trump-led cold open to deliver a pointed joke about audiences wanting something new.\nJames Talarico Crashes SNL&#8217;s Cold Open: &#8220;It&#8217..."
+    },
+    {
+      "title": "U2 Weigh In on Ed Sheeran and Macklemore Tour\u00a0Controversy",
+      "link": "https://www.billboard.com/music/music-news/u2-macklemore-ed-sheeran-tour-censorship-comments-1236377026/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-08 03:53",
+      "summary": "The Edge and Larry Mullen Jr. defended the rapper\u2019s right to speak out, while the Edge said Sheeran \u201cshould not be vilified\u201d."
+    },
+    {
+      "title": "Simple Plan Are Meeting a Whole New Generation of Fans, 25 Years\u00a0In",
+      "link": "https://www.billboard.com/music/music-news/simple-plan-new-generation-fans-chuck-comeau-interview-1236368697/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-08 03:45",
+      "summary": "Drummer Chuck Comeau talks TikTok, Good Things Festival, and why a farewell tour is \u201cnot in the cards\u201d"
+    },
+    {
+      "title": "Druski & The Strokes on \u2018SNL\u2019: Here\u2019s Where to Watch \u2018Saturday Night Live\u2019 Online for\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/snl-2026-druski-the-strokes-watch-live-online-free-1236375885/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-08 01:30",
+      "summary": "Livestream the comedian host and the indie rock band perform on Nov. 7 \u2014\u00a0watch live online for free."
+    },
+    {
+      "title": "Rob Schneider Was Briefed on the Iran War",
+      "link": "https://consequence.net/2026/11/rob-schneider-iran-war/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-08 00:45",
+      "summary": "He says \"we could not wait another hour.\"\nRob Schneider Was Briefed on the Iran War\nAlex Young"
+    },
+    {
+      "title": "Alanis Morissette Shares She Identifies as\u00a0Pansexual",
+      "link": "https://www.billboard.com/culture/pride/alanis-morissette-pansexual-1236376991/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-08 00:39",
+      "summary": "The singer-songwriter chatted about it briefly in a podcast appearance the week of releasing her new holiday album."
     },
     {
       "title": "Richard Lloyd, Television Guitarist, Dies at 75",
@@ -1082,7 +1324,7 @@
       "source": "Rolling Stone",
       "category": "general",
       "published": "2026-11-07 16:28",
-      "summary": "Guitarist, who was diagnosed with bile duct cancer in March 2026, died Saturday from Cholangiocarcinoma, his family announced"
+      "summary": "Guitarist, who was diagnosed with bile duct cancer in March, died Saturday from cholangiocarcinoma, his family announced"
     },
     {
       "title": "Deep Purple\u2019s Ian Gillan Undergoes \u2018Successful\u2019 Surgery After Medical Emergency",
@@ -1101,14 +1343,6 @@
       "summary": "Capitol / Enigma , Cyanide"
     },
     {
-      "title": "Elvis Presley Rights Owners Sue Suno Over AI Voice Cloning: \u2018Elvis\u2019 Identity Was\u00a0Stolen\u2019",
-      "link": "https://www.billboard.com/pro/elvis-presley-ai-voice-cloning-lawsuit-suno/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-07 15:38",
-      "summary": "The singer's legendary voice is at the center of a cutting-edge lawsuit that aims to hold the AI firm legally liable for allowing users to create knockoff vocals."
-    },
-    {
       "title": "T-Pain Supports the Polyamory Lifestyle With New Dating Show",
       "link": "https://www.xxlmag.com/t-pain-polyamory-dating-show-searching-for-a-third/",
       "source": "XXL Mag",
@@ -1123,14 +1357,6 @@
       "category": "general",
       "published": "2026-11-07 14:13",
       "summary": "Fresh off the release of Manufacturas del Club de la Gente Sola, the Spanish rockers reflect on their success at home and the excitement of taking their music to the U.S.\nArde Bogot\u00e1 on Going to Los A..."
-    },
-    {
-      "title": "WWE Crown Jewel 2026: Here\u2019s How to Watch the Premium Live Event Online for\u00a0Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/wwe-crown-jewel-2026-how-to-watch-live-online-free-1236372909/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-07 14:00",
-      "summary": "Don't miss men's and women's matches for WWE Crown Jewel Championships during the wrestling event."
     },
     {
       "title": "Manics honour Richey Edwards as Suede look to the future at London co-headline show",
@@ -1165,22 +1391,6 @@
       "summary": "\nMadison Square Garden has responded to the rapper's allegations, claiming he is \"not an arena-level act\"\nThe post Macklemore says nine US arenas rejected his &#8216;Free Palestine&#8217; tour: &#8220..."
     },
     {
-      "title": "Benson Boone Brings Young Fan Battling Cancer Onstage at Brisbane\u00a0Concert",
-      "link": "https://www.billboard.com/music/music-news/benson-boone-kenzie-riddle-beautiful-things-brisbane-1236376893/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-07 06:13",
-      "summary": "\u201cI\u2019ve had the opportunity of meeting a 13-year-old girl who is battling her second round of cancer,\u201d Boone told the crowd."
-    },
-    {
-      "title": "C\u00e9line Dion Plays Air Bass at Metallica\u2019s Sphere\u00a0Show",
-      "link": "https://www.billboard.com/music/music-news/celine-dion-metallica-sphere-air-bass-video-1236376892/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-07 06:01",
-      "summary": "The singer showed off her air-bass skills during Metallica's Life Burns Faster residency at Las Vegas' Sphere."
-    },
-    {
       "title": "ROSAL\u00cdA marks one year of LUX with a 1,000-song playlist",
       "link": "https://www.thefader.com/2026/11/06/rosala-marks-one-year-of-lux-with-a-1000-song-playlist",
       "source": "The FADER",
@@ -1203,38 +1413,6 @@
       "category": "general",
       "published": "2026-11-07 02:06",
       "summary": "Surprise guests, Puerto Rican pride, and emotional moments defined a sold-out night that showcased the singer's evolution as a live performer.\nYoung Miko Kisses Her &#8220;Late Checkout Tour&#8221; Go..."
-    },
-    {
-      "title": "Flo Milli Wins Dismissal of Copyright Lawsuit Over \u2018Never Lose Me\u2019 Beat\u00a0Sample",
-      "link": "https://www.billboard.com/pro/flo-milli-wins-never-lose-me-copyright-lawsuit-dismissal/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-07 01:55",
-      "summary": "A judge ruled that the man who brought the claims did not technically own a beat sampled in the 2023 hit."
-    },
-    {
-      "title": "Sony\u2019s New Hello Kitty Headphones Come With an Ultra-Chic Carrying Case That Deserves Its Own\u00a0Spotlight",
-      "link": "https://www.billboard.com/culture/product-recommendations/hello-kitty-sony-headphones-cute-case-shop-online-pricing-1236376663/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-07 00:30",
-      "summary": "Available now for preorder, the limited-edition collection features three wireless, noise-reduction headphones, each paired with a carrying case and tote bag, with prices starting at $104.99."
-    },
-    {
-      "title": "Michael Sanft, Attorney Who Represented Keffe D in 2Pac Murder Trial, Dies at\u00a054",
-      "link": "https://www.billboard.com/business/legal/michael-sanft-deaf-keffe-d-attorney-2pac-murder-trial-1236376793/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-07 00:27",
-      "summary": "Sanft put together a team and took on Davis' case pro bono."
-    },
-    {
-      "title": "Lasso Breaks Down 5 Essential Tracks From His New Album \u2018Objetos Fr\u00e1giles en Ambientes\u00a0Hostiles\u2019",
-      "link": "https://www.billboard.com/lists/lasso-album-objetos-fragiles-ambientes-hostiles-essential-tracks/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-06 23:49",
-      "summary": "\"It\u2019s a dedication to anyone who\u2019s trying to achieve their dreams,\" the Venezuelan singer/songwriter tells Billboard Espa\u00f1ol."
     },
     {
       "title": "Macklemore Claims U.S. Arenas Refuse to Host Free Palestine Tour",
@@ -1275,175 +1453,7 @@
       "category": "rock",
       "published": "2026-11-06 20:51",
       "summary": "Our favorite new songs, updated weekly."
-    },
-    {
-      "title": "The Rush Song Anika Nilles Wants To Add to the Setlist",
-      "link": "https://loudwire.com/anika-nilles-rush-song-wish-list/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-11-06 20:30",
-      "summary": "Photo Credit: Richard Sibbald Download, Gary Miller, Getty Images"
-    },
-    {
-      "title": "underscores teamed up with League of Legends on music for a new skin",
-      "link": "https://www.thefader.com/2026/11/06/underscores-league-of-legends-music-sona-skin",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-06 20:21",
-      "summary": "The Mythic Variant DJ Sona Ultimate Remix skin will be released on November 18."
-    },
-    {
-      "title": "In Photos: \u201cThe Art of Metallica\u201d Exhibit Opens in San Francisco",
-      "link": "https://consequence.net/2026/11/the-art-of-metallica-exhibit-san-francisco-photos/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-06 19:55",
-      "summary": "The exhibit at the Haight Street Art Center runs through January 10th, 2027.\nIn Photos: &#8220;The Art of Metallica&#8221; Exhibit Opens in San Francisco\nHeavy Consequence Staff"
-    },
-    {
-      "title": "Future, Drake, Travis Scott, and Loe Shimmy connect for a classic posse cut",
-      "link": "https://www.thefader.com/2026/11/06/future-drake-travis-scott-and-loe-shimmy-connect-for-a-classic-posse-cut",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-06 19:52",
-      "summary": "Listen to \u201cYa Hit,\u201d featuring ad-libs by Sexyy Red."
-    },
-    {
-      "title": "The Weeknd Makes Touring History With $1.3 Billion Haul",
-      "link": "https://www.xxlmag.com/the-weeknd-1-3-billion-tour-revenue/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-06 19:52",
-      "summary": "Charles McQuillan/Getty Images for Live Nation"
-    },
-    {
-      "title": "Macklemore Says Nine U.S. Venues Turned Down \u2018Free Palestine\u2019 Tour: \u2018They Got Me F-cked Up\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/macklemore-us-venues-free-palestine-tour-1235654083/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-06 19:38",
-      "summary": "The rapper performed three sold-out shows in Europe with special guests in support of organizations providing aid to Gaza, but says bringing the tour stateside has been more challenging"
-    },
-    {
-      "title": "Alanis Morissette Releases First Holiday Album Good Weather for Immaculate Conception: Stream",
-      "link": "https://consequence.net/2026/11/alanis-morissette-releases-christmas-album/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-06 19:37",
-      "summary": "The Christmas record contains 12 yuletide classics and two new original songs.\nAlanis Morissette Releases First Holiday Album Good Weather for Immaculate Conception: Stream\nTravis Bland"
-    },
-    {
-      "title": "Tegan and Sara Celebrate the Season With \u2018I Love Christmas\u2019 and \u2018A December to Remember\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/tegan-and-sara-i-love-christmas-december-to-remember-videos-1235654055/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-06 19:18",
-      "summary": "\u201cThese songs are for people who love Christmas, but also for people who don\u2019t,\u201d Tegan says"
-    },
-    {
-      "title": "Nick Cave Launches 2027 Tour",
-      "link": "https://pitchfork.com/story/nick-cave-launches-2027-tour/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-11-06 19:02",
-      "summary": "Conversations With Nick Cave: An Evening of Talk & Music will combine a Q&amp;A with live performance"
-    },
-    {
-      "title": "Celine Dion Played Serious 'Air Bass' at Metallica's Sphere Show",
-      "link": "https://loudwire.com/celine-dion-air-bass-metallica-sphere/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-11-06 19:01",
-      "summary": "Aurore Marechal, Getty Images, Kevin Winter, Getty Images, Instagram: @theordacityyy"
-    },
-    {
-      "title": "Macklemore says 9 US arenas turned down his Free Palestine tour",
-      "link": "https://www.thefader.com/2026/11/06/macklemore-us-arenas-rejected-free-palestine-tour",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-06 18:56",
-      "summary": "New York City\u2019s Madison Square Garden and Barclays Center were among the arenas he called out in a new statement."
-    },
-    {
-      "title": "Master P's Son Hercy Miller to Portray His Father in Snoop Biopic",
-      "link": "https://www.xxlmag.com/master-p-son-hercy-miller-snoop-dogg-biopic/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-06 18:33",
-      "summary": "Gonzalo Marroquin/Getty Images for Netflix/Josh Brasted/Getty Images for ESSENCE/Kevin Winter/Getty Images for iHeartRadio"
-    },
-    {
-      "title": "Nick Cave Announces \u201cConversations With Nick Cave\u201d Tour",
-      "link": "https://consequence.net/2026/11/nick-cave-conversations-tour/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-06 18:32",
-      "summary": "The 25-date tour will feature the singer-songwriter answering unvetted audience questions and playing his songs with piano.\nNick Cave Announces &#8220;Conversations With Nick Cave&#8221; Tour\nTravis B..."
-    },
-    {
-      "title": "Why Type O Negative Used Green for Their Logo and Album Art",
-      "link": "https://loudwire.com/why-type-o-negative-use-green/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-11-06 18:30",
-      "summary": "Getty Images/Type O Negative via Facebook"
-    },
-    {
-      "title": "Nick Cave Will Now Be Answering Your Questions in Person",
-      "link": "https://www.rollingstone.com/music/music-news/nick-cave-conversations-audience-questions-tour-dates-1235653362/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-06 18:23",
-      "summary": "Artist has set Conversations With Nick Cave tour dates for the spring"
-    },
-    {
-      "title": "Macklemore Accuses U.S. Arenas of Turning Down Free Palestine Tour",
-      "link": "https://pitchfork.com/story/macklemore-accuses-arenas-of-turning-down-free-palestine-tour/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-11-06 18:17",
-      "summary": "\u201cOnce they realized these were my benefit shows for Palestine, those dates were suddenly off the table\u201d"
-    },
-    {
-      "title": "Club Kid is real as hell. So what now?",
-      "link": "https://www.thefader.com/2026/11/06/club-kid-jordan-firstman-alaska-riley-miss-benny-saturn-retur9-interview",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-06 18:15",
-      "summary": "The cast of Club Kid joined The FADER at Paragon to talk about capturing queer nightlife in all its heart and chaos."
-    },
-    {
-      "title": "Stream On This Week: Alan Ritchson Doesn\u2019t Need Words to Get Vengeance",
-      "link": "https://consequence.net/2026/11/stream-on-motor-city-reggie-dinkins/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-06 18:00",
-      "summary": "Here are the best movies and TV shows to stream the weekend of November 6th.\nStream On This Week: Alan Ritchson Doesn&#8217;t Need Words to Get Vengeance\nLiz Shannon Miller"
-    },
-    {
-      "title": "Macklemore Says Major Arenas Refusing to Host His \u201cFree Palestine\u201d Tour in US",
-      "link": "https://consequence.net/2026/11/macklemore-free-palestine-tour-us-venues-blocking/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-06 17:58",
-      "summary": "Venues including Madison Square Garden, Barclays Center, Kia Forum, and Crypto.com Arena allegedly withdrew available dates after learning the shows would benefit Palestine.\nMacklemore Says Major Aren..."
-    },
-    {
-      "title": "Heavy Song of the Week: Whitechapel Display Deathcore Mastery on \u201cBedlam\u201d",
-      "link": "https://consequence.net/2026/11/heavy-song-of-the-week-whitechapel-bedlam/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-06 17:55",
-      "summary": "Whitechapel's \"Bedlam\" is an exercise in deathcore perfection, utilizing their hard-won chops to deliver a raging banger.\nHeavy Song of the Week: Whitechapel Display Deathcore Mastery on &#8220;Bedlam..."
-    },
-    {
-      "title": "Future Taps Drake, Travis Scott and Loe Shimmy for 'Ya Hit'",
-      "link": "https://www.xxlmag.com/future-drake-travis-scott-loe-shimmy-ya-hit/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-06 17:41",
-      "summary": "SexyyRed/Instagram/Sahluna Management Company, Inc."
     }
   ],
-  "last_updated": "2026-11-07T20:46:01.898410"
+  "last_updated": "2026-11-08T21:01:15.528400"
 }

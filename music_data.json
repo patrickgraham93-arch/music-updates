@@ -1,6 +1,16 @@
 {
   "hiphop": [
     {
+      "name": "Never Said Goodbye (feat. Lil Yachty)",
+      "artists": "josh conway, Lil Yachty",
+      "release_date": "2026-11-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376909e7e535ca670ea0c53ab",
+      "spotify_url": "https://open.spotify.com/album/3J1YFYlZ2LZkTTxgzW44n6",
+      "apple_music_url": "https://music.apple.com/us/album/never-said-goodbye-single/6833110413?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Game Changers",
       "artists": "Raekwon",
       "release_date": "2026-11-11",
@@ -21,22 +31,22 @@
       "album_type": "album"
     },
     {
-      "name": "Creep",
-      "artists": "Kyle Richh, 41",
-      "release_date": "2026-11-09",
-      "image": "https://i.scdn.co/image/ab67616d0000b273729571043c62d29261ad4021",
-      "spotify_url": "https://open.spotify.com/album/1q73FMDsJHKNUYfacnKmPP",
-      "apple_music_url": "https://music.apple.com/us/album/creep-single/6832649102?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "From The Back (Remix)(feat. Chris Brown)",
       "artists": "Lil Baby, Chris Brown",
       "release_date": "2026-11-09",
       "image": "https://i.scdn.co/image/ab67616d0000b27346895b27ed2d33d3e5873cc9",
       "spotify_url": "https://open.spotify.com/album/6L38nvBzY3ujLgBUth4mjo",
       "apple_music_url": "https://music.apple.com/us/search?term=From%20The%20Back%20%28Remix%29%20Lil%20Baby",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Creep",
+      "artists": "Kyle Richh, 41",
+      "release_date": "2026-11-09",
+      "image": "https://i.scdn.co/image/ab67616d0000b273729571043c62d29261ad4021",
+      "spotify_url": "https://open.spotify.com/album/1q73FMDsJHKNUYfacnKmPP",
+      "apple_music_url": "https://music.apple.com/us/album/creep-single/6832649102?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -286,7 +296,7 @@
       "release_date": "2026-10-30",
       "image": "https://i.scdn.co/image/ab67616d0000b273d8d798140178d163c4e6b77f",
       "spotify_url": "https://open.spotify.com/album/4Vjz8h1mL6g09olXnuAl7r",
-      "apple_music_url": "https://music.apple.com/us/album/cosita-single/6829964006?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=COSITA%20Daddy%20Yankee",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -347,16 +357,6 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27337d5410bf3d89669e281d44e",
       "spotify_url": "https://open.spotify.com/album/2NBf4aKmDkQZqrl7tlOEPm",
       "apple_music_url": "https://music.apple.com/us/search?term=Spinnin%20Young%20Nudy",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Judy (feat. JID)",
-      "artists": "Young Nudy, JID",
-      "release_date": "2026-10-27",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b4f0f501f2bb13b44b181af1",
-      "spotify_url": "https://open.spotify.com/album/5rSR0mGEnh27pM8dtCkWba",
-      "apple_music_url": "https://music.apple.com/us/search?term=Judy%20Young%20Nudy",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -461,22 +461,22 @@
       "album_type": "single"
     },
     {
-      "name": "prada",
-      "artists": "Lil Peep",
-      "release_date": "2026-10-16",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aeca9eb7c96a4bbe7682fba5",
-      "spotify_url": "https://open.spotify.com/album/1LHFpC2rfMkx72OwSODiiJ",
-      "apple_music_url": "https://music.apple.com/us/search?term=prada%20Lil%20Peep",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "LEFT RIGHT (feat. Big Sean)",
       "artists": "OHGEESY, Shoreline Mafia, Big Sean",
       "release_date": "2026-10-16",
       "image": "https://i.scdn.co/image/ab67616d0000b2736e5b5f1228113827136b6951",
       "spotify_url": "https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU",
       "apple_music_url": "https://music.apple.com/us/search?term=LEFT%20RIGHT%20OHGEESY",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "prada",
+      "artists": "Lil Peep",
+      "release_date": "2026-10-16",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aeca9eb7c96a4bbe7682fba5",
+      "spotify_url": "https://open.spotify.com/album/1LHFpC2rfMkx72OwSODiiJ",
+      "apple_music_url": "https://music.apple.com/us/search?term=prada%20Lil%20Peep",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -581,6 +581,16 @@
       "album_type": "single"
     },
     {
+      "name": "WHACK'S MUSEUM (DELUXE)",
+      "artists": "Tierra Whack",
+      "release_date": "2026-10-15",
+      "image": "https://i.scdn.co/image/ab67616d0000b273392f5d72b8ce4dc3d3311356",
+      "spotify_url": "https://open.spotify.com/album/3bUTYVdfpbyqTYamFdS8eJ",
+      "apple_music_url": "https://music.apple.com/us/search?term=WHACK%27S%20MUSEUM%20%28DELUXE%29%20Tierra%20Whack",
+      "total_tracks": 19,
+      "album_type": "album"
+    },
+    {
       "name": "pop it",
       "artists": "Gunna",
       "release_date": "2026-10-09",
@@ -656,7 +666,7 @@
       "release_date": "2026-10-08",
       "image": "https://i.scdn.co/image/ab67616d0000b273f48afa2cdf2f552f2d4e2164",
       "spotify_url": "https://open.spotify.com/album/7xE4Kautja5zGPN1GOwKQT",
-      "apple_music_url": "https://music.apple.com/us/album/every-night-feat-don-toliver-single/6820658866?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Every%20Night%20Offset",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -746,7 +756,7 @@
       "release_date": "2026-10-01",
       "image": "https://i.scdn.co/image/ab67616d0000b2736dd8796cb3679838cc66c1b0",
       "spotify_url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A",
-      "apple_music_url": "https://music.apple.com/us/album/worlds-greatest-single/6817861388?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=World%27s%20Greatest%21%20Lil%20Nas%20X",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1025,405 +1035,405 @@
   ],
   "news": [
     {
-      "title": "Gwen Stefani & Gavin Rossdale Reunite to Support Son Kingston at His L.A. Concert Alongside Blake\u00a0Shelton",
-      "link": "https://www.billboard.com/music/music-news/gwen-stefani-gavin-rossdale-son-concert-blake-shelton-1236379775/",
+      "title": "Could Jason & Travis Kelce Judge \u2018DWTS\u2019? Taylor Swift\u2019s Backup Dancer Thinks It\u2019d Be \u2018Incredible\u2019",
+      "link": "https://www.billboard.com/culture/tv-film/taylor-swift-dancer-jan-ravnik-travis-kelce-judge-dwts-1236380670/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-11 23:23",
-      "summary": "The exes split in 2015, and the No Doubt frontwoman married her Voice co-star six years later."
+      "published": "2026-11-12 22:14",
+      "summary": "Jan Ravnik wants to make it happen, even though the brothers know \"nothing about dance.\""
     },
     {
-      "title": "Garth Brooks Buys Frequency of Nashville\u2019s Adored Indie Station Lightning 100",
-      "link": "https://consequence.net/2026/11/garth-brooks-lightning-100-nashville-radio/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-11 23:20",
-      "summary": "Lightning 100 plans to move its programming to 106.3 FM and 102.5HD3 while Brooks launches a new country-focused station.\nGarth Brooks Buys Frequency of Nashville&#8217;s Adored Indie Station Lightnin..."
+      "title": "How Pantera Fans Can See Dimebag Darrell's 'Bathroom Guitar'",
+      "link": "https://loudwire.com/pantera-dimebag-darrell-bathroom-guitar/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-12 22:05",
+      "summary": "Scott Gries, Getty Images, Photo by Jeanne Rouillard on Unsplash"
     },
     {
-      "title": "Snoop Dogg Bringing \u2018A Not-So-Silent Night\u2019 Into Holiday Homes Thanks to \u2018Christmas With Snoop\u2019\u00a0Special",
-      "link": "https://www.billboard.com/culture/tv-film/snoop-dogg-nbc-christmas-special-christmas-with-snoop-1236379742/",
+      "title": "\u2018Thursday Night Football\u2019 2026: How to Watch Washington Commanders vs. New York Giants Live\u00a0Online",
+      "link": "https://www.billboard.com/culture/product-recommendations/thursday-night-football-2026-watch-nfl-live-online-free-1236341946/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-11 23:17",
-      "summary": "Guests including Jamie Foxx &#38; Martha Stewart are expected to pull up to enjoy some trees &#38; eggnog."
+      "published": "2026-11-12 22:00",
+      "summary": "Watch the WAS Commanders take on the NY Giants on Thursday, Nov. 12 \u2014 keep an eye out for possible celebrity sightings at the game too."
     },
     {
-      "title": "Drake Sheds a Tear Following Coachella 2027 Lineup Announcement",
-      "link": "https://www.xxlmag.com/drake-sheds-tear-coachella-2027-lineup/",
-      "source": "XXL Mag",
+      "title": "FLO, Ravyn Lenae & Durand Bernarr: Who\u2019s Getting Nominated for Best Progressive R&B Album at the 2026\u00a0Grammys?",
+      "link": "https://www.billboard.com/music/awards/2027-grammy-nomination-predictions-progressive-rb-album-flo-1236378518/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-12 22:00",
+      "summary": "The field may not be as wide open as it appears."
+    },
+    {
+      "title": "It\u2019s Not Just Timbaland: Why Are So Many Artists Suing Their Managers Right\u00a0Now?",
+      "link": "https://www.billboard.com/pro/why-timbaland-muni-long-artists-suing-their-managers/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-12 21:45",
+      "summary": "Disputes between artists and managers are nothing new, but the last year has seen a flood of lawsuits from Timbaland, Muni Long, Ellie Goulding and more."
+    },
+    {
+      "title": "2hollis tears into a Hatsune Miku vocaloid sample on \u201cSpring (Love Me)\u201d",
+      "link": "https://www.thefader.com/2026/11/12/2hollis-pirouette-spring-love-me-review",
+      "source": "The FADER",
       "category": "hiphop",
-      "published": "2026-11-11 23:13",
-      "summary": "Cole Burston/Getty Images/Coachella/Instagram"
+      "published": "2026-11-12 21:45",
+      "summary": "Electropop\u2019s dark prince enters his bishounen era on his latest album Pirouette."
     },
     {
-      "title": "Hinterland Music Festival Reveals 2027 Lineup Led by Phoebe Bridgers, Slayyter, and Billy Strings",
-      "link": "https://consequence.net/2026/11/hinterland-2027-lineup-phoebe-bridgers-slayyter-billy-strings/",
+      "title": "2027 Download Festival Features blink-182, Bring Me the Horizon, Evanescence, Turnstile, and Faith No More",
+      "link": "https://consequence.net/2026/11/2027-download-festival-lineup/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-11-11 23:10",
-      "summary": "Caroline Polachek, Remi Wolf, Violet Grohl, The Backseat Lovers, and Westside Cowboy are also set for the Iowa music festival.\nHinterland Music Festival Reveals 2027 Lineup Led by Phoebe Bridgers, Sla..."
+      "published": "2026-11-12 21:42",
+      "summary": "The festival is set to take place June 9th-13th at Donington Park in Leicestershire, England.\n2027 Download Festival Features blink-182, Bring Me the Horizon, Evanescence, Turnstile, and Faith No More..."
     },
     {
-      "title": "Slayyyter, Phoebe Bridgers, Billy Strings to Headline Iowa\u2019s 2027 Hinterland\u00a0Festival",
-      "link": "https://www.billboard.com/music/concerts/2027-hinterland-fest-slayyyter-phoebe-bridgers-billy-strings-lineup-1236379427/",
+      "title": "Here\u2019s How to Watch \u2018Southern Charm\u2019 Season 12 Online for\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/southern-charm-nov-2026-how-to-watch-stream-online-free-1236379620/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-11 22:56",
-      "summary": "The July 30-Aug. 1 event in St. Charles, Iowa will also feature sets from Remi Wolf, Violet Grohl, Malcolm Todd, Zach Top and bbno$, among others."
+      "published": "2026-11-12 20:59",
+      "summary": "The new season premieres on Bravo starting Thursday, Nov. 12 \u2014\u00a0watch online for free."
     },
     {
-      "title": "Phoebe Bridgers, Slayyyter, Billy Strings to Headline Hinterland 2027",
-      "link": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-slayyyter-billy-strings-hinterland-2027-1235655891/",
+      "title": "Deftones to Give \u2018Private Music\u2019 Public Offering on Spring Tour",
+      "link": "https://www.rollingstone.com/music/music-news/deftones-knocked-loose-julie-north-american-tour-1235656707/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-11-11 22:43",
-      "summary": "Remi Wolf, Caroline Polachek, Westside Cowboy, and others also set to perform at Iowa fest"
+      "published": "2026-11-12 20:54",
+      "summary": "Knocked Loose and Julie will support the alt-metal group on North American dates beginning in May"
     },
     {
-      "title": "Frankie Muniz Hospitalized After Crash at Daytona International Speedway",
-      "link": "https://consequence.net/2026/11/frankie-muniz-hospitalized-nascar-crash/",
-      "source": "Consequence",
+      "title": "Rapper & Convicted Murderer Tay-K Loves Olivia Rodrigo\u2019s Music, Listens to Her Behind Bars: \u2018I F\u2013k With That S\u2013t\u2019",
+      "link": "https://www.billboard.com/music/rb-hip-hop/tay-k-loves-olivia-rodrigo-music-behind-bars-1236380502/",
+      "source": "Billboard",
       "category": "general",
-      "published": "2026-11-11 22:35",
-      "summary": "The Malcolm in the Middle star is \"awake and alert,\" according to a statement on social media. \nFrankie Muniz Hospitalized After Crash at Daytona International Speedway\nLiz Shannon Miller"
+      "published": "2026-11-12 20:53",
+      "summary": "\"If I told you the s--t I listen to, you wouldn't expect none of it,\" he said in a new interview."
+    },
+    {
+      "title": "Yella Beezy 'Fell Out' in Hallway After Life Sentence - Report",
+      "link": "https://www.xxlmag.com/yella-beezy-fell-out-after-life-sentence/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-11-12 20:51",
+      "summary": "txking/iStock/Getty Images Plus/FOX 4 Dallas-Fort Worth/YouTube"
+    },
+    {
+      "title": "Retired Celebrity Chef Suing Ronnie Radke After Singer\u2019s Claims",
+      "link": "https://loudwire.com/celebrity-chef-suing-ronnie-radke/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-12 20:49",
+      "summary": "Marcus Ingram, Getty Images"
+    },
+    {
+      "title": "Meet Say Now, the distinctly British, PinkPantheress-backed girl group",
+      "link": "https://www.thefader.com/2026/11/12/say-now-say-what-you-see-pinkpantheress-girl-group-renaissance-interview",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-11-12 20:38",
+      "summary": "\u201cWe get a plus two to everything.\u201d"
+    },
+    {
+      "title": "7 takeaways from Tay-K\u2019s first interview in nearly 10 years",
+      "link": "https://www.thefader.com/2026/11/12/tay-k-takeaways-phone-interview-prison-monstersundermybed",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-11-12 20:18",
+      "summary": "The incarcerated 26-year-old will release #MonstersUnderMyBed tomorrow, his first new full-length since 2017."
     },
     {
       "title": "Billboard\u2019s Music Industry Events\u00a0Calendar",
       "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-11 22:29",
+      "published": "2026-11-12 20:14",
       "summary": "A complete rundown of the most important events across the music business."
     },
     {
-      "title": "GRiZ\u2019s \u201912 Days of GRiZMAS\u2019 Charity Drive Announces 2026\u00a0Program",
-      "link": "https://www.billboard.com/music/music-news/griz-12-days-of-grizmas-2026-program-charity-detroit-1236379732/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-11 22:26",
-      "summary": "Happening in Detroit Dec. 8-19, the event will feature yoga, dodgeball, ice skating and more \u2014 all for a good cause."
-    },
-    {
-      "title": "Summer Walker\u2019s Label LVRN Fires Back With Breach of Contract Counterclaim",
-      "link": "https://www.rollingstone.com/music/music-news/summer-walker-label-lvrn-breach-of-contract-interscope-1235656161/",
+      "title": "Takeoff\u2019s Estate Resolves Sex Assault Lawsuit Two Weeks Before Trial",
+      "link": "https://www.rollingstone.com/music/music-news/takeoff-estate-resolves-sex-assault-lawsuit-trial-1235656626/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-11-11 22:23",
-      "summary": "The \u201cNo Love\u201d singer wants out of her LVRN deal, but the label now says she\u2019s the one who breached their contract"
+      "published": "2026-11-12 20:01",
+      "summary": "The late rapper\u2019s estate announced an expected dismissal of the lawsuit at a hearing Thursday"
     },
     {
-      "title": "Travis Kelce Plans to Consult Taylor Swift on This Business Venture: \u2018I\u2019ll See What My Wife Can Cook\u00a0Up\u2019",
-      "link": "https://www.billboard.com/music/music-news/travis-kelce-taylor-swift-tailgate-stage-help-1236379701/",
+      "title": "Latin Grammys 2026: Full List of Winners\u00a0(Updating)",
+      "link": "https://www.billboard.com/lists/latin-grammys-2026-list-of-winners/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-11 22:17",
-      "summary": "The pop star knows a thing or two about putting on a good show."
+      "published": "2026-11-12 20:00",
+      "summary": "Edgar Barrera arrives at the ceremony with 10 nominations, followed by CA7RIEL &#38; Paco Amoroso, Jorge Drexler, Karol G and Rosal\u00eda, with seven each."
     },
     {
-      "title": "Look behind the scenes of bedroom rocker Ebril\u2019s new music video",
-      "link": "https://www.thefader.com/2026/11/11/look-behind-the-scenes-of-bedroom-rocker-ebrils-new-music-video",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-11 22:15",
-      "summary": "Broken glass, big mushrooms, and her own pet cat star in the Ryan Faist-directed clip for \u201cReckless Attitude.\u201d"
-    },
-    {
-      "title": "The Elvis AI Lawsuit,\u00a0Explained",
-      "link": "https://www.billboard.com/pro/elvis-ai-music-lawsuit-explained-why-estate-suing-suno/",
+      "title": "Pitbull Shares the Stories Behind \u2018On the Floor,\u2019 \u2018Feel This Moment\u2019 & More | Chart\u00a0History",
+      "link": "https://www.billboard.com/video/pitbull-on-the-floor-feel-this-moment-stories-behind-hits/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-11 22:13",
-      "summary": "The King is jumping into a long-running legal battle over AI music, but he\u2019s doing it in a very different way."
+      "published": "2026-11-12 20:00",
+      "summary": "Pitbull looks back on the stories behind some of his biggest hits, from \u201cOn the Floor\u201d with Jennifer Lopez to \u201cI Know You Want Me (Calle Ocho)\u201d and \u201cGive Me Everything\u201d to \u201cTimber\u201d and \u201cI Like It.\u201d He..."
     },
     {
-      "title": "RUSH Beef Up 2027 Las Vegas Sphere Residency with Five Additional Dates",
-      "link": "https://consequence.net/2026/11/rush-las-vegas-sphere-residency-five-additional-dates/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-11 21:43",
-      "summary": "The legendary rock acy will now play 10 shows at the futuristic venue.\nRUSH Beef Up 2027 Las Vegas Sphere Residency with Five Additional Dates\nSpencer Kaufman"
-    },
-    {
-      "title": "Usher & Chris Brown\u2019s R&B Tour: All of the Surprise Guests So\u00a0Far",
-      "link": "https://www.billboard.com/lists/usher-chris-brown-rb-tour-guests/",
+      "title": "Offset Reveals He & Quavo Talked \u2018for a Long Time\u2019 Before Reuniting Publicly: \u2018We Had to Heal Behind the\u00a0Scenes\u2019",
+      "link": "https://www.billboard.com/music/rb-hip-hop/offset-quavo-talked-long-time-before-reuniting-1236380383/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-11 21:43",
-      "summary": "The North American trek kicked off in Denver on June 26."
+      "published": "2026-11-12 19:54",
+      "summary": "The two Migos members have plans of a final album and a tour to honor their late brother Takeoff."
     },
     {
-      "title": "Cardi B Dares BZR WKND Jamaica Promoter to Take Her to Court: \u2018I Wish On the Brightest Star for You to Sue\u00a0Me\u2019",
-      "link": "https://www.billboard.com/music/music-news/cardi-b-bzr-wknd-jamaica-festival-promoter-1236379407/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-11 21:33",
-      "summary": "Representatives for the Grammy winner and the music festival shared exclusive statements with Billboard."
-    },
-    {
-      "title": "Billboard Hot Latin Songs Top 10 Countdown for Nov. 14, 2026 | Billboard\u00a0Latin",
-      "link": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-for-nov-14-2026/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-11 21:15",
-      "summary": "Fuerza Regida and Neton Vega break into the top 10, Omar Courtz rises but will he take No. 1 on Billboard\u2019s Hot Latin Songs? Narrator: Here\u2019s the Billboard Hot Latin Songs Top 10 for the week dated No..."
-    },
-    {
-      "title": "Sony Revives Walkman Headphones for Modern Devices",
-      "link": "https://consequence.net/2026/11/sony-mdr-3r-walkman-headphones-usb-c/",
+      "title": "TesseracT Announce New EP, Unveil \u201cCrucible\u201d: Stream",
+      "link": "https://consequence.net/2026/11/tesseract-new-ep-single-crucible/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-11-11 21:13",
-      "summary": "The MDR-3R connects via USB-C and is designed to stay \"true to the original sound signature.\"\nSony Revives Walkman Headphones for Modern Devices\nEddie Fu"
+      "published": "2026-11-12 19:53",
+      "summary": "ARC_ONE: Obscura, the first part of an album-length project, will be out March 5th.\nTesseracT Announce New EP, Unveil &#8220;Crucible&#8221;: Stream\nLangdon Hickman"
     },
     {
-      "title": "Yella Beezy Found Guilty of Capital Murder for Mo3's Killing",
-      "link": "https://www.xxlmag.com/yella-beezy-guilty-captial-murder-mo3-killing/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-11 21:08",
-      "summary": "igoriss/Juan Figueroa/iStock/Getty Images (2)"
-    },
-    {
-      "title": "sombr Begs Fan to Stop Flipping Him Off at His Shows",
-      "link": "https://consequence.net/2026/11/sombr-fan-flipping-him-off-concert/",
+      "title": "Brian Eno Turned Down Roxy Music\u2019s 2022 Farewell Tour Because He Stopped Flying \u201cfor Environmental Reasons\u201d",
+      "link": "https://consequence.net/2026/11/brian-eno-roxy-music-farewell-tour-flying/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-11-11 21:03",
-      "summary": "What started as a public callout quickly turned into a plea: \u201cPlease, please don\u2019t flip me off at my show.\u201d\nsombr Begs Fan to Stop Flipping Him Off at His Shows\nAlex Krinsky"
+      "published": "2026-11-12 19:42",
+      "summary": "The band's Phil Manzanera says the man behind Music for Airports now doesn't use airports.\nBrian Eno Turned Down Roxy Music&#8217;s 2022 Farewell Tour Because He Stopped Flying &#8220;for Environmenta..."
     },
     {
-      "title": "Everyone\u2019s falling for Emma Ogier (and you will too)",
-      "link": "https://www.thefader.com/2026/11/11/emma-ogier-fly-1111-dominic-fike-conor-oberst-interview",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-11 20:57",
-      "summary": "The Houston native has 2026\u2019s hottest-tipped debut and the music lives up to the hype."
-    },
-    {
-      "title": "The Weeknd Raises $3 Million for Hunger Relief, Women\u2019s Aide",
-      "link": "https://www.xxlmag.com/the-weeknd-3-million-charity-2026/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-11 20:57",
-      "summary": "Charles McQuillan/Getty Images for Live Nation"
-    },
-    {
-      "title": "Nathan Williams of Wavves joins Joel Madden on Artist Friendly",
-      "link": "https://www.altpress.com/artist-friendly-nathan-williams-wavves-episode-announcement/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-11-11 20:51",
-      "summary": "Here\u2019s what to know about the new episode."
-    },
-    {
-      "title": "Taylor Swift and Travis Kelce\u2019s Landscaping Plans Approved Despite Concern for Animals\u2019 Sex Lives",
-      "link": "https://consequence.net/2026/11/taylor-swift-and-travis-kelces-landscaping-plans-approved-despite-concern-for-animals-sex-lives/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-11 20:41",
-      "summary": "One resident argued the property should offer more cover for local animals, saying they \u201cneed places to have sex.\u201d\nTaylor Swift and Travis Kelce\u2019s Landscaping Plans Approved Despite Concern for Animal..."
-    },
-    {
-      "title": "John Tempesta Breaks Down His Drum Part for Rob Zombie\u2019s \u201cDragula\u201d: Watch",
-      "link": "https://consequence.net/2026/11/john-tempesta-drumeo-drum-part-rob-zombie-dragula/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-11 20:17",
-      "summary": "\"Dragula\" helped launch Rob Zombie's solo career following the breakup of White Zombie.\nJohn Tempesta Breaks Down His Drum Part for Rob Zombie&#8217;s &#8220;Dragula&#8221;: Watch\nLangdon Hickman"
-    },
-    {
-      "title": "What we\u2019re missing from the Zelda: Ocarina of Time remake soundtrack",
-      "link": "https://www.thefader.com/2026/11/11/zelda-ocarina-of-time-remake-soundtrack-2026-review",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-11 20:17",
-      "summary": "Re-iterations of Koji Kondo\u2019s classic score refuse to strike out on their own, but can\u2019t quite live up to the legacy of their predecessors either."
-    },
-    {
-      "title": "Yella Beezy Trial Takes Dramatic Turn as Prosecutors Rap Lyrics",
-      "link": "https://www.xxlmag.com/yella-beezy-trial-closing-arguments/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-11 20:07",
-      "summary": "Angela Piazza/The Dallas Morning News via Getty Images"
-    },
-    {
-      "title": "Rush Book 5 Additional 2027 Las Vegas Sphere Dates",
-      "link": "https://loudwire.com/rush-more-2027-las-vegas-sphere-dates/",
+      "title": "15 Rock + Metal Bands That Reunited (or Returned) in 2026",
+      "link": "https://loudwire.com/rock-metal-bands-reunited-2026/",
       "source": "Loudwire",
       "category": "rock",
-      "published": "2026-11-11 19:52",
-      "summary": "Cindy Ord, Getty Images, Live Nation"
+      "published": "2026-11-12 19:29",
+      "summary": "Kevin Winter, Getty Images, Raphael Dias, Getty Images, Cindy Ord, Getty Images"
     },
     {
-      "title": "horsegiirL and Canelle\u2019s \u201chave u eva\u201d and other songs you need right now",
-      "link": "https://www.thefader.com/2026/11/11/songs-you-need-in-your-life-this-week-november-11-2026",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-11 19:51",
-      "summary": "Tracks we love right now, in no particular order."
-    },
-    {
-      "title": "Merge Holiday Album to Feature Original New Pornographers, Tubs Songs",
-      "link": "https://pitchfork.com/story/merge-holiday-album-to-feature-original-new-poronographers-tubs-songs/",
-      "source": "Pitchfork",
+      "title": "Alexisonfire Announce New Album, Unleash Single \u201cPush the River\u201d: Stream",
+      "link": "https://consequence.net/2026/11/alexisonfire-new-album-unleash-push-the-river/",
+      "source": "Consequence",
       "category": "general",
-      "published": "2026-11-11 19:49",
-      "summary": "One of them is called \u201cI Am an Elf\u201d"
+      "published": "2026-11-12 19:00",
+      "summary": "Bleed It, their second LP since re-forming in 2015, will be out March 19th.\nAlexisonfire Announce New Album, Unleash Single &#8220;Push the River&#8221;: Stream\nLangdon Hickman"
     },
     {
-      "title": "Usher and Chris Brown Cancel Additional Shows on R&B Tour",
-      "link": "https://www.rollingstone.com/music/music-news/usher-chris-brown-cancel-additional-shows-rb-tour-1235656008/",
+      "title": "Fan poll: 5 greatest songs from the Used",
+      "link": "https://www.altpress.com/fan-poll-the-used-best-songs/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-11-12 18:58",
+      "summary": "See which ones made the list."
+    },
+    {
+      "title": "Letterkenny Cast Announces 2027 North American Tour",
+      "link": "https://consequence.net/2026/11/letterkenny-live-2027-tour-dates/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-12 18:33",
+      "summary": "The February and March run will feature never-before-seen sketches and material.\nLetterkenny Cast Announces 2027 North American Tour\nEddie Fu"
+    },
+    {
+      "title": "Deftones reveal 2027 tour with Knocked Loose and julie",
+      "link": "https://www.altpress.com/deftones-reveal-2027-tour-with-knocked-loose-and-julie/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-11-12 18:24",
+      "summary": "The North American run begins in the spring."
+    },
+    {
+      "title": "New 750-Cap Venue Domino to Open on Brooklyn Waterfront in 2027",
+      "link": "https://consequence.net/2026/11/domino-venue-brooklyn-williamsburg-waterfront/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-12 18:22",
+      "summary": "The venue will be built and operated by Mumford &#38; Sons founder Ben Lovett's tvg Hospitality in partnership with Emerson Hospitality.\nNew 750-Cap Venue Domino to Open on Brooklyn Waterfront in 2027..."
+    },
+    {
+      "title": "Russell Brand\u2019s Pubic Hair Removed from London Museum",
+      "link": "https://consequence.net/2026/11/russell-brands-pubic-hair-removed-from-london-museum/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-12 18:17",
+      "summary": "The proprietor of the curiosities museum explained, \"My museum is full of disgusting things but even I have limits.\u201d\nRussell Brand&#8217;s Pubic Hair Removed from London Museum\nWren Graves"
+    },
+    {
+      "title": "Jimmy Page Is Done with Touring But Is \u201cStill Playing\u201d Guitar",
+      "link": "https://consequence.net/2026/11/jimmy-page-no-more-tours-still-plays-guitar/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-12 18:09",
+      "summary": "The legendary Led Zeppelin guitarist has also released a new collector's signature amp.\nJimmy Page Is Done with Touring But Is &#8220;Still Playing&#8221; Guitar\nLangdon Hickman"
+    },
+    {
+      "title": "Robyn Makes Tiny Desk Concert Debut: Watch",
+      "link": "https://consequence.net/2026/11/robyn-tiny-desk-concert-watch/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-12 17:59",
+      "summary": "Robyn dusted off \"Ever Again\" and her breakout hit \"Show Me Love,\" plus new songs \"Light Up\" and \"Sucker for Love.\"\nRobyn Makes Tiny Desk Concert Debut: Watch\nPaolo Ragusa"
+    },
+    {
+      "title": "The Weeknd Is Lovelorn in \u2018Hong Kong\u2019 in New Video",
+      "link": "https://www.rollingstone.com/music/music-news/the-weeknd-hong-kong-new-song-video-1235656565/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-11-11 19:31",
-      "summary": "Last month, a string of performances in Baltimore, Cincinnati, Indianapolis, and Columbia, South Carolina, on the R&#38;B tour were also canceled"
+      "published": "2026-11-12 17:58",
+      "summary": "The musician\u2019s new ballad features Cantopop singer Faye Wong"
     },
     {
-      "title": "Coachella: 7 Takeaways From the 2027 Lineup",
-      "link": "https://consequence.net/2026/11/coachella-2027-lineup-one-day-later/",
+      "title": "Sam Fender Announces Spring 2027 North American Tour",
+      "link": "https://consequence.net/2026/11/sam-fender-spring-2027-north-american-tour/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-11-11 19:30",
-      "summary": "Madonna serves as this year's biggest rarity, but the lineup remains a bit uneven and uninspired.\nCoachella: 7 Takeaways From the 2027 Lineup\nPaolo Ragusa"
+      "published": "2026-11-12 17:45",
+      "summary": "The 10-date run will see the Mercury Prize winner hit major stages like Radio City Music Hall and Red Rocks Amphitheatre.\nSam Fender Announces Spring 2027 North American Tour\nBen Kaye"
     },
     {
-      "title": "Tupac Shakur's Unaired Angie Martinez Interview Coming to Netflix",
-      "link": "https://www.xxlmag.com/tupac-shakur-angie-martinez-netflix-tupac-tapes/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-11 19:22",
-      "summary": "Ron Galella/Getty Images/Netflix/YouTube"
-    },
-    {
-      "title": "Melissa Auf der Maur Books First Solo Shows in 15 Years, Announces Vinyl Release for \u201990s Demos",
-      "link": "https://consequence.net/2026/11/melissa-auf-der-maur-first-solo-shows-15-years/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-11 18:42",
-      "summary": "The former Hole and Smashing Pumpkins bassist will play two Canadian shows in January.\nMelissa Auf der Maur Books First Solo Shows in 15 Years, Announces Vinyl Release for &#8217;90s Demos\nSpencer Kau..."
-    },
-    {
-      "title": "daine on \u201cPQC,\u201d chronic illness, and finally breaking through",
-      "link": "https://www.thefader.com/2026/11/11/gen-f-daine-in-endless-awe-and-agony-interview",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-11 18:37",
-      "summary": "At just 23, the Australian pop star has already flopped, been dropped, and considered calling music quits. Then they made their playful and poetic breakthrough record."
-    },
-    {
-      "title": "Coachella 2027: How to Buy Tickets, Pricing, and What Else to Know",
-      "link": "https://consequence.net/2026/11/coachella-2027-how-to-buy-tickets/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-11 18:23",
-      "summary": "SZA, Tame Impala, Dua Lipa, Daddy Yankee, and Madonna will make Coachella 2027 a major moment. Learn how to get tickets.\nCoachella 2027: How to Buy Tickets, Pricing, and What Else to Know\nPaolo Ragusa"
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time Sets New Switch 2 Sales Record",
-      "link": "https://consequence.net/2026/11/legend-of-zelda-ocarina-of-time-switch-2-sales-record/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-11 18:22",
-      "summary": "The remake moved 5.2 million copies during the first four days of its release.\nThe Legend of Zelda: Ocarina of Time Sets New Switch 2 Sales Record\nEddie Fu"
-    },
-    {
-      "title": "Drake Insists the Music Industry Is Cooked After Billboard Change",
-      "link": "https://www.xxlmag.com/drake-reacts-billboard-counting-youtube-streams-again/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-11 18:14",
-      "summary": "NY/Star Max/GC Images"
-    },
-    {
-      "title": "How a single AI agent can run your entire music influencer campaign",
-      "link": "https://www.thefader.com/2026/11/11/how-a-single-ai-agent-can-run-your-entire-music-influencer-campaign",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-11 18:05",
-      "summary": "With Pulse 2.0, Influur gives label marketing teams an assistant that handles everything from outreach to payments."
-    },
-    {
-      "title": "Coachella 2027 Brings Argentine Cumbia Villera to the Desert for the First Time with Los Pibes Chorros",
-      "link": "https://consequence.net/2026/11/coachella-2027-argentine-cumbia-villera-los-pibes-chorros/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-11 17:49",
-      "summary": "The Argentine group joins Daddy Yankee, Milo J, Bad Gyal, and other Latin acts on a lineup headlined by Dua Lipa, Tame Impala, and SZA.\nCoachella 2027 Brings Argentine Cumbia Villera to the Desert for..."
-    },
-    {
-      "title": "Jeanne River Recruits Cameron Winter for Debut Single",
-      "link": "https://pitchfork.com/story/jeanne-river-recruits-cameron-winter-for-debut-single/",
+      "title": "Phoebe Bridgers Extends Tour Into 2027",
+      "link": "https://pitchfork.com/story/phoebe-bridgers-extends-tour-into-2027/",
       "source": "Pitchfork",
       "category": "general",
-      "published": "2026-11-11 17:45",
-      "summary": "\u201cPP2\u201d introduces the Brooklyn singer and electroacoustic composer, with prepared piano from the Geese frontman"
+      "published": "2026-11-12 17:40",
+      "summary": "Lucky residents of Portland and Spokane can see Grouper open for the singer-songwriter"
     },
     {
-      "title": "Gang of Youths Announce New Album Compa\u00f1ero, 2027 North American Tour",
-      "link": "https://consequence.net/2026/11/gang-of-youths-new-album-companero-2027-tour/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-11 17:41",
-      "summary": "A new single, \"Benny's Video,\" is out now as the latest preview of the record.\nGang of Youths Announce New Album Compa\u00f1ero, 2027 North American Tour\nTravis Bland"
-    },
-    {
-      "title": "Neurosis Announce Summer 2027 UK/European Tour",
-      "link": "https://consequence.net/2026/11/neurosis-summer-2027-uk-european-tour/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-11 17:34",
-      "summary": "The 20-date outing is set to kick off in Paris on June 18th.\nNeurosis Announce Summer 2027 UK/European Tour\nLangdon Hickman"
-    },
-    {
-      "title": "Beyonc\u00e9 Recreates Sade\u2019s Love Deluxe Album Cover",
-      "link": "https://pitchfork.com/story/beyonce-recreates-sades-love-deluxe-album-cover/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-11-11 17:21",
-      "summary": "She also paid homage to Diana Ross in a new i-D feature"
-    },
-    {
-      "title": "Chrisean Rock Completely Covers Blueface Tattoo on Her Cheek",
-      "link": "https://www.xxlmag.com/chrisean-rock-completely-covers-blueface-tattoo/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-11 17:13",
-      "summary": "Chrisean/Blueface/Kick.com (2)"
-    },
-    {
-      "title": "Luscious Jackson reissue Fever In Fever Out on expanded double vinyl for its 30th anniversary",
-      "link": "https://www.thefader.com/2026/11/11/luscious-jackson-reissue-fever-in-fever-out-on-expanded-double-vinyl-for-its-30th-anniversary",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-11 17:12",
-      "summary": "Jill Cunniff bought a refurbished Walkman to dig through the band\u2019s old cassettes for outtakes."
-    },
-    {
-      "title": "Angie Martinez\u2019s Unaired Tupac Shakur Interview Set for Release After 30 Years",
-      "link": "https://www.rollingstone.com/music/music-news/lost-tupac-shakur-interview-netflix-1235655822/",
+      "title": "What\u2019s Going on With Katseye?",
+      "link": "https://www.rollingstone.com/music/music-news/katseye-whats-going-on-1235656274/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-11-11 16:57",
-      "summary": "The radio personality who spent 28 years at New York\u2019s Hot 97 will host Netflix\u2019s The Tupac Tapes, a four-part podcast series premiering Nov. 27"
+      "published": "2026-11-12 17:37",
+      "summary": "Katseye started the year off strong, but the past few months have been marred with hiccups"
     },
     {
-      "title": "See Fall Out Boy Rock an L.A. Mall Ahead of Stadium Tour",
-      "link": "https://www.rollingstone.com/music/music-news/fall-out-boy-mall-pop-up-show-1235655817/",
+      "title": "Eminem\u2019s Debut Release \u2018Infinite\u2019 Now Streaming for 30th Anniversary",
+      "link": "https://www.rollingstone.com/music/music-news/eminem-infinite-ep-30th-anniversary-1235656552/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-11-11 16:32",
-      "summary": "Group gave \u201cAces\u201d its live debut as it teased upcoming Twilight of the Punks Tour"
+      "published": "2026-11-12 17:33",
+      "summary": "Originally a full, independently released album, Infinite EP features six songs remixed with new production"
     },
     {
-      "title": "Phoebe Bridgers, Slayyyter, Billy Strings to Headline Hinterland 2027",
-      "link": "https://pitchfork.com/story/phoebe-bridgers-slayyyter-billy-strings-hinterland-2027/",
+      "title": "Here\u2019s what U2\u2019s \u2018The Greatest Show On Earth\u2019 stadium tour stage production will look like",
+      "link": "https://www.nme.com/news/music/heres-what-u2s-the-greatest-show-on-earth-stadium-tour-stage-production-will-look-like-3975805",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-12 17:02",
+      "summary": "\n\u201cIt\u2019s a little play on shamanism and showbusiness\u201d\nThe post Here&#8217;s what U2&#8217;s &#8216;The Greatest Show On Earth&#8217; stadium tour stage production will look like appeared first on NME."
+    },
+    {
+      "title": "Ebenezer Review: Johnny Depp Literally Pisses on the Charles Dickens Classic",
+      "link": "https://consequence.net/2026/11/ebenezer-review-johnny-depp-ti-west/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-12 17:00",
+      "summary": "Bah humbug to this bullshit Dickens adaptation. \nEbenezer Review: Johnny Depp Literally Pisses on the Charles Dickens Classic\nLiz Shannon Miller"
+    },
+    {
+      "title": "Flatspot Records announces 20th anniversary book, Intent to Distribute",
+      "link": "https://www.altpress.com/flatspot-intent-to-distribute-book/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-11-12 17:00",
+      "summary": "To mark its launch, the hardcore label will throw a no-barricade show with Trapped Under Ice, End It, and more."
+    },
+    {
+      "title": "The Weeknd Broods, Sings Karaoke in \u201cHong Kong\u201d Video",
+      "link": "https://pitchfork.com/story/the-weeknd-broods-sings-karaoke-in-hong-kong-video/",
       "source": "Pitchfork",
       "category": "general",
-      "published": "2026-11-11 16:26",
-      "summary": "The three-day music festival returns to St. Charles, Iowa next summer"
+      "published": "2026-11-12 16:58",
+      "summary": "The power ballad features Cantopop singer Faye Wong"
+    },
+    {
+      "title": "Phoebe Bridgers Announces The Lost Tour 2027 Dates",
+      "link": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-the-lost-tour-2027-dates-1235656557/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-12 16:57",
+      "summary": "Singer will bring her Lost Weekend to (phone-free) arena across North America beginning in February"
+    },
+    {
+      "title": "Roger Taylor steps down from Duran Duran and retires: \u201cThis is one of the hardest decisions I\u2019ve ever had to make\u201d",
+      "link": "https://www.nme.com/news/music/roger-taylor-steps-down-from-duran-duran-and-retires-this-is-one-of-the-hardest-decisions-ive-ever-had-to-make-3975801",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-12 16:55",
+      "summary": "\n\"I\u2019ve reached the point where I must now listen to my body and my doctors\"\nThe post Roger Taylor steps down from Duran Duran and retires: &#8220;This is one of the hardest decisions I\u2019ve ever had to ..."
+    },
+    {
+      "title": "Phoebe Bridgers expands the Lost Tour into 2027",
+      "link": "https://www.altpress.com/phoebe-bridgers-the-lost-tour-2027/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-11-12 16:53",
+      "summary": "Phoebe Bridgers has announced more dates for the Lost Tour in support of her third LP, Lost Weekend. The 2027 North American dates will begin in February in Portland before heading into Canada and wra..."
+    },
+    {
+      "title": "U2 Praise Fontaines D.C. and Geese",
+      "link": "https://consequence.net/2026/11/u2-praise-fontaines-dc-geese/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-12 16:52",
+      "summary": "In a new interview, Bono and The Edge shouted out the pair of rock bands while also praising Lambrini Girls, Wolf Alice, and Rosal\u00eda.\nU2 Praise Fontaines D.C. and Geese\nPaolo Ragusa"
+    },
+    {
+      "title": "Willie Nelson Reveals He Asked Wife Twice to \u201cLet Me Die\u201d During 2022 COVID Battle",
+      "link": "https://consequence.net/2026/11/willie-nelson-covid-battle-memoir-let-me-die/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-12 16:46",
+      "summary": "Nelson recalls feeling \"excruciating pain in every cell of my body.\"\nWillie Nelson Reveals He Asked Wife Twice to &#8220;Let Me Die&#8221; During 2022 COVID Battle\nEddie Fu"
+    },
+    {
+      "title": "The \u2018Beach Boys\u2019 Played Their First Concert Without Any Actual Beach Boys",
+      "link": "https://www.rollingstone.com/music/music-news/beach-boys-first-concert-without-beach-boys-1235656525/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-12 16:21",
+      "summary": "Technically, the group that played at Epcot Center\u2019s Eat to the Beat concert series was billed as John Stamos and the California Sound"
+    },
+    {
+      "title": "Original W.A.S.P. Drummer Tony Richards Dead at 69",
+      "link": "https://consequence.net/2026/11/w-a-s-p-drummer-tony-richards-dead-at-69/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-12 16:20",
+      "summary": "Tony Richards performed on the band's debut studio album as well as their iconic single \"Animal (F**K Like A Beast),\"\nOriginal W.A.S.P. Drummer Tony Richards Dead at 69\nLangdon Hickman"
+    },
+    {
+      "title": "Duran Duran Drummer Roger Taylor Retiring Due to \u2018Worsening\u2019 Tinnitus",
+      "link": "https://www.rollingstone.com/music/music-news/duran-duran-drummer-roger-taylor-retirement-tinnitus-1235656532/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-12 16:13",
+      "summary": "\u201cPlaying drums in this band has been the joy of my life,\u201d drummer says in statement. \u201cI\u2019ve reached the point where I must now listen to my body and my doctors\u201d"
+    },
+    {
+      "title": "Phoebe Bridgers Announces 2027 \u201cThe Lost Tour\u201d North American Dates",
+      "link": "https://consequence.net/2026/11/phoebe-bridgers-the-lost-tour-2027-dates/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-12 16:06",
+      "summary": "She'll bring her intimate, phone-free performances to more arenas ahead of her Coachella appearance.\nPhoebe Bridgers Announces 2027 &#8220;The Lost Tour&#8221; North American Dates\nBen Kaye"
+    },
+    {
+      "title": "Yella Beezy Asks Judge\u2019s Permission to Kiss His Son After Verdict",
+      "link": "https://www.xxlmag.com/yella-beezy-permission-kiss-son-sentencing/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-11-12 16:04",
+      "summary": "Law&amp;Crime Trials/YouTube"
+    },
+    {
+      "title": "Alexisonfire announce new album Bleed It",
+      "link": "https://www.altpress.com/alexisonfire-push-the-river-video-watch/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-11-12 15:57",
+      "summary": "Lead single \u201cPush the River\u201d offers a restless, chaotic preview of the LP\u2019s collaborative spirit."
     }
   ],
-  "last_updated": "2026-11-11T23:23:58.992963"
+  "last_updated": "2026-11-12T22:39:03.124646"
 }

@@ -1,6 +1,16 @@
 {
   "hiphop": [
     {
+      "name": "WELCOME (feat. Eminem)",
+      "artists": "IDK, Eminem, J Dilla",
+      "release_date": "2026-11-13",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de271ec71a6b0062d97ac6c7",
+      "spotify_url": "https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd",
+      "apple_music_url": "https://music.apple.com/us/search?term=WELCOME%20IDK",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "GMFU",
       "artists": "Offset",
       "release_date": "2026-11-13",
@@ -19,46 +29,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=A%20Friend%20of%20Ours%202%20Benny%20The%20Butcher",
       "total_tracks": 10,
       "album_type": "album"
-    },
-    {
-      "name": "Bentayga Genesis",
-      "artists": "Boldy James",
-      "release_date": "2026-11-13",
-      "image": "https://i.scdn.co/image/ab67616d0000b273160a1c19019788a08bf82682",
-      "spotify_url": "https://open.spotify.com/album/57MGQ6sEJOqvkAXCQjrst0",
-      "apple_music_url": "https://music.apple.com/us/search?term=Bentayga%20Genesis%20Boldy%20James",
-      "total_tracks": 12,
-      "album_type": "album"
-    },
-    {
-      "name": "Atrocity Exhibition (10 Year Anniversary Edition)",
-      "artists": "Danny Brown",
-      "release_date": "2026-11-13",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735e145e9e6d5a291d6f28040a",
-      "spotify_url": "https://open.spotify.com/album/2HgQmNeT0ZN99l56HNKYQ2",
-      "apple_music_url": "https://music.apple.com/us/search?term=Atrocity%20Exhibition%20Danny%20Brown",
-      "total_tracks": 30,
-      "album_type": "album"
-    },
-    {
-      "name": "Party With The Boys",
-      "artists": "Don Toliver",
-      "release_date": "2026-11-13",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738bbb613d6a46052d9fc719ff",
-      "spotify_url": "https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf",
-      "apple_music_url": "https://music.apple.com/us/album/party-with-the-boys-single/6834171321?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "WELCOME (feat. Eminem)",
-      "artists": "IDK, Eminem, J Dilla",
-      "release_date": "2026-11-13",
-      "image": "https://i.scdn.co/image/ab67616d0000b273de271ec71a6b0062d97ac6c7",
-      "spotify_url": "https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd",
-      "apple_music_url": "https://music.apple.com/us/search?term=WELCOME%20IDK",
-      "total_tracks": 1,
-      "album_type": "single"
     },
     {
       "name": "backseat",
@@ -91,6 +61,36 @@
       "album_type": "single"
     },
     {
+      "name": "Bentayga Genesis",
+      "artists": "Boldy James",
+      "release_date": "2026-11-13",
+      "image": "https://i.scdn.co/image/ab67616d0000b273160a1c19019788a08bf82682",
+      "spotify_url": "https://open.spotify.com/album/57MGQ6sEJOqvkAXCQjrst0",
+      "apple_music_url": "https://music.apple.com/us/search?term=Bentayga%20Genesis%20Boldy%20James",
+      "total_tracks": 12,
+      "album_type": "album"
+    },
+    {
+      "name": "Atrocity Exhibition (10 Year Anniversary Edition)",
+      "artists": "Danny Brown",
+      "release_date": "2026-11-13",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e145e9e6d5a291d6f28040a",
+      "spotify_url": "https://open.spotify.com/album/2HgQmNeT0ZN99l56HNKYQ2",
+      "apple_music_url": "https://music.apple.com/us/search?term=Atrocity%20Exhibition%20Danny%20Brown",
+      "total_tracks": 30,
+      "album_type": "album"
+    },
+    {
+      "name": "Party With The Boys",
+      "artists": "Don Toliver",
+      "release_date": "2026-11-13",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738bbb613d6a46052d9fc719ff",
+      "spotify_url": "https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf",
+      "apple_music_url": "https://music.apple.com/us/album/party-with-the-boys-single/6834171321?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "HEELMATIC",
       "artists": "Westside Gunn",
       "release_date": "2026-11-13",
@@ -111,12 +111,12 @@
       "album_type": "album"
     },
     {
-      "name": "Why Not? (feat. Quavo & Loe Shimmy)",
-      "artists": "Offset, Quavo, Loe Shimmy",
+      "name": "Never Said Goodbye (feat. Lil Yachty)",
+      "artists": "josh conway, Lil Yachty",
       "release_date": "2026-11-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cc234e5b0f7364e7f0388f0b",
-      "spotify_url": "https://open.spotify.com/album/77LfTDogh8RqhYVK0k5n84",
-      "apple_music_url": "https://music.apple.com/us/search?term=Why%20Not%3F%20Offset",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376909e7e535ca670ea0c53ab",
+      "spotify_url": "https://open.spotify.com/album/3J1YFYlZ2LZkTTxgzW44n6",
+      "apple_music_url": "https://music.apple.com/us/album/never-said-goodbye-single/6833110413?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -131,12 +131,22 @@
       "album_type": "single"
     },
     {
-      "name": "Never Said Goodbye (feat. Lil Yachty)",
-      "artists": "josh conway, Lil Yachty",
+      "name": "Misfits! (feat. ApolloRed1 & OsamaSon)",
+      "artists": "Offset, ApolloRed1, OsamaSon",
       "release_date": "2026-11-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376909e7e535ca670ea0c53ab",
-      "spotify_url": "https://open.spotify.com/album/3J1YFYlZ2LZkTTxgzW44n6",
-      "apple_music_url": "https://music.apple.com/us/album/never-said-goodbye-single/6833110413?uo=4",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ce8e171098b4b4fe29dd4ab6",
+      "spotify_url": "https://open.spotify.com/album/0VZZUoKi38OTY35XGs8PnJ",
+      "apple_music_url": "https://music.apple.com/us/search?term=Misfits%21%20Offset",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
+      "name": "Why Not? (feat. Quavo & Loe Shimmy)",
+      "artists": "Offset, Quavo, Loe Shimmy",
+      "release_date": "2026-11-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cc234e5b0f7364e7f0388f0b",
+      "spotify_url": "https://open.spotify.com/album/77LfTDogh8RqhYVK0k5n84",
+      "apple_music_url": "https://music.apple.com/us/search?term=Why%20Not%3F%20Offset",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -147,16 +157,6 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f8c6c96cc4d0b661b9cc0811",
       "spotify_url": "https://open.spotify.com/album/2HZiHiCh5EubRK48G1S9k6",
       "apple_music_url": "https://music.apple.com/us/search?term=Hating%20On%20Me%20Offset",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "Misfits! (feat. ApolloRed1 & OsamaSon)",
-      "artists": "Offset, ApolloRed1, OsamaSon",
-      "release_date": "2026-11-12",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ce8e171098b4b4fe29dd4ab6",
-      "spotify_url": "https://open.spotify.com/album/0VZZUoKi38OTY35XGs8PnJ",
-      "apple_music_url": "https://music.apple.com/us/search?term=Misfits%21%20Offset",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -174,7 +174,7 @@
       "name": "Game Changers",
       "artists": "Raekwon",
       "release_date": "2026-11-11",
-      "image": "https://i.scdn.co/image/ab67616d0000b273feffafbf7be1c7d10b7dbf3a",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef33a6c235eb74fd221083",
       "spotify_url": "https://open.spotify.com/album/0HoM6gKIeKBNOK6UE0ayCw",
       "apple_music_url": "https://music.apple.com/us/search?term=Game%20Changers%20Raekwon",
       "total_tracks": 1,
@@ -196,7 +196,7 @@
       "release_date": "2026-11-09",
       "image": "https://i.scdn.co/image/ab67616d0000b273729571043c62d29261ad4021",
       "spotify_url": "https://open.spotify.com/album/1q73FMDsJHKNUYfacnKmPP",
-      "apple_music_url": "https://music.apple.com/us/search?term=Creep%20Kyle%20Richh",
+      "apple_music_url": "https://music.apple.com/us/album/creep-single/6832649102?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -236,7 +236,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b2736794e0141586f5d2be573d1b",
       "spotify_url": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4",
-      "apple_music_url": "https://music.apple.com/us/search?term=Sweet%20Action%20II%20Jack%20Harlow",
+      "apple_music_url": "https://music.apple.com/us/album/sweet-action-ii/6830926750?uo=4",
       "total_tracks": 7,
       "album_type": "single"
     },
@@ -366,9 +366,19 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b27363328b198af68a5f7c70c636",
       "spotify_url": "https://open.spotify.com/album/1lSUMVNkDnEOALgQLgLF54",
-      "apple_music_url": "https://music.apple.com/us/search?term=T.H.E.%20%28The%20Hamilton%20Experience%29%20Charles%20Hamilton",
+      "apple_music_url": "https://music.apple.com/us/album/t-h-e-the-hamilton-experience/6808744695?uo=4",
       "total_tracks": 11,
       "album_type": "album"
+    },
+    {
+      "name": "TOO SOON (feat. Babyface)",
+      "artists": "Jack Harlow, Babyface",
+      "release_date": "2026-11-05",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ef8ff7f32bc8da67754ab9b0",
+      "spotify_url": "https://open.spotify.com/album/3KTWykfM7OBYP2XgPh4Fk0",
+      "apple_music_url": "https://music.apple.com/us/search?term=TOO%20SOON%20Jack%20Harlow",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "Jiggly Bow Bow (with Sexyy Red)",
@@ -381,12 +391,12 @@
       "album_type": "single"
     },
     {
-      "name": "TOO SOON (feat. Babyface)",
-      "artists": "Jack Harlow, Babyface",
+      "name": "Graduation Baby",
+      "artists": "D-Block Europe",
       "release_date": "2026-11-05",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ef8ff7f32bc8da67754ab9b0",
-      "spotify_url": "https://open.spotify.com/album/3KTWykfM7OBYP2XgPh4Fk0",
-      "apple_music_url": "https://music.apple.com/us/search?term=TOO%20SOON%20Jack%20Harlow",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b7a6a5f04dc707e363f0a1a",
+      "spotify_url": "https://open.spotify.com/album/6YEyHaArsjKbMxhZETGUST",
+      "apple_music_url": "https://music.apple.com/us/search?term=Graduation%20Baby%20D-Block%20Europe",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -439,6 +449,16 @@
       "apple_music_url": "https://music.apple.com/us/search?term=The%20Hollow%20Snoop%20Dogg",
       "total_tracks": 8,
       "album_type": "album"
+    },
+    {
+      "name": "what u wanna do?",
+      "artists": "D-Block Europe, Young Adz",
+      "release_date": "2026-10-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737c9829c6be29b619b27cf3b5",
+      "spotify_url": "https://open.spotify.com/album/03jHxkKRQhYou9NiKm5kag",
+      "apple_music_url": "https://music.apple.com/us/search?term=what%20u%20wanna%20do%3F%20D-Block%20Europe",
+      "total_tracks": 1,
+      "album_type": "single"
     },
     {
       "name": "Omert\u00e0 (with The Underachievers)",
@@ -826,7 +846,7 @@
       "release_date": "2026-10-08",
       "image": "https://i.scdn.co/image/ab67616d0000b273f48afa2cdf2f552f2d4e2164",
       "spotify_url": "https://open.spotify.com/album/7xE4Kautja5zGPN1GOwKQT",
-      "apple_music_url": "https://music.apple.com/us/album/every-night-feat-don-toliver-single/6820658866?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Every%20Night%20Offset",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -866,7 +886,7 @@
       "release_date": "2026-10-02",
       "image": "https://i.scdn.co/image/ab67616d0000b2732685b70af798b4f272c00d8a",
       "spotify_url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI",
-      "apple_music_url": "https://music.apple.com/us/album/habibti-fomo/6818059268?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=HABIBTI%20%28FOMO%29%20Drake",
       "total_tracks": 15,
       "album_type": "album"
     },
@@ -876,7 +896,7 @@
       "release_date": "2026-10-02",
       "image": "https://i.scdn.co/image/ab67616d0000b2739123c8e39e04e529d2013df9",
       "spotify_url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT",
-      "apple_music_url": "https://music.apple.com/us/album/qr%C3%B6melife/6817200688?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=QR%C3%96MELIFE%20Quavo",
       "total_tracks": 14,
       "album_type": "album"
     },
@@ -886,7 +906,7 @@
       "release_date": "2026-10-02",
       "image": "https://i.scdn.co/image/ab67616d0000b273d33230b460a3e5dcdedd6258",
       "spotify_url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI",
-      "apple_music_url": "https://music.apple.com/us/album/the-divine-feminine/1147227630?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=The%20Divine%20Feminine%20%2810th%20Anniversary%29%20Mac%20Miller",
       "total_tracks": 13,
       "album_type": "album"
     },
@@ -1185,28 +1205,196 @@
   ],
   "news": [
     {
-      "title": "Drake Finally Makes \u2018Take Care\u2019 Bonus Track \u2018Hate Sleeping Alone\u2019 Available Across All Streaming\u00a0Platforms",
-      "link": "https://www.billboard.com/music/rb-hip-hop/drake-hate-sleeping-alone-streaming-take-care-bonus-track-1236381994/",
+      "title": "Here\u2019s How to Watch \u2018The Chosen\u2019 Season 6 Online for\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/watch-the-chosen-season-six-tv-series-online-free-1236381749/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-13 22:15",
-      "summary": "The fan-favorite song wasn't previously available on YouTube or Spotify."
+      "published": "2026-11-14 21:00",
+      "summary": "The newest season of the faith-based drama premieres on Nov. 15 \u2014\u00a0watch for free here."
     },
     {
-      "title": "Ye Settles Lawsuit Over \u2018Gun to My Head\u2019 Sample From Descendant of Holocaust\u00a0Survivors",
-      "link": "https://www.billboard.com/pro/kanye-west-settles-sample-lawsuit-holocaust-survivors/",
+      "title": "\u2018Grand Theft Auto VI\u2019 Soundtrack: See the Full 34-Song\u00a0Tracklist",
+      "link": "https://www.billboard.com/music/music-news/gta-6-album-tracklist-grand-theft-auto-vi-soundtrack-1236382244/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-13 22:04",
-      "summary": "German singer-songwriter Alice Merton claimed she had expressly denied the rapper's clearance request due to his history of antisemitism."
+      "published": "2026-11-14 20:45",
+      "summary": "The soundtrack arrives Nov. 19 alongside the long-awaited video game."
     },
     {
-      "title": "Stray Kids Exclusive: Their Thoughts On Enlistment & What Fans Can Expect From RUN IT Tour | Billboard\u00a0News",
-      "link": "https://www.billboard.com/video/stray-kids-exclusive-their-thoughts-on-enlistment/",
+      "title": "Lana Del Rey, Dua Lipa, Zara Larsson Contribute New Music to \u2018GTA VI: The Album\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/lana-del-rey-dua-lipa-zara-larsson-gta-vi-album-track-list-1235658416/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-14 20:37",
+      "summary": "Much-anticipated game's 34-song soundtrack also features Jennie, Arca, Morgan Wallen, Keith Richards, Travis Scott, Justice with Michael McDonald and more"
+    },
+    {
+      "title": "Hoobastank, Simple Plan Play Mid-Flight Concert Aboard Warped Tour-Bound Plane",
+      "link": "https://www.rollingstone.com/music/music-news/hoobastank-simple-plan-concert-warped-tour-plane-1235658405/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-14 19:23",
+      "summary": "The Used and L\u00d8L\u00d8 also played as part of Southwest's Live at 35 gig that coincided with nationwide air travel shutdown"
+    },
+    {
+      "title": "Karol G Surprises Mexico City Fans With Thal\u00eda as Special Guest: \u2018The First Person I Wanted to\u00a0Be\u2019",
+      "link": "https://www.billboard.com/music/latin/karol-g-thalia-surprise-guest-mexico-city-show-1236382220/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-13 22:00",
-      "summary": "Stray Kids sits down with Tetris Kelly for an exclusive interview about how they feel about enlistment and how the band is getting through it, what fans can expect from their new RUN IT tour, and more..."
+      "published": "2026-11-14 19:11",
+      "summary": "The Nov. 13 show at the GNP Seguros Stadiums marked the first performance of the Mexican pop icon in Mexico City."
+    },
+    {
+      "title": "Simple Plan, Hoobastank & More Take Warped Tour Mid-Flight Amid FAA Ground\u00a0Stop",
+      "link": "https://www.billboard.com/music/rock/simple-plan-hoobastank-warped-tour-flight-faa-ground-stop-1236382214/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-14 18:28",
+      "summary": "The Used and L\u00d8L\u00d8 also joined Southwest\u2019s Live at 35 concert series aboard a flight to Orlando, Fla."
+    },
+    {
+      "title": "Shane Gillis Says He Promised SNL His Monologue Would Have \u201cNo Controversy\u201d",
+      "link": "https://consequence.net/2026/11/shane-gillis-snl-monologue-backlash-response/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-14 18:01",
+      "summary": "Gillis also reflected on his 2019 firing from SNL and said he deleted social media to avoid seeing the latest reaction.\nShane Gillis Says He Promised SNL His Monologue Would Have \u201cNo Controversy\u201d\nAlex..."
+    },
+    {
+      "title": "Where to Watch the 2026 Nickelodeon Kids\u2019 Choice Awards for Free\u00a0Online",
+      "link": "https://www.billboard.com/culture/product-recommendations/where-to-watch-2026-kids-choice-awards-free-online-1236382151/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-14 18:00",
+      "summary": "The annual awards show will take place in Los Angeles on Saturday, Nov. 14, from 5:00 p.m. to 6:30 p.m. PT, with several streaming platforms offering free trials for viewers at home."
+    },
+    {
+      "title": "Simple Plan, Hoobastank, and The Used Turn Southwest Flight into In-Air Concert",
+      "link": "https://consequence.net/2026/11/simple-plan-hoobastank-and-the-used-turn-southwest-flight-into-in-air-concert/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-14 17:32",
+      "summary": "The bands performed \u201cThe Reason,\u201d \u201cI\u2019m Just a Kid,\u201d and \u201cThe Taste of Ink\u201d just hours before the FAA issued a nationwide ground stop.\nSimple Plan, Hoobastank, and The Used Turn Southwest Flight into I..."
+    },
+    {
+      "title": "Here\u2019s How to Watch UFC 334: Gane vs. Hokit Live Online for\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/ufc-334-gane-vs-hokit-nov-2026-watch-mma-live-online-free-1236379461/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-14 16:00",
+      "summary": "Live from New York City on Nov. 14, you can watch the entire MMA event online for free."
+    },
+    {
+      "title": "See Robyn Strip Down \u2018Sexistential\u2019 Songs for Tiny Desk Performance",
+      "link": "https://www.rollingstone.com/music/music-news/robyn-sexistential-songs-show-me-love-tiny-desk-performance-1235658322/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-14 14:51",
+      "summary": "Swedish pop icon also revisits \"Show Me Love\" and \"Ever Again\" for NPR mini-concert"
+    },
+    {
+      "title": "Kate Nash to lose $16,000 from current tour as she keeps afloat with OnlyFans money",
+      "link": "https://www.nme.com/news/music/kate-nash-lose-16000-current-tour-keeps-afloat-onlyfans-money-3975948",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-14 11:37",
+      "summary": "\n\"The doors are quickly closing on who can access a career in music\"\nThe post Kate Nash to lose $16,000 from current tour as she keeps afloat with OnlyFans money appeared first on NME."
+    },
+    {
+      "title": "U2\u2019s The Edge breaks his silence on sequel to \u2018Elf\u2019",
+      "link": "https://www.nme.com/news/music/u2s-the-edge-breaks-his-silence-on-sequel-to-elf-3975944",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-14 10:27",
+      "summary": "\nThe guitarist has addressed the unlikely reports that he once wrote a follow-up to Will Ferrell's Christmas classic\nThe post U2&#8217;s The Edge breaks his silence on sequel to &#8216;Elf&#8217; appe..."
+    },
+    {
+      "title": "Robyn says Eurovision is \u201cjust shit\u201d now: \u201cIt really is embarrassing\u201d",
+      "link": "https://www.nme.com/news/music/robyn-says-eurovision-is-just-shit-now-it-really-is-embarrassing-3975940",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-14 09:30",
+      "summary": "\nThe Swedish pop star shared her thoughts on the competition during an appearance on Amy Poehler's \u2018Good Hang\u2019 podcast\nThe post Robyn says Eurovision is &#8220;just shit&#8221; now: &#8220;It really i..."
+    },
+    {
+      "title": "Journey Drummer Deen Castronovo Exits Mid-Tour to Focus on His\u00a0Health",
+      "link": "https://www.billboard.com/music/rock/journey-deen-castronovo-steps-away-steve-murphy-drummer-1236382208/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-14 06:59",
+      "summary": "Steve Murphy will fill in for the rest of November, weeks after Castronovo suffered an onstage medical emergency in Tulsa."
+    },
+    {
+      "title": "Rock & Roll Hall of Fame Induction Ceremony to Kick Off as Planned Amid FAA Grounding Flights Debacle",
+      "link": "https://www.rollingstone.com/music/music-news/rock-and-roll-hall-of-fame-induction-ceremony-flights-1235658269/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-14 02:49",
+      "summary": "There will be no changes to the artists set to appear and perform"
+    },
+    {
+      "title": "Boosie Slams Adam22 Over Chrisean Rock, Adam Calls Him a Rat",
+      "link": "https://www.xxlmag.com/boosie-badazz-adam22-feud-chrisean-rock-parenting/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-11-14 02:43",
+      "summary": "Kevin C. Cox/Getty Images/Adam22/Instagram"
+    },
+    {
+      "title": "Billboard\u2019s Music Industry Events\u00a0Calendar",
+      "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-14 01:00",
+      "summary": "A complete rundown of the most important events across the music business."
+    },
+    {
+      "title": "Kanye West Settles Lawsuit Over Sample Blocked by Descendant of Holocaust Survivors",
+      "link": "https://www.rollingstone.com/music/music-news/kanye-west-settles-lawsuit-alice-merton-holocaust-survivors-1235658191/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-14 00:59",
+      "summary": "The German singer-songwriter said she refused to let West, nown known as Ye, sample her song because of his antisemitic remarks"
+    },
+    {
+      "title": "Drummer Deen Castronovo Steps Away from Journey",
+      "link": "https://consequence.net/2026/11/drummer-deen-castronovo-steps-away-from-journey/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-14 00:25",
+      "summary": "The drummer is exiting the band's tour to \"focus on personal health matters.\"\nDrummer Deen Castronovo Steps Away from Journey\nSpencer Kaufman"
+    },
+    {
+      "title": "Yella Beezy Faces Strict Texas Prison Rules, One Shower a Day",
+      "link": "https://www.xxlmag.com/yella-beezy-texas-prison-rules-no-conjugal-visits-shower-a-day/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-11-14 00:23",
+      "summary": "James Nielsen/Getty Images/FOX 4 Dallas-Fort Worth/YouTube"
+    },
+    {
+      "title": "In Canada: Canada Music Fund to Receive $67M Boost; Women in Music Executive Award Winners Share Their\u00a0Wisdom",
+      "link": "https://www.billboard.com/pro/canada-music-fund-67m-boost-canada-news/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-14 00:10",
+      "summary": "Also this week: Sean Paul appears on the first episode of Billboard Canada News."
+    },
+    {
+      "title": "John Summit, David Guetta, Alison Wonderland & More to Play College Football Playoff National Championship\u00a0Weekend",
+      "link": "https://www.billboard.com/music/music-news/las-vegas-college-football-champship-music-festival-summit-1236382125/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-13 23:16",
+      "summary": "The free AT&#38;T Playoff Playlist Live festival happens Jan. 23-24 in Las Vegas."
+    },
+    {
+      "title": "Journey Go Their Separate Ways With Longtime Drummer",
+      "link": "https://www.rollingstone.com/music/music-news/journey-part-ways-with-drummer-1235658141/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-13 22:42",
+      "summary": "Deen Castronovo has left Journey's stage mid-show at two recent stops due to a medical issue, and now is handing off his drum sticks to veteran musician Steve Murphy"
     },
     {
       "title": "Shai Gilgeous-Alexander Calls Drake's Iceman Best Album of 2026",
@@ -1225,12 +1413,12 @@
       "summary": "Queen Latifah, Devo, the Roots, and Keke Palmer are among the star-studded lineup for this year's edition of the annual event"
     },
     {
-      "title": "\u2018I Didn\u2019t Want to Become Fat, Bloated, Naked Elvis\u2019: Why KISS Called It Quits on Touring (And What They\u2019re Up to\u00a0Now)",
-      "link": "https://www.billboard.com/music/rock/kiss-end-of-the-road-documentary-1236382015/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-13 21:44",
-      "summary": "Gene Simmons and Paul Stanley are gearing up for the release of the KISS: End of the Road documentary."
+      "title": "AP A-sides: 10 songs you need to hear",
+      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-november-13-2026/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-11-13 21:47",
+      "summary": "Our favorite new songs, updated weekly."
     },
     {
       "title": "Tay-K and 1900Rugrat go bar for bar on \u201cGangstalicious\u201d",
@@ -1239,14 +1427,6 @@
       "category": "hiphop",
       "published": "2026-11-13 21:43",
       "summary": "The Florida lyricist is the only guest rapper featured on #MonstersUnderMyBed."
-    },
-    {
-      "title": "Going Green: Miss Monique Debuts Her Nature-Centric Biorhythm Show in the U.S. This Weekend \u2014 With Bigger Plans For America to\u00a0Follow",
-      "link": "https://www.billboard.com/music/music-news/miss-monique-biorhythm-brooklyn-pacha-interview-new-york-1236381968/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-13 21:26",
-      "summary": "\u201cI feel like my relationship with the U.S. is having an amazing start,\" the Ukrainian producer says ahead of her Nov. 13 show at Brooklyn Pacha."
     },
     {
       "title": "Loudwire Readers Pick Iron Maiden + Billy Idol's Rock Hall Songs",
@@ -1265,52 +1445,12 @@
       "summary": "Passes have sold out, but a ticket waitlist is available for both weekends.\nCoachella 2027 Passes Are Sold Out\nPaolo Ragusa"
     },
     {
-      "title": "Coachella 2027: Here\u2019s Where to Shop Affordable Music Festival Tickets\u00a0Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/shop-coachella-2027-music-festival-tickets-online-1236381620/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-13 21:05",
-      "summary": "In April, the 2027 music festival season kicks off \u2014\u00a0watch performances by Dua Lipa, Tame Impala, SZA, Madonna, Phoebe Bridgers, Don Toliver and others live."
-    },
-    {
-      "title": "A$AP Rocky & Rihanna\u2019s Son Three-Year-Old Son Riot Rose Is Already a Fashion Magazine Cover\u00a0Star",
-      "link": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-rihanna-son-riot-rose-cover-arena-homme-1236381957/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-13 20:58",
-      "summary": "Riot Rose covers Arena HOMME+."
-    },
-    {
-      "title": "Beyonc\u00e9, Tems, Chris Brown & RAYE Lead 2027 R&B Grammys Race: Our\u00a0Predictions",
-      "link": "https://www.billboard.com/music/awards/2027-grammys-nominations-predictions-rb-song-performance-1236378517/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-13 20:48",
-      "summary": "Will Queen Bey lock up her 100th Grammy nomination?"
-    },
-    {
       "title": "Al Jourgensen Opens up About Ministry's Final Album + Tour",
       "link": "https://loudwire.com/ministry-al-jourgensen-final-album-tour-interview/",
       "source": "Loudwire",
       "category": "rock",
       "published": "2026-11-13 20:32",
       "summary": "Steve Jennings, Getty Images"
-    },
-    {
-      "title": "Westside Gunn Talks \u2018Heelmatic,\u2019 WWE, 4th Rope & Status of Griselda: \u2018I\u2019m a Legend\u00a0Now\u2019",
-      "link": "https://www.billboard.com/music/rb-hip-hop/westside-gunn-heelmatic-interview-1236379726/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-13 20:21",
-      "summary": "The Buffalo rapper decided to go back on his word of not making another album, because he was inspired by Mass Appeal's \"Legend Has It\" Series."
-    },
-    {
-      "title": "Raul Malo\u2019s Widow Sues to Stop Remaining Members of The Mavericks from Using Band\u00a0Name",
-      "link": "https://www.billboard.com/pro/raul-malo-widow-lawsuit-the-mavericks-band-name/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-13 20:19",
-      "summary": "The surviving band members have been performing as \"The Mavericks &#38; Friends\" since Malo's death from cancer in 2025."
     },
     {
       "title": "camp flog gnaw stream",
@@ -1463,127 +1603,7 @@
       "category": "rock",
       "published": "2026-11-13 16:46",
       "summary": "Phillip Faraone, Getty Images, Spencer Platt, Getty Images"
-    },
-    {
-      "title": "Watch Queens Of The Stone Age\u2019s NSFW \u2018From The Cliff\u2019 video, co-written by Josh Homme",
-      "link": "https://www.nme.com/news/music/queens-of-the-stone-ages-nsfw-from-the-cliff-video-josh-homme-3975920",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-13 16:42",
-      "summary": "\nThe frontman stars in the bloody short film, the latest accompaniment to their chart-topping album 'Perfecth'\nThe post Watch Queens Of The Stone Age&#8217;s NSFW &#8216;From The Cliff&#8217; video, c..."
-    },
-    {
-      "title": "Avril Lavigne Reveals Baby Daughter with Mystery Partner",
-      "link": "https://consequence.net/2026/11/avril-lavigne-baby-daughter-partner/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-13 16:40",
-      "summary": "Lavigne posted \"Our Mini Fucking Princess has arrived\" on social media.\nAvril Lavigne Reveals Baby Daughter with Mystery Partner\nWren Graves"
-    },
-    {
-      "title": "\u2018Club Kid\u2019 releases new EP with Shygirl, Nirosta Steel, and more",
-      "link": "https://www.thefader.com/2026/11/13/club-kid-new-ep-shygirl-nirosta-steel",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-13 16:38",
-      "summary": "The EP is composed of music inspired by Jordan Firstman\u2019s breakout film."
-    },
-    {
-      "title": "Aphex Twin\u2019s Drukqs returns on vinyl, CD, and cassette for its 25th anniversary",
-      "link": "https://www.thefader.com/2026/11/13/aphex-twins-drukqs-returns-on-vinyl-cd-and-cassette-for-its-25th-anniversary",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-13 16:36",
-      "summary": "Five bonus tracks, including three new takes on \u201cAvril 14th,\u201d hit streaming services for the first time."
-    },
-    {
-      "title": "Blink-182\u2019s Travis Barker quit smoking after being \u201cdiagnosed with precancer of the oesophagus\u201d",
-      "link": "https://www.nme.com/news/music/blink-182s-travis-barker-quit-smoking-after-being-diagnosed-with-precancer-of-the-oesophagus-3975909",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-13 16:31",
-      "summary": "\n\"I thought I could be like Willie Nelson and smoke to the day I die\"\nThe post Blink-182&#8217;s Travis Barker quit smoking after being &#8220;diagnosed with precancer of the oesophagus&#8221; appeare..."
-    },
-    {
-      "title": "Hayley Williams Brings Out Seu Jorge to Cover David Bowie",
-      "link": "https://pitchfork.com/story/hayley-williams-brings-out-seu-jorge-to-cover-david-bowie/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-11-13 16:29",
-      "summary": "The Paramore singer and Life Aquatic star also duetted on \u201cZissou\u201d in S\u00e3o Paulo"
-    },
-    {
-      "title": "Metallica, Rob and Michele Reiner, Barry Bonds Getting Inducted Into California Hall of Fame",
-      "link": "https://consequence.net/2026/11/metallica-california-hall-of-fame/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-13 16:27",
-      "summary": "The class of 2026 also includes honorees like Ed Asner, Guillermo Del Toro, Robin Williams, and Diane Ladd.\nMetallica, Rob and Michele Reiner, Barry Bonds Getting Inducted Into California Hall of Fame..."
-    },
-    {
-      "title": "Save Up to $100 on iPads Ahead of Black Friday",
-      "link": "https://consequence.net/2026/11/best-black-friday-ipad-deals-2026/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-13 16:26",
-      "summary": "The best deals are on the base iPad, iPad Air, and 11-inch iPad Pro.\nSave Up to $100 on iPads Ahead of Black Friday\nEddie Fu"
-    },
-    {
-      "title": "Chrisean Rock Punches Adam22 After Parenting Joke",
-      "link": "https://www.xxlmag.com/chrisean-rock-punches-adam22/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-13 16:17",
-      "summary": "bigivansupercharged_/Instagram"
-    },
-    {
-      "title": "Drake Updates Take Care With New Song \u201cHate Sleeping Alone\u201d",
-      "link": "https://pitchfork.com/story/drake-updates-take-care-with-new-song-hate-sleeping-alone/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-11-13 15:53",
-      "summary": "Get your brood on with an unearthed cut from the 2011 album"
-    },
-    {
-      "title": "IDK announces partnership with Eminem\u2019s Shady Records and Interscope Records",
-      "link": "https://www.thefader.com/2026/11/13/idk-signs-to-eminem-shady-records",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-13 15:44",
-      "summary": "Hear his new single \u201cWELCOME\u201d with Eminem and J Dilla."
-    },
-    {
-      "title": "Check out Dolly Parton\u2019s \u201ctraditional country version\u201d of new U2 duet \u2018Torn\u2019",
-      "link": "https://www.nme.com/news/music/check-out-dolly-parton-country-version-new-u2-duet-torn-3975905",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-13 15:36",
-      "summary": "\nBoth versions of the late country icon's final recording are out now\nThe post Check out Dolly Parton&#8217;s &#8220;traditional country version&#8221; of new U2 duet &#8216;Torn&#8217; appeared first..."
-    },
-    {
-      "title": "Ethel Cain and Composer Robin Carolan Share Brooding New Song \u201cWynter Waxeth\u201d for Robert Eggers\u2019 Werwulf: Stream",
-      "link": "https://consequence.net/2026/11/ethel-cain-robin-carolan-wynter-waxeth-werwulf-stream/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-13 15:26",
-      "summary": "Co-written by Eggers and sung in Middle English, \"Wynter Waxeth\" is a cinematic, eerie piece for the upcoming folk horror film.\nEthel Cain and Composer Robin Carolan Share Brooding New Song &#8220;Wyn..."
-    },
-    {
-      "title": "KPop Demon Hunters Sets 2027 \u201cGolden World Tour\u201d Dates",
-      "link": "https://consequence.net/2026/11/kpop-demon-hunters-golden-world-tour-dates/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-13 15:19",
-      "summary": "The arena run will stop in 35 cities across North America, the UK, and Europe.\nKPop Demon Hunters Sets 2027 &#8220;Golden World Tour&#8221; Dates\nEddie Fu"
-    },
-    {
-      "title": "Violet Grohl shares \u201cdystopian\u201d new song \u2018Metal Birds\u2019 from \u2018The Hunger Games: Sunrise On The Reaping\u2019",
-      "link": "https://www.nme.com/news/music/violet-grohl-releases-new-song-metal-birds-from-hunger-games-soundtrack-listen-3975895",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-13 15:17",
-      "summary": "\n\"It was a total honour to be asked to write a song about a story that I feel so connected to\"\nThe post Violet Grohl shares &#8220;dystopian&#8221; new song &#8216;Metal Birds&#8217; from &#8216;The H..."
     }
   ],
-  "last_updated": "2026-11-13T22:27:49.717248"
+  "last_updated": "2026-11-14T21:11:27.341315"
 }

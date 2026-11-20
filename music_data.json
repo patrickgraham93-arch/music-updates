@@ -1,20 +1,10 @@
 {
   "hiphop": [
     {
-      "name": "BNA",
-      "artists": "STYRO, A$AP Ferg",
-      "release_date": "2026-11-20",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e351a24f0209fc4b00ec8c05",
-      "spotify_url": "https://open.spotify.com/album/67qezenSORZde6lx7XoPB4",
-      "apple_music_url": "https://music.apple.com/us/search?term=BNA%20STYRO",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "OTIS",
       "artists": "Conway the Machine",
       "release_date": "2026-11-20",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735a040fb8e0d29938abf1b49b",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343da2c31b700bbe48a075374",
       "spotify_url": "https://open.spotify.com/album/6rmmnbtyvzc0FZdpbydr9x",
       "apple_music_url": "https://music.apple.com/us/search?term=OTIS%20Conway%20the%20Machine",
       "total_tracks": 11,
@@ -28,6 +18,16 @@
       "spotify_url": "https://open.spotify.com/album/1YslW2Ai6kI5KFEfuttBTY",
       "apple_music_url": "https://music.apple.com/us/search?term=details%20Saweetie",
       "total_tracks": 2,
+      "album_type": "single"
+    },
+    {
+      "name": "BNA",
+      "artists": "STYRO, A$AP Ferg",
+      "release_date": "2026-11-20",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e351a24f0209fc4b00ec8c05",
+      "spotify_url": "https://open.spotify.com/album/67qezenSORZde6lx7XoPB4",
+      "apple_music_url": "https://music.apple.com/us/search?term=BNA%20STYRO",
+      "total_tracks": 1,
       "album_type": "single"
     },
     {
@@ -196,7 +196,7 @@
       "release_date": "2026-11-12",
       "image": "https://i.scdn.co/image/ab67616d0000b27376909e7e535ca670ea0c53ab",
       "spotify_url": "https://open.spotify.com/album/3J1YFYlZ2LZkTTxgzW44n6",
-      "apple_music_url": "https://music.apple.com/us/album/never-said-goodbye-single/6833110413?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Never%20Said%20Goodbye%20josh%20conway",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -306,7 +306,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b2736794e0141586f5d2be573d1b",
       "spotify_url": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4",
-      "apple_music_url": "https://music.apple.com/us/search?term=Sweet%20Action%20II%20Jack%20Harlow",
+      "apple_music_url": "https://music.apple.com/us/album/sweet-action-ii/6830926750?uo=4",
       "total_tracks": 7,
       "album_type": "single"
     },
@@ -316,7 +316,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b273cd8cf79f94a1c12a26c64ac6",
       "spotify_url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd",
-      "apple_music_url": "https://music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy-single/6831872688?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Ya%20Hit%20Future",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -339,16 +339,6 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Off%20To%20The%20Races%20Curren%24y",
       "total_tracks": 10,
       "album_type": "album"
-    },
-    {
-      "name": "EXPOSED. ft. Quavo.",
-      "artists": "YFN Lucci, Quavo",
-      "release_date": "2026-11-06",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739b507b8716f184c85472aa25",
-      "spotify_url": "https://open.spotify.com/album/2ZEh1rTXVI5QkF4sH6aiR1",
-      "apple_music_url": "https://music.apple.com/us/search?term=EXPOSED.%20ft.%20Quavo.%20YFN%20Lucci",
-      "total_tracks": 1,
-      "album_type": "single"
     },
     {
       "name": "Aloe Vera (feat. Asake)",
@@ -376,7 +366,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b273d2d0289986be05110179ccc2",
       "spotify_url": "https://open.spotify.com/album/2lMtd3JFKranwOBgwHVGcv",
-      "apple_music_url": "https://music.apple.com/us/album/grain-of-salt-feat-bizzy-crook-single/6825104503?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Grain%20of%20Salt%20EZMNY",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1175,405 +1165,405 @@
   ],
   "news": [
     {
-      "title": "'GTA 6' Radio Station Has a Previously Unreleased Metal Song",
-      "link": "https://loudwire.com/power-trip-mutual-death-warrant-grand-theft-auto-6/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-11-20 14:35",
-      "summary": "Photo By Samantha Tellez , Leon Neal, Getty Images"
-    },
-    {
-      "title": "Madra Salach take on \u201cchange and betrayal of all kinds\u201d on dark, towering new single \u2018Searrach\u2019",
-      "link": "https://www.nme.com/news/music/madra-salach-take-on-change-and-betrayal-of-all-kinds-on-dark-towering-new-single-searrach-radar-3976555",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-20 13:32",
-      "summary": "\nIt is the second taster from the rising Dublin six-piece's debut album \u2018Gorta\u2019\nThe post Madra Salach take on &#8220;change and betrayal of all kinds&#8221; on dark, towering new single &#8216;Searrac..."
-    },
-    {
-      "title": "Steve Aoki tries to \u201cget a real job\u201d on LinkedIn, gives up two hours later, becomes \u201cthought leader\u201d",
-      "link": "https://www.nme.com/news/music/steve-aoki-tries-to-get-a-real-job-on-linkedin-gives-up-two-hours-later-becomes-thought-leader-3976537",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-20 12:28",
-      "summary": "\n\"Please hire me. I don\u2019t know how much more thought leadership I have in me\"\nThe post Steve Aoki tries to &#8220;get a real job&#8221; on LinkedIn, gives up two hours later, becomes &#8220;thought le..."
-    },
-    {
-      "title": "Robbie Williams showed up at Jay-Z and Beyonc\u00e9\u2019s house, and got turned away",
-      "link": "https://www.nme.com/news/music/robbie-williams-showed-up-at-jay-z-and-beyonces-house-and-got-turned-away-3976525",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-20 11:37",
-      "summary": "\n\"And that, ladies and gentlemen, is why I don't leave the house\"\u00a0\nThe post Robbie Williams showed up at Jay-Z and Beyonc\u00e9&#8217;s house, and got turned away appeared first on NME."
-    },
-    {
-      "title": "The Biggest Snubs and Surprises at the 2026 ARIA\u00a0Awards",
-      "link": "https://www.billboard.com/lists/biggest-snubs-surprises-2026-aria-awards/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-20 11:34",
-      "summary": "The 2026 ARIA Awards are in the books, the empties have been discarded and the hangovers (mostly) settled. With the benefit of hindsight, the Australian recording industry\u2019s 40th annual ceremony at Sy..."
-    },
-    {
-      "title": "Doja Cat \u201cso fucking bitter\u201d after being snubbed by \u2018Grand Theft Auto 6\u2019",
-      "link": "https://www.nme.com/news/gaming-news/doja-cat-bitter-snubbed-grand-theft-auto-6-soundtrack-radio-album-3976530",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-20 11:12",
-      "summary": "\nThe game features more than 800 tracks \u2013 none of them by her\nThe post Doja Cat \u201cso fucking bitter\u201d after being snubbed by \u2018Grand Theft Auto 6\u2019 appeared first on NME."
-    },
-    {
-      "title": "Lindsey Buckingham, Keith Richards, Jason Sudeikis, PinkPantheress and more confirmed as \u2018GTA 6\u2019 radio hosts",
-      "link": "https://www.nme.com/news/gaming-news/lindsey-buckingham-keith-richards-jason-sudeikis-pinkpantheress-and-more-confirmed-as-gta-6-radio-hosts-3976527",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-20 10:41",
-      "summary": "\nThey join previously-confirmed guest appearances from Bad Bunny, Robyn and Slayer \nThe post Lindsey Buckingham, Keith Richards, Jason Sudeikis, PinkPantheress and more confirmed as \u2018GTA 6\u2019 radio host..."
-    },
-    {
-      "title": "Muse\u2019s Matt Bellamy wants an AI guitar \u2013 but still calls for human-made art and live performance",
-      "link": "https://www.nme.com/news/music/muses-matt-bellamy-wants-an-ai-guitar-but-still-calls-for-human-made-art-and-live-performance-3976513",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-20 10:23",
-      "summary": "\nAn AI robot recently featured on their current UK tour \nThe post Muse\u2019s Matt Bellamy wants an AI guitar \u2013 but still calls for human-made art and live performance appeared first on NME."
-    },
-    {
-      "title": "Blondie drop sweeping single \u2018Come Back Home\u2019 and tell us about their \u201cbig metropolis\u201d of a new album",
-      "link": "https://www.nme.com/news/music/blondie-interview-new-single-come-back-home-album-high-noon-rosalia-geese-tour-3976474",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-20 09:30",
-      "summary": "\nChris Stein and Debbie Harry talk to NME about  working with Johnny Marr on new album \u2018High Noon\u2019, their love of Rosal\u00eda, thoughts on Geese and the current NYC indie scene, the chances of touring, an..."
-    },
-    {
-      "title": "Jordan Brunoli, Bassist With Australian Indie Rockers Bugs, Dies at\u00a031",
-      "link": "https://www.billboard.com/music/music-news/jordan-brunoli-bugs-obituary-1236386241/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-20 08:43",
-      "summary": "Brunoli was diagnosed with stage 4 colorectal cancer in 2025."
-    },
-    {
-      "title": "Blackpink\u2019s Jisoo Debuts Buoyant Single \u2018Sun Showers\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/blackpink-jisoo-sun-showers-single-angry-birds-movie-1235661547/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-20 07:46",
-      "summary": "The song was written and recorded for upcoming animated film The Angry Birds Movie 3"
-    },
-    {
-      "title": "U2 Ride to No. 1 on ARIA Chart With \u2018Carnaval De\u00a0Luz\u2019",
-      "link": "https://www.billboard.com/music/awards/u2-no-1-aria-chart-carnaval-de-luz-1236386224/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-20 07:21",
-      "summary": "Jamie Miller becomes for the first male solo artist to top the national singles chart in almost 18 months, with \"Babydoll.\""
-    },
-    {
-      "title": "Gracie Abrams\u2019 \u2018Daughter from Hell\u2019 Gets Deluxe Treatment: Stream It\u00a0Now",
-      "link": "https://www.billboard.com/music/pop/gracie-abrams-daughter-from-hell-deluxe-treatment-1236386211/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-20 05:52",
-      "summary": "The expanded version of her Billboard 200 leader now features five fresh cuts."
-    },
-    {
-      "title": "\u2018Grand Theft Auto VI\u2019 Soundtrack, Gracie Abrams, LISA, Tomorrow x Together & More: New Music\u00a0Friday\u00a0Guide",
-      "link": "https://www.billboard.com/music/music-news/grand-theft-auto-vi-gracie-abrams-new-music-friday-guide-1236385829/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-20 05:39",
-      "summary": "Check out the must-hear releases of the week."
-    },
-    {
-      "title": "Yves releases new EP \u2018Cute & Anxiety\u2019 and tells us about her \u201crock star\u201d collaboration with Akriila",
-      "link": "https://www.nme.com/news/music/yves-interview-cute-and-anxiety-ep-akriila-3976501",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-20 05:16",
-      "summary": "\nNME also chats with the South Korean artist (and former NME Cover star) about touring, the duality of her new EP, and her huge 2026\nThe post Yves releases new EP \u2018Cute &#038; Anxiety\u2019 and tells us ab..."
-    },
-    {
-      "title": "Atlas Sound Surprise Releases First Album in 15 Years",
-      "link": "https://pitchfork.com/story/atlas-sound-surprise-releases-first-album-in-15-years/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-11-20 05:03",
-      "summary": "Behold Thanatos"
-    },
-    {
-      "title": "Hear Hans Zimmer\u2019s Sweeping Take on R\u00fcf\u00fcs Du Sol\u2019s Classic \u2018Innerbloom\u2019",
-      "link": "https://www.billboard.com/music/music-news/hans-zimmer-rufus-du-sol-innerbloom-remix-listen-1236385801/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-20 05:02",
-      "summary": "\"Innerbloom XI\" is out today, Nov. 20, the 11-year anniversary of the original's release."
-    },
-    {
-      "title": "Blondie Are Waiting for the Clouds to Part on Wistful New Song \u2018Come Back Home\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/blondie-release-new-song-come-back-home-1235661533/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-20 05:01",
-      "summary": "The tender track will appear on the band's new album, High Noon, out February"
-    },
-    {
-      "title": "The New Rock + Metal Albums Out This Week",
-      "link": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-11-20 05:01",
-      "summary": "\u2117 2026 Roadrunner Records, Inc., \u2117 2026 Century Media Records Ltd. under exclusive license from Suicide Silence, \u2117 2026 Relapse Records, Inc., \u2117 2024 Thy Catafalque, under exclusive license to Season ..."
-    },
-    {
-      "title": "Grand Theft Auto VI Releases Full 34-Song Soundtrack Album",
-      "link": "https://consequence.net/2026/11/gta-6-soundtrack-album-stream/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-20 05:00",
-      "summary": "The companion album boasts new music from Lana Del Rey, Dua Lipa, Travis Scott, JENNIE, Playboi Carti, and more.\nGrand Theft Auto VI Releases Full 34-Song Soundtrack Album\nAlex Krinsky"
-    },
-    {
-      "title": "\u2018Grand Theft Auto VI: The Album\u2019 Is Here: Stream the Project Featuring Dua Lipa, Playboi Carti, Lana Del Rey, Cardi B &\u00a0More",
-      "link": "https://www.billboard.com/music/music-news/grand-theft-auto-vi-the-album-1236385865/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-20 05:00",
-      "summary": "The long-awaited video game, which was released on Thursday (Nov. 19), has already reportedly generated seven figures in sales."
-    },
-    {
-      "title": "Childish Gambino\u2019s Politically-Charged \u2018This Is America\u2019 Joins YouTube\u2019s Billion Views\u00a0Club",
-      "link": "https://www.billboard.com/music/awards/childish-gambino-this-is-america-youtube-billion-views-club-1236386157/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-20 04:45",
-      "summary": "\u201cThis Is America\u2019 was a politically-charged shot that rung out around the globe, a hit that touches on gun violence, racism and discrimination in America."
-    },
-    {
-      "title": "P1Harmony Earns First No. 1 on Top Album Sales Chart With \u2018BLOW\u00a0UP\u2019",
-      "link": "https://www.billboard.com/music/chart-beat/p1harmony-first-no1-top-album-sales-blow-up-1236386121/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-20 03:42",
-      "summary": "Plus, Kings of Leon, Steven Wilson, A Charlie Brown Christmas and Ariana Grande make waves in the top 10."
-    },
-    {
-      "title": "Darren Hayes Launches the 2026 ARIA Awards With Savage Garden\u2019s \u2018Affirmation\u2019: Watch",
-      "link": "https://www.billboard.com/music/awards/darren-hayes-2026-aria-awards-savage-gardens-affirmation-1236386147/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-20 03:32",
-      "summary": "The stirring performance was the starting point for the 40th annual ceremony."
-    },
-    {
-      "title": "Steven Spielberg\u2019s A.I. Artificial Intelligence Is Coming to 4K Ultra HD SteelBook",
-      "link": "https://consequence.net/2026/11/ai-artificial-intelligence-4k-steelbook/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-20 01:00",
-      "summary": "The 2001 favorite, starring Haley Joel Osment and Jude Law, has never been available on 4K before now. \nSteven Spielberg&#8217;s A.I. Artificial Intelligence Is Coming to 4K Ultra HD SteelBook\nLiz Sha..."
-    },
-    {
-      "title": "Diddy\u2019s Upcoming Thanksgiving Day Prison Menu Revealed",
-      "link": "https://www.xxlmag.com/diddy-thanksgiving-day-prison-menu-turkey/",
+      "title": "Boosie BadAzz Won't Face Charges in Aggravated Assault Case",
+      "link": "https://www.xxlmag.com/boosie-badazz-assault-charges-dismissed-grand-jury/",
       "source": "XXL Mag",
       "category": "hiphop",
-      "published": "2026-11-20 00:59",
-      "summary": "Paras Griffin/evgenyb/Anastasiya Larionova/bhofack2/iStock/Getty Images (4)"
+      "published": "2026-11-20 22:55",
+      "summary": "Paras Griffin/Getty Images"
     },
     {
-      "title": "Bruno Mars Mourns His Father\u2019s Death: \u2018The Man That Taught Me Everything I Know\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/bruno-mars-mourns-father-death-peter-hernandez-1235661510/",
+      "title": "BTS & ENHYPEN Are Big Winners on Night 1 of 2026 MAMA\u00a0Awards",
+      "link": "https://www.billboard.com/music/awards/2026-mama-awards-winners-list-1236387006/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-20 22:50",
+      "summary": "The K-pop awards are being presented over the course of two nights in Osaka, Japan."
+    },
+    {
+      "title": "ENHYPEN Reflects On \u2018THE SIN : PARALLEL WORLD\u2019 | MAMA Awards\u00a02026",
+      "link": "https://www.billboard.com/video/enhypen-reflects-on-the-sin-parallel-world-mama-awards/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-20 22:49",
+      "summary": "ENHYPEN caught up with Billboard&#8217;s Tetris Kelly on the red carpet at the MAMA Awards 2026."
+    },
+    {
+      "title": "Brandy & Monica\u2019s Las Vegas Residency 2027: Here\u2019s Where to Shop Affordable Tickets\u00a0Online",
+      "link": "https://www.billboard.com/culture/product-recommendations/brandy-monica-las-vegas-residency-2027-buy-tickets-online-1236386397/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-20 22:39",
+      "summary": "The R&#38;B icons embark on The Boy Is Mine Vegas Residency starting May 29, 2027."
+    },
+    {
+      "title": "Rosal\u00eda Calls Taylor Swift a \u2018Master Songwriter,\u2019 Reveals Her Favorite Swift Track",
+      "link": "https://www.rollingstone.com/music/music-news/rosalia-praises-taylor-swift-master-songwriter-1235661869/",
       "source": "Rolling Stone",
       "category": "general",
-      "published": "2026-11-20 00:44",
-      "summary": "The singer praised his father, Peter \u201cDr. Doo-Wop\u201d Hernandez, often during interviews and credited him for his signature style"
+      "published": "2026-11-20 22:35",
+      "summary": "The Spanish singer said \"Wildest Dreams\" is \"one of the songs I\u2019ve listened to the most in my entire life\""
     },
     {
-      "title": "Here\u2019s Every Rapper Who Appears in GTA VI",
-      "link": "https://pitchfork.com/story/heres-every-rapper-who-appears-in-gta-vi/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-11-20 00:25",
-      "summary": "You\u2019ll run into Sexyy Red, Gucci Mane, Trina, JT, and many more in Vice City"
-    },
-    {
-      "title": "Nicki Nicole Breaks Two-Year Silence with Two New Songs from Upcoming Album Jazmines para ti",
-      "link": "https://consequence.net/2026/11/nicki-nicole-new-songs-jazmines-para-ti/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-20 00:05",
-      "summary": "The Latin Grammy-nominated artist launches a new chapter with two singles and a music video that lets fans control the viewing experience.\nNicki Nicole Breaks Two-Year Silence with Two New Songs from ..."
-    },
-    {
-      "title": "Christopher Nolan Says The Odyssey Deleted Scenes Will \u201cNever\u201d Be Released",
-      "link": "https://consequence.net/2026/11/christopher-nolan-the-odyssey-deleted-scenes-directors-cut/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-19 23:45",
-      "summary": "Nolan says he prefers to cut unnecessary material before filming and considers the theatrical version of a movie to be its definitive cut.\nChristopher Nolan Says The Odyssey Deleted Scenes Will \u201cNever..."
-    },
-    {
-      "title": "The Opener: Mez raps exactly how he\u2019s feeling",
-      "link": "https://www.thefader.com/2026/11/19/the-opener-mez-electric-future-gangster",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-19 22:44",
-      "summary": "From ghostwriting for Dr. Dre to collaborating with J. Cole, Rapsody, and Childish Gambino, the North Carolina rapper brings a wealth of influences and experiences to his debut album Electric Future G..."
-    },
-    {
-      "title": "Unreleased D\u2019Angelo Song \u201cKamikazi\u201d Appears in GTA 6",
-      "link": "https://consequence.net/2026/11/dangelo-kamikazi-gta-6-radio/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-19 22:24",
-      "summary": "\u201cKamikazi\u201d plays alongside D\u2019Angelo\u2019s \u201cLady\u201d elsewhere on the dial, continuing his unusual history with Rockstar after Red Dead Redemption 2.\nUnreleased D\u2019Angelo Song \u201cKamikazi\u201d Appears in GTA 6\nAlex ..."
-    },
-    {
-      "title": "Ecco2k - Echo ALBUM REVIEW",
-      "link": "https://www.youtube.com/watch?v=q5Muse2Oyso",
-      "source": "The Needle Drop",
-      "category": "general",
-      "published": "2026-11-19 22:21",
-      "summary": "Listen: https://ecco2k.bandcamp.com/album/echo\n\nEcho is sadly an underwhelming follow-up to E.\n\nMore electronic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormX2pL9h0inES2Ub630NoL\n\n=====..."
-    },
-    {
-      "title": "Best LEGO Black Friday Deals, Up to 40% Off on Star Wars, Marvel, F1, 3-in-1 Sets",
-      "link": "https://consequence.net/2026/11/best-lego-black-friday-deals-amazon/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-19 21:45",
-      "summary": "Get building for less with Formula 1 collectors packs, dancing Baby Groot, and The Mandalorian's N-1 Starfighter.\nBest LEGO Black Friday Deals, Up to 40% Off on Star Wars, Marvel, F1, 3-in-1 Sets\nBen ..."
-    },
-    {
-      "title": "GTA 6\u2019s Radio DJs Include Keith Richards, Lindsey Buckingham, and Gloria Estefan",
-      "link": "https://consequence.net/2026/11/gta-6-radio-djs-keith-richards-bad-bunny-gloria-estefan/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-19 21:05",
-      "summary": "The sprawling dial spans blues, classic rock, Latin music, jazz, metal, hip-hop, country, electronic music, and more, with celebrity hosts taking on appropriately strange DJ aliases.\nGTA 6&#8217;s Rad..."
-    },
-    {
-      "title": "Woman Accused of Stalking Eminem Thinks He Fathered Her Child",
-      "link": "https://www.xxlmag.com/eminem-stalker-thinks-he-fathered-child/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-19 20:51",
-      "summary": "Lauren Leigh Bacho/Getty Images/CBS Detroit/YouTube"
-    },
-    {
-      "title": "Why is SSENSE using AI for product photos?",
-      "link": "https://www.thefader.com/2026/11/19/ssense-ai-product-photos-explainer",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-19 20:35",
-      "summary": "The once-iconic e-commerce brand is under fire after designers called out sloppy misrepresentations of their clothes on the SSENSE website this week."
-    },
-    {
-      "title": "LEGO Insiders Weekend Offers Best Deals, Exclusive Gifts with Purchase, and Bonus Points",
-      "link": "https://consequence.net/2026/11/lego-insiders-weekend-deals-gifts-with-purchase/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-19 20:25",
-      "summary": "Free membership sign up grants you limited time deals and early access to new sets.\nLEGO Insiders Weekend Offers Best Deals, Exclusive Gifts with Purchase, and Bonus Points\nConsequence Staff"
-    },
-    {
-      "title": "Third Man Pleads Guilty in Mo3's Murder, Sentenced to 10 Years",
-      "link": "https://www.xxlmag.com/devin-brown-pleads-guilty-mo3-murder-10-years-prison/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-19 20:08",
-      "summary": "Fox 4 Dallas Fort Worth/YouTube/Dallas Police Department"
-    },
-    {
-      "title": "15 Rock + Metal Bands That Broke Up in 2026",
-      "link": "https://loudwire.com/rock-metal-bands-broke-up-retired-2026/",
+      "title": "Two Metal Vocalists Just Cut Their Hair - See Their New Looks",
+      "link": "https://loudwire.com/lorna-shore-will-ramos-motionless-in-white-chris-motionless-2026-haircuts/",
       "source": "Loudwire",
       "category": "rock",
-      "published": "2026-11-19 20:05",
-      "summary": "Ethan Miller, Getty Images, Anne-Marie Forker, Getty Images"
+      "published": "2026-11-20 22:22",
+      "summary": "Duane Prokop, Getty Images, Joseph Okpako/WireImage, Getty Images"
     },
     {
-      "title": "Hayley Williams Calls Out Chilean President During Politically Charged Santiago Show: \u201cFuck Kast\u201d",
-      "link": "https://consequence.net/2026/11/hayley-williams-calls-out-chilean-president-during-show/",
-      "source": "Consequence",
+      "title": "From LISA of BLACKPINK & Gracie Abrams to the \u2018GTA VI\u2019 Album, Which Music Release Is Your Favorite This\u00a0Week?\u00a0Vote!",
+      "link": "https://www.billboard.com/music/music-news/gta-vi-lisa-blackpink-gracie-abrams-best-new-music-poll-1236386883/",
+      "source": "Billboard",
       "category": "general",
-      "published": "2026-11-19 20:00",
-      "summary": "Williams took aim at Jos\u00e9 Antonio Kast during \u201cIce in My OJ,\u201d while also expressing support for Palestine and transgender rights.\nHayley Williams Calls Out Chilean President During Politically Charged..."
+      "published": "2026-11-20 22:12",
+      "summary": "TOMORROW X TOGETHER, Tems and Zach Top also dropped fresh projects."
     },
     {
-      "title": "Tinashe Crashes a Plane and Belts Out \u2018Melatonin\u2019 During Hilarious \u2018GTA VI\u2019 Stream",
-      "link": "https://www.rollingstone.com/music/music-news/gta-vi-tinashe-stream-1235660901/",
-      "source": "Rolling Stone",
+      "title": "A Full List of Current 2026/27 K-Pop Concerts\u00a0(Updating)",
+      "link": "https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/",
+      "source": "Billboard",
       "category": "general",
-      "published": "2026-11-19 19:23",
-      "summary": "The pop star cracked fans up as she wreaked havoc in Vice City"
+      "published": "2026-11-20 22:08",
+      "summary": "From KATSEYE to BIGBANG, and even the KPop Demon Hunters GOLDEN World Tour, here's what you can expect from the K-pop concert scene this year."
     },
     {
-      "title": "Sony\u2019s WH-1000XM6 Noise-Canceling Headphones Drop to All-Time Low $348 for Black Friday",
-      "link": "https://consequence.net/2026/11/sony-wh-1000xm6-black-friday-deal-2026/",
-      "source": "Consequence",
+      "title": "Apple TV Black Friday Deal: Here\u2019s How to Save More Than 50% Off a Streaming\u00a0Subscription",
+      "link": "https://www.billboard.com/culture/product-recommendations/apple-tv-2026-streaming-deals-black-friday-online-1236386775/",
+      "source": "Billboard",
       "category": "general",
-      "published": "2026-11-19 19:14",
-      "summary": "The premium cans are marked down by 24% off the retail price.\nSony&#8217;s WH-1000XM6 Noise-Canceling Headphones Drop to All-Time Low $348 for Black Friday\nEddie Fu"
+      "published": "2026-11-20 22:07",
+      "summary": "Watch Widow's Bay, Severance, Ted Lasso and original music programming for just $6.99 per month (was $14.99 per month)."
     },
     {
-      "title": "Foo Fighters, Noah Kahan, the Who Lead New Orleans Jazz and Heritage Festival Lineup",
-      "link": "https://www.rollingstone.com/music/music-news/foo-fighters-noah-kahan-the-who-new-orleans-jazz-fest-1235661091/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-19 19:13",
-      "summary": "Brandi Carlile, Gwen Stefani, James Taylor, Jack White, and the Red Clay Strays also set to perform in 2027"
-    },
-    {
-      "title": "Marlon Jackson Reveals Stage 4 Prostate Cancer Diagnosis",
-      "link": "https://www.rollingstone.com/music/music-news/marlon-jackson-reveal-stage-4-prostate-cancer-diagnosis-1235661255/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-19 19:07",
-      "summary": "\u201cI\u2019ve had my prostate gland removed and I\u2019ve had radiation treatment and everything is fine,\u201d Jackson 5 singer and Rock Hall inductee says of current condition"
-    },
-    {
-      "title": "A Guide to the GTA VI Radio Stations",
-      "link": "https://pitchfork.com/story/a-guide-to-the-gta-vi-radio-stations/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-11-19 19:03",
-      "summary": "Now\u2019s your chance to hear Jeremy Irons DJ"
-    },
-    {
-      "title": "Watch Violent Vira flip the script in \u201cS.E.X. Narcissist\u201d video",
-      "link": "https://www.altpress.com/violent-vira-sex-narcissist-video-watch/",
+      "title": "AP A-sides: 10 songs you need to hear",
+      "link": "https://www.altpress.com/alternative-press-a-sides-playlist-november-20-2026/",
       "source": "Alternative Press",
       "category": "rock",
-      "published": "2026-11-19 19:03",
-      "summary": "\u201cThey call women narcissistic for knowing our worth,\u201d Vira says, which inspired a visual that puts women in control."
+      "published": "2026-11-20 22:01",
+      "summary": "Our favorite new songs, updated weekly."
     },
     {
-      "title": "Rammstein Unveil Explosive \u201cDu Hast\u201d Clip from Live in Mexico City Concert Film: Watch",
-      "link": "https://consequence.net/2026/11/rammstein-du-hast-live-in-mexico-city/",
+      "title": "Remi Wolf Earns First Billboard No. 1 as \u2018Bottle\u2019 Tops Adult Alternative\u00a0Airplay",
+      "link": "https://www.billboard.com/music/chart-beat/remi-wolf-bottle-adult-alternative-airplay-1236386842/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-20 22:00",
+      "summary": "The single is from the Grammy-nominated artist\u2019s third album, Mud."
+    },
+    {
+      "title": "\u2018One of the Best Recording Experiences You Could Have\u2019: Mike Mills on R.E.M.\u2019s \u2018Reveal\u2019 at\u00a025",
+      "link": "https://www.billboard.com/music/rock/rem-reveal-mike-mills-interview-1236386854/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-20 21:55",
+      "summary": "The deluxe edition includes a previously unreleased live show from the era."
+    },
+    {
+      "title": "Every Song Across All 24 Radio Stations in Grand Theft Auto VI",
+      "link": "https://consequence.net/2026/11/gta-6-radio-stations-songs-soundtrack/",
       "source": "Consequence",
       "category": "general",
-      "published": "2026-11-19 18:58",
-      "summary": "The concert film and album arrives this Friday, November 20th.\nRammstein Unveil Explosive &#8220;Du Hast&#8221; Clip from Live in Mexico City Concert Film: Watch\nSpencer Kaufman"
+      "published": "2026-11-20 21:39",
+      "summary": "Explore every track across Leonida's 24-channel dial, from classic hits to previously unreleased exclusives.\nEvery Song Across All 24 Radio Stations in Grand Theft Auto VI\nEddie Fu"
     },
     {
-      "title": "New Fox News Culture War Alert: Grand Theft Auto 6",
-      "link": "https://consequence.net/2026/11/new-fox-news-culture-war-alert-grand-theft-auto-6/",
-      "source": "Consequence",
+      "title": "David Foster and WME Group Co-Chairman Richard Weitz to be Honored by the New York\u00a0Pops",
+      "link": "https://www.billboard.com/music/awards/new-york-pops-david-foster-wme-group-richard-weitz-1236386810/",
+      "source": "Billboard",
       "category": "general",
-      "published": "2026-11-19 18:37",
-      "summary": "Fox News has found its latest culture war target: Grand Theft Auto 6.\nNew Fox News Culture War Alert: Grand Theft Auto 6\nAlex Young"
+      "published": "2026-11-20 21:37",
+      "summary": "Proceeds from the gala support the New York Pops orchestra and the organization\u2019s PopsEd music education programs."
     },
     {
-      "title": "beabadoobee announces \u2018Bananas 4 Cats,\u2019 her second album in under a year",
-      "link": "https://www.thefader.com/2026/11/19/beabadoobee-announces-bananas-4-cats-her-second-album-in-under-a-year",
+      "title": "Q3 Music Earnings Roundup: Here\u2019s What Every Company\u00a0Made",
+      "link": "https://www.billboard.com/lists/spotify-umg-music-q3-earnings-reports-every-company-made/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-20 21:32",
+      "summary": "A rundown of publicly traded companies\u2019 results for the quarter ending Sept. 30, from Spotify to Universal Music Group and more."
+    },
+    {
+      "title": "Wrestler Breaks Leg at Metalcore Band's 25th Anniversary Show",
+      "link": "https://loudwire.com/it-dies-today-wrestler-injury/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-20 21:27",
+      "summary": "Kevin Blackwood via Instagram/716 Concerts via YouTube"
+    },
+    {
+      "title": "Stone Sour's Jim Root Returns to Complete Previously Unheard Song",
+      "link": "https://loudwire.com/stone-sour-jim-root-full-of-empty/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-20 21:20",
+      "summary": "Ragnar Singsaas/Redferns, Getty Images, \u2117 2010 The All Blacks B.V."
+    },
+    {
+      "title": "Pz\u2019 and Sk8star take a well-earned victory lap on \u201cScuti\u201d",
+      "link": "https://www.thefader.com/2026/11/20/pz-sk8star-scuti-review",
       "source": "The FADER",
       "category": "hiphop",
-      "published": "2026-11-19 18:36",
-      "summary": "It\u2019s a cozier follow-up to her rollicking September album, Pylon."
+      "published": "2026-11-20 20:56",
+      "summary": "The new collaboration caps off a monumental year for \u00d8Way\u2019s most stylish lyricists."
+    },
+    {
+      "title": "Every Rock + Metal Song That's Been in 'Grand Theft Auto' Games",
+      "link": "https://loudwire.com/hard-rock-metal-songs-past-grand-theft-auto-games/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-20 20:46",
+      "summary": "Scott Gries, Getty Images, Paul Natkin, Getty Images, Mark Downey Lucid Images/Corbis, Getty Images, Rosie Greenway, Getty Images"
+    },
+    {
+      "title": "The best songs on Grand Theft Auto VI: The Album, reviewed",
+      "link": "https://www.thefader.com/2026/11/20/gta-6-soundtrack-album-best-songs",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-11-20 20:21",
+      "summary": "GTA VI strippers just got some heat to dance to."
+    },
+    {
+      "title": "OsamaSon concert in NYC ends with crowd crush and several reported injuries",
+      "link": "https://www.thefader.com/2026/11/20/osamason-terminal-5-crowd-crush-injuries",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-11-20 18:53",
+      "summary": "DJ Nino Andretti allegedly told fans to \u201crush the merch booth\u201d at the end of last night\u2019s concert, leading to serious injuries."
+    },
+    {
+      "title": "Heavy Song of the Week: Kerry King Thrashes Us to Death with \u201cMy War\u201d",
+      "link": "https://consequence.net/2026/11/heavy-song-of-the-week-kerry-king-my-war/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-20 18:40",
+      "summary": "Kerry King returns to the high-tempo thrashing greatness of Slayer at their best on \"My War.\"\nHeavy Song of the Week: Kerry King Thrashes Us to Death with &#8220;My War&#8221;\nLangdon Hickman"
+    },
+    {
+      "title": "\u201cSweet Like Candy\u201d is Camila Cabello\u2019s \u2018C,XOXO\u2019 goodbye in GTA VI",
+      "link": "https://www.thefader.com/2026/11/20/sweet-like-candy-camila-cabello-gta-vi-review",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-11-20 18:40",
+      "summary": "\"My hair's still healing from all that bleach.\u201d"
+    },
+    {
+      "title": "911 Call Released Detailing Death of Lawyer Representing Keffe D",
+      "link": "https://www.xxlmag.com/911-call-keffe-d-lawyer-michael-sanft/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-11-20 18:40",
+      "summary": "Bizuayehu TESFAYE / POOL / AFP via Getty Images"
+    },
+    {
+      "title": "Home Alone Sequel with Macaulay Culkin Officially in the Works at Disney",
+      "link": "https://consequence.net/2026/11/home-alone-sequel-macaulay-culkin/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-20 18:32",
+      "summary": "Seth Rogen and Evan Goldberg are on board as producers and will also work with Culkin on the film's script.\nHome Alone Sequel with Macaulay Culkin Officially in the Works at Disney\nAlex Young"
+    },
+    {
+      "title": "The Offspring Announce Just the Punk Stuff Live Album",
+      "link": "https://consequence.net/2026/11/the-offspring-just-the-punk-stuff-live-album/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-20 18:14",
+      "summary": "The album was recorded at the band's September show at the Stone Pony in Asbury Park, New Jersey.\nThe Offspring Announce Just the Punk Stuff Live Album\nSpencer Kaufman"
+    },
+    {
+      "title": "Grimes Releases Two New Psy Opera Songs",
+      "link": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-11-20 18:11",
+      "summary": "\u201cKilling God With Computers\u201d and the A.I.-assisted \u201cDeepseek\u201d both appear on Psy Opera"
+    },
+    {
+      "title": "Beastie Boys\u2019 Mike D Brings Solo Album \u2014 and His Sons \u2014 to Tiny Desk Concert",
+      "link": "https://www.rollingstone.com/music/music-news/beastie-boys-mike-d-brings-album-thank-you-to-tiny-desk-1235659577/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-20 18:05",
+      "summary": "The former Beastie Boys member performed six tracks off his solo album with his sons"
+    },
+    {
+      "title": "Stream On This Week: The Bourdain Biopic That\u2019s Not a Biopic, Plus Benedict Cumberbatch Squirms",
+      "link": "https://consequence.net/2026/11/stream-on-tony-cunk-on-cinema-stick/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-20 18:00",
+      "summary": "Here are the best movies and TV shows to stream the weekend of November 20th. \nStream On This Week: The Bourdain Biopic That&#8217;s Not a Biopic, Plus Benedict Cumberbatch Squirms\nLiz Shannon Miller"
+    },
+    {
+      "title": "Alien Ant Farm's 'Paranormal Prison' Ghost Hunt Was Too Funny",
+      "link": "https://loudwire.com/paranormal-prison-alien-ant-farm-ghost-hunt/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-20 18:00",
+      "summary": "Loudwire / Danny Wimmer Presents"
+    },
+    {
+      "title": "Megan Moroney and Alex Warren Know a Good Song When They Hear It in the Car",
+      "link": "https://www.rollingstone.com/music/music-news/megan-moroney-alex-warren-know-good-song-in-the-car-1235654145/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-20 17:58",
+      "summary": "For two artists whose lives revolve around music, the road offers a different kind of listening experience."
+    },
+    {
+      "title": "Portishead\u2019s Music Disappears from Platforms in Israel: Report",
+      "link": "https://consequence.net/2026/11/portisheads-music-in-israel/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-20 17:52",
+      "summary": "The English trip-hop band's three studio albums are no longer on certain streaming platforms in Israel.\nPortishead\u2019s Music Disappears from Platforms in Israel: Report\nTravis Bland"
+    },
+    {
+      "title": "Dave Matthews Band Announce Argentina Return Nearly 17 Years After Recording Memorable Live Album",
+      "link": "https://consequence.net/2026/11/dave-matthews-band-argentina-return-live-album/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-20 17:41",
+      "summary": "The band will revisit Argentina and Chile in May 2027, following a concert in Buenos Aires that became part of its celebrated Live Trax series.\nDave Matthews Band Announce Argentina Return Nearly 17 Y..."
+    },
+    {
+      "title": "Unreleased D\u2019Angelo Song \u2018Kamikazi\u2019 Emerges in \u2018GTA VI\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/dangelo-unreleased-song-kamakazi-grand-theft-auto-6-1235661667/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-20 17:27",
+      "summary": "Late singer previously contributed \"Unshaken\" to Rockstar Games' Red Dead Redemption 2"
+    },
+    {
+      "title": "Music Venue Trust and Fender team up for intimate London showcase gig with Unpeople",
+      "link": "https://www.nme.com/news/music/music-venue-trust-and-fender-team-up-for-intimate-london-showcase-gig-with-unpeople-3976599",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-20 17:24",
+      "summary": "\nThe venture aims to support the capital's grassroots music scene\nThe post Music Venue Trust and Fender team up for intimate London showcase gig with Unpeople appeared first on NME."
+    },
+    {
+      "title": "Hans Zimmer Announces New Live Electronic Album The Next Level",
+      "link": "https://consequence.net/2026/11/hans-zimmer-live-album-the-next-level/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-20 17:23",
+      "summary": "The 35-track project was recorded during the first leg of his \"The Next Level\" tour.\nHans Zimmer Announces New Live Electronic Album The Next Level\nEddie Fu"
+    },
+    {
+      "title": "Ice Spice Gets Her Own Wax Figure at Madame Tussauds",
+      "link": "https://www.xxlmag.com/ice-spice-wax-figure/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-11-20 17:20",
+      "summary": "anslecat/Instagram"
+    },
+    {
+      "title": "Marilyn Manson U.K. Concert Removal Petition Gaining Popularity",
+      "link": "https://loudwire.com/petition-remove-marilyn-manson-slipknot-uk-2027/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-20 17:19",
+      "summary": "Gary Miller, Getty Images, Live Nation"
+    },
+    {
+      "title": "Yves doesn\u2019t need you to understand the lyrics",
+      "link": "https://www.thefader.com/2026/11/20/yves-cute-and-anxiety-profile-interview",
+      "source": "The FADER",
+      "category": "hiphop",
+      "published": "2026-11-20 17:01",
+      "summary": "An interview with one of K-pop\u2019s most idiosyncratic artists about starting trends, transforming her image, and her EP Cute & Anxiety."
+    },
+    {
+      "title": "Hear Phoebe Bridgers cover Adrianne Lenker\u2019s \u201cAnything\u201d",
+      "link": "https://www.altpress.com/phoebe-bridgers-adrianne-lenker-anything-cover-listen/",
+      "source": "Alternative Press",
+      "category": "rock",
+      "published": "2026-11-20 16:46",
+      "summary": "The annual holiday cover tradition continues, with proceeds benefiting Palestine Children\u2019s Relief Fund."
+    },
+    {
+      "title": "Stone Sour Unveil Previously Unreleased Song \u201cFull of Empty\u201d: Stream",
+      "link": "https://consequence.net/2026/11/stone-sour-full-of-empty/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-20 16:39",
+      "summary": "Corey Taylor recorded new vocals for the unused track from the Audio Secrecy sessions.\nStone Sour Unveil Previously Unreleased Song &#8220;Full of Empty&#8221;: Stream\nSpencer Kaufman"
+    },
+    {
+      "title": "Sexyy Red Brings Her Dance Moves to Grand Theft Auto VI",
+      "link": "https://www.xxlmag.com/sexyy-red-grand-theft-auto-vi/",
+      "source": "XXL Mag",
+      "category": "hiphop",
+      "published": "2026-11-20 16:39",
+      "summary": "IShowSpeed/YouTube"
+    },
+    {
+      "title": "Liam Gallagher, Bonehead and Primal Scream lead tributes on one year anniversary of Mani\u2019s death",
+      "link": "https://www.nme.com/news/music/liam-gallagher-bonehead-and-primal-scream-lead-tributes-on-one-year-anniversary-of-manis-death-3976584",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-20 16:31",
+      "summary": "\n\"A year ago today we lost our HERO our FRIEND the 1 n only GARY MANI MOUNFIELD\"\nThe post Liam Gallagher, Bonehead and Primal Scream lead tributes on one year anniversary of Mani&#8217;s death appeare..."
+    },
+    {
+      "title": "Blondie Reveal Tender New Song \u201cCome Back Home\u201d: Stream",
+      "link": "https://consequence.net/2026/11/blondie-come-back-home-new-song-stream/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-20 16:15",
+      "summary": "The track was written by Lucius' Jess Wolfe and Holly Laessig.\nBlondie Reveal Tender New Song &#8220;Come Back Home&#8221;: Stream\nPaolo Ragusa"
+    },
+    {
+      "title": "Tom Waits\u2019 Rare \u2018Orphans: Bonus\u2019 EP, Previously Vinyl-Only, Now Streaming",
+      "link": "https://www.rollingstone.com/music/music-news/tom-waits-orphans-bonus-streaming-services-1235661577/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-20 16:09",
+      "summary": "Six songs include covers, a collaboration, and originals"
+    },
+    {
+      "title": "Sleep\u2019s Dale Crover & Bubba DuPree Name 10 Essential 1970s Classic Rock Albums",
+      "link": "https://consequence.net/2026/11/sleep-dale-crover-bubba-dupree-crate-digging-10-essential-1970s-classic-rock-albums/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-20 15:55",
+      "summary": "The newest editions to Sleep pick albums by Alice Cooper, Robin Trower, Queen, Thin Lizzy, and more.\nSleep&#8217;s Dale Crover &amp; Bubba DuPree Name 10 Essential 1970s Classic Rock Albums\nLangdon Hi..."
+    },
+    {
+      "title": "Atlas Sound Returns With Surprise New Album \u2018Thanatos,\u2019 First LP in 15 Years",
+      "link": "https://www.rollingstone.com/music/music-news/atlas-sound-bradford-cox-surprise-new-album-thanatos-1235661600/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-20 15:53",
+      "summary": "After a lengthy musical hiatus, Deerhunter singer Bradford Cox revives his long-dormant solo project"
+    },
+    {
+      "title": "All 5 Rock + Metal Musicians Who Are DJs in 'Grand Theft Auto 6'",
+      "link": "https://loudwire.com/rock-metal-musicians-djs-grand-theft-auto-6/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-20 15:46",
+      "summary": "Theo Wargo, Getty Images, Jason Kempin, Getty Images, Rockstar"
+    },
+    {
+      "title": "Lana Del Rey\u2019s \u201cCrazy for You\u201d Gets Official Release for GTA VI",
+      "link": "https://pitchfork.com/story/lana-del-reys-crazy-for-you-gets-official-release-for-gta-vi/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-11-20 15:42",
+      "summary": "The keenly awaited loosie has found a home on the blockbuster game\u2019s soundtrack"
+    },
+    {
+      "title": "Mike D Delivers Lively Performance of Debut Solo Album at NPR\u2019s Tiny Desk: Watch",
+      "link": "https://consequence.net/2026/11/mike-d-npr-tiny-desk-concert-thank-you/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-20 15:37",
+      "summary": "The Beastie Boys member ran through a six-song set from Thank You while joined by his sons in backing band 5D.\nMike D Delivers Lively Performance of Debut Solo Album at NPR&#8217;s Tiny Desk: Watch\nEd..."
     }
   ],
-  "last_updated": "2026-11-20T14:49:46.242388"
+  "last_updated": "2026-11-20T23:02:19.471930"
 }

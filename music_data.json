@@ -11,16 +11,6 @@
       "album_type": "album"
     },
     {
-      "name": "BNA",
-      "artists": "STYRO, A$AP Ferg",
-      "release_date": "2026-11-20",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e351a24f0209fc4b00ec8c05",
-      "spotify_url": "https://open.spotify.com/album/67qezenSORZde6lx7XoPB4",
-      "apple_music_url": "https://music.apple.com/us/search?term=BNA%20STYRO",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
       "name": "details",
       "artists": "Saweetie",
       "release_date": "2026-11-20",
@@ -28,6 +18,16 @@
       "spotify_url": "https://open.spotify.com/album/1YslW2Ai6kI5KFEfuttBTY",
       "apple_music_url": "https://music.apple.com/us/album/details-single/6837565136?uo=4",
       "total_tracks": 2,
+      "album_type": "single"
+    },
+    {
+      "name": "BNA",
+      "artists": "STYRO, A$AP Ferg",
+      "release_date": "2026-11-20",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e351a24f0209fc4b00ec8c05",
+      "spotify_url": "https://open.spotify.com/album/67qezenSORZde6lx7XoPB4",
+      "apple_music_url": "https://music.apple.com/us/search?term=BNA%20STYRO",
+      "total_tracks": 1,
       "album_type": "single"
     },
     {
@@ -161,16 +161,6 @@
       "album_type": "single"
     },
     {
-      "name": "Bentayga Genesis",
-      "artists": "Boldy James",
-      "release_date": "2026-11-13",
-      "image": "https://i.scdn.co/image/ab67616d0000b273160a1c19019788a08bf82682",
-      "spotify_url": "https://open.spotify.com/album/57MGQ6sEJOqvkAXCQjrst0",
-      "apple_music_url": "https://music.apple.com/us/search?term=Bentayga%20Genesis%20Boldy%20James",
-      "total_tracks": 12,
-      "album_type": "album"
-    },
-    {
       "name": "Dope Spot",
       "artists": "Polo G",
       "release_date": "2026-11-13",
@@ -179,6 +169,16 @@
       "apple_music_url": "https://music.apple.com/us/search?term=Dope%20Spot%20Polo%20G",
       "total_tracks": 1,
       "album_type": "single"
+    },
+    {
+      "name": "Bentayga Genesis",
+      "artists": "Boldy James",
+      "release_date": "2026-11-13",
+      "image": "https://i.scdn.co/image/ab67616d0000b273160a1c19019788a08bf82682",
+      "spotify_url": "https://open.spotify.com/album/57MGQ6sEJOqvkAXCQjrst0",
+      "apple_music_url": "https://music.apple.com/us/search?term=Bentayga%20Genesis%20Boldy%20James",
+      "total_tracks": 12,
+      "album_type": "album"
     },
     {
       "name": "Atrocity Exhibition (10 Year Anniversary Edition)",
@@ -276,7 +276,7 @@
       "release_date": "2026-11-09",
       "image": "https://i.scdn.co/image/ab67616d0000b273729571043c62d29261ad4021",
       "spotify_url": "https://open.spotify.com/album/1q73FMDsJHKNUYfacnKmPP",
-      "apple_music_url": "https://music.apple.com/us/album/creep-single/6832649102?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Creep%20Kyle%20Richh",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -316,7 +316,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b2736794e0141586f5d2be573d1b",
       "spotify_url": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4",
-      "apple_music_url": "https://music.apple.com/us/search?term=Sweet%20Action%20II%20Jack%20Harlow",
+      "apple_music_url": "https://music.apple.com/us/album/sweet-action-ii/6830926750?uo=4",
       "total_tracks": 7,
       "album_type": "single"
     },
@@ -326,7 +326,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b273cd8cf79f94a1c12a26c64ac6",
       "spotify_url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd",
-      "apple_music_url": "https://music.apple.com/us/search?term=Ya%20Hit%20Future",
+      "apple_music_url": "https://music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy-single/6831872688?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -511,6 +511,16 @@
       "album_type": "album"
     },
     {
+      "name": "COSITA",
+      "artists": "Daddy Yankee, Cardi B",
+      "release_date": "2026-10-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8d798140178d163c4e6b77f",
+      "spotify_url": "https://open.spotify.com/album/4Vjz8h1mL6g09olXnuAl7r",
+      "apple_music_url": "https://music.apple.com/us/search?term=COSITA%20Daddy%20Yankee",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Omert\u00e0 (with The Underachievers)",
       "artists": "Meechy Darko, 2DEAD BOYZ, The Underachievers, Flatbush Zombies",
       "release_date": "2026-10-30",
@@ -518,16 +528,6 @@
       "spotify_url": "https://open.spotify.com/album/3kJjgMuJ2NYfT5Df5ngV2r",
       "apple_music_url": "https://music.apple.com/us/search?term=Omert%C3%A0%20%28with%20The%20Underachievers%29%20Meechy%20Darko",
       "total_tracks": 2,
-      "album_type": "single"
-    },
-    {
-      "name": "COSITA",
-      "artists": "Daddy Yankee, Cardi B",
-      "release_date": "2026-10-30",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d8d798140178d163c4e6b77f",
-      "spotify_url": "https://open.spotify.com/album/4Vjz8h1mL6g09olXnuAl7r",
-      "apple_music_url": "https://music.apple.com/us/album/cosita-single/6829964006?uo=4",
-      "total_tracks": 1,
       "album_type": "single"
     },
     {
@@ -766,7 +766,7 @@
       "release_date": "2026-10-16",
       "image": "https://i.scdn.co/image/ab67616d0000b273c6d937759917bf11ffbd4b08",
       "spotify_url": "https://open.spotify.com/album/6ZW1rnFAUwGUHFcqJ9skJu",
-      "apple_music_url": "https://music.apple.com/us/album/things-dont-change-music-inspired-by-laikas-wildwood/6825132949?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=%27Things%20Don%27t%20Change%27%20%28Music%20Inspired%20by%20LAIKA%27s%20Wildwood%29%20Amin%C3%A9",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -936,7 +936,7 @@
       "release_date": "2026-10-02",
       "image": "https://i.scdn.co/image/ab67616d0000b2732685b70af798b4f272c00d8a",
       "spotify_url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI",
-      "apple_music_url": "https://music.apple.com/us/album/habibti-fomo/6818059268?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=HABIBTI%20%28FOMO%29%20Drake",
       "total_tracks": 15,
       "album_type": "album"
     },
@@ -946,7 +946,7 @@
       "release_date": "2026-10-02",
       "image": "https://i.scdn.co/image/ab67616d0000b2739123c8e39e04e529d2013df9",
       "spotify_url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT",
-      "apple_music_url": "https://music.apple.com/us/album/qr%C3%B6melife/6817200688?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=QR%C3%96MELIFE%20Quavo",
       "total_tracks": 14,
       "album_type": "album"
     },
@@ -956,7 +956,7 @@
       "release_date": "2026-10-02",
       "image": "https://i.scdn.co/image/ab67616d0000b273d33230b460a3e5dcdedd6258",
       "spotify_url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI",
-      "apple_music_url": "https://music.apple.com/us/album/the-divine-feminine/1147227630?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=The%20Divine%20Feminine%20%2810th%20Anniversary%29%20Mac%20Miller",
       "total_tracks": 13,
       "album_type": "album"
     },
@@ -1086,7 +1086,7 @@
       "release_date": "2026-09-25",
       "image": "https://i.scdn.co/image/ab67616d0000b273c47312f897b1e38b5654f1bc",
       "spotify_url": "https://open.spotify.com/album/4BVAhnlXBxZpd7EMSmD2Le",
-      "apple_music_url": "https://music.apple.com/us/album/where-you-from-feat-t-i-juicy-j-duke-deuce-single/6815292994?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Where%20You%20From%3F%20David%20Banner",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1138,7 +1138,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b2734390fa1c239036381c49cf38",
       "spotify_url": "https://open.spotify.com/album/6WSkoIUYQBDDzcJiasf2Mk",
-      "apple_music_url": "https://music.apple.com/us/album/when-your-lonely-heart-breaks-single/6810386702?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=When%20Your%20Lonely%20Heart%20Breaks%20Kurt%20Vile",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1155,52 +1155,156 @@
   ],
   "news": [
     {
-      "title": "Gorillaz, CHVRCHES, Yung Lean & More: 5 Best Moments in Mexico City\u2019s Corona Capital (Day\u00a01)",
-      "link": "https://www.billboard.com/lists/corona-capital-mexico-day-1-gorillaz-chvrches-yung-lean/",
+      "title": "NFL Mexico City Game Halftime Show 2026: Here\u2019s Where to Watch The Warning Perform Live Online\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/nfl-mexico-city-game-the-warning-halftime-watch-live-free-1236385357/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-21 22:00",
-      "summary": "The festival is celebrating its 16th edition in Mexico City this weekend. Here are some of Friday\u2019s standout performances."
+      "published": "2026-11-22 22:20",
+      "summary": "Livestream the Minnesota Vikings taking on the San Fransisco 49ers live from Mexico City on Nov. 22 \u2014 and\u00a0watch The Warning perform at halftime."
     },
     {
-      "title": "Gorillaz Celebrate Mexico\u2019s \u2018Revolutionary Spirit\u2019 at Corona Capital, Bring Out Johnny Marr and\u00a0Trueno",
-      "link": "https://www.billboard.com/music/latin/gorillaz-corona-capital-festival-2026-mexico-city-recap-1236387340/",
+      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full\u00a0List",
+      "link": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-21 18:46",
-      "summary": "The British band returned to Mexico City for the first time in eight years to headline the first day of the popular festival."
+      "published": "2026-11-22 22:01",
+      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat."
     },
     {
-      "title": "BTS, ENHYPEN, BIGBANG & CORTIS Are Big Winners of 2026 MAMA\u00a0Awards",
-      "link": "https://www.billboard.com/music/awards/2026-mama-awards-winners-list-1236387006/",
+      "title": "Twenty One Pilots, The Offspring, Peaches & More: 5 Best Moments in Mexico City\u2019s Corona Capital\u00a0(Day\u00a02)",
+      "link": "https://www.billboard.com/lists/corona-capital-2026-day-2-twenty-one-pilots-offspring/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-21 18:31",
-      "summary": "The K-pop awards were presented over the course of two nights in Osaka, Japan."
+      "published": "2026-11-22 21:58",
+      "summary": "Duo Tyler Joseph and Josh Dun bid an indefinite farewell to the stage on the second day of the festival."
     },
     {
-      "title": "Ariana Grande Recalls \u2018Wildest Place\u2019 She\u2019s Heard Her Music Playing: \u2018Getting a Bikini\u00a0Wax\u2019",
-      "link": "https://www.billboard.com/music/pop/ariana-grande-bikini-wax-song-story-focker-in-law-interview-1236387309/",
+      "title": "ATEEZ Earn Fourth No. 1 on Billboard 200 With \u2018GOLDEN HOUR :\u00a0Part.6\u2019",
+      "link": "https://www.billboard.com/music/chart-beat/ateez-golden-hour-part6-no1-billboard-200-chart-1236387535/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-21 17:31",
-      "summary": "The star told the story of the slightly awkward encounter while promoting new movie Focker-in-Law."
+      "published": "2026-11-22 21:40",
+      "summary": "Plus, U2 achieves its 14th top 10 with the debut of Carnaval de Luz."
     },
     {
-      "title": "ILLIT Talk Creating \u201cICONIC BY MISTAKE\u201d With LE SSERAFIM and KATSEYE | MAMA Awards\u00a02026",
-      "link": "https://www.billboard.com/video/illit-on-creating-icon-by-mistake-with-le-sserafim-and-katseye-mama-awards-2026/",
+      "title": "Miley Cyrus & Maxx Morando\u2019s Wedding Photos Are\u00a0Here",
+      "link": "https://www.billboard.com/culture/lifestyle/miley-cyrus-wedding-photos-maxx-morando-1236387483/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-21 15:28",
-      "summary": "ILLIT caught up with Billboard\u2019s Tetris Kelly on the red carpet at the MAMA Awards 2026."
+      "published": "2026-11-22 19:57",
+      "summary": "The couple were married in Palm Springs, Calif., on Saturday (Nov. 21)."
     },
     {
-      "title": "Feid, Anthony Ramos & More to Join 100th Macy\u2019s Thanksgiving Day Parade & More Uplifting Moments in Latin\u00a0Music",
-      "link": "https://www.billboard.com/music/latin/feid-macys-thanksgiving-day-parade-100th-edition-uplifting-1236386980/",
+      "title": "Selena Gomez Helps Couple With Baby\u2019s Sex Reveal at Spurs Game, \u2018With No Hesitation\u2019",
+      "link": "https://www.billboard.com/music/pop/selena-gomez-baby-gender-reveal-spurs-game-couple-1236387456/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-21 15:00",
-      "summary": "Plus, Eladio Carri\u00f3n\u2019s charity golf tournament returns to Puerto Rico, Erika Ender celebras 35-year career in Panama."
+      "published": "2026-11-22 18:15",
+      "summary": "The star opened the envelope and announced whether the baby will be born male or female at Saturday night's game in San Antonio, Texas."
+    },
+    {
+      "title": "John Dolmayan Says 'Big Things Are Coming' for System of a Down",
+      "link": "https://loudwire.com/john-dolmayan-big-things-coming-system-of-a-down/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-22 17:26",
+      "summary": "Francesco Castaldo/Archivio Francesco Castaldo/Mondadori via Getty Images"
+    },
+    {
+      "title": "Wayne Coyne Officiates Miley Cyrus\u2019 Wedding",
+      "link": "https://consequence.net/2026/11/wayne-coyne-officiates-miley-cyrus-wedding/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-22 16:46",
+      "summary": "The Flaming Lips' frontman and the pop star have long been friends and musical collaborators.\nWayne Coyne Officiates Miley Cyrus\u2019 Wedding\nTravis Bland"
+    },
+    {
+      "title": "'It's Not the End' - Igor Cavalera on Sepultura's Final Concert",
+      "link": "https://loudwire.com/igor-cavalera-sepultura-final-concert/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-22 15:33",
+      "summary": "Per Ole Hagen/Redferns"
+    },
+    {
+      "title": "Boy George on His Israel Trip: \u2018I Wasn\u2019t Able to Not Say Something\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/boy-george-israel-trip-we-will-dance-again-interview-1235662143/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-22 15:28",
+      "summary": "After performing in Tel Aviv and meeting survivors of the Oct. 7 attack, the Culture Club frontman reflects on the backlash to his song, rising antisemitism, and why he felt compelled to speak out"
+    },
+    {
+      "title": "Muse\u2019s Matt Bellamy Wants an AI Guitar",
+      "link": "https://consequence.net/2026/11/muse-matt-bellamy-ai-guitar/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-22 15:17",
+      "summary": "The guitarist envisioned being able to shape his tone through use of the technology.\nMuse&#8217;s Matt Bellamy Wants an AI Guitar\nTravis Bland"
+    },
+    {
+      "title": "Here\u2019s Where to Watch the Miami Dolphins vs. Buffalo Bills Game Live\u00a0Online",
+      "link": "https://www.billboard.com/culture/product-recommendations/miami-dolphins-vs-buffalo-bills-watch-nfl-live-online-free-1236385695/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-22 15:00",
+      "summary": "Livestream the Dolphins taking on the Bills on Sunday, Nov. 22 \u2014 plus, watch for a possible Hailee Steinfeld sighting at the game."
+    },
+    {
+      "title": "Miley Cyrus and Maxx Morando Marry at Palm Springs Wedding",
+      "link": "https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-married-springs-wedding-1235662077/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-22 13:15",
+      "summary": "Singer and drummer became engaged in December 2025 after four years of dating"
+    },
+    {
+      "title": "Kelly Lee Owens announces two-day music festival in Wales to celebrate grassroots venues as part of Hometown Meltdown",
+      "link": "https://www.nme.com/news/music/kelly-lee-owens-music-festival-wales-grassroots-venues-hometown-meltdown-3976656",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-22 11:38",
+      "summary": "\nThe Welsh electronic musician will curate and perform at the inaugural event in Bethesda, with Gruff Rhys and a range of local artists also on the bill\nThe post Kelly Lee Owens announces two-day musi..."
+    },
+    {
+      "title": "Maruja thank fans for supporting them through burnout after \u201cbeautiful and brutal year\u201d with new live album \u2018The Holy Inadequate\u2019 and Ritual Union headline set",
+      "link": "https://www.nme.com/news/music/maruja-thank-fans-burnout-live-album-holy-inadequate-ritual-union-headline-3976651",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-22 10:41",
+      "summary": "\nThe Manchester jazz-punks played over 100 shows in 2025 before taking time off the road \u2013 and have now confirmed a major Bristol festival appearance for next year\nThe post Maruja thank fans for suppo..."
+    },
+    {
+      "title": "Life Without Buildings reunite after 24 years and make hometown live return in Glasgow",
+      "link": "https://www.nme.com/news/music/life-without-buildings-reunite-24-years-hometown-glasgow-setlist-footage-3976648",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-22 09:27",
+      "summary": "\nThe cult post-punk band played four comeback shows this week \u2013 check out footage and the full setlist here\nThe post Life Without Buildings reunite after 24 years and make hometown live return in Glas..."
+    },
+    {
+      "title": "Britney Spears Apologizes to Her Family on Instagram: \u2018I Just Miss Them Like\u00a0Crazy\u2019",
+      "link": "https://www.billboard.com/music/pop/britney-spears-instagram-apology-family-1236387442/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-22 07:03",
+      "summary": "The pop star wrote that she regretted raising past grievances publicly, five years after the end of the conservatorship that fractured her relationship with her parents and sister."
+    },
+    {
+      "title": "Miley Cyrus Marries Maxx Morando in Poolside Ceremony Led by the Flaming Lips\u2019 Wayne\u00a0Coyne",
+      "link": "https://www.billboard.com/music/pop/miley-cyrus-marries-maxx-morando-palm-springs-wedding-1236387428/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-22 05:24",
+      "summary": "It comes one month after the couple performed \u201cLet\u2019s Get Married\u201d together at the Hollywood Bowl."
+    },
+    {
+      "title": "CORTIS\u2019 Martin Calls Panic \u201cLegends\u201d After Their \u201cLeft-Handed\u201d Performance | MAMA Awards\u00a02026",
+      "link": "https://www.billboard.com/video/cortis-martin-calls-panic-legends-after-left-handed-performance-mama-awards-2026/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-22 00:36",
+      "summary": "CORTIS caught up with Billboard\u2019s Tetris Kelly on the red carpet at the MAMA Awards 2026."
     },
     {
       "title": "The Go-Go\u2019s debut gets a numbered audiophile reissue",
@@ -1217,14 +1321,6 @@
       "category": "general",
       "published": "2026-11-21 12:42",
       "summary": "\nIt comes as R.E.M.'s 2001 album 'Reveal' celebrates its 25th anniversary\nThe post R.E.M.&#8217;s Michael Stipe shares timeline for debut solo album release and plans for the future: &#8220;I already ..."
-    },
-    {
-      "title": "Here\u2019s How to Watch UFC Fight Night: Proch\u00e1zka vs. Stirling Live Online for\u00a0Free",
-      "link": "https://www.billboard.com/culture/product-recommendations/ufc-prochazka-vs-stirling-nov-2026-watch-live-online-free-1236384744/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-21 12:00",
-      "summary": "Live from Qatar on Nov. 21, you can watch the entire MMA event online for free."
     },
     {
       "title": "Phoebe Bridgers fans are creating artwork to remember her phone-free arena concerts",
@@ -1249,30 +1345,6 @@
       "category": "general",
       "published": "2026-11-21 10:00",
       "summary": "\nThey also performed 'All I Want' for the first time since 2011 during the opening night of their New York residency\nThe post Watch LCD Soundsystem play &#8216;Disco Infiltrator&#8217; for first time ..."
-    },
-    {
-      "title": "Mashd N Kutcher Remix Rogue Traders and Dannii Minogue\u2019s \u2018Dirty Dirty\u00a0Disco\u2019",
-      "link": "https://www.billboard.com/music/music-news/mashd-n-kutcher-remix-rogue-traders-dannii-minogue-dirty-dirty-disco-1236387275/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-21 07:22",
-      "summary": "The Australian group's Midnight Mix arrives as part of a second remix package for the single."
-    },
-    {
-      "title": "Phil Collins Says Cher Sang His \u2018We Are the World\u2019 Line at Live Aid After He Left\u00a0Early",
-      "link": "https://www.billboard.com/music/rock/phil-collins-live-aid-cher-concorde-eric-clapton-siriusxm-1236387268/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-21 06:47",
-      "summary": "In a SiriusXM interview marking his second Rock Hall induction, Collins recalls the Concorde flight, meeting Cher mid-air, and discovering she'd taken his spot."
-    },
-    {
-      "title": "2026 CMA Awards Jump to 7-Year Ratings\u00a0High",
-      "link": "https://www.billboard.com/music/awards/2026-cma-awards-ratings-up-seven-year-high-1236387203/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-21 01:54",
-      "summary": "The show drew more than 7 million total viewers across ABC and Disney+."
     },
     {
       "title": "Waka Flocka Flame Calls Out Men Over 35 Who Are Playing GTA VI",
@@ -1481,79 +1553,7 @@
       "category": "general",
       "published": "2026-11-20 17:24",
       "summary": "\nThe venture aims to support the capital's grassroots music scene\nThe post Music Venue Trust and Fender team up for intimate London showcase gig with Unpeople appeared first on NME."
-    },
-    {
-      "title": "Hans Zimmer Announces New Live Electronic Album The Next Level",
-      "link": "https://consequence.net/2026/11/hans-zimmer-live-album-the-next-level/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-20 17:23",
-      "summary": "The 35-track project was recorded during the first leg of his \"The Next Level\" tour.\nHans Zimmer Announces New Live Electronic Album The Next Level\nEddie Fu"
-    },
-    {
-      "title": "Ice Spice Gets Her Own Wax Figure at Madame Tussauds",
-      "link": "https://www.xxlmag.com/ice-spice-wax-figure/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-20 17:20",
-      "summary": "anslecat/Instagram"
-    },
-    {
-      "title": "Marilyn Manson U.K. Concert Removal Petition Gaining Popularity",
-      "link": "https://loudwire.com/petition-remove-marilyn-manson-slipknot-uk-2027/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-11-20 17:19",
-      "summary": "Gary Miller, Getty Images, Live Nation"
-    },
-    {
-      "title": "Yves doesn\u2019t need you to understand the lyrics",
-      "link": "https://www.thefader.com/2026/11/20/yves-cute-and-anxiety-profile-interview",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-20 17:01",
-      "summary": "An interview with one of K-pop\u2019s most idiosyncratic artists about starting trends, transforming her image, and her EP Cute & Anxiety."
-    },
-    {
-      "title": "Hear Phoebe Bridgers cover Adrianne Lenker\u2019s \u201cAnything\u201d",
-      "link": "https://www.altpress.com/phoebe-bridgers-adrianne-lenker-anything-cover-listen/",
-      "source": "Alternative Press",
-      "category": "rock",
-      "published": "2026-11-20 16:46",
-      "summary": "The annual holiday cover tradition continues, with proceeds benefiting Palestine Children\u2019s Relief Fund."
-    },
-    {
-      "title": "Stone Sour Unveil Previously Unreleased Song \u201cFull of Empty\u201d: Stream",
-      "link": "https://consequence.net/2026/11/stone-sour-full-of-empty/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-20 16:39",
-      "summary": "Corey Taylor recorded new vocals for the unused track from the Audio Secrecy sessions.\nStone Sour Unveil Previously Unreleased Song &#8220;Full of Empty&#8221;: Stream\nSpencer Kaufman"
-    },
-    {
-      "title": "Sexyy Red Brings Her Dance Moves to Grand Theft Auto VI",
-      "link": "https://www.xxlmag.com/sexyy-red-grand-theft-auto-vi/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-20 16:39",
-      "summary": "IShowSpeed/YouTube"
-    },
-    {
-      "title": "Liam Gallagher, Bonehead and Primal Scream lead tributes on one year anniversary of Mani\u2019s death",
-      "link": "https://www.nme.com/news/music/liam-gallagher-bonehead-and-primal-scream-lead-tributes-on-one-year-anniversary-of-manis-death-3976584",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-20 16:31",
-      "summary": "\n\"A year ago today we lost our HERO our FRIEND the 1 n only GARY MANI MOUNFIELD\"\nThe post Liam Gallagher, Bonehead and Primal Scream lead tributes on one year anniversary of Mani&#8217;s death appeare..."
-    },
-    {
-      "title": "Blondie Reveal Tender New Song \u201cCome Back Home\u201d: Stream",
-      "link": "https://consequence.net/2026/11/blondie-come-back-home-new-song-stream/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-20 16:15",
-      "summary": "The track was written by Lucius' Jess Wolfe and Holly Laessig.\nBlondie Reveal Tender New Song &#8220;Come Back Home&#8221;: Stream\nPaolo Ragusa"
     }
   ],
-  "last_updated": "2026-11-21T22:06:40.084348"
+  "last_updated": "2026-11-22T22:22:02.779062"
 }

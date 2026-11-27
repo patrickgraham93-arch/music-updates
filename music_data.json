@@ -51,6 +51,16 @@
       "album_type": "single"
     },
     {
+      "name": "Everybody (Bass Boosted)",
+      "artists": "Saint Lamaar",
+      "release_date": "2026-11-20",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373d7b7856e172b68a7a8a703",
+      "spotify_url": "https://open.spotify.com/album/7mYnI01TxZH5ssaQDEPB1e",
+      "apple_music_url": "https://music.apple.com/us/search?term=Everybody%20%28Bass%20Boosted%29%20Saint%20Lamaar",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Burn This Shit Down (from GTAVI: The Album)",
       "artists": "Travis Scott, Grand Theft Auto VI",
       "release_date": "2026-11-19",
@@ -121,16 +131,6 @@
       "album_type": "single"
     },
     {
-      "name": "HEELMATIC",
-      "artists": "Westside Gunn",
-      "release_date": "2026-11-13",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730a52e1f5e6147d83b2e396bf",
-      "spotify_url": "https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0",
-      "apple_music_url": "https://music.apple.com/us/search?term=HEELMATIC%20Westside%20Gunn",
-      "total_tracks": 16,
-      "album_type": "album"
-    },
-    {
       "name": "WELCOME (feat. Eminem)",
       "artists": "IDK, Eminem, J Dilla",
       "release_date": "2026-11-13",
@@ -141,12 +141,22 @@
       "album_type": "single"
     },
     {
+      "name": "HEELMATIC",
+      "artists": "Westside Gunn",
+      "release_date": "2026-11-13",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730a52e1f5e6147d83b2e396bf",
+      "spotify_url": "https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0",
+      "apple_music_url": "https://music.apple.com/us/search?term=HEELMATIC%20Westside%20Gunn",
+      "total_tracks": 16,
+      "album_type": "album"
+    },
+    {
       "name": "Cool",
       "artists": "Wiz Khalifa",
       "release_date": "2026-11-13",
       "image": "https://i.scdn.co/image/ab67616d0000b273ea6d876aa8528f70cb35f699",
       "spotify_url": "https://open.spotify.com/album/62vOhQo4OJwUNlEVPQ1owK",
-      "apple_music_url": "https://music.apple.com/us/album/cool/6836917708?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Cool%20Wiz%20Khalifa",
       "total_tracks": 14,
       "album_type": "album"
     },
@@ -316,7 +326,7 @@
       "release_date": "2026-11-09",
       "image": "https://i.scdn.co/image/ab67616d0000b273729571043c62d29261ad4021",
       "spotify_url": "https://open.spotify.com/album/1q73FMDsJHKNUYfacnKmPP",
-      "apple_music_url": "https://music.apple.com/us/album/creep-single/6832649102?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Creep%20Kyle%20Richh",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -336,7 +346,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b273c965434565e419d6d8f7ef3a",
       "spotify_url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP",
-      "apple_music_url": "https://music.apple.com/us/album/fresh/6836040643?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=FRESH%20Lil%20Baby",
       "total_tracks": 17,
       "album_type": "album"
     },
@@ -356,7 +366,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b273cd8cf79f94a1c12a26c64ac6",
       "spotify_url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd",
-      "apple_music_url": "https://music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy-single/6831872688?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Ya%20Hit%20Future",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -366,7 +376,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b2736794e0141586f5d2be573d1b",
       "spotify_url": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4",
-      "apple_music_url": "https://music.apple.com/us/album/sweet-action-ii/6830926750?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Sweet%20Action%20II%20Jack%20Harlow",
       "total_tracks": 7,
       "album_type": "single"
     },
@@ -436,7 +446,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe7d4a2330cde741ffcfe3f9",
       "spotify_url": "https://open.spotify.com/album/58X6r78Vbiy8zUzGZ1nCUN",
-      "apple_music_url": "https://music.apple.com/us/search?term=You%20Make%20Me%20Fivio%20Foreign",
+      "apple_music_url": "https://music.apple.com/us/album/you-make-me-feat-the-fire-choir-single/6830348862?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -476,7 +486,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b27363328b198af68a5f7c70c636",
       "spotify_url": "https://open.spotify.com/album/1lSUMVNkDnEOALgQLgLF54",
-      "apple_music_url": "https://music.apple.com/us/search?term=T.H.E.%20%28The%20Hamilton%20Experience%29%20Charles%20Hamilton",
+      "apple_music_url": "https://music.apple.com/us/album/t-h-e-the-hamilton-experience/6808744695?uo=4",
       "total_tracks": 11,
       "album_type": "album"
     },
@@ -656,7 +666,7 @@
       "release_date": "2026-10-23",
       "image": "https://i.scdn.co/image/ab67616d0000b273e9c1b191c7e4b2f85e6431e8",
       "spotify_url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq",
-      "apple_music_url": "https://music.apple.com/us/search?term=Heavy%20Is%20The%20Crown%20Anderson%20.Paak",
+      "apple_music_url": "https://music.apple.com/us/album/heavy-is-the-crown/6812869309?uo=4",
       "total_tracks": 11,
       "album_type": "album"
     },
@@ -986,7 +996,7 @@
       "release_date": "2026-10-02",
       "image": "https://i.scdn.co/image/ab67616d0000b2739123c8e39e04e529d2013df9",
       "spotify_url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT",
-      "apple_music_url": "https://music.apple.com/us/search?term=QR%C3%96MELIFE%20Quavo",
+      "apple_music_url": "https://music.apple.com/us/album/qr%C3%B6melife/6817200688?uo=4",
       "total_tracks": 14,
       "album_type": "album"
     },
@@ -1088,7 +1098,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b2734390fa1c239036381c49cf38",
       "spotify_url": "https://open.spotify.com/album/6WSkoIUYQBDDzcJiasf2Mk",
-      "apple_music_url": "https://music.apple.com/us/search?term=When%20Your%20Lonely%20Heart%20Breaks%20Kurt%20Vile",
+      "apple_music_url": "https://music.apple.com/us/album/when-your-lonely-heart-breaks-single/6810386702?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1105,12 +1115,236 @@
   ],
   "news": [
     {
-      "title": "Duran Duran\u2019s Biggest Billboard Hits: \u2018Rio,\u2019 \u2018Hungry Like the Wolf\u2019 &\u00a0More",
-      "link": "https://www.billboard.com/lists/duran-duran-biggest-billboard-hits/",
+      "title": "Anuel AA\u2019s \u2018RHLM2\u2019 Album Is Finally Here: \u2018I Made It With My Heart and\u00a0Soul\u2019",
+      "link": "https://www.billboard.com/music/latin/anuel-aa-rhlm2-album-1236389833/",
       "source": "Billboard",
       "category": "general",
-      "published": "2026-11-25 23:53",
-      "summary": "The band sent 15 classics to the Hot 100\u2019s top 40 in the 1980s and \u201890s."
+      "published": "2026-11-27 00:00",
+      "summary": "The long-awaited album is a sequel to his 2018 debut, Real Hasta La Muerte, and his first in four years."
+    },
+    {
+      "title": "Lana Del Rey Says New Albums Are \u2018Getting Close\u2019 to Completion: \u2018I\u2019m Happy With\u00a0Them\u2019",
+      "link": "https://www.billboard.com/music/music-news/lana-del-rey-new-albums-stove-spyda-update-1236390186/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-26 22:14",
+      "summary": "The singer-songwriter updated fans on Stove and its companion album, Spyda, while seemingly teasing cryptic lyrics."
+    },
+    {
+      "title": "Goo Goo Dolls\u2019 Halftime Show at the Chiefs vs. Bills Thanksgiving Game: Watch Online for\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/goo-goo-dolls-halftime-chiefs-bills-thanksgiving-watch-free-1236389230/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-26 21:00",
+      "summary": "The game will take place on Thanksgiving Night (Nov. 26), with the rock band taking the stage at halftime. Fans can also tune in for a potential Taylor Swift and Hailee Steinfeld spotting."
+    },
+    {
+      "title": "Where to Watch Jennifer Lopez\u2019s Vegas Concert Film \u2018The JLO Show\u2019 Free\u00a0Online",
+      "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-jennifer-lopez-vegas-concert-film-free-online-1236390059/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-26 21:00",
+      "summary": "The two-hour concert film documents Jennifer Lopez's Las Vegas residency finale in March of this year and premieres on Thanksgiving at 8:00 p.m. ET/PT."
+    },
+    {
+      "title": "Feid and Snoop Dogg Drop Thanksgiving Collaboration \u2018Gracias x\u00a0Todo\u2019",
+      "link": "https://www.billboard.com/music/music-news/feid-snoop-dogg-gracias-x-todo-thanksgiving-song-1236390180/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-26 20:25",
+      "summary": "The two stars previewed the song at the 2026 Latin Grammy Awards."
+    },
+    {
+      "title": "Watch Wu-Tang Clan Perform \u2018Triumph,\u2019 \u2018Bring Da Ruckus\u2019 at NFL Thanksgiving Halftime Show",
+      "link": "https://www.rollingstone.com/music/music-news/wu-tang-clan-nfl-thanksgiving-game-halftime-show-1235664856/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-26 20:21",
+      "summary": "The New York hip-hop group were joined by Red Hot Chili Peppers' Chad Smith on drums"
+    },
+    {
+      "title": "Watch Wu-Tang Clan Perform the 2026 NFL Thanksgiving Day Halftime Show",
+      "link": "https://pitchfork.com/story/watch-wu-tang-clan-perform-the-nfl-thanksgiving-day-halftime-show/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-11-26 20:19",
+      "summary": "The New York group took the stage in Detroit for the Bears vs. Lions football game"
+    },
+    {
+      "title": "Wu-Tang Clan Bring Da Ruckus for NFL Thanksgiving Day Halftime Show",
+      "link": "https://consequence.net/2026/11/wu-tang-clan-nfl-thanksgiving-show/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-26 20:14",
+      "summary": "Teaming up with Chad Smith, the hip-hop legends served up a set of greatest hits during halftime of the NFL's Thanksgiving Day matchup between the Detroit Lions and Chicago Bears on Thursday\nWu-Tang C..."
+    },
+    {
+      "title": "Michael Giles, King Crimson Co-Founder and Original Drummer, Dies at\u00a084",
+      "link": "https://www.billboard.com/music/music-news/king-crimson-michael-giles-death-obituary-1236390176/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-26 18:52",
+      "summary": "\"His unique contribution to the evolution of progressive music will never be forgotten,\u201d the band's label wrote."
+    },
+    {
+      "title": "Miranda Lambert NFL Halftime Show 2026: Where to Watch Philadelphia Eagles vs. Dallas Cowboys Live Online\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-phl-dal-miranda-lambert-halftime-watch-free-1236385793/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-26 18:30",
+      "summary": "Livestream the PHL Eagles taking on the DAL Cowboys for Thanksgiving Day. Watch Miranda Lambert perform at halftime."
+    },
+    {
+      "title": "PUP Compose New Music for Sample Pack Benefitting Kids in Toronto",
+      "link": "https://pitchfork.com/story/pup-compose-new-music-for-sample-pack-benefitting-kids-in-toronto/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-11-26 17:57",
+      "summary": "Proceeds from the eight new songs will go to Community Music Schools of Toronto"
+    },
+    {
+      "title": "Snoop Dogg Teams Up With Feid for Thanksgiving Single \u2018Gracias x Todo\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/snoop-dogg-feid-gracias-x-todo-single-thanksgiving-1235664907/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-26 17:40",
+      "summary": "The musicians recently previewed the track during a performance at the Latin Grammy Awards"
+    },
+    {
+      "title": "BBC Radio 1\u2019s Big Weekend 2027 set to take place in Brighton",
+      "link": "https://www.nme.com/news/music/bbc-radio-1s-big-weekend-2027-set-to-take-place-in-brighton-3977061",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-26 16:43",
+      "summary": "\n\u201cIt\u2019s actually stupid that it\u2019s taken so long for us to do a Big Weekend there. Sorry about that\u201d\nThe post BBC Radio 1&#8217;s Big Weekend 2027 set to take place in Brighton appeared first on NME."
+    },
+    {
+      "title": "Substance released at Don Toliver Co-Op live show could be linked to jewellery thefts and robberies, police say",
+      "link": "https://www.nme.com/news/music/substance-at-don-toliver-coop-live-show-could-be-linked-to-jewellery-thefts-police-say-3977049",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-26 16:28",
+      "summary": "\nOfficers said that \u201csimilar robberies\u201d have been reported at two previous Don Toliver gigs\nThe post Substance released at Don Toliver Co-Op live show could be linked to jewellery thefts and robberies..."
+    },
+    {
+      "title": "Wu-Tang Clan Halftime Show 2026: Here\u2019s Where to Watch Chicago Bears vs. Detroit Lions Live Online\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-chi-det-wu-tang-clan-halftime-watch-free-1236385560/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-26 15:00",
+      "summary": "Thanksgiving Day Game: Livestream the CHI Bears taking on the DET Lions on Nov. 26. Watch Wu-Tang Clan perform at halftime."
+    },
+    {
+      "title": "Inside the Madcap World of Chuy\u00edn: \u2018Everyone Sings About the Neverending Party. I Sing About the\u00a0Hangover\u2019",
+      "link": "https://www.billboard.com/music/latin/chuyin-street-mob-interview-latin-up-and-comer-tour-2027-1236389136/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-26 15:00",
+      "summary": "Meet Billboard\u2019s Latin Up-and-Comer Artist of the Month for November."
+    },
+    {
+      "title": "Was The Rolling Stones\u2019 1973 Still Part of the Band\u2019s Classic Period, Or the Beginning of the End? (Greatest Pop Stars\u00a0Podcast)",
+      "link": "https://www.billboard.com/music/pop/rolling-stones-1973-greatest-pop-stars-podcast-discussion-1236390158/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-26 14:47",
+      "summary": "This Vintage Pop Stardom episode of Greatest Pop Stars looks at a year where the World's Greatest Rock and Roll Band was at full power, but maybe moving into a different phase of its career."
+    },
+    {
+      "title": "Watch Queens Of The Stone Age give \u2018Perfecth\u2019 songs their live debut and air rarities as they kick off tour in Japan",
+      "link": "https://www.nme.com/news/music/queens-of-the-stone-age-debut-perfecth-songs-rarities-japan-tour-footage-setlist-3977034",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-26 14:11",
+      "summary": "\nJosh Homme also paid tribute to Mark Lanegan on what would have been his birthday, saying that he always made music into \u201csomething more\u201d\nThe post Watch Queens Of The Stone Age give &#8216;Perfecth&#..."
+    },
+    {
+      "title": "The NME Magazine November/December 2026 issue with Daine on the cover is now on sale",
+      "link": "https://www.nme.com/news/music/nme-magazine-november-december-2026-issue-how-to-buy-3976263",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-26 14:00",
+      "summary": "\nBundled with a copy of MusicTech Magazine starring Kenneth Blume aka Kenny Beats\nThe post The NME Magazine November/December 2026 issue with Daine on the cover is now on sale appeared first on NME."
+    },
+    {
+      "title": "Carly Rae Jepsen\u2019s \u2018Run Away With Me\u2019 streams jump almost 1,100 per cent after \u2018GTA 6\u2019 sync",
+      "link": "https://www.nme.com/news/gaming-news/carly-rae-jepsen-run-away-with-me-grand-theft-auto-resurgence-3977027",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-26 12:49",
+      "summary": "\nShe\u2019s compared it to Kate Bush\u2019s \u2018Stranger Things\u2019-fuelled \u2018Running Up The Hill\u2019 revival\nThe post Carly Rae Jepsen&#8217;s &#8216;Run Away With Me&#8217; streams jump almost 1,100 per cent after &#82..."
+    },
+    {
+      "title": "Mad Cool announces name change and huge site enhancements for 2027",
+      "link": "https://www.nme.com/news/music/mad-cool-announces-name-change-and-huge-site-enhancements-for-2027-3977020",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-26 12:34",
+      "summary": "\nThere will also be more stages than at the 2026 edition, as well as enhanced audiovisual production, new spaces for relaxation and more\nThe post Mad Cool announces name change and huge site enhanceme..."
+    },
+    {
+      "title": "Westside Cowboy, Gurriers, Lime Garden lead stacked Dot To Dot 2027 line-up",
+      "link": "https://www.nme.com/news/music/westside-cowboy-gurriers-lime-garden-lead-stacked-dot-to-dot-2027-line-up-3977010",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-26 12:00",
+      "summary": "\nOther names announced include Turnspit, KNATS and The Joy Hotel\nThe post Westside Cowboy, Gurriers, Lime Garden lead stacked Dot To Dot 2027 line-up appeared first on NME."
+    },
+    {
+      "title": "Remember Creed\u2019s Epic NFL Halftime Thanksgiving Day Performance?",
+      "link": "https://loudwire.com/creed-nfl-halftime-thanksgiving-day-performance-2001-cowboys-broncos/",
+      "source": "Loudwire",
+      "category": "rock",
+      "published": "2026-11-26 12:00",
+      "summary": "YouTube: creedvids"
+    },
+    {
+      "title": "Royal Blood announce huge summer 2027 UK outdoor shows with London Rock N\u2019 Roll Circus headline slot",
+      "link": "https://www.nme.com/news/music/royal-blood-announce-2027-uk-outdoor-shows-rock-n-roll-circus-headline-slot-tickets-3977004",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-26 10:45",
+      "summary": "\nThey\u2019ll be joined by Soft Play, Nova Twins and more at the inaugural London edition of Rock N\u2019 Roll Circus\nThe post Royal Blood announce huge summer 2027 UK outdoor shows with London Rock N\u2019 Roll Cir..."
+    },
+    {
+      "title": "Watch U2 roll through hits and pay tribute to Dolly Parton at NFL Thanksgiving Eve Halftime Show",
+      "link": "https://www.nme.com/news/music/watch-u2-play-hits-pay-tribute-dolly-parton-nfl-thanksgiving-eve-halftime-show-3976999",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-26 09:54",
+      "summary": "\nThe performance marked the first Thanksgiving Eve NFL performance, and follows on from Bono and co. also performing at games in 2002 and 2006\nThe post Watch U2 roll through hits and pay tribute to Do..."
+    },
+    {
+      "title": "U2 Perform Dolly Parton\u2019s Final Recording During NFL Halftime Show",
+      "link": "https://www.rollingstone.com/music/music-news/u2-tribute-dolly-parton-torn-thanksgiving-nfl-halftime-show-1235664834/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-26 05:15",
+      "summary": "The band delivered the moving Parton and Bono duet, \"Torn,\" during Wednesday night's performance"
+    },
+    {
+      "title": "Conway the Machine - OTIS ALBUM REVIEW",
+      "link": "https://www.youtube.com/watch?v=_UwAwTU2LYM",
+      "source": "The Needle Drop",
+      "category": "general",
+      "published": "2026-11-26 05:14",
+      "summary": "Listen: https://www.youtube.com/watch?v=bVl6qk_nvvQ\n\nOTIS is just an alright album from Conway.\n\nMore rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP\n\n===========..."
+    },
+    {
+      "title": "Ariana Grande Says Reaction to \u2018Petal\u2019 Video Felt Like \u2018Black Mirror\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/ariana-grande-petal-video-reaction-black-mirror-1235664830/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-26 04:13",
+      "summary": "\"I wouldn't change a thing,\" Grande said of the video. \"I would put it out again today, exactly as is\""
+    },
+    {
+      "title": "U2 Play the Hits, Pay Tribute to Dolly Parton for NFL Thanksgiving Eve Halftime Show",
+      "link": "https://consequence.net/2026/11/u2-thanksgiving-eve-nfl-show/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-26 03:20",
+      "summary": "The five-song set included \"Torn,\" \"Sunday Bloody Sunday,\" \"Where the Streets Have No Name,\" and \"Pride (In the Name of Love).\"\nU2 Play the Hits, Pay Tribute to Dolly Parton for NFL Thanksgiving Eve H..."
     },
     {
       "title": "King Crimson Co-Founder Michael Giles Dies at 84",
@@ -1121,28 +1355,12 @@
       "summary": "The drummer played an essential role in the recording of In the Court of the Crimson King"
     },
     {
-      "title": "\u2018Hunger Games\u2019 Series Returns to No. 1 on Soundtracks Chart After More Than a\u00a0Decade",
-      "link": "https://www.billboard.com/music/chart-beat/hunger-games-sunrise-reaping-album-tops-soundtracks-chart-1236390012/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-25 23:42",
-      "summary": "The Hunger Games: Sunrise on the Reaping \u2014 with music by Noah Kahan, Ella Langley &#38; more \u2014 bows atop the Soundtracks chart."
-    },
-    {
       "title": "Duran Duran pay tribute after death of guitarist Andy Taylor, age 65: \u201cHis playing drove the songs that took us around the world\u201d",
       "link": "https://www.nme.com/news/music/duran-duran-pay-tribute-after-death-of-guitarist-andy-taylor-age-65-his-playing-drove-the-songs-that-took-us-around-the-world-3976971",
       "source": "NME",
       "category": "general",
       "published": "2026-11-25 23:08",
       "summary": "\n\"The 'Geordie Genius', 'the live wire from Newcastle': how fortunate we were to have found him\"\nThe post Duran Duran pay tribute after death of guitarist Andy Taylor, age 65: &#8220;His playing drove..."
-    },
-    {
-      "title": "U2\u2019s \u2018Carnaval de Luz\u2019 Debuts at No. 1 on 3 Billboard Album\u00a0Charts",
-      "link": "https://www.billboard.com/music/chart-beat/u2-carnaval-de-luz-number-1-billboard-charts-debut-1236389982/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-25 22:57",
-      "summary": "It arrives in the top 10 on seven charts in total, including the Billboard 200."
     },
     {
       "title": "Duran Duran\u2019s Andy Taylor Dies at 65",
@@ -1161,14 +1379,6 @@
       "summary": "As part of Giles, Giles, and Fripp, he'd laid the sound that would change prog rock forever when he helpd form King Crimson to record In the Court of the Crimson King"
     },
     {
-      "title": "Andy Taylor, Former Duran Duran Guitarist, Dead at\u00a065",
-      "link": "https://www.billboard.com/music/rock/andy-taylor-death-duran-duran-guitarist-1236389920/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-25 22:10",
-      "summary": "The rocker had been battling prostate cancer for about eight years."
-    },
-    {
       "title": "Duran Duran Guitarist Andy Taylor Dead at 65",
       "link": "https://loudwire.com/ixp/295/p/andy-taylor-duran-duran-dead/",
       "source": "Loudwire",
@@ -1177,52 +1387,12 @@
       "summary": "Express Newpapers, Getty Images"
     },
     {
-      "title": "Hold Your Turkeys! Macy\u2019s 100th Thanksgiving Day Parade Has Been Postponed: Here\u2019s the New\u00a0Date",
-      "link": "https://www.billboard.com/music/music-news/macys-thanksgiving-day-parade-2026-canceled-delay-new-date-1236389923/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-25 22:05",
-      "summary": "As it turns out, Mother Nature spares no man nor parade."
-    },
-    {
       "title": "Coachella Sues Walmart Over Unauthorized Festival Merch, Citing \u2018Willful and Repeated Acts\u2019",
       "link": "https://www.rollingstone.com/music/music-news/coachella-walmart-over-trademark-infringement-lawsuit-1235664484/",
       "source": "Rolling Stone",
       "category": "general",
       "published": "2026-11-25 21:56",
       "summary": "\u201cWalmart has intentionally created a likelihood of confusion and false association,\" the new lawsuit claims"
-    },
-    {
-      "title": "Billboard\u2019s Music Industry Events\u00a0Calendar",
-      "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-25 21:55",
-      "summary": "A complete rundown of the most important events across the music business."
-    },
-    {
-      "title": "Black Friday 2026: Peacock Is More Than 65% Off for 3\u00a0Months",
-      "link": "https://www.billboard.com/culture/product-recommendations/peacock-2026-black-friday-streaming-deals-1236389460/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-25 21:52",
-      "summary": "Subscribers get three months of Peacock Select for just $2.99 per month (was $8.99 per month) for a limited time."
-    },
-    {
-      "title": "From Exception to the Norm: The Latin Boom That Redefined LOS40 in Spain, \u2018Integrating Naturally\u2019",
-      "link": "https://www.billboard.com/music/latin/latin-boom-redefines-los40-spain-music-market-1236389915/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-25 21:49",
-      "summary": "How Latin American artists and genres went from occupying niche spaces to gaining significant traction in the European country."
-    },
-    {
-      "title": "Rihanna Shares Adorable BTS Footage With Her 3 Kids on Set for Fenty Holiday Campaign: \u2018With the Actual\u00a0Gifts\u2019",
-      "link": "https://www.billboard.com/music/rb-hip-hop/rihanna-kids-fenty-holiday-photos-1236389697/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-25 21:47",
-      "summary": "Rih and the Mayers family got a head start on spreading holiday cheer."
     },
     {
       "title": "Andy Taylor, Duran Duran Guitarist, Dead at 65",
@@ -1263,14 +1433,6 @@
       "category": "general",
       "published": "2026-11-25 20:49",
       "summary": "\"Chris was like family; we raised our kids together,\" Seger said. \"It was a blessing to share this journey with Chris, and I'll cherish the memories forever\""
-    },
-    {
-      "title": "JO1\u2019s \u2018IGNITE\u2019 Tops Japan Hot 100 as Hiromi Ohta\u2019s 1975 Hit \u2018Momen no Handkerchief\u2019 Debuts",
-      "link": "https://www.billboard.com/music/chart-beat/jo1-ignite-japan-hot-100-hiromi-ohta-momen-no-handkerchief-1236389887/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-25 20:39",
-      "summary": "Plus: BUDDiiS' \"Mugendai LOVE!!!\" jumps 48-2."
     },
     {
       "title": "Cardi B and Offset See Beverly Hills Mansion Lawsuit Dismissed After Settlement",
@@ -1351,159 +1513,7 @@
       "category": "general",
       "published": "2026-11-25 17:50",
       "summary": "The former BNL frontman finds heartbreak in a cheese log and explains why insulting Toronto is practically a Canadian tradition.\nSteven Page on Steven\u2019s Greetings, Holiday Anxiety, and Classic Barenak..."
-    },
-    {
-      "title": "ILoveMakonnen: Not Feeling Useful in Music, Has Grocery Store Job",
-      "link": "https://www.xxlmag.com/ilovemakonnen-grocery-store-job/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-25 17:48",
-      "summary": "makoregon503/TikTok"
-    },
-    {
-      "title": "Beats Headphones Are Up to 50% Off for Black Friday",
-      "link": "https://consequence.net/2026/11/beats-headphones-black-friday-deals-2026/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-25 17:47",
-      "summary": "The Beats Studio Pro and Beats Solo 4 are both available for half price.\nBeats Headphones Are Up to 50% Off for Black Friday\nEddie Fu"
-    },
-    {
-      "title": "How Riot Games Turned \u2018League of Legends\u2019 Into a Music Empire",
-      "link": "https://www.rollingstone.com/music/music-news/how-riot-games-turned-league-of-legends-into-music-empire-1235662969/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-25 17:46",
-      "summary": "Virtual artists and reality collide at the 2026 World Championship"
-    },
-    {
-      "title": "Police Say Unknown Substance at Don Toliver Concert Could Be Linked to Arena Robberies",
-      "link": "https://www.rollingstone.com/music/music-news/don-toliver-concert-evacuation-substance-investigation-1235664243/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-25 17:37",
-      "summary": "The Greater Manchester Police have officially lifted the scene but the investigation continues"
-    },
-    {
-      "title": "Grimes\u2019s \u201cKILLING GOD WITH COMPUTERS\u201d and other songs you need right now",
-      "link": "https://www.thefader.com/2026/11/25/songs-you-need-in-your-life-november-25-2026",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-25 16:57",
-      "summary": "Tracks we love right now, in no particular order."
-    },
-    {
-      "title": "Fuerza Regida Announce Central and South American Tour After Selling Out 15 Shows in Mexico",
-      "link": "https://consequence.net/2026/11/fuerza-regida-announce-2027-central-south-america/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-25 16:52",
-      "summary": "The San Bernardino corridos outfit will hit nine cities in February and March, including Managua, Bogot\u00e1, Lima, and Quito.\nFuerza Regida Announce Central and South American Tour After Selling Out 15 S..."
-    },
-    {
-      "title": "See New Order Kick Off First Tour Without Drummer Stephen Morris",
-      "link": "https://www.rollingstone.com/music/music-news/new-order-first-tour-without-drummer-stephen-morris-1235664185/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-25 16:37",
-      "summary": "\u201cWe\u2019re sorry Steve and Gillian can\u2019t be here with us,\u201d frontman Bernard Sumner told the crowd early in the set, \u201cand we just want them to know how much we\u2019re missing them\u201d"
-    },
-    {
-      "title": "Jungle announce run of huge summer 2027 UK shows",
-      "link": "https://www.nme.com/news/music/jungle-announce-huge-run-of-summer-2027-uk-shows-tickets-3976960",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-25 16:36",
-      "summary": "\nDates include their first full set at Latitude in 14 years, and their biggest Manchester show to date\nThe post Jungle announce run of huge summer 2027 UK shows appeared first on NME."
-    },
-    {
-      "title": "Dylan Thom wants his laptop twee to stand the test of time",
-      "link": "https://www.thefader.com/2026/11/25/dylan-thom-interview-laptop-twee-electronica",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-25 16:23",
-      "summary": "Dylan Thom talks tweetronica, working with his girlfriend, and the future of the electronic underground in a new interview with The FADER."
-    },
-    {
-      "title": "Cardi B Delivers Empowering Speech as Global Woman of the Year",
-      "link": "https://www.xxlmag.com/cardi-b-global-woman-of-the-year-speech-billboard-canada/",
-      "source": "XXL Mag",
-      "category": "hiphop",
-      "published": "2026-11-25 16:22",
-      "summary": "bardiupdatess/X"
-    },
-    {
-      "title": "Seal Returns Favor, Cover\u2019s Tame Impala\u2019s \u2018New Person, Same Old Mistakes\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/seal-new-person-tame-impala-cover-like-a-version-1235664192/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-25 16:20",
-      "summary": "The \u201cKiss From A Rose\u201d singer said he wanted to return the honor after Tame Impala\u2019s cover"
-    },
-    {
-      "title": "HYUKOH accept the sorrows of life",
-      "link": "https://www.thefader.com/2026/11/25/hyukoh-33-album-interview",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-25 15:59",
-      "summary": "After nearly seven years, the renowned South Korean indie band return with a synth-embellished and existential new record."
-    },
-    {
-      "title": "Getdown Services announce \u2018The Massive Champion Ship\u2019 curated UK Summer 2027 shows",
-      "link": "https://www.nme.com/news/music/getdown-services-announce-the-massive-champion-ship-curated-uk-2027-shows-tickets-3976947",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-25 15:57",
-      "summary": "\n\u201cThink 'The Little Mermaid' meets 'The Greatest Showman' meets 'Alien: Romulus'\" \nThe post Getdown Services announce &#8216;The Massive Champion Ship&#8217; curated UK Summer 2027 shows appeared firs..."
-    },
-    {
-      "title": "A new generation of bedroom pop artists sound closer than ever",
-      "link": "https://www.thefader.com/2026/11/25/bedroom-pop-new-generation-mkgee-dijon-ciaran-junior-mesa-zsela",
-      "source": "The FADER",
-      "category": "hiphop",
-      "published": "2026-11-25 15:56",
-      "summary": "From Junior Mesa and Ciar\u00e1n to baileyrp and Zsela, these musicians are building on the cozy textures popularized by Dijon and mk.gee."
-    },
-    {
-      "title": "Patti Smith Makes NPR Tiny Desk Concert Debut: Watch",
-      "link": "https://consequence.net/2026/11/patti-smith-npr-tiny-desk-concert-debut/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-25 15:55",
-      "summary": "The Godmother of Punk delivered a spoken-word tale and performances of \"Nine,\" \"Fireflies,\" \"Peaceable Kingdom,\" and \"People Have the Power.\"\nPatti Smith Makes NPR Tiny Desk Concert Debut: Watch\nEddie..."
-    },
-    {
-      "title": "Robert Trujillo Says Metallica Plan to \u201cStart Working on New Material\u201d",
-      "link": "https://consequence.net/2026/11/robert-trujillo-metallica-new-material/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-25 15:47",
-      "summary": "The bassist has been working on new music with Kirk Hammett, while James Hetfield has been coming up with ideas, as well.\nRobert Trujillo Says Metallica Plan to &#8220;Start Working on New Material&#8..."
-    },
-    {
-      "title": "5 Curated Gift Bundles for Rock + Metal Fans - Metallica + More",
-      "link": "https://loudwire.com/gift-bundles-rock-metal-fans-metallica-90s/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-11-25 15:42",
-      "summary": "Tim Mosenfelder, Getty Images, store.loudwire.com"
-    },
-    {
-      "title": "Phil Collins Wants to Collaborate with Travis Barker",
-      "link": "https://consequence.net/2026/11/travis-barker-phil-collins-collaborate/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-25 15:21",
-      "summary": "Barker recently inducted Collins into the Rock &#038; Roll Hall of Fame.\nPhil Collins Wants to Collaborate with Travis Barker\nAlex Young"
-    },
-    {
-      "title": "Erykah Badu Drives Through \u201cBreezy\u201d on Fallon: Watch",
-      "link": "https://consequence.net/2026/11/erykah-badu-breezy-fallon-watch/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-25 15:15",
-      "summary": "Badu held a steering wheel for most of the performance, and at one point, segued into a cover of Elton John's \"Bennie and the Jets.\"\nErykah Badu Drives Through &#8220;Breezy&#8221; on Fallon: Watch\nPa..."
     }
   ],
-  "last_updated": "2026-11-26T00:54:00.879465"
+  "last_updated": "2026-11-27T01:00:21.348952"
 }

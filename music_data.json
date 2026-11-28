@@ -1,6 +1,16 @@
 {
   "hiphop": [
     {
+      "name": "OUT OF MY MIND",
+      "artists": "Kanye West, Ye",
+      "release_date": "2026-11-27",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b34b17e7c2d6c517fa003fdf",
+      "spotify_url": "https://open.spotify.com/album/2AGYicRLaEgTE3eoe8CztA",
+      "apple_music_url": "https://music.apple.com/us/album/out-of-my-mind-single/6833936896?uo=4",
+      "total_tracks": 1,
+      "album_type": "single"
+    },
+    {
       "name": "Vault 6",
       "artists": "6LACK",
       "release_date": "2026-11-27",
@@ -27,16 +37,6 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bdd5d9ec41523712f9f3dabe",
       "spotify_url": "https://open.spotify.com/album/1DqLBriOvyyDpCSLE9jRWd",
       "apple_music_url": "https://music.apple.com/us/album/subliminals-single/6838809173?uo=4",
-      "total_tracks": 1,
-      "album_type": "single"
-    },
-    {
-      "name": "OUT OF MY MIND",
-      "artists": "Kanye West, Ye",
-      "release_date": "2026-11-27",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b34b17e7c2d6c517fa003fdf",
-      "spotify_url": "https://open.spotify.com/album/2AGYicRLaEgTE3eoe8CztA",
-      "apple_music_url": "https://music.apple.com/us/album/out-of-my-mind-single/6833936896?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -406,7 +406,7 @@
       "release_date": "2026-11-06",
       "image": "https://i.scdn.co/image/ab67616d0000b273cd8cf79f94a1c12a26c64ac6",
       "spotify_url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd",
-      "apple_music_url": "https://music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy-single/6831872688?uo=4",
+      "apple_music_url": "https://music.apple.com/us/search?term=Ya%20Hit%20Future",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -746,7 +746,7 @@
       "release_date": "2026-10-19",
       "image": "https://i.scdn.co/image/ab67616d0000b273791a7f8197955776ae8c6e7f",
       "spotify_url": "https://open.spotify.com/album/7cbYNkG0QibGE476eVjOUe",
-      "apple_music_url": "https://music.apple.com/us/search?term=Let%20Me%20Cook%20Diplo",
+      "apple_music_url": "https://music.apple.com/us/album/let-me-cook-single/6825524135?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -756,7 +756,7 @@
       "release_date": "2026-10-16",
       "image": "https://i.scdn.co/image/ab67616d0000b273ecfc27fbfdc6b4c0bbacab7a",
       "spotify_url": "https://open.spotify.com/album/3aOq7YwgI0lUGkmQmGno7I",
-      "apple_music_url": "https://music.apple.com/us/search?term=Chiltern%20Firehouse%20.%20fakemink",
+      "apple_music_url": "https://music.apple.com/us/album/chiltern-firehouse-single/6832164060?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -796,7 +796,7 @@
       "release_date": "2026-10-16",
       "image": "https://i.scdn.co/image/ab67616d0000b2736e5b5f1228113827136b6951",
       "spotify_url": "https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU",
-      "apple_music_url": "https://music.apple.com/us/search?term=LEFT%20RIGHT%20OHGEESY",
+      "apple_music_url": "https://music.apple.com/us/album/left-right-feat-big-sean-single/6820277776?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -806,7 +806,7 @@
       "release_date": "2026-10-16",
       "image": "https://i.scdn.co/image/ab67616d0000b273aeca9eb7c96a4bbe7682fba5",
       "spotify_url": "https://open.spotify.com/album/1LHFpC2rfMkx72OwSODiiJ",
-      "apple_music_url": "https://music.apple.com/us/search?term=prada%20Lil%20Peep",
+      "apple_music_url": "https://music.apple.com/us/album/prada-single/6818273828?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -856,7 +856,7 @@
       "release_date": "2026-10-16",
       "image": "https://i.scdn.co/image/ab67616d0000b273c6d937759917bf11ffbd4b08",
       "spotify_url": "https://open.spotify.com/album/6ZW1rnFAUwGUHFcqJ9skJu",
-      "apple_music_url": "https://music.apple.com/us/search?term=%27Things%20Don%27t%20Change%27%20%28Music%20Inspired%20by%20LAIKA%27s%20Wildwood%29%20Amin%C3%A9",
+      "apple_music_url": "https://music.apple.com/us/album/things-dont-change-music-inspired-by-laikas-wildwood/6825132949?uo=4",
       "total_tracks": 1,
       "album_type": "single"
     },
@@ -1155,12 +1155,164 @@
   ],
   "news": [
     {
+      "title": "Brandy Returns in \u2018Christmas Everyday: Married and Bright\u2019 \u2014 Stream Lifetime Holiday Movie Online Free\u00a0Here",
+      "link": "https://www.billboard.com/culture/product-recommendations/watch-brandy-christmas-everyday-married-and-bright-lifetime-online-1236390444/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-27 23:48",
+      "summary": "Premiering Nov. 28, the new film is a follow-up to last year's holiday hit, Christmas Everyday."
+    },
+    {
+      "title": "Fuerza Regida Announces \u2018Pisteando Con La Regida Vol. 4\u2019 After Partial Legal Victory Against Rancho\u00a0Humilde",
+      "link": "https://www.billboard.com/music/latin/fuerza-regida-pisteando-con-la-regida-vol-4-rancho-humilde-1236390434/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-27 23:39",
+      "summary": "\u201cI\u2019m free now they\u2019ve finally taken their foot off the tiger\u2019s neck,\u201d frontman Jes\u00fas Ortiz Paz wrote in Spanish on Instagram."
+    },
+    {
+      "title": "Black Friday Deal: Amazon Marks Down AMC+ Subscription to Just $1.99/Month, A 75%\u00a0Savings",
+      "link": "https://www.billboard.com/culture/product-recommendations/amc-plus-2026-streaming-deals-black-friday-online-1236390413/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-27 22:38",
+      "summary": "For Black Friday, get AMC+ for cheap to stream The Walking Dead, Interview With the Vampire, Dark Winds, Gangs of London and original music programming."
+    },
+    {
+      "title": "Soul Train Awards 2026: Here\u2019s Where to Watch the Awards Ceremony Online\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/soul-train-awards-2026-nov-how-to-watch-live-online-free-1236388588/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-27 22:33",
+      "summary": "Hosted by Anthony Anderson, stream the 37th edition of the Soul Train Awards on Nov. 27."
+    },
+    {
+      "title": "FOX One Black Friday Deal: Here\u2019s How to Save 75% Off a Streaming\u00a0Subscription",
+      "link": "https://www.billboard.com/culture/product-recommendations/fox-one-2026-streaming-deals-black-friday-online-1236390396/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-27 21:01",
+      "summary": "Watch FOX, FOX News, FOX Sports, TMZ and original music programming for just $4.99 per month (was $19.99 per month)."
+    },
+    {
+      "title": "Best Black Friday Audio Deals 2026: Save Up to 60% Off Bose, Apple & Beats, Sonos, Sony &\u00a0More\u00a0Online",
+      "link": "https://www.billboard.com/culture/product-recommendations/best-black-friday-2026-nov-audio-headphones-deals-online-1236390314/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-27 20:09",
+      "summary": "Shop the best Black Friday headphones, earbuds, soundbars, turntables and other audio deals \u2014\u00a0save up to 60% off the top brands."
+    },
+    {
+      "title": "Goo Goo Dolls Fans Slam NBC Over Thanksgiving Halftime Show Snub: \u2018Badly\u00a0Handled\u2019",
+      "link": "https://www.billboard.com/music/music-news/goo-goo-dolls-fans-slam-thanksgiving-halftime-show-snub-1236390401/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-27 19:59",
+      "summary": "The network aired just 90 seconds of the band's performance in favor of Aaron Rodgers coverage."
+    },
+    {
+      "title": "Watch Goo Goo Dolls\u2019 Complete NFL Halftime Show",
+      "link": "https://www.rollingstone.com/music/music-news/goo-goo-dolls-complete-nfl-halftime-show-iris-slide-1235665349/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-27 19:58",
+      "summary": "The band performed \"Iris,\" \"Broadway,\" and \"Slide\" during the Kansas City Chiefs vs. Buffalo Bills game as the broadcast was cut by NBC"
+    },
+    {
+      "title": "Ticketmaster Launches Black Friday 2026 Sale",
+      "link": "https://consequence.net/2026/11/ticketmaster-black-friday-2026-sale/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-27 19:39",
+      "summary": "Ticketmaster's 2026 Black Friday and holiday sale offers up to 50% off select concert and event tickets, plus two-for-one and four-pack deals through December 31st.\nTicketmaster Launches Black Friday ..."
+    },
+    {
+      "title": "Amazon Just Dropped One-Cent Deals (No, Really) for Black Friday: Shop\u00a0Here",
+      "link": "https://www.billboard.com/culture/product-recommendations/amazon-haul-one-cent-deals-black-friday-2026-offer-products-1236390364/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-27 18:44",
+      "summary": "The retailer has clothing, jewelry and home decor items discounted to just one penny for a limited time."
+    },
+    {
+      "title": "Justin Timberlake Explains Why He Was \u2018Reluctant\u2019 to Make New Docuseries During \u2018Tonight Show\u2019\u00a0Interview",
+      "link": "https://www.billboard.com/music/pop/justin-timberlake-tonight-show-documentary-series-interview-1236390349/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-27 17:34",
+      "summary": "The singer told Jimmy Fallon why he was initially hesitant to open up about his private life in the upcoming four-part documentary series."
+    },
+    {
+      "title": "Mastodon follow Grammy nomination and \u2018GTA 6\u2019 appearance with first UK and European tour in eight years",
+      "link": "https://www.nme.com/news/music/mastodon-announce-first-uk-and-european-tour-in-eight-years-buy-tickets-3977154",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-27 17:24",
+      "summary": "\nTickets are on sale now \nThe post Mastodon follow Grammy nomination and &#8216;GTA 6&#8217; appearance with first UK and European tour in eight years appeared first on NME."
+    },
+    {
+      "title": "NFL Black Friday Game 2026: Here\u2019s Where to Watch Denver Broncos vs. Pittsburgh Steelers Live Online\u00a0Free",
+      "link": "https://www.billboard.com/culture/product-recommendations/nfl-black-friday-game-2026-den-pit-watch-live-online-free-1236386330/",
+      "source": "Billboard",
+      "category": "general",
+      "published": "2026-11-27 17:00",
+      "summary": "For Black Friday, watch the DEN Broncos take on the PIT Steelers on Friday, Nov. 27 \u2014 keep an eye out for possible celebrity sightings too."
+    },
+    {
+      "title": "Olivia Rodrigo Delivers Another Christmas Song",
+      "link": "https://pitchfork.com/story/olivia-rodrigo-delivers-another-christmas-song/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-11-27 16:47",
+      "summary": "Listen to \u201cMiss This Christmas\u201d"
+    },
+    {
+      "title": "These Are the Black Friday Deals I Would Actually Buy",
+      "link": "https://consequence.net/2026/11/best-black-friday-deals-2026-editors-picks/",
+      "source": "Consequence",
+      "category": "general",
+      "published": "2026-11-27 16:44",
+      "summary": "AirPods Pro 3, a Disney+ and Hulu bundle, and deals on Kindle, iPad, and The Criterion Collection are among the recommendations.\nThese Are the Black Friday Deals I Would Actually Buy\nEddie Fu"
+    },
+    {
+      "title": "Santacon Documentary Takes You Back To \u201990s NYC",
+      "link": "https://www.brooklynvegan.com/santacon-documentary-takes-you-back-to-90s-nyc/",
+      "source": "Brooklyn Vegan",
+      "category": "general",
+      "published": "2026-11-27 16:32",
+      "summary": "&#8216;Santacon&#8217; doc director Seth Porges, who you might also know from \u00a0&#8220;Class Action Park,&#8221; stopped by to tell us about his new film which is premiering digitally on VEEPS."
+    },
+    {
+      "title": "The Killers Dave Keuning Reveals He Suffered \u2018Major Stroke\u2019: \u2018I Am Alive and Well\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/the-killers-dave-keuning-major-stroke-recovery-1235665233/",
+      "source": "Rolling Stone",
+      "category": "general",
+      "published": "2026-11-27 16:19",
+      "summary": "\"The doctors said I had a 40% chance or survival and I would have disabilities after, but by some miracle I am fine\""
+    },
+    {
+      "title": "Heartworms explores \u201ctime, escape, limitlessness, self-reflection and rebirth\u201d on \u201cspiritual\u201d new single \u2018The Window\u2019",
+      "link": "https://www.nme.com/news/music/heartworms-releases-spiritual-new-single-the-window-listen-3977140",
+      "source": "NME",
+      "category": "general",
+      "published": "2026-11-27 16:18",
+      "summary": "\nThe musician recently told NME that she'd \"finished recording\" her second album\nThe post Heartworms explores &#8220;time, escape, limitlessness, self-reflection and rebirth&#8221; on &#8220;spiritual..."
+    },
+    {
       "title": "Inside SantaCon\u2019s beginnings in the \u201990s",
       "link": "https://www.altpress.com/santacon-documentary-2026-rare-photos/",
       "source": "Alternative Press",
       "category": "rock",
       "published": "2026-11-27 16:00",
       "summary": "These days, SantaCon is an infamously hated holiday in which thousands of people dress in red and go on a bar crawl.&nbsp; It wasn\u2019t always. SantaCon began in 1994 as pure absurdism, designed to shock..."
+    },
+    {
+      "title": "The Killers\u2019 Dave Keuning Survived a \u201cMajor Stroke\u201d This Month",
+      "link": "https://pitchfork.com/story/the-killers-dave-keuning-survived-a-major-stroke-this-month/",
+      "source": "Pitchfork",
+      "category": "general",
+      "published": "2026-11-27 15:58",
+      "summary": "The group\u2019s co-founding guitarist says doctors gave him a \u201c40% chance of survival\u201d"
     },
     {
       "title": "The Killers\u2019 Dave Keuning speaks out after surviving a life-threatening stroke",
@@ -1235,15 +1387,7 @@
       "summary": "The band's longtime guitarist suffered the stroke two weeks ago and was given only a 40% chance to live.\nThe Killers&#8217; Dave Keuning Reveals He Survived a Life-Threatening Stroke\nAlex Young"
     },
     {
-      "title": "From Amazon to Zara, Here Are All the Best Black Friday Deals, Promo Codes &\u00a0Coupons",
-      "link": "https://www.billboard.com/culture/product-recommendations/best-black-friday-deals-coupon-codes-november-2026-1236386835/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-27 14:45",
-      "summary": "Black Friday is here! Shop Billboard put together a list of deals on audio essentials, fashion, tech and other product categories from retailers across the web."
-    },
-    {
-      "title": "Justin Timberlake Says Making Upcoming Doc Series Was \u2018Really Cathartic\u2019",
+      "title": "Watch Justin Timberlake Reluctantly Sing Backstreet Boys on \u2018Fallon\u2019: \u2018This is Sacrilegious\u2019",
       "link": "https://www.rollingstone.com/music/music-news/justin-timberlake-upcoming-doc-series-interview-fallon-1235665140/",
       "source": "Rolling Stone",
       "category": "general",
@@ -1273,14 +1417,6 @@
       "category": "general",
       "published": "2026-11-27 14:14",
       "summary": "The Chihuahua native is thinking as much about what he can accomplish beyond music as what he can accomplish through it.\nEd Maverick on Making Music, Making Money, and Making it Matter With New Album ..."
-    },
-    {
-      "title": "Chart Rewind: In 2021, Taylor Swift\u2019s Rerecorded \u2018All Too Well\u2019 Ruled the Hot\u00a0100",
-      "link": "https://www.billboard.com/music/chart-beat/taylor-swift-all-too-well-chart-rewind-2021-1236389622/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-27 14:00",
-      "summary": "The song became the longest No. 1, by run time, among other milestones."
     },
     {
       "title": "Best Black Friday Bluetooth Speaker Deals: Save on Bose, JBL, and Beats",
@@ -1339,14 +1475,6 @@
       "summary": "\nDates include a stop at London\u2019s O2 Brixton Academy and two shows in Edinburgh\nThe post Echo &#038; The Bunnymen and Happy Mondays announce joint 2027 UK &#8216;greatest hits&#8217; tour appeared fir..."
     },
     {
-      "title": "Watch \u2018Sesame Street\u2019 Get Festive With an Adorable Spoof of Mariah Carey\u2019s \u2018All I Want for Christmas Is\u00a0You\u2019",
-      "link": "https://www.billboard.com/culture/tv-film/sesame-street-mariah-carey-all-i-want-for-christmas-is-you-1236389471/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-27 12:30",
-      "summary": "All the fuzzy gang wants this holiday season is ... well ... U!"
-    },
-    {
       "title": "Best Black Friday Headphone Deals Still Live: Sony, Bose, and Beats",
       "link": "https://consequence.net/2026/11/best-black-friday-headphone-deals-2026/",
       "source": "Consequence",
@@ -1395,22 +1523,6 @@
       "summary": "\n\u201cShe gave Kurt a home and all the space in the world to make music. She believed in him before he believed in himself\u201d\nThe post Courtney Love pays tribute to Kurt Cobain&#8217;s ex-girlfriend and &#8..."
     },
     {
-      "title": "Best Black Friday Ticket Deals 2026: Here\u2019s How to Shop Affordable Concert Tickets\u00a0Online",
-      "link": "https://www.billboard.com/culture/product-recommendations/best-black-friday-ticket-deals-promo-codes-november-2026-1236389121/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-27 11:00",
-      "summary": "From Vivid Seats to SeatGeek, ShopBillboard has the best promo and coupon codes on concert tickets."
-    },
-    {
-      "title": "Backstreet Boys Added to The O2 Arena\u2019s 20th Anniversary Celebrations: See Full\u00a0Lineup",
-      "link": "https://www.billboard.com/lists/o2-20th-anniversary-celebration-lineup-concerts/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-27 10:00",
-      "summary": "Maisie Peters will kick off the celebrations in May 2027."
-    },
-    {
       "title": "Mad Cool 2027 line-up announced with The Strokes, The xx, Tame Impala, Faith No More, ENHYPEN and loads more",
       "link": "https://www.nme.com/news/music/mad-cool-2027-line-up-announced-the-strokes-the-xx-tame-impala-faith-no-more-enhyphen-more-3977083",
       "source": "NME",
@@ -1419,68 +1531,12 @@
       "summary": "\nOther big names on the bill include Raye, Sombr, Primus, Kneecap and IDLES\nThe post Mad Cool 2027 line-up announced with The Strokes, The xx, Tame Impala, Faith No More, ENHYPEN and loads more appear..."
     },
     {
-      "title": "John Farnham\u2019s Family Gives Rare Update on Legendary Singer\u2019s\u00a0Health",
-      "link": "https://www.billboard.com/music/music-news/john-farnham-family-rare-update-legendary-singers-health-1236390271/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-27 08:43",
-      "summary": "Farnham continues to stay out of the spotlight after undergoing marathon surgery to remove a cancerous tumor from his throat in 2022."
-    },
-    {
-      "title": "\u2018True Family\u2019: Nile Rodgers Remembers Duran Duran\u2019s Andy\u00a0Taylor",
-      "link": "https://www.billboard.com/music/rock/nile-rodgers-remembers-duran-duran-andy-taylor-1236390263/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-27 08:11",
-      "summary": "\"RIP my dear friend. We were always happy when we were together. I love you,\" Rodgers writes."
-    },
-    {
-      "title": "2027 BRIT Awards Trophy Designed by \u2018One of Britain\u2019s Greatest Living Artists\u2019: See\u00a0Photos",
-      "link": "https://www.billboard.com/music/awards/2027-brit-awards-trophy-designer-1236390153/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-27 08:00",
-      "summary": "The trophy will be presented to winners at the ceremony on Feb. 27 in Manchester."
-    },
-    {
-      "title": "\u2018Grand Theft Auto VI\u2019 Soundtrack Drives to No. 1 on ARIA\u00a0Chart",
-      "link": "https://www.billboard.com/music/chart-beat/grand-theft-auto-vi-soundtrack-no-1-aria-chart-1236390235/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-27 06:47",
-      "summary": "\"GTA\" focus track \u201cFlower In A Hurricane\u201d by Justice, Tame Impala, SZA and King Gizzard And The Lizard Wizard roars 17-5 on the national singles chart."
-    },
-    {
-      "title": "Live Nation Adds Venue on Australia\u2019s Gold\u00a0Coast",
-      "link": "https://www.billboard.com/pro/live-nation-adds-venue-australia-gold-coast/",
-      "source": "Billboard",
-      "category": "general",
-      "published": "2026-11-27 05:55",
-      "summary": "Surfers Music Hall will be a 2,500-capacity live music space in Surfers Paradise, with a target to open its doors in mid-2028."
-    },
-    {
-      "title": "Hellfest Reveals Mammoth 2027 Lineup Featuring More than 300 Bands",
-      "link": "https://consequence.net/2026/11/hellfest-2027-lineup-featuring-more-than-300-bands/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-27 05:07",
-      "summary": "Featuring blink-182, Faith No More, Turnstile, M\u00f6tley Cr\u00fce, Gojira, Evanescence, The Prodigy, Judas Priest, Primus, IDLES, GWAR, and many more.\nHellfest Reveals Mammoth 2027 Lineup Featuring More than..."
-    },
-    {
       "title": "Olivia Rodrigo Drops Official Version of Melancholy \u2018Miss This Christmas\u2019 on Amazon Music",
       "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-miss-this-christmas-amazon-music-1235664984/",
       "source": "Rolling Stone",
       "category": "general",
       "published": "2026-11-27 05:02",
       "summary": "Earlier this week, the singer debuted the piano ballad at a Nashville concert"
-    },
-    {
-      "title": "NBC Snubs Goo Goo Dolls\u2019 Thanksgiving Day Halftime Show",
-      "link": "https://consequence.net/2026/11/goo-goo-dolls-thanksgiving-day-halftime-show-doesnt-air/",
-      "source": "Consequence",
-      "category": "general",
-      "published": "2026-11-27 03:21",
-      "summary": "The network instead aired a segment featuring former Pittsburgh Steelers head coach Mike Tomlin discussing the team's decision to release quarterback Aaron Rodgers.\nNBC Snubs Goo Goo Dolls&#8217; Than..."
     },
     {
       "title": "Watch Wu-Tang Clan Perform \u2018Triumph,\u2019 \u2018Bring Da Ruckus\u2019 at NFL Thanksgiving Halftime Show",
@@ -1497,63 +1553,7 @@
       "category": "general",
       "published": "2026-11-26 20:19",
       "summary": "The New York group took the stage in Detroit for the Bears vs. Lions football game"
-    },
-    {
-      "title": "PUP Compose New Music for Sample Pack Benefitting Kids in Toronto",
-      "link": "https://pitchfork.com/story/pup-compose-new-music-for-sample-pack-benefitting-kids-in-toronto/",
-      "source": "Pitchfork",
-      "category": "general",
-      "published": "2026-11-26 17:57",
-      "summary": "Proceeds from the eight new songs will go to Community Music Schools of Toronto"
-    },
-    {
-      "title": "Snoop Dogg Teams Up With Feid for Thanksgiving Single \u2018Gracias x Todo\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/snoop-dogg-feid-gracias-x-todo-single-thanksgiving-1235664907/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-26 17:40",
-      "summary": "The musicians recently previewed the track during a performance at the Latin Grammy Awards"
-    },
-    {
-      "title": "BBC Radio 1\u2019s Big Weekend 2027 set to take place in Brighton",
-      "link": "https://www.nme.com/news/music/bbc-radio-1s-big-weekend-2027-set-to-take-place-in-brighton-3977061",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-26 16:43",
-      "summary": "\n\u201cIt\u2019s actually stupid that it\u2019s taken so long for us to do a Big Weekend there. Sorry about that\u201d\nThe post BBC Radio 1&#8217;s Big Weekend 2027 set to take place in Brighton appeared first on NME."
-    },
-    {
-      "title": "Substance released at Don Toliver Co-Op live show could be linked to jewellery thefts and robberies, police say",
-      "link": "https://www.nme.com/news/music/substance-at-don-toliver-coop-live-show-could-be-linked-to-jewellery-thefts-police-say-3977049",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-26 16:28",
-      "summary": "\nOfficers said that \u201csimilar robberies\u201d have been reported at two previous Don Toliver gigs\nThe post Substance released at Don Toliver Co-Op live show could be linked to jewellery thefts and robberies..."
-    },
-    {
-      "title": "Watch Queens Of The Stone Age give \u2018Perfecth\u2019 songs their live debut and air rarities as they kick off tour in Japan",
-      "link": "https://www.nme.com/news/music/queens-of-the-stone-age-debut-perfecth-songs-rarities-japan-tour-footage-setlist-3977034",
-      "source": "NME",
-      "category": "general",
-      "published": "2026-11-26 14:11",
-      "summary": "\nJosh Homme also paid tribute to Mark Lanegan on what would have been his birthday, saying that he always made music into \u201csomething more\u201d\nThe post Watch Queens Of The Stone Age give &#8216;Perfecth&#..."
-    },
-    {
-      "title": "Remember Creed\u2019s Epic NFL Halftime Thanksgiving Day Performance?",
-      "link": "https://loudwire.com/creed-nfl-halftime-thanksgiving-day-performance-2001-cowboys-broncos/",
-      "source": "Loudwire",
-      "category": "rock",
-      "published": "2026-11-26 12:00",
-      "summary": "YouTube: creedvids"
-    },
-    {
-      "title": "U2 Perform Dolly Parton\u2019s Final Recording During NFL Halftime Show",
-      "link": "https://www.rollingstone.com/music/music-news/u2-tribute-dolly-parton-torn-thanksgiving-nfl-halftime-show-1235664834/",
-      "source": "Rolling Stone",
-      "category": "general",
-      "published": "2026-11-26 05:15",
-      "summary": "The band delivered the moving Parton and Bono duet, \"Torn,\" during Wednesday night's performance"
     }
   ],
-  "last_updated": "2026-11-27T16:03:03.427782"
+  "last_updated": "2026-11-28T00:25:47.317329"
 }
